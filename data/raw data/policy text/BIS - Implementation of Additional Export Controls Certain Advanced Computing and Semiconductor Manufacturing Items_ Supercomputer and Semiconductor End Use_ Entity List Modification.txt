@@ -1,0 +1,20 @@
+Implementation of Additional Export Controls: Certain Advanced Computing and Semiconductor Manufacturing Items; Supercomputer and Semiconductor End Use; Entity List Modification
+https://www.federalregister.gov/documents/2022/10/13/2022-21658/implementation-of-additional-export-controls-certain-advanced-computing-and-semiconductor
+
+AGENCY:
+
+Bureau of Industry and Security, Department of Commerce.
+
+ACTION:
+
+Interim final rule; request for comments.
+
+SUMMARY:
+
+In this rule, the Bureau of Industry and Security (BIS) is amending the Export Administration Regulations (EAR) to implement necessary controls on advanced computing integrated circuits (ICs), computer commodities that contain such ICs, and certain semiconductor manufacturing items. In addition, BIS is expanding controls on transactions involving items for supercomputer and semiconductor manufacturing end uses, for example, this rule expands the scope of foreign-produced items subject to license requirements for twenty-eight existing entities on the Entity List that are located in China. BIS is also informing the public that specific activities of “U.S. persons” that ‘support’ the “development” or “production” of certain ICs in the PRC require a license. Lastly, to minimize short term impact on the semiconductor supply chain from this rule, BIS is establishing a Temporary General License to permit specific, limited manufacturing activities in China related to items destined for use outside China and is identifying a model certificate that may be used in compliance programs to assist, along with other measures, in conducting due diligence. `
+
+DATES:
+
+a.
+
+Effective on October 7, 2022, are the following instructions: 7 (§ 740.2), 9 (§ 740.10), 11 (§ 742.6), 17 (§ 744.23), and 25 (supplement no. 1 to part 774).
