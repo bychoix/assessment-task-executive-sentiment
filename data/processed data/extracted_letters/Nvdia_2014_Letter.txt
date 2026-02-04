@@ -1,0 +1,236 @@
+
+--- Page 12 ---
+DEAR STAKEHOLDERS,
+NVIDIA HAD A
+BREAKOUT YEAR
+T
+H
+E
+Y
+E
+A
+R
+I
+N
+R
+E
+V
+I
+E
+W
+>   GPU revenue grew 7 percent* against a PC industry that 
+declined 10 percent. Our sharp focus on vertical markets 
+where visual computing matters paid off.
+>   Gross margins reached a record 55 percent,* widening 
+from 52 percent last year, and 35 percent ﬁ ve years ago. 
+We have fundamentally shifted how we address our markets. 
+Building the best GPUs is just the beginning. We now focus 
+on creating the best visual computing platforms for key 
+vertical markets — Gaming; Design and Visualization; HPC 
+and Data Centers; Auto and Smart Devices. 
+>   Revenue in HPC and Data Centers has grown at over 60 
+percent compound annual growth rate (CAGR) in four years 
+to nearly $200 million. Our GRID data center GPU platform is 
+being evaluated by hundreds of companies and institutions, 
+which can ﬁ nally virtualize their entire enterprise, from data 
+center to PC clients. It will enable a new level of mobility to 
+over 500 million enterprise professionals worldwide.
+>   Tegra automotive won nearly $2 billion of new business 
+that will ship over the next several years. This underscores 
+our conviction that the mobile revolution is about more 
+than phones.
+>   We introduced Tegra K1, uniting our GPU and SoC proces-
+sors under a single architecture. The 192-core super chip 
+brings the heart of GeForce and the soul of Tesla to mobile. 
+>   Our innovation engine continued to ﬁ re on all cylinders, 
+with patent assets growing 10 percent to approximately 
+7,000. We invented the GPU. Five years later, we invented 
+CUDA, which enables our graphics chip to serve as a 
+massively parallel general purpose processor. Recently, 
+we invented the virtual GPU, opening cloud computing to 
+rich interactive graphics. Invention is how we will extend 
+our position as the world leader in visual computing.
+We returned $1.07 billion to shareholders through a combination 
+of share repurchases and cash dividends. We also completed 
+a $1.5 billion convertible debt offering, which we expect to 
+use for stock repurchases, dividend payments and general 
+corporate purposes. Revenue dipped 3.5 percent, while net 
+income declined 22 percent to $440 million as we invested 
+for future growth.
+Challenges were faced by our Tegra processor business which 
+declined, although it has grown 48 percent CAGR over the past 
+four years. Impacting last year’s performance was our decision 
+to delay some products so that we could accelerate Tegra K1 
+and supercharge our efforts by unifying our entire company 
+around one architecture. Now, mobile computing has access 
+to the same disruptive GPU that has established our leading 
+position in gaming and design, and is revolutionizing HPC 
+and data centers. And we can leverage our expertise and 
+investments across every major computing platform. 
+87888_NVDA_Editorials.indd   11
+3/28/14   7:58 PM
+ 
+ 
+ 
+
+--- Page 13 ---
+POISED FOR GROWTH
+We’ve laid the foundation to grow our business in three 
+key areas.
+Gaming. With revenue projected to hit $26 billion in 2014, 
+PC gaming is large and growing. NVIDIA is the clear choice of 
+hundreds of millions of PC gamers. And GeForce is the best 
+GPU for PC gaming. But that’s just the beginning of our gaming 
+strategy. We aim to create an end-to-end platform that deﬁ nes 
+next-gen PC gaming. An integral part of our platform is 
+GeForce Experience, a software console that conﬁ gures games 
+to run optimally on individual PCs, and continues to tune and 
+reﬁ ne a PC’s performance in the same way that phones are 
+updated over the air. Integrated NVIDIA GameStream technology 
+lets gamers enjoy their PC games on TVs or our portable game 
+console, SHIELD. GeForce Experience is enjoyed by over 
+30 million gamers around the world. 
+Data centers. With GRID, we launched our ﬁ rst true enterprise 
+product. By moving the GPU to the data center and enabling 
+it to be shared, GRID lets companies deliver graphics-rich 
+applications — like design tools from Adobe and Autodesk — 
+to mobile employees using almost any connected device. GRID 
+is a vital piece of the enterprise virtualization puzzle. We can now 
+virtualize an enterprise from server room to PC. With hundreds 
+of trials underway — from architecture ﬁ rms and design studios 
+to ﬁ nancial-services giants and the oil & gas industry — GRID 
+is meeting tremendous response. Every major server OEM 
+and virtualization company has partnered with us to take GRID 
+to market. 
+Our Tesla processor for HPC and big data analytics is excelling, 
+with more and more industries tapping into the power of the 
+GPU. Whether for life sciences or energy discovery or inventing 
+new materials, Tesla GPUs offer amazing acceleration to 
+massive simulations. 
+This year, an exciting new ﬁ eld emerged for our GPUs — 
+machine learning. Using the torrent of images and videos 
+that are uploaded daily, computers can self-learn to recognize 
+language, speech and objects. Relying on “deep neural 
+networks,” a ﬁ eld of artiﬁ cial intelligence, GPU-powered 
+machines can self-learn so quickly that it’s now possible to 
+deploy this breakthrough to improve fundamental internet 
+services, like search and product recommendations.
+There is already well over 1 exabyte of images and videos in 
+the cloud, more than 100,000 times the books in the Library of 
+Congress. Hundreds of millions of photos are uploaded daily. 
+And the amount of data created will rise 50-fold this decade, 
+according to IDC. Our GPUs can make a real contribution to 
+processing this deluge — enabling computers to learn how to 
+help us search a world ﬁ lled with images. It is an opportunity 
+that could potentially require millions of our GPUs. 
+Automotive. We have a long history with the auto industry, 
+where designers and engineers rely on Quadro-powered 
+workstations to do their best work. Our latest visual computing 
+developments focus on the core technology inside the car. 
+Today, NVIDIA powers the digital cockpits and infotainment 
+systems in many of the world’s leading models, including Audi, 
+BMW and Volkswagen. The Tesla Model S sedan, one of the 
+most lauded cars in decades, relies on two NVIDIA processors 
+to make up the car’s computer brain.
+The Tegra K1 visual computing module will accelerate this 
+momentum. With the power of 192 CUDA cores, Tegra K1 puts 
+a power-sipping supercomputer inside future cars. It can drive 
+camera- or radar-based advanced driver assistance systems, 
+or ADAS — which provide capabilities like pedestrian detection, 
+blind-spot monitoring, lane-departure warning and street-sign 
+recognition. It can also monitor driver alertness through a 
+dashboard-mounted camera. We are not far off from an auto-
+piloted car that can navigate a massive parking lot, ﬁ nd a 
+spot, and later return to fetch you. 
+The importance of our processors in cars will only increase. 
+During his CES keynote address, Audi Chairman Rupert Stadler 
+cited numerous mega-trends that will drive the industry 
+forward, including connectivity, infotainment, human-machine 
+interface design, and driver assistance. Each depends on 
+NVIDIA technology.
+With our expertise in visual computing, NVIDIA can make a 
+deep contribution to the future of the auto industry.
+2014 ANNUAL REPORT
+11
+87888_NVDA_Editorials.indd   12
+3/31/14   11:38 PM
+
+--- Page 14 ---
+T
+H
+E
+Y
+E
+A
+R
+I
+N
+R
+E
+V
+I
+E
+W
+GIVING BACK 
+AROUND THE WORLD
+We are proud of the technology breakthroughs that NVIDIA 
+drives. We are equally proud of our commitment to improve 
+our communities. Making a contribution is one of the core 
+values that bind together our 8,800 employees in 24 countries 
+around the world. 
+We do much of this work through the NVIDIA Foundation, 
+one of the corporate world’s few fully employee-run 
+philanthropic initiatives.
+Compute the Cure is a broad program championed by the 
+NVIDIA Foundation to combat cancer through employee 
+fundraising efforts, awareness and support programs and 
+volunteer work. We awarded our second major research 
+grant under this program to a promising researcher at the 
+University of California at San Diego, who is developing a 
+GPU-accelerated computer-aided drug design platform to 
+help speed the development of more effective cancer 
+treatments.
+Our ﬂ agship volunteer event is called Project Inspire, 
+where our people, along with their families and friends,
+come together to transform their local communities. 
+This year, we had our most successful event ever. In Santa 
+Clara, we focused on transforming Ocala Middle School 
+and its surrounding community softball ﬁ elds, in nearby 
+East San Jose. Our own investment of $500,000 in labor and 
+materials unlocked an additional $1 million in support from 
+the city, school district and non-proﬁ t agencies. This enabled 
+extensive physical improvements to be matched with new 
+educational and after-school programs that will beneﬁ t 
+thousands of students for years to come. 
+Many of our other ofﬁ ces drive similar programs. 
+In Wüerselen, Germany, we focused on a center for troubled 
+youth. In Shanghai, we set up a library in an underserved 
+primary school. Over the course of the year, we logged more 
+than 14,000 volunteer hours by employees. Many chose to 
+focus on educational work, and our programs beneﬁ ted 
+some 66,000 children.
+I’m inspired by their dedication, which both helps the less 
+fortunate around us and brings our NVIDIA family closer 
+together.
+A FOOTHOLD IN THE FUTURE
+The next wave of visual computing will reshape our basic 
+understanding of what computers can do. NVIDIA’s two 
+decades of work in the ﬁ eld has put us ahead in many new 
+and growing opportunities. 
+Our lead was borne out of the invention and creativity of the 
+world’s most talented engineers, who joined NVIDIA to be 
+challenged to do their best work. It has instilled a culture of 
+drive and innovation, one that can invent the future. 
+I have never been more proud of the contributions we are 
+making and more excited about where NVIDIA is heading.
+Sincerely,
+Sincerely,
+Jen-Hsun Huang
+Jen-Hsun Huang
+CEO & Co-founder, NVIDIA
+April 2014
+87888_NVDA_Editorials.indd   13
+3/26/14   3:19 PM
+ 
+ 
+ 

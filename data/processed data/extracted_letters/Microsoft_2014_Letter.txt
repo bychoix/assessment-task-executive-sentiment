@@ -1,0 +1,577 @@
+
+--- Page 2 ---
+TO OUR SHAREHOLDERS, CUSTOMERS, PARTNERS AND EMPLOYEES:  
+It is a humbling experience to write this letter to you as only the third CEO in Microsoft’s history. As I said when I took this 
+role, I originally joined Microsoft to have an opportunity to change the world through technology and empower people to do 
+amazing things. Many companies aspire to change the world, but very few have the talent, resources and perseverance of 
+Microsoft.  
+I believe this is a landmark moment for the company and for our industry as a whole. Cloud and mobile technologies are 
+redefining how people work and play. Three billion people will soon be connected to Internet-enabled devices; 212 billion 
+sensors will come online  in a few short  years; trillions will be  spent  in consumer and business technologies. But  it’s  not 
+about  technology  for  technology’s  sake!  It’s  our  mission  to  enable  the  use  of  technology  to  realize  the  true  potential  of 
+people, teams and organizations.  
+As I shared in my email to employees in July, we will be the productivity and platform company for this mobile-first and 
+cloud-first world. We will empower every person and every organization on the planet to do more and achieve more. And 
+we will accomplish this by building incredible Digital Work and Life Experiences, supported by our Cloud Operating System, 
+the Device Operating System and Hardware platforms.  
+In the same way that we aspired to and achieved our original  vision of a PC on every desk and in  every  home,  we will 
+reinvent productivity. This clarity of purpose and boldness of our aspiration inspires me and all of us at Microsoft.  
+We began to take steps toward this core focus last fiscal year.  
+To drive our mobile strategy, we acquired Nokia’s Devices and Services business, creating an expanded Microsoft Devices 
+Group  that  includes  Nokia  phones,  Xbox  hardware,  Surface,  Perceptive  Pixel  products  and  accessories.  We  also 
+announced Office on iPad, which led to 35 million downloads of Word, Excel, PowerPoint and OneNote – becoming many 
+of the most popular applications in the Apple App Store.  
+In addition, we introduced Cortana, a personal assistant built into Windows Phone 8.1 that learns and provides information 
+proactively to users, while protecting their privacy. And we launched the Surface Pro 3, a groundbreaking new tablet built 
+to  replace  your  laptop.  Finally,  we  provided  Windows  licenses  at  zero  dollars  for  any  original  equipment  manufacturer 
+building a device less than nine inches in size, which we expect to drive an amazing mix of innovative, low-cost devices for 
+consumers this year.  
+We continued to build upon our success in the cloud. Commercial cloud revenue hit a $4.4 billion annual run-rate, making 
+us an undisputed leader; we grew Hyper-V to 30.6 percent of the market, taking share from competitors; and we expanded 
+our datacenter footprint into Australia, Brazil, Japan and China. We brought industry-leading in-memory technology to the 
+new version of SQL Server 2014, and we launched two cloud-based services – the Enterprise Mobility Suite for handling 
+identity and security on devices, and the Azure Intelligent Systems Service for managing the “Internet of Things.”  
+Despite  this  busy  year  of  new  products  and  significant  change  for  the  company,  we  delivered  strong  results,  including 
+revenue of more than $86 billion, gross margin of nearly $60 billion and operating income of $27.8 billion. We also returned 
+more than $15.7 billion in cash to our shareholders, a 27 percent increase from 2013.  
+Looking forward, we  have a rich product road map that  positions  us to thrive  in a mobile-first  and cloud-first world. For 
+example, we recently  launched Delve, an Office 365 cloud-based  service that automatically  brings  relevant documents, 
+data  and  other  artifacts  to  workers.  And  we  announced  our  intention  to  acquire  Mojang,  the  Stockholm-based  game 
+developer of the popular “Minecraft” franchise, a game that spans PCs, consoles, tablets and mobile. We also plan to launch 
+Skype  Translator  this  fiscal  year,  which  has  the  potential  to  dramatically  break  down  language  barriers  in  our 
+communications. And, perhaps most important, we recently previewed new features and innovations in the next version of 
+Windows, Windows 10.  
+All of these new services and experiences will be underpinned by significant investments in our cloud strategy – including 
+building  more  datacenters  and  increasing  capacity  in  existing  regions;  expanding  our  hybrid  cloud  offerings  with  new 
+releases of StorSimple, InMage and other products; and launching new cloud capabilities, such as Azure Machine Learning, 
+an offering that has the potential to be game-changing in helping people mine data for predictions.  
+1 
+ 
+ 
+ 
+  
+
+--- Page 3 ---
+As CEO, I am committed to ensuring Microsoft makes the most of this landmark moment. And, at the same time, it is equally 
+important to evolve our culture – becoming more customer-obsessed across all our products, focusing on leading indicators 
+like usage, and ensuring Microsoft continues to be the best place for smart, curious people to do great work.  
+I believe reinventing productivity and building platforms that empower every person and organization on the planet to do 
+more and achieve more is a huge undertaking. But it is one that Microsoft is uniquely qualified to take on. We are ready 
+again to change the world.  
+Thank you for your continued support,  
+Satya Nadella  
+Chief Executive Officer  
+October 9, 2014  
+2 
+ 
+ 
+ 
+  
+ 
+
+--- Page 4 ---
+SELECTED FINANCIAL DATA, QUARTERLY STOCK PRICE INFORMATION,  
+ISSUER PURCHASES OF EQUITY SECURITIES, DIVIDENDS, AND STOCK PERFORMANCE 
+(In millions, except per share data) 
+Year Ended June 30, 
+Revenue 
+Operating income 
+Net income 
+Diluted earnings per share 
+Cash dividends declared per share 
+Cash, cash equivalents, and short-term 
+investments 
+Total assets 
+Long-term obligations 
+Stockholders’ equity 
+FINANCIAL HIGHLIGHTS  
+2014 (a) 
+2013   
+2012  
+2011  
+$  86,833  
+$  27,759  
+$  22,074 (b) 
+2.63 (b) 
+$ 
+1.12  
+$ 
+$  77,849  
+$  26,764 (c) 
+$  21,863 (c) 
+2.58 (c) 
+$ 
+0.92  
+$ 
+$  73,723  
+$  21,763 (d) 
+$  16,978 (d) 
+2.00 (d) 
+$ 
+0.80  
+$ 
+$  69,943    
+$  27,161  
+$  23,150  
+2.69  
+$ 
+0.64  
+$ 
+$  85,709  
+$  172,384  
+$  36,975  
+$  89,784  
+$  77,022  
+$  142,431  
+$  26,070  
+$  78,944  
+$  63,040  
+$   121,271  
+$  22,220  
+$  66,363  
+$  52,772  
+$  108,704  
+$  22,847  
+$  57,083  
+2010   
+$   62,484 
+$  24,098  
+$  18,760  
+2.10  
+$ 
+0.52  
+$ 
+$  36,788  
+$  86,113  
+$  13,791  
+$  46,175  
+(a)  On April 25, 2014, we acquired substantially all of Nokia’s Devices and Services  business (“NDS”). NDS has been 
+(b)  
+(c)  
+(d)  
+included in our consolidated results of operations starting on the acquisition date.  
+Includes a tax provision adjustment recorded in the fourth quarter of fiscal year 2014 related to adjustments to prior 
+years’ liabilities for intercompany transfer pricing which decreased net income by $458 million and diluted earnings 
+per share by $0.05.  
+Includes a charge related to a fine imposed by the European Commission in March 2013 which decreased operating 
+income and net income by $733 million (€561 million) and diluted earnings per share by $0.09. Also includes a charge 
+for Surface RT inventory adjustments recorded in the fourth quarter of fiscal year 2013, which decreased operating 
+income by $900 million, net income by $596 million, and diluted earnings per share by $0.07.  
+Includes a goodwill impairment charge related to our previous Online Services Division business segment (related to 
+Devices and Consumer Other under our current segment structure) which decreased operating income and net income 
+by $6.2 billion and diluted earnings per share by $0.73.  
+Our common stock is traded on the NASDAQ Stock Market under the symbol MSFT. On July 22, 2014, there were 113,923 
+registered holders of record of our common stock. The high and low common stock sales prices per share were as follows:  
+QUARTERLY STOCK PRICE  
+Quarter Ended 
+Fiscal Year 2014 
+High 
+Low 
+Fiscal Year 2013 
+High 
+Low 
+Share Repurchases  
+September 30 
+December 31 
+March 31 
+June 30 
+Fiscal Year 
+$  36.43    
+$  30.84    
+$  38.98     $  41.50     $  42.29  
+$  32.80     $  34.63     $  38.51    
+$  42.29
+$  30.84 
+$  31.61    
+$  28.54    
+$  30.25     $  28.66     $  35.78    
+$  26.26     $  26.28     $  28.11    
+$  35.78 
+$  26.26 
+SHARE REPURCHASES AND DIVIDENDS  
+On September 16, 2013, our Board of Directors approved a new share repurchase program authorizing up to $40.0 billion 
+in share repurchases. The share repurchase program became effective on October 1, 2013, has no expiration date, and 
+may be  suspended  or  discontinued at any  time without  notice.  This  new  share repurchase program replaced the share 
+repurchase program that was announced on September 22, 2008 and expired on September 30, 2013. As of June 30, 2014, 
+$35.1 billion remained of our $40.0 billion share repurchase program. All repurchases were made using cash resources.  
+3 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+--- Page 5 ---
+We repurchased the following shares of common stock under the above-described repurchase plans:  
+(In millions) 
+Year Ended June 30, 
+First quarter 
+Second quarter 
+Third quarter 
+Fourth quarter 
+Total 
+Shares 
+Amount 
+Shares 
+Amount 
+Shares 
+Amount 
+2014 (a) 
+2013 (b) 
+2012 (b) 
+  47
+  53 
+  47 
+  28 
+ 175 
+$  1,500  
+  2,000  
+  1,791  
+  1,118  
+$  6,409  
+  33   $  1,000    
+  1,607   
+  58  
+  1,000   
+  36  
+  31  
+  1,000   
+158   $   4,607   
+  38   $  1,000    
+  1,000   
+  39  
+  1,000   
+  31  
+  34  
+  1,000   
+142   $   4,000   
+(a)  Of the 175 million shares repurchased in fiscal year 2014, 128 million shares were repurchased for $4.9 billion under 
+the share repurchase program approved by our Board of Directors on September 16, 2013 and 47 million shares were 
+repurchased for $1.5 billion under the share repurchase program that was announced on September 22, 2008 and 
+expired on September 30, 2013.  
+(b)  All  shares  repurchased  in  fiscal  years  2013  and  2012  were  repurchased  under  the  repurchase  plan  that  was 
+announced on September 22, 2008 and expired on September 30, 2013.  
+The above table excludes shares repurchased to settle statutory employee tax withholding related to the vesting of stock 
+awards.  
+Dividends  
+In fiscal year 2014, our Board of Directors declared the following dividends:  
+Declaration Date 
+September 16, 2013 
+November 19, 2013 
+March 11, 2014 
+June 10, 2014 
+Dividend 
+Per Share 
+Record Date 
+Total Amount 
+Payment Date 
+$  0.28     November 21, 2013   
+February 20, 2014    
+$  0.28    
+May 15, 2014    
+$  0.28    
+August 21, 2014    
+$  0.28    
+(In millions)    
+$  2,332
+  December 12, 2013  
+March 13, 2014  
+$  2,322   
+June 12, 2014  
+$  2,309   
+$  2,307    September 11, 2014  
+The dividend declared on June 10, 2014 will be paid after the filing date of our Form 10-K and was included in other current 
+liabilities as of June 30, 2014.  
+In fiscal year 2013, our Board of Directors declared the following dividends:  
+Declaration Date 
+September 18, 2012 
+November 28, 2012 
+March 11, 2013 
+June 12, 2013 
+Dividend 
+Per Share 
+$   0.23  
+2 
+November 15, 201
+$   0.23  
+2013 
+$   0.23  
+2013 
+$   0.23  
+2013 
+February 21, 
+May 16, 
+August 15, 
+Record Date 
+Total Amount 
+(In millions)    
+Payment Date 
+$  1,933    
+December 13, 2012  
+$   1,925   
+March 14, 2013  
+$   1,921   
+June 13, 2013  
+$   1,916    September 12, 2013  
+The dividend declared on June 12, 2013 was included in other current liabilities as of June 30, 2013.  
+4 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+--- Page 6 ---
+STOCK PERFORMANCE 
+COMPARISON OF 5 YEAR CUMULATIVE TOTAL RETURN*  
+Among Microsoft Corporation, the S&P 500 Index,  
+and the NASDAQ Computer Index  
+Microsoft Corporation 
+S&P 500  
+NASDAQ Computer  
+6/11  
+6/10  
+6/12  
+6/09  
+98.65     114.16     137.98     160.58     199.56  
+  100.00    
+  100.00     114.43     149.55     157.70     190.18     236.98  
+  100.00     119.95     158.82     186.45     194.74     273.82  
+6/13  
+6/14  
+*  $100 invested on 6/30/09 in stock or index, including reinvestment of dividends.  
+5 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+
+--- Page 7 ---
+Note About Forward-Looking Statements 
+This report includes estimates, projections, statements relating to our business plans, objectives, and expected operating 
+results that  are  “forward-looking  statements” within the  meaning  of the Private Securities Litigation Reform Act of 1995, 
+Section 27A  of  the  Securities  Act  of  1933  and  Section 21E  of  the  Securities  Exchange  Act  of  1934.  Forward-looking 
+statements may appear throughout this report, including the following sections: “Business,” and “Management’s Discussion 
+and  Analysis.”  These  forward-looking  statements  generally  are  identified  by  the  words  “believe,”  “project,”  “expect,” 
+“anticipate,”  “estimate,”  “intend,”  “strategy,”  “future,”  “opportunity,”  “plan,”  “may,”  “should,”  “will,”  “would,”  “will  be,”  “will 
+continue,” “will likely result,” and similar expressions. Forward-looking statements are based on current expectations and 
+assumptions that are subject to risks and uncertainties that may cause actual results to differ materially. We describe risks 
+and  uncertainties  that  could  cause  actual  results  and  events  to  differ  materially  in  “Risk  Factors,”  “Quantitative  and 
+Qualitative Disclosures about Market Risk,” and “Management’s Discussion and Analysis” in our fiscal year 2014 Form 10-
+K.  We  undertake  no  obligation  to  update  or  revise  publicly  any  forward-looking  statements,  whether  because  of  new 
+information, future events, or otherwise.  
+BUSINESS DESCRIPTION  
+GENERAL  
+Microsoft was founded in 1975. Our mission is to enable people and organizations throughout the world to do more and 
+achieve more by creating technology that transforms the way people learn, work, play, and communicate. We develop and 
+market software, services, and devices that deliver new opportunities, greater convenience, and enhanced value to people’s 
+lives. We do business worldwide and have offices in more than 100 countries.  
+We  generate  revenue  by  developing,  licensing,  and  supporting  a  wide  range  of  software  products  and  services,  by 
+designing, manufacturing, and selling devices, and by delivering relevant online advertising to a global customer audience. 
+In addition to selling individual products and services, we offer suites of products and services.  
+Our  products  include  operating  systems  for  computing  devices,  servers,  phones,  and  other  intelligent  devices;  server 
+applications for distributed computing environments; productivity applications; business solution applications; desktop and 
+server  management  tools;  software  development  tools;  video  games;  and  online  advertising.  We  also  design  and  sell 
+hardware  including  PCs,  tablets,  gaming  and  entertainment  consoles,  phones,  other  intelligent  devices,  and  related 
+accessories.  
+We offer cloud-based  solutions that provide customers  with  software,  services, and content over the  Internet by way  of 
+shared computing  resources  located  in centralized data  centers. Examples of cloud-based computing  services we offer 
+include Bing, Microsoft Azure, Microsoft Dynamics CRM Online, Microsoft Office 365, OneDrive, Skype, Xbox Live, and 
+Yammer. Cloud revenue is earned primarily from usage fees, advertising, and subscriptions. We also provide consulting 
+and product and solution support services, and we train and certify computer system integrators and developers.  
+We conduct research and develop advanced technologies for future software, devices, and services. We believe that we 
+will continue to grow and meet our customers’ needs as the productivity and platform company for the mobile-first and cloud-
+first world. We will continue to create new opportunities for partners, increase customer satisfaction, and improve our service 
+excellence, business efficacy, and internal processes.  
+OPERATING SEGMENTS  
+During the first quarter of fiscal year 2014, we changed our organizational structure as part of our transformation to a devices 
+and services company. As a result, information that our chief operating decision maker regularly reviews for purposes of 
+allocating  resources  and  assessing  performance  changed.  Therefore,  beginning  in  fiscal  year  2014,  we  reported  our 
+financial performance based on our new segments: Devices and Consumer (“D&C”) Licensing, D&C Hardware, D&C Other, 
+Commercial Licensing, and Commercial Other.  On April 25, 2014, we completed the transaction to acquire substantially all 
+of Nokia Corporation’s (“Nokia”) Devices and Services Business (“NDS”). We report the financial performance of NDS in 
+our  new  Phone  Hardware  segment.  Prior  to  the  acquisition  of  NDS,  financial  results  associated  with  our  joint  strategic 
+initiatives with Nokia were reflected in our D&C Licensing segment. The contractual relationship with Nokia related to those 
+initiatives terminated in conjunction with the acquisition. With the creation of the new Phone Hardware segment, the D&C 
+Hardware segment was renamed Computing and Gaming Hardware in the fourth quarter of fiscal year 2014.  
+6 
+ 
+ 
+ 
+  

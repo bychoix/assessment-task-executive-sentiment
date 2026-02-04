@@ -1,0 +1,659 @@
+
+--- Page 14 ---
+Dear NVIDIANs 
+and Stakeholders,
+We had a tough 2022. Our business 
+companies everywhere to reimagine 
+into a parallel computing accelerator.
+was affected by economic headwinds, 
+their products and business models. 
+geopolitical tension, and a product 
+supply chain that swung from severe 
+shortage to excess. NVIDIANs rose to 
+tackle each challenge while inventing 
+new technologies and capabilities 
+that position us at the center of 
+the most exciting opportunities 
+in the history of computing.
+Data center AI and accelerated 
+workloads are continuing to skyrocket. 
+Developers are shifting to NVIDIA 
+NVIDIA acceleration libraries build on 
+Generative AI is also accelerating 
+CUDA, and all NVIDIA GPUs are CUDA-
+industrial digitalization. The largest 
+compatible. Four million developers 
+industries, from auto manufacturing to 
+are working with CUDA, and that 
+pharmaceutical, will be reinvented with 
+number is expanding. It took 12 years 
+generative AI and become some of the 
+to reach 2 million developers, but 
+most advanced technology industries. 
+we’ve doubled that number in the last 
+NVIDIA’s body of work is reshaping 
+the future of computing.
+two and a half years. CUDA has been 
+downloaded more than 40 million times. 
+A wealth of accelerated applications 
+Accelerated Computing …
+attracts end users, which creates a 
+accelerated computing as the four-
+Accelerated computing is not easy—
+decade-long exponential scaling of CPU-
+it requires full-stack optimization 
+based general-purpose computing ends. 
+from chip architecture, systems, and 
+ChatGPT, the AI application heard 
+around the world, showcased the 
+abilities of generative AI and its 
+potential to drive industrial productivity 
+and advance the world’s most significant 
+scientific challenges. Generative AI 
+has created a sense of urgency in 
+acceleration libraries, to refactoring 
+the applications. Each application 
+domain requires optimized stacks—
+from graphics, imaging, and particle or 
+fluid dynamics to data processing and 
+machine learning. NVIDIA pioneered 
+accelerated computing by extending 
+the GPU, a 3D graphics accelerator, 
+GAAP Results
+Revenue
+Flat
+Gross Margin
+-8.0 pts
+EPS
+-55%
+B
+1
+9
+6
+2
+$
+.
+B
+7
+9
+6
+2
+$
+.
+s
+n
+o
+i
+l
+l
+i
+B
+n
+i
+$30
+$25
+$20
+$15
+$10
+$5
+$0
+%
+9
+4
+6
+.
+66%
+64%
+62%
+58%
+56%
+54%
+%
+9
+6
+5
+.
+$4
+$3
+$2
+$1
+$0
+5
+8
+3
+$
+.
+4
+7
+1
+$
+.
+large market for cloud service providers 
+and computer makers to serve. This in 
+turn affords billions in R&D to fuel its 
+growth. NVIDIA has established the 
+accelerated computing virtuous cycle.
+We help developers achieve incredible 
+speedups through full-stack invention, 
+from the chips and systems to the 
+algorithms and applications they 
+run. These algorithms are optimized 
+and packaged into acceleration 
+libraries, where they help millions 
+of developers across industries 
+solve complex problems. NVIDIA has 
+hundreds of acceleration libraries 
+that form our core platforms: NVIDIA 
+RTX for graphics, NVIDIA HPC for 
+scientific computing, NVIDIA AI for 
+data science and artificial intelligence, 
+NVIDIA DRIVE for autonomous 
+vehicles, and NVIDIA Omniverse for 
+industrial digitalization applications.
+We now offer 300 acceleration libraries 
+and 400 AI models, with 100 added or 
+updated in the past year alone, including 
+cuQuantum for quantum computing, 
+FY22
+FY23
+FY22
+FY23
+FY22
+FY23
+cuOpt for combinatorial optimization, 
+ 
+ 
+ 
+
+--- Page 15 ---
+and the new cuLitho, which addresses 
+For computing to be sustainable, data 
+“LLMs, such as GPT-3 (Generative Pre-
+the single largest computation workload 
+centers must accelerate every workload 
+trained Transformer 3), are known for 
+in chip design and manufacturing: 
+possible. NVIDIA pioneered accelerated 
+their high capacity to learn from large 
+computational lithography. The product 
+computing and has built a large 
+datasets and generate coherent and 
+of close collaborations for over four 
+installed base and a rich ecosystem 
+contextually relevant text. These models 
+years with TSMC, ASML, and Synopsys, 
+of developers and applications 
+use deep neural networks with multiple 
+cuLitho can reduce mask creation time 
+available everywhere. Accelerated 
+layers to capture complex patterns 
+from two weeks to overnight and enable 
+computing is sustainable computing, 
+and representations in language data. 
+500 NVIDIA DGX H100 systems to 
+bending the energy consumption 
+LLMs can understand the nuances of 
+achieve the same work as 40,000 CPU 
+trendline away from runaway growth 
+language, including grammar, syntax, 
+systems. That’s 1/8 of the space needed 
+and toward a sustainable future.
+context, and meaning, and can generate 
+and 1/9 of the power to achieve current 
+text that is often difficult to distinguish 
+results with NVIDIA systems. Most 
+The iPhone Moment For AI
+from text written by humans.
+importantly, it provides the chip industry 
+a platform for the next leap into the next 
+chip design and manufacturing miracle. 
+It operates near the limits of physics: 
+high-numerical aperture extreme 
+ultraviolet lithography. This process 
+will require radical algorithms such as 
+ChatGPT has taken the world by 
+storm. Hundreds of millions of people 
+worldwide have been captivated 
+by its abilities. Companies in new 
+and established industries are 
+racing to explore its potential. 
+inverse lithography and AI approaches 
+The foundation of ChatGPT is a large 
+for continued scaling to 2nm and beyond.
+language model (LLM). According 
+… Is Sustainable Computing
+The exponential growth trend in CPU 
+computing performance coupled 
+with only moderate power and cost 
+increases is no more. Data centers are 
+already about 1-2% of global electricity 
+consumption and that consumption 
+is expected to continue to grow. This 
+continued growth is not sustainable 
+for operating budgets and our planet.
+to ChatGPT itself, an LLM is:
+“A large language model refers to a type 
+of artificial intelligence (AI) model trained 
+on a vast amount of text data to generate 
+human-like text responses. Language 
+models understand and generate human 
+language, and they can perform a wide 
+range of tasks, such as answering 
+questions, summarizing text, translating 
+languages, and generating text content.
+“LLMs have many potential applications 
+in various domains, including 
+natural language processing (NLP), 
+conversational AI, content generation, 
+language translation, and more.”
+LLMs can learn the representation of 
+information that has structure from 
+human language, music, images, and 
+even proteins and chemicals. The 
+potential of generative AI models to 
+amplify human productivity is incredible. 
+Impacts will be felt in industries ranging 
+from healthcare and financial services, 
+to design, art, and entertainment. 
+LLMs are trained with NVIDIA DGX 
+AI supercomputers. An LLM neural 
+network model with tens of billions of 
+artificial neurons learns by processing 
+trillions of bytes of data. This requires 
+
+--- Page 16 ---
+thousands of GPUs connected by high-
+perform incredible, seemingly intelligent 
+speed networking running in unison. 
+tasks. The remarkable ease of use let 
+A New Computing 
+Era Has Arrived
+ChatGPT reach over 100 million users 
+in just a few months, making it the 
+fastest-growing application in history.
+Throughout history, we have witnessed 
+the emergence of various computing 
+So, what’s next?
+eras driven by the convergence 
+of multiple technologies.
+From the advent of personal 
+computers, to the internet, cloud, 
+and mobile computing, and now 
+artificial intelligence, each wave has 
+expanded the realm of computing. 
+Each has narrowed the technology 
+divide, putting computers, the 
+instrument of knowledge, into 
+the hands of more people.
+The PC took over 20 years from the 
+launch of the IBM PC to reach a billion 
+people and transform education and 
+businesses in every industry. Only 
+five years after the iPhone launch, 
+smartphones, with simple-to-use touch 
+interfaces and powerful computing in 
+the cloud, put incredible applications 
+in the hands of a billion people. 
+AI is a new wave of computing that 
+requires no programming skills and is 
+prompted in plain human language to 
+NVIDIA DGX and AI 
+Cloud Within The 
+World’s Best Clouds
+Applying generative AI to each 
+industry requires domain expertise 
+and training data, LLMs and safety 
+systems, AI supercomputing 
+infrastructure, and expertise.
+NVIDIA is building a new AI service 
+that helps companies build their own 
+LLM AI factories that produce and 
+refine their company’s intelligence.
+The service consists of the 
+NVIDIA AI Foundations custom 
+LLM model-making system, the 
+NVIDIA DGX AI supercomputing 
+infrastructure, NVIDIA AI inference 
+platforms, and experts to assist.
+Like autonomous vehicles that require 
+rigorous functional and active safety 
+technologies, generative AI systems 
+must be supported by technologies 
+for safety and trustworthiness. 
+Researchers and industry are creating 
+technologies that align models to values 
+and principles, augment models with 
+factual knowledge bases, and provide 
+guardrails to limit models within the 
+operating domains of use. Although 
+safety and trustworthiness remain 
+vast domains for ongoing research, 
+well-regarded tools, methods, and 
+These services and platforms can be 
+practices are already proliferating.
+available in a company’s on-premises 
+And while general-purpose AI continues 
+to advance, companies can build custom 
+data centers or through the world’s 
+leading cloud service providers.
+LLMs specialized for their industry. 
+NVIDIA AI Foundations is a cloud 
+Learning from their proprietary data, 
+service—a foundry—for building custom 
+companies in healthcare, financial 
+language models and generative 
+services, retail, manufacturing, and 
+AI. It is comprised of language, 
+more will train generative AI models to 
+visual, and biology model-making 
+automate their companies and tasks 
+services. Customers can use NVIDIA 
+that are valuable to their customers. 
+AI Foundations to create, refine, and 
+operate custom LLMs and generative 
+AI trained with their proprietary data 
+and for their domain-specific tasks.
+The pharmaceutical industry is a top 
+focus of NVIDIA AI Foundations. It can 
+cost $2 billion and take 10-15 years of 
+research to bring a new drug to market. 
+Using our service and working with our 
+researchers, customers can use our 
+pretrained and optimized biology LLMs 
+to accelerate early-stage drug discovery 
+workflows from months to weeks. 
+Amgen, AstraZeneca, Insilico, Evozyne, 
+Innophore, and Alchemab Therapeutics 
+are all early-access users. Generative 
+AI will transform drug discovery.
+
+--- Page 17 ---
+GeForce Revolutionized AI. 
+AI Revolutionizes GeForce
+GeForce for gaming is NVIDIA’s 
+technology driving force. The technology 
+demand to create realistic and 
+interactive virtual worlds is insatiable. 
+And the gaming market continues 
+to expand. From a zero-billion-dollar 
+market 30 years ago, there are over 
+a billion PC gamers today. Someday, 
+nearly everyone will be a gamer. And 
+games will be incredibly realistic. 
+The technologies necessary are ray 
+tracing, physics simulations, digital 
+humans, and generative AI—the 
+technologies that NVIDIA GPUs enable.
+The future of gaming started 12 years 
+ago when AI researchers discovered the 
+math processing prowess of NVIDIA 
+GeForce gaming GPUs with CUDA-
+accelerated computing to realize the 
+effectiveness of deep learning. This 
+ignited the big bang of modern AI.
+Coming full circle, AI is now 
+revolutionizing the GPU, computer 
+graphics, and gaming technologies. 
+capability of a generative AI that 
+NVIDIA DGX AI supercomputers 
+trained—learn once, save energy for 
+hundreds of millions of gamers.
+DLSS 3 is a big deal in many ways. 
+Neural rendering is an entirely new 
+way of doing computer graphics and 
+is the technology for the next leap 
+in virtual world generation. But it is 
+also direct evidence that accelerated 
+We introduced programmable shaders 
+computing and AI are the ways to 
+a quarter century ago, revolutionizing 
+sustainable computing for the planet.
+3D graphics. Five years ago, we 
+launched NVIDIA RTX, opening a new 
+frontier. This year, we introduced the 
+next breakthrough in AI-powered 
+graphics: DLSS 3. It is one of our 
+greatest neural rendering inventions. 
+DLSS 3 generates entirely new frames 
+rather than just pixels, boosting 
+performance over 4X vs. rendering.
+Imagine an AI model that runs on 
+Like NVIDIA DGX and NVIDIA AI, NVIDIA 
+RTX has leaped into the cloud. This year, 
+we unveiled the GeForce NOW Ultimate 
+membership tier, delivering GeForce 
+RTX 4080-class performance with 
+NVIDIA Reflex, ray tracing, and DLSS 
+3. With 25 million members worldwide 
+in 100+ countries, GeForce NOW serves 
+more games to more countries than 
+any other gaming service. NVIDIA 
+GeForce but learns to create beautiful 
+and Microsoft signed a 10-year deal 
+images on a DGX AI supercomputer. 
+to bring the Xbox PC game library to 
+DLSS 3 learned to generate seven out 
+GeForce NOW. Members will be able 
+of every eight pixels in a scene. The 
+speedup, image quality improvement, 
+and energy saved are incredible. 
+Every NVIDIA RTX gamer can enjoy 
+the automated pixel-prediction 
+to stream top game franchises such 
+as Halo, Minecraft, Elder Scrolls, and 
+other titles from Bethesda, Mojang 
+Omniverse: Connecting Our 
+Physical And Digital Worlds
+The largest and most impactful 
+industries make and operate physical 
+things—from electronic devices, cars, 
+buildings, factories, warehouses to 
+luxury goods and life-saving medicine. 
+They make physical things but want 
+to build and operate them digitally. To 
+do so, a new type of operating system 
+that is physically based is needed—one 
+that understands the laws of physics.
+NVIDIA Omniverse, our platform for 
+industrial digitalization, builds virtual 
+representations of physical things 
+and assets—creating digital twins 
+and connecting digital and physical 
+worlds. Omniverse enables industries 
+grounded in physical processes to 
+become software-defined, realize 
+unified digitalization, and connect 
+large, highly skilled teams. 
+This year, we announced Omniverse 
+Cloud, making it easier to develop, 
+deploy, and operate industrial 
+digitalization applications from nearly 
+anywhere, on almost any device.
+Studios, and Activision, pending the 
+NVIDIA is partnering with Microsoft 
+closure of Microsoft’s acquisition.
+to bring Omniverse to hundreds of 
+
+--- Page 18 ---
+millions of Microsoft 365 and Azure 
+ › Mercedes-Benz and Jaguar Land Rover 
+Looking Ahead
+users. Omniverse Cloud connects 
+are both using Omniverse to generate 
+to the Microsoft 365 productivity 
+scenarios to test and validate the next 
+suite, including Teams, OneDrive, and 
+generation of autonomous vehicles.
+Driving Automotive Growth
+Generative AI and digitalization are 
+reshaping the $3 trillion automotive 
+industry, from design and engineering 
+to manufacturing, autonomous 
+driving, and customer experience. 
+NVIDIA is at the epicenter of this 
+industrial transformation, with a 
+$14 billion automotive design win 
+pipeline over the next six years. 
+Accelerated computing and AI 
+have arrived. We must accelerate 
+every possible workload to reclaim 
+power so that computing can be 
+sustainable. Generative AI has created 
+a new computing platform, like the 
+PC, internet, and mobile cloud. More 
+than 40,000 companies are already 
+running on NVIDIA to speed up, scale 
+up, and unlock previously impossible-
+to-solve problems. And our new DGX 
+Cloud partnerships with the world’s 
+leading cloud service providers, 
+NVIDIA AI Foundation custom model-
+SharePoint, and to Azure IoT Digital 
+Twins services. This partnership will 
+help connect the world’s industries 
+to Omniverse Cloud—hosted 
+in Azure and benefiting from 
+Microsoft’s rich storage, security, 
+applications, and services portfolio.
+Omniverse can simulate the 
+best possible factory and store 
+layouts before laying the first 
+brick. Utilizing digital twins reduces 
+last-minute surprises, change 
+orders, and plant opening delays. 
+Developing self-driving cars is one of our 
+making foundry, and Omniverse 
+most complex AI challenges. It requires 
+Cloud services will further accelerate 
+Virtual factory integration can save 
+two computers: an AI factory in the 
+billions for the world’s factories.
+data center refining and testing the AI 
+software and the AI computer in the car. 
+our engagement with the world’s 
+industries as they race to reinvent 
+themselves in this new computing era.
+Some of the most significant companies 
+in the world are using Omniverse 
+to digitalize their operations.
+Hundreds of partners across the 
+automotive ecosystem are now 
+developing software on NVIDIA 
+ › Amazon Robotics is using Omniverse 
+DRIVE, including 20 of the top 30 
+to build AI-enabled digital twins of 
+its warehouses to better optimize 
+manufacturers building new energy 
+vehicles, many of the industry’s tier-
+warehouse design and flow and train 
+one manufacturers and top software 
+more intelligent robotic solutions. 
+makers, plus eight of the largest 10 
+ › Lowe’s is using Omniverse to design, 
+trucking and robotaxi companies.
+build, and operate digital twins of 
+its stores to optimize operations.
+ › BMW Group is using Omniverse to 
+build a fully functioning factory digital 
+twin before building it in the real world.
+We faced many storms last year 
+but did magnificent work through 
+it all. I could not be prouder of 
+our employees and more excited 
+to build the future together.
+Jensen Huang 
+CEO and Founder, NVIDIA 
+May 2023
+
+--- Page 19 ---
+NVIDIA Corporation 
+Notice of 2023 Annual Meeting 
+Proxy Statement and Form 10-K 
+Forward-Looking Statements 
+Certain statements in this document including, but not limited to, statements as to: the impact, benefits, abilities, features, performance, and 
+availability of our products, services, and technologies, including CUDA, NVIDIA GPUs and acceleration libraries, NVIDIA RTX, NVIDIA HPC, NVIDIA 
+AI  and  AI  Inference  platforms,  NVIDIA  DRIVE,  NVIDIA  Omniverse  including  Omniverse  Cloud,  cuQuantum,  cuOpt,  cuLitho,  NVIDIA  DGX  H100 
+systems, NVIDIA DGX AI supercomputers and supercomputing infrastructure, NVIDIA AI Foundations, GeForce NOW, DLSS 3, NVIDIA Reflex, 
+DGX  Cloud  and  SuperPOD,  NeMo,  Picasso,  BioNeMo,  and  NVIDIA  Clara;  data  center  AI  and  accelerated  workloads  continuing  to  skyrocket; 
+developers shifting to NVIDIA accelerated computing; the potential of generative AI to drive industrial productivity and advance the world’s most 
+significant scientific challenges; generative AI accelerating industrial digitalization and the largest industries including auto, manufacturing, and 
+pharmaceutical  being  reinvented  with  generative  AI  and  becoming  some  of  the  most  advanced  technology  industries;  NVIDIA  reshaping  the 
+future of computing; the number of developers working with CUDA expanding; data center consumption of global electricity continuing to grow 
+and the impact thereof; data centers needing to accelerate every workload possible for computing to be sustainable; accelerated computing 
+bending  the  energy  consumption  trendline  away  from  runaway  growth  and  toward  a  sustainable  future;  companies  racing  to  explore  the 
+potential of ChatGPT; the abilities and impact of LLMs; the potential of generative AI models to amplify human productivity and its impacts 
+being felt in industries ranging from healthcare and financial services, to design,  art, and entertainment; the potential of AI and the future of AI 
+as a new wave of computing; the proliferation of well-regarded tools, methods, and practices for safety and trustworthiness; general-purpose 
+AI continuing to advance; companies learning from their proprietary data to train generative AI models to automate tasks that are valuable to 
+their  customers;  generative  AI  transforming  drug  discovery;  the  insatiable  demand  to  create  realistic  and  interactive  virtual  worlds  and  the 
+gaming  market’s  continued  expansion;  the  future  of  gaming,  including  nearly  everyone  being  a  gamer  someday  and  games  being  incredibly 
+realistic; AI revolutionizing the GPU, computer graphics, and gaming technologies; accelerated computing and AI being the ways to sustainable 
+computing for the planet; some of the most significant companies in the world using Omniverse to digitalize their operations; generative AI and 
+digitalization reshaping the automotive industry; our automotive design win pipeline; our collaborations and partnerships with third parties and 
+the benefits and impact thereof; our growth drivers and opportunities; and our markets, market position, and strategies are forward-looking 
+statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors 
+that could cause actual results to differ materially include: global economic conditions; our reliance on third parties to manufacture, assemble, 
+package and test our products; the impact of technological development and competition; development of new products and technologies or 
+enhancements to our existing product and technologies; market acceptance of our products or our partners' products; design, manufacturing 
+or  software  defects;  changes  in  consumer  preferences  or  demands;  changes  in  industry  standards  and  interfaces;  unexpected  loss  of 
+performance of our products or technologies when integrated into systems; as well as other factors detailed from time to time in the most 
+recent reports NVIDIA files with the Securities and Exchange Commission, or SEC, including, but not limited to, its annual report on Form 10-K 
+and quarterly reports on Form 10-Q. Copies of reports filed with the SEC are posted on the company's website and are available from NVIDIA 
+without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except 
+as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- Page 20 ---
+NOTICE OF 2023 ANNUAL MEETING OF STOCKHOLDERS
+Date and time:
+Thursday, June 22, 2023 at 11:00 a.m. Pacific Daylight Time
+Location:
+Virtually at www.virtualshareholdermeeting.com/NVDA2023
+Items of 
+business:
+• Election of thirteen directors nominated by the Board of Directors
+• Advisory approval of our executive compensation
+• Advisory approval of the frequency of holding a vote on our executive compensation
+• Ratification of the selection of PricewaterhouseCoopers LLP as our independent registered 
+public accounting firm for fiscal year 2024
+• Transaction of other business properly brought before the meeting
+Record date:
+You can attend and vote at the annual meeting if you were a stockholder of record at the close of 
+business on April 24, 2023.
+Stockholder list: A  list  of  stockholders  entitled  to  vote  at  the  close  of  business  on  the  record  date  will  be  available 
+during  the  annual  meeting  at  www.virtualshareholdermeeting.com/NVDA2023  and  at  our 
+headquarters, 2788 San Tomas Expressway, Santa Clara, California, for 10 days prior to the annual 
+meeting to registered stockholders for any legally valid purpose related to the annual meeting.  To 
+schedule an appointment to view the stockholder list during the 10 days prior to the annual meeting, 
+please contact us at shareholdermeeting@nvidia.com.
+Virtual meeting 
+admission:
+We  will  be  holding  our  annual  meeting  virtually  at  www.virtualshareholdermeeting.com/NVDA2023.  
+To  participate  in  the  annual  meeting,  you  will  need  the  control  number  included  on  your  notice  of 
+proxy materials or printed proxy card.
+Pre-meeting 
+forum:
+To communicate with our stockholders in connection with the annual meeting, we have established a 
+pre-meeting forum located at www.proxyvote.com where you can submit advance questions. 
+Your vote is very important.  Whether or not you plan to attend the virtual annual meeting, PLEASE VOTE YOUR SHARES.  
+As an alternative to voting during the virtual annual meeting, you may vote in advance online, by telephone or, if you have 
+elected to receive a paper proxy card in the mail, by mailing the completed proxy card.
+Important  notice  regarding  the  availability  of  proxy  materials  for  the  Annual  Meeting  of  Stockholders  to  be  held  on 
+June 22, 2023.  This Notice, our Proxy Statement, our Annual Report on Form 10-K, and our Annual Review are available at 
+www.nvidia.com/proxy.
+By Order of the Board of Directors 
+Timothy S. Teter 
+Secretary
+2788 San Tomas Expressway, Santa Clara, California 95051
+May 8, 2023

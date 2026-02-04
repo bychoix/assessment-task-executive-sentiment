@@ -1,0 +1,703 @@
+
+--- Page 2 ---
+Dear shareholders, customers, partners, and employees:  
+I’m proud of the progress we’ve made as a company this past year and excited about the opportunity for even more progress 
+in the  year ahead. We’ve advanced our mission to  empower every person  and  every organization on the planet  to 
+achieve  more.  We’ve  continued  to  cultivate  a  Microsoft  culture  in  which  people  connect  their  individual  energies  and 
+passions for technology to this mission. We’re leading profound digital transformation both for people and institutions. We’ve 
+achieved strong financial results. And we’re building a sturdy foundation for an even brighter future.  
+We generated $85.3 billion in revenue, $52.5 billion in gross margin, and $20.2 billion in operating income this past fiscal 
+year. Adjusting for Windows 10 revenue deferrals and impairment, integration and restructuring expenses, revenue was 
+$92.0 billion with $27.9 billion in operating income. Even as we invested in innovation and expanded geographically, we 
+maintained our commitment to shareholder return and increased our total cash return to $26.1 billion, up 12 percent from 
+last  fiscal  year.  These  results  reflect  exciting  new  product  innovations  as  well  as  increases  in  customer  usage  and 
+engagement across our businesses:  
+•   Commercial cloud annualized revenue run rate exceeded $12.1 billion, up more than 50 percent year-over-year.  
+•   More than 70 million people use Office 365 commercial every single month.  
+•   Revenue from our cloud platform, Azure, grew triple digits, with usage of key computing and database workloads 
+more than doubling year-over-year.  
+•   Windows 10 is now active on more than 400 million devices around the world and over 197 billion hours of usage. 
+This is the fastest adoption rate of any prior Windows release. 
+•   Bing  has  leveraged  this  incredible  usage  to  become  profitable  with  search  advertising  revenue  up  17 percent, 
+excluding traffic acquisition costs.  
+•   Xbox Live monthly active users grew 33 percent year-over-year to 49 million.  
+Over the past year, Microsoft has built momentum in each of its reportable segments, which is detailed below, but it’s the 
+larger opportunity – how technology can inspire and ignite change and renewal – that I want to emphasize in this year’s 
+letter.  
+A transformational opportunity  
+Microsoft is uniquely positioned in this era of massive business and societal transformation. We’re the company that cares 
+most deeply about computing technologies for both people and the organizations they build. Our entire purpose is to make 
+things that help our customers make things – and make things happen. We build the platforms upon which others build 
+digital platforms. After all, each of us, as individuals, is trying to build something that outlasts ourselves, whether that’s a 
+small business, a school, a clinic, or an enterprise. 
+Over the years Microsoft has experienced great success, and today we are just at the beginning of an incredible new wave 
+of opportunity. The next generation of ubiquitous computing and ambient intelligence is going to transform every life, every 
+industry, and every country.  
+What  this  means  for  organizations  is  that  Microsoft  is  their  partner  in  digital  transformation  –  engaging  customers, 
+empowering employees, optimizing operations, and transforming products. What it means for people is that Microsoft helps 
+them get more out of every moment – creating, collaborating, learning, gaming, being mobile, and staying secure.  
+Let’s look at how we’re doing this within each segment.  
+1 
+ 
+
+--- Page 3 ---
+Productivity and Business Processes  
+Productivity  is  in  our  DNA,  and  so  everything  we  do  supports  our  customers’  digital  work  and  life.  Nowhere  is  digital 
+transformation more evident than how we live and work today. We work on the go. We are on more teams, both inside and 
+outside the company. We don’t have time for the information we need personally and professionally to live in different silos.  
+We’re not simply building individual tools, but rather designing an intelligent fabric based on four principles – collaboration, 
+mobility, intelligence, and trust. People still do important work as individuals, but collaboration is the new norm, so we build 
+our tools to empower teams. We aspire to help everyone be productive no matter where they are, regardless of the device 
+they use. Your data, apps, and settings – all of your content – roam with you across your computing experiences. Intelligence 
+is an amazing force multiplier. To be successful amid the explosion of data, people need analytics, services, and agents 
+that  use  intelligence  to  help  them  manage  their  scarcest  resource  –  time.  Finally,  trust  is  the  foundation  upon  which 
+everything we do is built. That’s why we are investing deeply in security and compliance that set the standard for enterprise-
+grade productivity.  
+The two pillars of this ambition are Office 365 and Dynamics 365.  
+Office 365 is changing the nature of work for individuals and teams. Customers love the power of Office on Windows and 
+Mac as well as their iOS and Android mobile devices. In fact, Office is on more than 50 million iOS and Android monthly 
+active devices, up more than four times over last year. Industry analyst surveys report that in cloud email, Microsoft is the 
+clear choice. And we continue to see great momentum as innovative companies like GE, Facebook, Hershey, and Discovery 
+Communications adopt Office 365.  
+We recently launched Dynamics 365 to empower business users with built-in insights and intelligence, accessed from within 
+the business applications they’re working on – cloud-based apps like field service, sales, finance, and operations. It is deeply 
+integrated with Office 365 to bring together all of the capabilities people need to get their jobs done. Business process tools 
+in the past were hostage to silos of information and monolithic suites of applications. We’re removing those impedances by 
+bringing together communications and collaboration capabilities so they work seamlessly for every role. Overall, Dynamics 
+365 builds on a strong base of nearly 10 million monthly paid seats, up more than 20 percent year-over-year. And in this 
+past year, we saw Dynamics CRM Online seat additions more than double year-over-year, driving overall Dynamics revenue 
+growth.  
+This year Microsoft and LinkedIn announced our agreement to join forces to connect the world’s professional cloud and the 
+world’s professional network – creating new experiences and new value for users. Together we will have a transformative 
+effect through our  shared ambition to reinvent ways for  professionals to be more productive. With more than  1.2 billion 
+Office users and 433 million LinkedIn members, our combined data graphs will forever change how Sales, HR, and other 
+professionals get work done. Meetings will get better when Cortana can draw on your professional network to connect the 
+dots so you stay one step ahead. Your online newsfeed will become more intelligent as the professional cloud and network 
+tailor information to what’s going on at work, upcoming meetings, and projects underway. This acquisition will grow our total 
+addressable  market  by  creating  a  vibrant  network  that  brings  together  a  professional’s  information  in  LinkedIn’s  public 
+network with the information created in Office 365 and Dynamics 365.  
+Looking ahead, our vision is to teach human language to all of the computing experiences that surround us. We imagine a 
+world in which a deeply personal agent understands you, your organization, and your world, helping you get more out of 
+every moment. Skype and Outlook with their hundreds of millions of users already are conversational canvases that will 
+increasingly become rich platforms for getting every task done with new applications in the form of bots.  
+Intelligent Cloud  
+Our ambition to build the intelligent cloud is closely  linked with the previous ambition.  In fact, together with cloud-based 
+applications  like  Office  365  and  Dynamics  365,  we  are  on  track  to  achieve  $20  billion  in  commercial  cloud  annualized 
+revenue run rate in fiscal year 2018.  
+2 
+ 
+
+--- Page 4 ---
+Every  organization  needs  new  cloud-based  infrastructure  and  applications  that  can  convert  vast  amounts  of  data  into 
+predictive  and  analytical  power  through  the  use  of  advanced  machine  learning,  analytics,  and  cognitive  services.  The 
+combination  of  Azure’s  infrastructure  and  data  services  makes  it  possible  for  businesses  to  build  digital  transformation 
+applications that better engage customers, optimize operations, and transform products and business models.  
+From an infrastructure perspective, we’ve continued to deliver on the promise of a global, hyperscale cloud platform with 30 
+unique Azure regions around the world. For perspective, we cover more countries and regions than any other cloud provider, 
+from North America, to Asia, to Europe, to Latin America. We’re continuing to invest billions of dollars each year to build out 
+more and more infrastructure. What this means for our customers is that they can scale their solutions without worrying 
+about their cloud platform’s capacity or the complex demands of transparency, reliability, security, privacy, and compliance. 
+In essence, we’re meeting their real-world needs both for today and tomorrow.  
+The Microsoft Cloud is open and offers choice. We broadly support a wide range of platforms and developer tools on Azure. 
+Our acquisition of Xamarin, and our work with Red Hat, Docker, Mesosphere, and others reflect our commitment to working 
+cross-platform. Nearly a third of customer virtual machines on Azure run Linux.  
+We are building our server products to become the edge of our cloud, supporting true hybrid computing. SQL Server 2016, 
+Windows Server 2016, and System Center 2016 as well as Azure Stack enable customers to build a cloud platform that 
+spans their own data centers and the public cloud.  
+Revenue within the Intelligent Cloud segment alone increased $1.3 billion, or 6 percent, driven in part by impressive gains 
+in our Azure business. Azure revenue and usage grew by more than 100 percent in the final quarter of the year. More than 
+70 percent of the Fortune 500 have at least two different Microsoft Cloud offerings. And more than 80 percent of the world’s 
+largest banks are Azure customers. We clearly are now one of the two enterprise cloud leaders.  
+It’s not just infrastructure driving this growth, but also the intelligence we infuse into applications. Customers such as Boeing, 
+Jabil Circuit, and Land O’Lakes are using Microsoft’s industry-leading data management, machine learning, analytics, and 
+cognitive services to infuse intelligence into their applications. The integration of cloud-based cognitive services like Cortana 
+is just the tip of the spear, and will fuel our vision for conversation as a platform. We have more than 20 cognitive services 
+APIs today, including for vision, speech, text, recommendations, and face and emotion detection. Developers use these 
+APIs within their applications to augment users’ experiences by enabling solutions to see, hear, speak, and interpret the 
+world around them. Our intelligent cloud is democratizing these capabilities for startups, small businesses, and enterprises 
+alike.  
+More Personal Computing  
+Just as we are transforming business and society through cloud computing, we’re also revolutionizing the workplace to help 
+organizations be more productive, and people do more. This was the year of reinventing Windows and delivering a renewed 
+vision of one of the world’s most successful operating systems. We launched Windows 10 with a new concept – to enable 
+Windows as a service, continuously delivering differentiated value across our ecosystem to better serve the needs of our 
+customers. We engineered Windows 10 to enable innovative and more natural ways to interact and engage with devices – 
+ask a question with your voice, draw with the flick of a pen, and secure your most important things with a smile or a touch. 
+These experiences place users at the center so they can move seamlessly across all devices – from the PC, Xbox, phones, 
+and Surface Hub, to mixed reality with Microsoft HoloLens and Windows Holographic.  
+With an installed base of more than 1 billion Windows devices – more than 400 million of which are already on Windows 10 
+and its 197 billion hours of usage – we have an opportunity to offer new experiences and deepen our engagement with 
+Windows  users. We  see  opportunities  to  innovate  and  grow  in  areas  such  as  productivity  and  gaming,  bringing  these 
+experiences to every device. And we continue to inspire new, innovative device categories like the two-in-one Surface, the 
+pioneering HoloLens, and over 1,500 new Windows devices designed with our OEM partners.  
+3 
+ 
+
+--- Page 5 ---
+Led by state-of-the-art security, Windows 10 is starting to drive digital transformation for customers in the enterprise. The 
+U.S. Department of Defense and Accenture are just a few of the customers deploying Windows 10 to millions of employees 
+to help protect them with industry-leading security features like Credential Guard, Device Guard, Windows Hello, and new 
+cloud-based  security  services  like  Windows  Defender  Advanced  Threat  Protection.  Our  belief  in  building  world-class 
+enterprise security in Windows has contributed to nearly every one of our enterprise customers piloting Windows 10 this 
+past fiscal year.  
+Windows is also built to support everyday experiences for everyone. Cortana  – the first truly personal digital assistant – 
+came to life in Windows 10. Embedded within Windows 10, Cortana gets to know each user, helping to get things done, to 
+organize schedules, respond to questions – all through natural user interaction. And by learning more about the user over 
+time, Cortana becomes increasingly useful every day. The Windows 10 Cortana search box has over 126 million monthly 
+active users, and has been asked 12 billion questions to date. In turn, this intensity and frequency of usage helped drive 
+Bing’s U.S. PC query share to nearly 22 percent in the final quarter of our past fiscal year.  
+Gaming is another area where Windows 10 will open new user experiences and scenarios. Gaming has been among the 
+leading drivers of engagement on Windows 10, with more than 17.5 billion hours of gameplay on Windows 10 PCs in its 
+first year. Xbox Live is connecting fans across Windows 10, iOS, and Android. Microsoft has an incredibly engaged gaming 
+audience on Xbox Live with 49 million monthly users and growing – up 33 percent year-over-year. This growth is driven in 
+part by strong franchises like Minecraft, which has sold more than 106 million copies to date. In fact, Xbox Live players of 
+Minecraft increased 62 percent in the last year. Our gaming roadmap over the next 18 months is anchored by two significant 
+console releases – Xbox One S and Project Scorpio – and investments in growth areas such as virtual reality, video, and 
+eSports.  
+We continue to grow the Windows ecosystem by creating new computing categories. Surface, Surface Hub, and Microsoft 
+HoloLens have pushed the boundaries of how personal the computing experience can be, with Surface Book and Surface 
+Pro  4  released  in  the  last  year. Forward-looking  customers  like  Rolls  Royce,  the  PGA  Tour,  Japan  Airlines,  and  Volvo 
+already  are  embracing  Microsoft  HoloLens  and  the  Windows  Holographic  platform,  transforming  the  way  they  work  by 
+breaking down the barriers between virtual and physical reality. We are excited about these future growth areas but are 
+also committed to ensuring that we are investing thoughtfully across our portfolio. Over the past fiscal year, we increased 
+investment  in  key  capabilities  within  Windows  10  and  in  new  growth  markets,  while  at  the  same  time  scaling  back  our 
+investment commensurate with the opportunity in areas like phone.  
+Across each of these ambitions, Microsoft made significant progress this past year. And we’re investing in a future that is 
+even more exciting.  
+Investing in the Future  
+Earlier  in  this  letter  I  described  the  transformational  opportunities  that  lie  ahead,  particularly  in  the  realm  of  digital 
+intelligence. We’re growing today’s core businesses and technologies, incubating for the future and investing in long-term 
+computing breakthroughs. Within our research labs we’re hard at work on advanced machine learning – artificial intelligence 
+– that will produce forewarnings that can put an end to distracted driving and one day identify a crisis like Zika before it 
+happens. Quantum computing, theorized for decades by some of the world’s greatest minds as a way to harness the very 
+building  blocks  of  matter  and  energy  for  unimaginable  computing  capabilities  and  intelligence,  is  emerging  today  as  a 
+feasible technology. Its realization will bring new power to cure disease and address global challenges like climate change. 
+Our people and partners right now are solving the hard problems of experimental and theoretical physics, mathematics, and 
+computer science that will accelerate quantum computing’s becoming a reality.  
+And that brings us right back to our mission – to empower every person and every organization on the planet to achieve 
+more.  
+4 
+ 
+  
+
+--- Page 6 ---
+Computing and societal impact  
+Last year I concluded this letter committing that we would continue to ask ourselves what are the challenges humankind 
+faces,  how can technology  help, and what  is the contribution of Microsoft? To me, these questions are essential to the 
+rediscovery of the soul of Microsoft, and more broadly, the purpose of global companies in society. This past year we’ve 
+witnessed movements that understandably question globalization and its impact on economic equality. With worldwide per 
+capita GDP and productivity  growth at  roughly 1  percent,  how do we  return to  vigorous growth that  benefits everyone? 
+That’s  part  of  what  we’re  working  to  address  both  through  our  core  business  and  through  our  broader  work  societally, 
+including this past year with the founding of Microsoft Philanthropies.  
+When I meet with leaders in every part of the world, I hear their desire to work with Microsoft to create world class, cloud-
+enabled platforms, and  applications  that advance  health, education,  and economic growth,  locally  in their countries and 
+communities. That is what inspires me most. And it’s why we are working with public and private sector partners to promote 
+a public cloud for public good  – expanding affordable internet connectivity, building  next generation  skills, and fostering 
+policies that promote trustworthy computing in the cloud. This past year we announced that Microsoft Philanthropies will 
+donate $1 billion in public cloud computing for nonprofits around the world.  
+Throughout our discussions with LinkedIn this year, I was struck in my conversations with founder Reid Hoffman and CEO 
+Jeff  Weiner  that  we  share  a  commitment  to  more  directly  and  more  evenly  spread  opportunity  for  everyone.  In  fact, 
+LinkedIn’s vision has been to create economic opportunity for every member of the global workforce – all 3 billion of them 
+– by building the world’s first economic graph, a digital representation of the global economy and opportunity. The goal is 
+to  make  labor  markets  work  better  for  everyone  by  making  them  more  efficient  and  open.  Together  we  aspire  to  help 
+everyone navigate an increasingly challenging global economy more effectively.  
+In conclusion, the test of any brand is its ability to have measurable impact and to remain relevant over time. Microsoft has 
+done this in times of transition by innovating boldly. When I walk the hallways of Microsoft and talk with our talented people, 
+the sense of purpose and urgency in realizing our mission through world class innovation is unmistakable.  
+Satya Nadella  
+Chief Executive Officer  
+October 18, 2016  
+5 
+ 
+  
+  
+ 
+
+--- Page 7 ---
+The following table reconciles our financial results reported in accordance with generally accepted accounting principles 
+(“GAAP”) to non-GAAP financial results. The shareholder letter contains non-GAAP financial information to aid investors in 
+better understanding the company’s revenue and operating income results for fiscal year 2016. Non-GAAP results exclude 
+the net impact from Windows 10 revenue deferrals and the impact of impairment, integration, and restructuring expenses.  
+($ in millions, except per share amounts) 
+2016 As Reported (GAAP) 
+Net Impact from Windows 10 Revenue Deferrals 
+Impairment, Integration, and Restructuring Expenses 
+2016 As Adjusted (non-GAAP) 
+Twelve Months Ended June 30, 
+Operating 
+Income 
+Revenue 
+$  85,320  
+6,643  
+—
+$  20,182  
+6,643  
+1,110 
+$  91,963  
+$  27,935  
+6 
+ 
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+
+--- Page 8 ---
+7 
+ 
+
+--- Page 9 ---
+SELECTED FINANCIAL DATA, QUARTERLY STOCK PRICE INFORMATION,  
+ISSUER PURCHASES OF EQUITY SECURITIES, DIVIDENDS, AND STOCK PERFORMANCE  
+(In millions, except per share data) 
+Year Ended June 30, 
+Revenue 
+Gross margin 
+Operating income 
+Net income 
+Diluted earnings per share 
+Cash dividends declared per share 
+Cash, cash equivalents, and short-
+term investments 
+Total assets 
+Long-term obligations 
+Stockholders’ equity 
+FINANCIAL HIGHLIGHTS  
+2016   
+$  85,320  (a) 
+$  52,540  (a) 
+$  20,182  (a)(b) 
+$  16,798  (a)(b) 
+2.10  (a)(b) 
+$ 
+1.44  
+$ 
+$  113,240  
+$  193,694  
+$  62,340  
+$  71,977  
+2015 
+$  93,580   
+$  60,542   
+$  18,161  (c) 
+$  12,193  (c) 
+1.48  (c) 
+$ 
+1.24   
+$ 
+$  96,526   
+$ 174,472  (g) 
+$  44,742  (g) 
+$  80,083   
+2014  (d) 
+$  86,833  
+$  59,755  
+$  27,759  
+$  22,074  
+2.63  
+$ 
+1.12  
+$ 
+$  85,709  
+$  170,675 (g) 
+$  35,391 (g) 
+$  89,784  
+2013   
+$  77,849  
+$  57,464  
+$  26,764 (e) 
+$  21,863 (e) 
+2.58 (e) 
+$ 
+0.92  
+$ 
+$  77,022  
+$  140,962 (g) 
+$  24,601 (g) 
+$  78,944  
+2012 
+$  73,723   
+$  56,193   
+$  21,763 (f) 
+$  16,978 (f) 
+2.00 (f) 
+$ 
+0.80   
+$ 
+$  63,040   
+$  119,388 (g) 
+$  20,337 (g) 
+$  66,363   
+(b)  
+(c) 
+(e)  
+(f)  
+(a)  Reflects the impact of the net revenue deferral from Windows 10 of $6.6 billion, which decreased operating income, 
+net income, and diluted earnings per share (“EPS”) by $6.6 billion, $4.6 billion, and $0.58, respectively.  
+Includes $630 million of asset impairment charges related to our phone business, and $480 million of restructuring 
+charges  associated  with  our  phone  business  restructuring  plans,  which  together  decreased  operating  income,  net 
+income, and diluted EPS by $1.1 billion, $895 million, and $0.11, respectively.  
+Includes  $7.5  billion  of  goodwill  and  asset  impairment  charges  related  to  our  phone  business,  and  $2.5  billion  of 
+integration  and  restructuring  expenses,  primarily  associated  with  our  phone  business  restructuring  plans,  which 
+together  decreased  operating  income,  net  income,  and  diluted  EPS  by  $10.0  billion,  $9.5  billion,  and  $1.15, 
+respectively.  
+(d)   On  April 25,  2014,  we  acquired  substantially  all  of  NDS.  NDS  has  been  included  in  our  consolidated  results  of 
+operations starting on the acquisition date.  
+Includes a charge related to a fine imposed by the European Commission in March 2013 which decreased operating 
+income and net income by $733 million (€561 million) and diluted EPS by $0.09. Also includes a charge for Surface 
+RT inventory adjustments recorded in the fourth quarter of fiscal year 2013, which decreased operating income, net 
+income, and diluted EPS by $900 million, $596 million, and $0.07, respectively.  
+Includes a goodwill impairment charge related to our previous Online Services Division business segment (related to 
+More Personal Computing under our current segment structure) which decreased operating income and net income 
+by $6.2 billion and diluted EPS by $0.73.  
+(g)   Reflects  the  impact  of  the  adoption  of  the  new  accounting  standard  in  fiscal  year  2016  related  to  balance  sheet 
+classification of deferred taxes. See Note 1  – Accounting Policies of the Notes to  Financial Statements for further 
+discussion.  
+Our common stock is traded on the NASDAQ Stock Market under the symbol MSFT. On July 25, 2016, there were 106,534 
+registered holders of record of our common stock. The high and low common stock sales prices per share were as follows:  
+QUARTERLY STOCK PRICE INFORMATION  
+Quarter Ended 
+Fiscal Year 2016 
+High 
+Low 
+Fiscal Year 2015 
+High 
+Low 
+September 30 
+December 31 
+March 31 
+June 30 
+Fiscal Year 
+$  48.41    
+$  39.72    
+$  56.85     $  55.64     $  56.77    
+$  43.75     $  48.19     $  48.04    
+$  56.85  
+$  39.72  
+$  47.57    
+$  41.05    
+$  50.05     $  47.91     $  49.54    
+$  42.10     $  40.23     $  40.12    
+$  50.05  
+$  40.12  
+8 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+--- Page 10 ---
+Share Repurchases  
+SHARE REPURCHASES AND DIVIDENDS  
+On September 16, 2013, our Board of Directors approved a share repurchase program authorizing up to $40.0 billion in 
+share repurchases. The share repurchase program became effective on October 1, 2013, has no expiration date, and may 
+be suspended or discontinued at any time without notice. This share repurchase program replaced the share repurchase 
+program that was announced on September 22, 2008 and expired on September 30, 2013. As of June 30, 2016, $7.1 billion 
+remained of our $40.0 billion share repurchase program. All repurchases were made using cash resources.  
+We repurchased the following shares of common stock under the above-described repurchase plans:  
+(In millions) 
+Year Ended June 30, 
+First quarter 
+Second quarter 
+Third quarter 
+Fourth quarter 
+Total 
+Shares 
+  89  
+  66  
+  69  
+  70  
+294  
+Amount 
+2016  
+$  4,000  
+3,600  
+3,600  
+3,600  
+$  14,800
+Shares 
+Amount 
+Shares 
+Amount 
+2015     
+  43  
+  43  
+116  
+  93  
+$  2,000  
+2,000  
+5,000  
+4,209  
+  47  
+  53  
+  47  
+  28  
+2014 (a) 
+$  1,500  
+  2,000  
+  1,791  
+  1,118  
+295  
+$   13,209  
+175  
+$  6,409  
+(a)  Of the 175 million shares repurchased in fiscal year 2014, 128 million shares were repurchased for $4.9 billion under 
+the share repurchase program approved by our Board of Directors on September 16, 2013 and 47 million shares were 
+repurchased for $1.5 billion under the share repurchase program that was announced on September 22, 2008 and 
+expired on September 30, 2013.  
+The above table excludes shares repurchased to settle statutory employee tax withholding related to the vesting of stock 
+awards.  
+Dividends  
+In fiscal year 2016, our Board of Directors declared the following dividends:  
+Declaration Date 
+September 15, 2015 
+December 2, 2015 
+March 15, 2016 
+June 14, 2016 
+Dividend 
+Per Share 
+Record Date 
+$  0.36 
+$  0.36    
+$  0.36    
+$  0.36    
+  November 19, 2015   
+February 18, 2016  
+May 19, 2016  
+August 18, 2016  
+Total Amount 
+(In millions) 
+$  2,868 
+$  2,842 
+$  2,821 
+$  2,811 
+Payment Date 
+  December 10,  2015  
+March 10, 2016  
+June 9, 2016  
+  September 8, 2016  
+The dividend declared on June 14, 2016 will be paid after the filing of our Form 10-K and was included in other current 
+liabilities as of June 30, 2016.  
+In fiscal year 2015, our Board of Directors declared the following dividends:  
+Declaration Date 
+September 16, 2014 
+December 3, 2014 
+March 10, 2015 
+June 9, 2015 
+Dividend 
+Per Share 
+Record Date 
+$  0.31 
+$  0.31    
+$  0.31    
+$  0.31    
+  November 20, 2014  
+February 19, 2015  
+May 21, 2015  
+August 20, 2015  
+Payment Date 
+Total Amount 
+ (In millions)  
+  December 11, 2014  
+$  2,547 
+March 12, 2015  
+$  2,532    
+$  2,496    
+June 11, 2015  
+$  2,475     September 10, 2015  
+The dividend declared on June 9, 2015 was included in other current liabilities as of June 30, 2015.  
+9 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+--- Page 11 ---
+COMPARISON OF 5 YEAR CUMULATIVE TOTAL RETURN*  
+Among Microsoft Corporation, the S&P 500 Index,  
+and the NASDAQ Computer Index  
+Microsoft Corporation 
+S&P 500 
+NASDAQ Computer 
+6/11 
+100.00 
+100.00 
+100.00 
+6/12 
+120.87 
+105.45 
+119.00 
+6/13 
+140.66 
+127.17 
+124.01 
+6/14 
+174.80 
+158.46 
+175.51 
+6/15 
+189.96 
+170.22 
+196.72 
+6/16 
+226.29 
+177.02 
+202.04 
+*  $100 invested on 6/30/11 in stock or index, including reinvestment of dividends.  
+10 
+ 
+  
+ 
+  
+  
+  
+ 
+  

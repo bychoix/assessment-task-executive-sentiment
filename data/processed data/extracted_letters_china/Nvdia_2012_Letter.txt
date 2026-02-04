@@ -1,0 +1,238 @@
+
+--- Page 3 ---
+DEAR FELLOW STAKEHOLDERS,
+This year, NVIDIA made important advances in our growth markets 
+and delivered strong financial results.
+  Revenue excluding chipsets, which we are exiting,  
+grew 33 percent. Growth was largely driven by discrete 
+GPUs—including GeForce for gamers and consumers, 
+Quadro for designers and Tesla for scientists and 
+engineers. 
+  PC users continue to value GPUs. More than half of all 
+consumers and nearly all designers buy PCs with GPUs, 
+reflecting the importance of graphics and our ability to 
+continue providing amazing visual experiences.
+  Tegra, our mobile processor, recorded revenue growth 
+of more than 400 percent to $360 million. Our effort to 
+engage the fast-growing mobile industry is paying off. 
+We are one of the very few companies from the PC 
+industry to have made the leap to the mobile industry.
+  And we announced and shipped Tegra 3, the industry’s 
+most advanced mobile processor, which has been 
+adopted by top-tier phone and PC companies around  
+the world.
+The year wasn’t without challenges and disappointments. 
+Disk drive shortages, caused by severe floods in Thailand, 
+slowed the PC market. Demand in Europe was soft. And the 
+first generation of Android tablets showed disappointing 
+results, due to their high cost and limited applications. 
+Rather than booting up PCs, we now turn to our always-
+on, always-connected digital companions. With hundreds 
+of thousands of applications just a touch away, these 
+devices are more powerful than ever. 
+Even amid the mobile computing revolution, the PC will 
+remain the most productive and powerful computer. It 
+will continue to be especially important for designers who 
+create new worlds, engineers who design new products 
+and gamers who crave more amazing experiences.
+OUR STRATEGY
+NVIDIA is dedicated to advancing visual computing, a 
+growing field in which we have great expertise and passion. 
+Our 4,500 patents granted or pending include inventions 
+vital to modern computing, such as the GPU and program-
+mable shading, as well as those that will shape the future 
+of computing, such as CUDA and parallel processing.
+Our GPUs give PCs the power to make visual applications 
+silky smooth. We expect growth as more PCs are used for 
+gaming, design and creating content.
+We also extend the GPU into new growth opportunities, 
+such as data centers that power cloud computing and 
+mobile processors for smartphones and tablets.
+This year, we made great progress executing our strategy.
+Despite the challenging environment, revenue rose 13 
+percent to $4.0 billion. Gross margin increased to 51.4 
+percent, up 11.6 percentage points. Diluted earnings per 
+share more than doubled to $0.94. 
+TEGRA LIFTS OFF
+Tegra grew strongly and has an exciting future. We have 
+evolved from being a new entrant in a crowded field to one 
+of the top partners for makers of smartphones and tablets. 
+A SHIFTING LANDSCAPE
+The computing world is experiencing its biggest transfor-
+mation in decades. The PC’s position at its center is being 
+replaced by the mobile device, helped by more energy-
+efficient processors, wireless connectivity and data 
+centers that have turned shrink-wrapped applications  
+into web services delivered from the cloud. 
+Tegra is setting the bar for the industry. With Tegra 2, we 
+were the first to ship dual-core mobile processors. With 
+Tegra 3, we were the first to ship quad-core processors, 
+complete with a “4-PLUS-1” hybrid architecture that 
+delivers exceptional processing power as well as great 
+battery life. We also invented new technologies like PRISM, 
+a power-saving backlight technology and DirectTouch, 
+enabling faster touch processing. 
+NVIDIA CORPORATION  
+2012 ANNUAL REVIEW 
+1
+
+--- Page 4 ---
+Acer, ASUS, HTC, Fujitsu, LG and ZTE have already 
+announced Tegra 3 super phones or tablets. Many  
+more are in development.
+We expanded in the mobile market in June with the  
+$352 million cash acquisition of Icera, a U.K.-based 
+modem company with a highly sophisticated processor 
+that enables software-defined radios. With Icera, we are 
+now one of a very few companies that offer leading-edge 
+mobile processor, modem and system software. The  
+ZTE Mimosa, introduced at the recent Mobile World 
+Congress tradeshow, is only the first phone to bring 
+together our Tegra and Icera technologies.
+Cars, the ultimate mobile computer, are also an exciting 
+growth opportunity for Tegra. Already, Tegra drives the 
+infotainment systems for Audi and Lamborghini. Soon, it 
+will be in systems from BMW, Tesla Motors and Rolls 
+Royce. The car of the future will provide the comfort of a 
+home theater and robotics technology to make driving 
+safer. NVIDIA will play a key role in its development. 
+GEFORCE: ESSENTIAL GEAR OF GAMERS 
+The PC gaming market is thriving. Modern Warfare 3 
+recorded over $1 billion in sales in just 16 days, one day 
+faster than the blockbuster film Avatar. Battlefield 3 flew off 
+the shelves and set new standards for realism and game-
+play. In China, gamers keep 160,000+ icafes humming.
+The purpose of GeForce is to amaze and delight gamers. 
+We don’t stop at building the most advanced GPUs. We 
+develop sophisticated graphics algorithms and software. 
+We invent technologies that simulate physics, water, 
+smoke, light and shadows to make games more realistic. 
+We collaborate deeply with developers so that their games 
+take full advantage of our GPUs. We invent 3D glasses that 
+work perfectly with high-resolution computers, creating  
+a more immersive experience. All of these innovations 
+make possible the most amazing game experience.  
+We are to gamers what Nike is to athletes.
+Our dedication to their experience resulted in NVIDIA 
+taking 64 percent of the desktop discrete market in the 
+fourth quarter.  
+We have just begun rolling out a new line of GeForce 
+GPUs based on our revolutionary Kepler architecture, 
+which brings unprecedented capabilities and a giant leap 
+in energy efficiency. Initial reaction is fantastic. Reviews 
+are glowing and gamers lined up all around the world for 
+them, with the first shipments selling out in an hour. 
+REVOLUTIONIZING WORKSTATIONS
+Quadro helps designers realize their imagination and 
+bring it quickly to market. 
+This year, we introduced Maximus, putting a Tesla  
+supercomputing GPU inside a workstation, resulting in  
+a desk-side computer so powerful that it simulates the 
+physics of a design while it is being created.
+Designers and engineers can now simultaneously do 
+graphics-intensive and compute-intensive work on the 
+same machine. What once required racks of servers and 
+hours of waiting can now be done on a desktop, in real 
+time, greatly improving time to market. 
+We joined forces with HP to introduce the world’s first 
+all-in-one workstation, the Quadro-based HP Z1. The Z1 
+features a 27-inch display that snaps open, like the hood 
+of a car, so users can easily swap out parts and make 
+upgrades; no tools required. This is an entirely new 
+category of professional workstation that we believe  
+will tap market segments, particularly in the creative 
+professions, where space is at a premium and users are 
+unwilling to compromise performance. 
+TO EXASCALE AND BEYOND
+Of the world’s Top500 supercomputers, 35 are now 
+powered by NVIDIA GPUs—triple last year’s number. 
+Supercomputers enable researchers to efficiently explore 
+the most complex challenges in quantum chemistry, 
+climate research, alternative energy and other critical 
+scientific areas. Tesla GPUs gained strong momentum  
+in high performance computing this past year, as the 
+promise of exascale computing—about 1,000X faster than 
+today’s supercomputers—took hold. 
+Tesla GPUs power three of the world’s top five super-
+computers. The National Center for Supercomputing 
+Applications chose Tesla for its Blue Waters project, 
+2
+NVIDIA CORPORATION  
+2012 ANNUAL REVIEW 
+
+--- Page 5 ---
+which will deploy a supercomputer capable of sustained 
+performance of 1 petaflops. Oak Ridge National Labora-
+tories selected Tesla as it set out to develop “Titan,” the 
+world’s fastest supercomputer. 
+Software developers from a broad range of industries see 
+the benefits of Tesla. The number of Tesla-accelerated 
+applications has grown to more than 80 from a handful 
+two years ago, including those for molecular dynamics, 
+computational chemistry and physics, seismic processing 
+and equity risk analysis. 
+Simulation has become the modern laboratory for a 
+growing number of industries. High performance  
+computing already consumes more than 2 million  
+computing nodes a year. We believe all of these nodes  
+will eventually utilize a GPU-CPU hybrid multi-core 
+architecture. 
+High performance computing is a large growth opportunity 
+for GPUs. Supercomputing centers were early adopters, 
+with industry and universities now coming on board.  
+Data centers for consumer cloud services will come next. 
+Today’s supercomputer is tomorrow’s cloud computing 
+data center. 
+INSPIRING OUR COMMUNITY
+Our technologies are making a difference, and so are  
+our people. 
+With 7,300 employees across 40 offices worldwide,  
+we are bound together by a common vision and values. 
+NVIDIA’s high-performance, creative, one-team spirit 
+starts from a culture of giving. Each year, we forego our 
+holiday parties and dedicate our financial and human 
+resources to help our communities in an effort called 
+Project Inspire.
+This year, some 1,500 employees, family and community 
+members volunteered more than 10,000 hours to trans-
+form Full Circle Farm, a community farm in Sunnyvale, 
+Calif., dedicated to make a difference by helping and 
+teaching the community to eat and live healthy. Through 
+the effort of our employees, we expanded Full Circle’s 
+facilities and growing capacity so they can become 
+self-sustaining. 
+And in response to Japan’s devastating earthquake and 
+tsunami, we organized Operation Kizuna, which is the 
+Japanese word for love and friendship. We donated  
+$2.75 million, most of which was put toward helping  
+small family businesses get back on their feet.
+We gave back more this year than in any other. Our 
+culture of giving is one of my greatest sources of pride. 
+THE YEAR AHEAD
+At the core of our strategy is creating amazing experiences 
+by innovating in visual computing and advancing the GPU.
+Already, the GPU is central to the computing experience 
+for gamers and designers, and how we enjoy the rich 
+displays of super phones and tablets. It is accelerating  
+our way to exascale supercomputing. Soon, it will help 
+cloud computing data centers deliver rich graphics.
+Energy-efficiency is vital in each of these segments.  
+It rests at the soul of Kepler—a GPU so energy efficient 
+that it can power experiences from mobile devices to 
+Ultrabooks to data centers.
+Visual computing is more important than ever. Mobile 
+computing is growing faster than ever. The market for  
+the GPU is larger than ever. I believe the investments 
+we’ve made will enable us to drive these trends and 
+deliver rewards to our shareholders, our employees  
+and our customers.
+Sincerely,
+Jen-Hsun Huang 
+Co-Founder, President and Chief Executive Officer
+April 2012
+NVIDIA CORPORATION  
+2012 ANNUAL REVIEW 
+3
+ 
+ 
+ 

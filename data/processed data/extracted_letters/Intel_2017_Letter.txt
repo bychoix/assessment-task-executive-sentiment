@@ -1,0 +1,212 @@
+
+--- Page 3 ---
+LETTER FROM YOUR CEO
+When I stepped into the role of Intel CEO almost five years ago, this
+company had a decision to make: protect the past or chart the future.
+At the time, Intel’s core PC market was declining, but the explosion of
+data brought on by the rise of smartphones and social media was
+driving growth in cloud computing and paved our way forward.
+Since that time, Intel has been undergoing one of the most significant
+transformations in corporate history. We are evolving from a PC-
+centric to a data-centric company, delivering products that play critical
+roles in processing, storing, analyzing, and sharing data to enable
+amazing new experiences and competitive advantages. Put simply,
+Intel is building the foundation for technology’s data-driven future.
+2017 was a year of outstanding progress in our transformation. We
+delivered record revenue of $62.8 billion and strong growth in
+operating income with solid execution and spending discipline. Few
+companies can grow in the face of a declining core market. Between
+2012 and 2017, PC unit volumes declined 25%, yet Intel revenue grew
+more than $10 billion. It’s clear our strategy is working.
+We are successfully keeping our PC business healthy and strong while
+accelerating growth in the data center, Internet of Things, memory, and
+programmable solutions. Collectively, Intel’s data-centric businesses
+are growing in the mid-teens and approaching 50% of Intel’s total
+revenue. The investments we’ve made in promising, data-driven
+market opportunities like 5G communications, artificial intelligence,
+and autonomous driving are starting to pay off.
+In 2017, we acquired Mobileye to combine its leading computer vision and mapping technology with Intel’s high-performance
+computing and connectivity to deliver automated driving solutions from the cloud to the car. This is already a winning
+combination. Now an Intel company, Mobileye earned more customer designs in 2017 than in the prior year.
+While 2017 was a financial high note for the company, I’m even more excited about Intel’s future. We are now competing for a
+$260 billion total addressable market—the largest in Intel’s history. In some markets, Intel is the challenger, and winning will
+require bold moves, smart trade-offs, and a growth mindset. In all markets, Intel will continue to operate responsibly and with the
+integrity and transparency that has defined our culture.
+This year Intel is celebrating a half century of innovation that has profoundly changed the world. Personal computing, the Internet,
+and cloud computing would not be possible or pervasive without the invention of Intel® architecture and our relentless pursuit of
+Moore’s Law. In 2018, we will continue making the world’s best silicon as we focus on executing to our strategy and meeting our
+commitments to stockholders and customers.
+In our 50th year, a new Intel is emerging. We are well-positioned to be the end-to-end platform provider for the new data world,
+and a leader in artificial intelligence and the autonomous revolution. I could not be more proud to lead this company or more
+optimistic about Intel’s future.
+Brian M. Krzanich, Chief Executive Officer
+Past performance does not guarantee future results. This Annual Report contains forward-looking statements, and actual results could differ materially. Risk factors that could cause actual results
+to differ are set forth in the “Risk Factors” section and throughout our 2017 Form 10-K, which is included in this Annual Report. These risk factors are subject to update by our future filings and
+submissions with the U.S. Securities and Exchange Commission and earnings releases.
+
+--- Page 4 ---
+[THIS PAGE INTENTIONALLY LEFT BLANK]
+
+--- Page 5 ---
+LETTER FROM YOUR CHAIRMAN
+Several years ago I told you in this letter that Intel was changing
+to create more value for our owners. In 2017, Intel reported
+significant progress toward this goal.
+The Board of Directors is also evolving. We have worked to make
+sure that collectively we have the appropriate skills and
+backgrounds to be strong stewards in a dynamic industry. In the
+past two years, as a part of Board refreshment, Intel has added
+five new exceptional directors. They bring fresh perspectives and
+a rich mix of depth in areas such as business strategy, technology,
+innovation, global markets, compliance, and oversight. We
+continue to look for people with diverse backgrounds to address
+the challenges of today and tomorrow.
+After reviewing the structure and independence of the Board, we
+rotated almost all committee leaders, changed committee
+assignments, and appointed a new independent Lead Director. At
+the end of 2017, the Board had nine independent directors, who meet regularly as a group. Four of the Board’s five standing
+committees are chaired by independent directors.
+The Board continues to work closely with the CEO on business strategy and capital allocation, building on the company’s core
+strengths and increasing investments in growing businesses and emerging technologies. Of Intel’s 2017 capital investment of
+$11.8 billion, the largest amount was deployed for equipment and facilities to produce advanced silicon. The investment in logic
+was roughly flat compared to 2016, while the investment in new memory technology grew significantly. With the purchase of
+Mobileye for approximately $14.5 billion, Intel acquired some of the world’s most advanced technology in machine learning and
+computer vision.
+Intel’s investments in technology are long term. To assess their business value, my rule is to follow the cash. By this measure, the
+returns on investments of prior years are evident in the 2017 financial results. Intel’s business generated record cash from
+operations of $22.1 billion in 2017, and return on stockholders’ equity was 14%. For the past five years, cash from operations has
+averaged $20.8 billion, while return on stockholders’ equity has averaged 18%.
+Intel returned $8.7 billion in cash to stockholders in 2017. We paid $5.1 billion in dividends, with a dividend per share increase of
+4% over 2016, and we announced a 10% increase in Intel’s dividend per share in 2018. We also repurchased $3.6 billion in
+shares. Since 1990, the company has returned a cumulative $164 billion to stockholders through dividends and repurchases.
+In 2018, Intel will mark its 50th anniversary, a milestone few companies celebrate. People often ask me how Intel has been able to
+survive and grow. I think the answer is that the company has a history of adapting to change while staying true to core values. Intel
+has always had a resilient culture that values innovation, optimism, and integrity. Thousands of employees, current and former,
+have worked to keep that culture alive, and we are committed to continue doing this while creating value for our owners.
+Andy D. Bryant, Chairman of the Board
+
+--- Page 6 ---
+[THIS PAGE INTENTIONALLY LEFT BLANK]
+
+--- Page 7 ---
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K
+(Mark One)
+È ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended December 30, 2017.
+or
+‘ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from
+to
+.
+Commission File Number 000-06217
+INTEL CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+State or other jurisdiction of
+incorporation or organization
+2200 Mission College Boulevard, Santa Clara, California
+(Address of principal executive offices)
+94-1672743
+(I.R.S. Employer
+Identification No.)
+95054-1549
+(Zip Code)
+Registrant’s telephone number, including area code (408) 765-8080
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Common stock, $0.001 par value
+Name of each exchange on which registered
+The Nasdaq Global Select Market*
+Securities registered pursuant to Section 12(g) of the Act:
+None
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes È No ‘
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ‘ No È
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days. Yes È No ‘
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate website, if any, every interactive data file
+required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for
+such shorter period that the registrant was required to submit and post such files). Yes È No ‘
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (§229.405 of this chapter) is not contained herein,
+and will not be contained, to the best of registrant’s knowledge, in definitive proxy or information statements incorporated by reference in Part III of
+this Form 10-K or any amendment to this Form 10-K. È
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company,
+or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging
+growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer È Accelerated filer ‘
+Smaller reporting company ‘ Emerging growth company ‘
+Non-accelerated filer ‘
+(Do not check if a smaller reporting company)
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with
+any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ‘
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes ‘ No È
+Aggregate market value of voting and non-voting common equity held by non-affiliates of the registrant as of June 30, 2017, based upon the
+closing price of the common stock as reported by the Nasdaq Global Select Market on such date, was $158.3 billion. 4,668 million shares of
+common stock were outstanding as of February 7, 2018.
+Portions of the registrant’s proxy statement related to its 2018 Annual Stockholders’ Meeting to be filed subsequently are incorporated by
+reference into Part III of this Annual Report on Form 10-K. Except as expressly incorporated by reference, the registrant’s proxy statement shall not
+be deemed to be part of this report.
+DOCUMENTS INCORPORATED BY REFERENCE
+
+--- Page 8 ---
+TABLE OF CONTENTS
+CHANGES TO OUR ANNUAL REPORT ON FORM 10-K
+To improve readability and better present how we organize and manage our business, we have changed the order and
+presentation of content in our Annual Report on Form 10-K (Form 10-K). See “Form 10-K Cross-Reference Index” within the
+Consolidated Financial Statements and Supplemental Details for a cross-reference index to the traditional U.S. Securities and
+Exchange Commission (SEC) Form 10-K format.
+We have included key metrics that we use to measure our business, some of which are non-GAAP measures. See these
+“Non-GAAP Financial Measures” within Other Key Information.
+FUNDAMENTALS OF OUR BUSINESS
+OTHER KEY INFORMATION
+3 Business Introduction
+4 A Year in Review
+6 How We Organize Our Business
+7 Capital Allocation
+8 Our Strategy
+41 Stock Performance Graph
+42 Selected Financial Data
+43 Sales and Marketing
+44 Competition
+45 Intellectual Property Rights and Licensing
+10 Research and Development (R&D) and Manufacturing
+46 Critical Accounting Estimates
+12 Who Manages Our Business
+13 Human Capital
+46 Risk Factors
+54 Non-GAAP Financial Measures
+14 Corporate Responsibility and Sustainability
+55 Properties
+MANAGEMENT’S DISCUSSION AND ANALYSIS (MD&A) -
+RESULTS OF OPERATIONS
+15 Overview
+16 Revenue, Gross Margin, and Operating Expenses
+Business Unit Trends and Results
+Client Computing Group (CCG)
+Data Center Group (DCG)
+Internet of Things Group (IOTG)
+19
+22
+25
+28
+31
+56 Market for Registrant’s Common Equity
+56 Availability of Company Information
+CONSOLIDATED FINANCIAL STATEMENTS AND
+SUPPLEMENTAL DETAILS
+57 Index to Financial Statements and Supplemental Details
+58 Auditor’s Report
+60 Consolidated Financial Statements
+65 Notes to the Consolidated Financial Statements
+Non-Volatile Memory Solutions Group (NSG)
+108 Financial Information by Quarter
+Programmable Solutions Group (PSG)
+109 Controls and Procedures
+34 Other Consolidated Results of Operations
+110 Exhibits and Financial Statement Schedules
+35 Liquidity and Capital Resources
+38 Contractual Obligations
+39 Quantitative and Qualitative Disclosures about Market Risk
+116 Form 10-K Cross-Reference Index

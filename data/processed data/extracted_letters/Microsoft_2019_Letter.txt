@@ -1,0 +1,752 @@
+
+--- Page 2 ---
+Dear shareholders, colleagues, customers, and partners:   
+Thank  you  for  your  continued  commitment  and  investment  in  Microsoft.  Our  tremendous  progress  and  impact  over  the 
+past year would not have been possible without your trust and belief in our mission.  
+Fiscal 2019 was a record-breaking year for our company. We delivered more than $125 billion in revenue, $43 billion in 
+operating income, and more than $50 billion in operating cash flow – and returned more than $30 billion to shareholders. 
+Our  commercial  cloud  business  is  the  largest  in  the  world,  surpassing  $38 billion  in  revenue  for  the  year,  with  gross 
+margin expanding to 63 percent. I am proud of how we are helping organizations of every size in every industry innovate 
+and thrive using  our platforms and  tools. And I  am proud of how we are empowering everyone  – consumers, students, 
+teachers,  and  the  more  than  2 billion  firstline  workers  around  the  world  –  with  experiences  to  help  them  always  feel 
+confident, capable, and in control.  
+Our mission to empower every person and every organization on the planet to achieve more has never been more 
+important. At a time when many are calling attention to the role technology plays in society broadly, our mission remains 
+constant. It grounds us in the enormous opportunity and responsibility we have to ensure that the technology we create 
+always benefits everyone on the planet, including the planet itself. Our platforms and tools help make small businesses 
+more  productive,  multinationals  more  competitive,  nonprofits  more  effective,  and  governments  more  efficient.  They 
+improve healthcare and education outcomes, amplify human ingenuity, and allow people everywhere to reach higher.  
+Today, every company is a technology company, and every organization will increasingly need to build its own proprietary 
+technology solutions to compete and grow. Organizations that embrace this approach – something I call “tech intensity” – 
+will not only adopt best-in-class software and services but also build their own digital capability.  
+I  believe  the  next  big  technology  breakthroughs  will  come  not  only  from  technology  companies  like  Microsoft,  but  from 
+retailers,  healthcare  providers,  and  manufacturers,  working  in  partnership  with  us.  Every  day,  we  work  alongside  our 
+customers  and  partners  to  help  them  build  their  own  digital  capability  –  innovating  with  them,  creating  new  businesses 
+with them, and earning their trust. We want them to become independent with us, not dependent on us.  
+Our commitment to our customers’ success is resulting in deeper partnerships, larger, multiyear cloud agreements, and 
+growing momentum across every layer of our differentiated technology stack – from application infrastructure, to data and 
+artificial intelligence (AI), to business process,  to productivity and collaboration. One of the great  privileges  of my job is 
+seeing our customers’ tech intensity in action around the world:  
+• 
+• 
+• 
+• 
+• 
+In rural South Africa, Dr. Raymond Campbell saw an opportunity to bring mobile healthcare to communities 
+where it’s needed most to address pressing and preventable health issues like diabetes, heart disease, and 
+tuberculosis.  His  company,  Phulukisa  Health  Solutions,  is  now  introducing  basic  healthcare  screening  to 
+remote areas with an Azure-powered backpack.  
+In Australia, Dr. David Kellerman, a senior lecturer at UNSW Sydney, is using Microsoft 365 to bring together 
+all his students  – those in his classroom and those watching online  – so they can learn together no  matter 
+where they  are. Students report that they are happier and more  engaged and say they feel as though they 
+are part of a single learning community.  
+In the seaside city of Ise, Japan, a family-owned restaurant is relying on Azure ML, along with Power BI, to 
+forecast sales so it can better tailor its menu to meet customers’ tastes. It was an initiative spearheaded by 
+employee, Akiyoshi Shinobu, who went from waiting tables to teaching herself machine learning to digitally 
+transform the restaurant where she worked.  
+In  Fjaroaal,  Iceland,  Birna  Dögg,  along  with  other  firstline  workers  at  the  Alcoa  smelting  plant,  are  using 
+Microsoft Teams to create a new culture of work. For the first time, any employee at the plant can schedule 
+shifts on the go and share updates with colleagues, giving every worker a voice.  
+In Detroit, Ford Motor Co. is using GitHub as its software development platform to build the cars of the future. 
+More than 8,000 Ford Motor employees use it to innovate at a much faster pace and collaborate with a vast 
+ecosystem of third-party software developers around the world.  
+1 
+ 
+
+--- Page 3 ---
+•  And, in nearly every country, leading companies – from AT&T and Daimler to Walgreens Boots Alliance and 
+Walmart  –  are  partnering  with  us  to  build  the  technology  they  need  to  compete  and  innovate  in  a  time  of 
+unprecedented change.  
+TECHNOLOGY BREAKTHROUGHS AND PROGRESS  
+Computing  is  becoming  embedded  in  the  world  –  in  every  place  and  every  thing.  This  era  of  the  intelligent  cloud  and 
+intelligent  edge  is  shaping  the  next  phase  of  innovation,  powering  intelligent  systems  and  experiences  that  previously 
+would have been unimaginable, and transforming nearly everything around us. Across our businesses, we are innovating 
+to empower our customers, and investing in large and growing markets to help them digitally transform – today and long 
+into the future.  
+Applications and Infrastructure  
+In a world where every company is a digital company, developers will play an increasingly vital role in value creation and 
+growth across every industry, and GitHub is their home. Since our acquisition of GitHub last fall, growth has accelerated. 
+Today it’s used by more than 40 million developers, including those who work at the majority of the Fortune 50. Beyond 
+GitHub, we are investing to build the most complete toolchain for developers  – independent of language, framework, or 
+cloud. Visual Studio and Visual Studio Code are now the most popular code-editing tools in the world. And TypeScript is 
+one of the fastest-growing programming languages.  
+We are building Azure as the world’s computer, addressing customers’ real-world operational sovereignty and regulatory 
+needs. Today, 95 percent of the Fortune 500 trust Azure for their mission-critical workloads. We have more compliance 
+certifications and more datacenter regions than any other cloud provider, and this year, we were the first to open cloud 
+datacenters in the Middle East and in South Africa. We also opened new government regions to meet the public sector’s 
+stringent requirements for maintaining the security and integrity of classified workloads. Azure remains the only cloud that 
+extends to the edge, and our new cloud-to-edge services and devices – from Azure Data Box Edge to Azure Stack HCI – 
+bring the full power of Azure to where data is generated.  
+Data and AI  
+The variety, velocity, and volume of data is increasing – with 50 billion connected devices coming online by 2030, more 
+than  double  the  number  today  –  and  Azure  is  the  only  cloud  with  limitless  data  and  analytics  capabilities  across  our 
+customers’ entire data estate. We brought hyperscale capabilities to our relational database services for the first time this 
+year, and we offer the most comprehensive cloud analytics – from Azure Data Factory to Azure SQL Data Warehouse to 
+Power BI.  
+The quintessential characteristic for every application going forward will be AI, and we believe it cannot be the exclusive 
+province  of  a  few  companies  or  countries.  That’s  why  we  are  democratizing  AI  infrastructure,  tools,  and  services  with 
+Azure Cognitive Services, so any developer can embed the ability to see, hear, respond, translate, reason, and more into 
+their applications. Azure Cognitive Services is the most  comprehensive  portfolio of AI tools available, and this year, we 
+added  new  speech-to-text,  search,  vision,  and  decision  capabilities,  as  well  as  updates  to  Azure  Machine  Learning  to 
+streamline the building, training, and deployment of machine learning models.  
+Business Applications  
+Dynamics 365 uniquely enables any organization to create digital feedback loops that take data from one system and use 
+it to optimize the outcomes of another, enabling any business to become AI-first. This year, we introduced Dynamics 365 
+AI, a new class of AI application built for an era where systems of record and engagement are converted into intelligence. 
+And the Open Data Initiative we launched with Adobe and SAP last fall takes this even further, delivering on our vision to 
+enable data to be exchanged and enriched across systems to provide unparalleled business insight.  
+2 
+ 
+  
+
+--- Page 4 ---
+We are enabling our customers to digitize not only their business processes but to bridge the physical and digital worlds 
+with our investments in mixed-reality cloud. The new HoloLens 2 is the most advanced, intelligent edge device available, 
+offering two times the field of view and three times the comfort as the previous version. And, together with Dynamics 365 
+and new Azure mixed-reality services, it enables organizations to digitize physical spaces and interactions and empower 
+their firstline employees with the right information at the right time, in the context of their work.  
+Our Power Platform – spanning Power BI, PowerApps, and Flow – enables anyone in an organization to start building an 
+intelligent  app  or  workflow  where  none  exists.  It  brings  together  low-code,  no-code  app  development,  robotic  process 
+automation, and self-service analytics into a single, comprehensive platform. This year, we introduced new capabilities to 
+make it much easier and faster for anyone to build higher-quality PowerApps. And, with Power BI, we are the recognized 
+leader in business intelligence in the cloud, with more than 25 million models hosted on the service and 12 million queries 
+processed each hour.  
+LinkedIn  now  has  more  than  645 million  members  and  is  the  most  comprehensive  solution  for  every  organization  to 
+manage and engage their most important resource – their talent. Our Talent portfolio – from Talent Solutions and Talent 
+Insights, to employee  engagement with Glint and LinkedIn Learning  – enables every organization to attract,  retain, and 
+develop  the  best  talent  in  an  increasingly  competitive  jobs  market.  And  we  are  innovating  with  new  experiences  for 
+customers  that  leverage  the  LinkedIn  and  Microsoft  Graphs,  introducing  new  integrations  with  Dynamics  365  and 
+Microsoft 365.  
+Modern Workplace  
+Microsoft  365  empowers  everyone  –  enterprises,  small  businesses,  and  firstline  workers  –  with  an  integrated,  secure 
+experience that transcends any one device. We are helping every business build out their system of communication and 
+collaboration to drive their productivity as well as their business transformation. We are infusing AI across Microsoft 365 to 
+enable new automation, prediction, translation, and insights capabilities. Meetings are more inclusive in Microsoft Teams, 
+presentations  more  accessible in PowerPoint, videos more searchable in Stream, and emails  more  relevant in  Outlook. 
+And  with  Workplace  Analytics  and  Microsoft  Search,  we  distill  knowledge  and  insights  from  data  to  help  people  work 
+smarter, not longer. Office  365 Commercial has 180 million users.  Our EMS install  base exceeded 100 million.  And the 
+Outlook apps on iOS and Android also surpassed more than 100 million users for the first time.  
+Microsoft Teams had a breakout year with more than 13 million daily active users and 19 million weekly active  users. It 
+brings  together  everything  a  team  needs  into  a  single,  integrated  user  experience.  And  we  are  broadening  our 
+opportunity, bringing  Teams for the first time to  new and underpenetrated  markets including  healthcare, hospitality, and 
+retail,  as  well  as  firstline  workers.  Windows  10  is  active  on  more  than  900 million  devices,  with  accelerating  adoption 
+across both enterprise and consumer as the most secure and productive operating system. And, we expanded our family 
+of Surface devices this year – including the new Surface Go and Surface Hub 2S. And, just this month, we unveiled the 
+new Surface Duo and Surface Neo to inspire new categories focused on productivity and creativity.  
+Gaming  
+In gaming, we are pursuing our expansive opportunity to transform how games are distributed, played, and viewed. Our 
+new  breakthrough  game  streaming  technology,  Project  xCloud,  will  enter  public  trials  this  fall.  It  will  put  gamers  at  the 
+center of their gaming experience, enabling them to play games in high-fidelity wherever and whenever they want, on any 
+device.  
+Microsoft Game Stack brings together our tools and services to empower game developers  – from independent creators 
+to the biggest game studios – to build, operate, and scale cloud-first games across mobile, PC, and console. Our growing 
+Xbox  Live  community  is  key  to  our  approach,  and  for  the  first  time  we  are  enabling  developers  to  reach  these  highly 
+engaged  gamers  on  iOS  and  Android.  Finally,  we  increased  our  first-party  game  studios  to  15  this  year  to  deliver 
+differentiated  content  for  our  fast-growing  subscription  services  like  Xbox  Game  Pass,  which  is  now  available  on  both 
+console and PC.  
+3 
+ 
+  
+
+--- Page 5 ---
+TRUST  
+Along with this expanding opportunity comes great responsibility. At its core, responsibility is about earning and sustaining 
+the trust of the customers and partners we empower and the communities in which we live and work. Without trust, none 
+of our progress is possible.  
+Trust  begins  with  our  commitment  to  shared  success  and  prosperity.  Our  customers  want  a  partner  whose  business 
+model  is  fundamentally  aligned  to  their  success.  No  customer  wants  to  be  dependent  on  a  provider  that  sells  them 
+technology on one end and competes with them on the other.  
+This focus on trust extends to ensuring that those who use our products and services have confidence in the underlying 
+technology  itself.  There  are  three  pillars  to  our  approach:  privacy,  cybersecurity,  and  responsible  AI.  Across  each,  our 
+commitment  goes  beyond  words  to  real  actions,  providing  tools  and  frameworks  for  our  customers  and  working 
+collaboratively with the public sector to drive policy change.  
+The first pillar is privacy. We believe privacy is a fundamental human right. Our approach to privacy and data protection is 
+grounded  in  our  belief  that  customers  own  their  own  data  and  ensuring  any  product  or  service  we  provide  is  built  with 
+privacy by design from the ground up. We’ve defined clear privacy principles that include a commitment to be transparent 
+in  our  privacy  practices,  to  offer  meaningful  privacy  choices,  and  to  always  responsibly  manage  the  data  we  store  and 
+process.  It’s  why  we  were  early  supporters  of  the  European  Union’s  General  Data  Protection  Regulation  (GDPR),  and 
+why  we  were  the  first  company  to  expand  GDPR’s  core  rights  to  all  our  customers  around  the  world.  To  date,  some 
+26 million  people  have  used  these  tools,  including  10 million  Americans.  And  it’s  why  we  continue  to  advocate  for  new 
+privacy laws to ensure customers enjoy the transparency and control they rightfully deserve.  
+The  second  pillar  is  cybersecurity  –  a  central  challenge  for  every  customer.  We  are  investing  to  protect  customers  in 
+today’s  “zero  trust”  environment.  We  analyze  more  than  6.5  trillion  signals  each  day,  and  process  450 billion 
+authentications and scan 400 billion emails for malware and phishing each month. This massive signal generates insight 
+that fuels security innovation across Azure, Dynamics 365, Microsoft 365 – all our products and services. We are the only 
+company  that  offers  end-to-end  security  –  spanning  identity,  device  endpoints,  information,  cloud  applications,  and 
+infrastructure. It starts with Azure Active Directory and builds with three new services we introduced this year: Microsoft 
+Threat Protection, Azure Sentinel, and Azure Confidential Computing. We are also taking an ecosystem-wide approach, 
+partnering  across  both  the  tech  sector  and  the  public  sector  to  address  new  threats  in  an  increasingly  complex  and 
+heterogenous  world.  We  have  taken  the  lead  in  bringing  together  governments,  technology  companies,  and 
+nongovernmental organizations to work collaboratively to combat emerging cybersecurity threats and promote a safe and 
+secure digital world. We know it’s only a start, but we are encouraged by what’s been achieved, including partnering with 
+the  government  of  France  to  mobilize  more  than  60  countries,  350  companies,  and  130  international  and 
+nongovernmental organizations to join The Paris Peace Call for Trust and Security in Cyberspace.  
+And, finally, we build AI responsibly, taking a principled approach and asking difficult questions, like not what computers 
+can  do,  but  what  computers  should  do.  We’ve  been  inspired  by  what  AI  can  do  in  the  hands  of  changemakers  who 
+harness it to address society’s most pressing challenges. It’s why this year we announced two new programs in our AI for 
+Good initiative: AI for Humanitarian Action and AI for Cultural Heritage as well as continuing to expand our efforts in AI for 
+Earth  and  AI  for  Accessibility.  At  the  same  time,  we  must  also  guard  against  the  unintended  consequences  of  AI.  We 
+believe there is an important discussion to be convened about how these new technologies should be used. One example 
+of  this  is  our  call  for  more  thoughtful  government  regulation  on  facial  recognition  technology,  because  we  believe  a 
+technology as powerful as this requires both the public and private sectors to develop norms around acceptable uses.  
+4 
+ 
+  
+
+--- Page 6 ---
+ENVIRONMENTAL AND CORPORATE SOCIAL RESPONSIBILITY  
+Beyond these three pillars, we are working to foster a sustainable future where everyone has access to the benefits and 
+opportunities created  by technology. As a reflection of the importance we  place on advancing environmental and social 
+progress, Microsoft’s board of directors has a Regulatory and Public Policy Committee that works together with me, my 
+leadership team, and others across Microsoft to oversee our commitments to environmental sustainability and corporate 
+social  responsibility.  No  single  company  is  going  to  solve  macro  challenges  like  climate  change  alone,  but  as  a  global 
+technology  company,  we  are  well-positioned  to  enable  and  accelerate  digital  transformations  that  lead  to  a  low-carbon 
+future.  That  is  why  we  are  stepping  up  our  commitment.  Over  the  past  year,  we  expanded  our  work  through  our 
+operations,  investments,  partnerships,  and  advocacy  across  initiatives  spanning  both  environmental  and  social 
+responsibility.  
+•  We continue to operate carbon neutral across our worldwide operations, driven by an internal carbon tax, as 
+we have every year since 2012. And we’ve taken new steps over the past year to align our carbon-reduction 
+efforts with the latest climate science by setting a goal to reduce our operational emissions by 75 percent by 
+2030, which puts us on a path to exceed the ambitions of the Paris Accord two decades ahead of schedule. 
+This  year,  we  raised  our  carbon  fee  to  $15  per  metric  ton,  a  near  doubling  of  the  previous  fee,  to  put 
+sustainability  at  the  core  of  every  part  of  our  business.  We’re  also  extending  our  carbon  reduction  targets 
+beyond  our  own operations. We will cut carbon emissions by 30 percent across our global supply chain by 
+2030. And in October, we extended our carbon-neutrality commitment to our products and devices with a pilot 
+to make 825,000 Xbox consoles carbon neutral.  
+•  We are committed to ensuring our datacenters are among the most sustainable in the world. By the end of 
+this year, we will achieve our target of powering our datacenters with 60 percent renewable energy and will 
+aim  to  reach  70 percent  renewable  energy  within  the  next  four  years.  In  fact,  when  I  was  in  Sweden  this 
+spring,  we  announced  our  plans  to  build  some  of  the  most  advanced  and  sustainable  datacenters  to  date, 
+powered from 100 percent renewable energy and with zero-waste operations.  
+•  And, we are also working with our customers and partners to help them use technology to reduce their own 
+environmental  footprints  and  create  their  own  solutions  for  a  more  sustainable  planet.  Our  AI  for  Earth 
+program,  as  an  example,  has  expanded  access  to  massive  environmental  data  sets  that  can  help  others 
+generate valuable insights about the health of our planet, including the conditions of our air, water, land, and 
+the well-being of our wildlife. And it supports organizations that are applying AI to environmental challenges, 
+by helping them harness the full power of cloud computing.  
+•  We are working with organizations around the world to enable young people – including those who identify as 
+female and under-represented minorities – with the digital skills required for the future. For example, we are 
+the  largest  funder  of  Code.org,  which  teaches  coding  skills  and  reaches  students  in  almost  every  country. 
+And this year marks the 10-year anniversary of our Technology Education and Literacy in Schools (TEALS) 
+Program, which helps build and grow sustainable computer science programs by connecting volunteers from 
+Microsoft  and other  firms with  teachers to  team  teach computer science in hundreds of high schools in the 
+U.S. and British Columbia, Canada.  
+•  We know that there is a broadband gap, and that’s why, in the U.S., our Airband program is using a mixed-
+technology approach, including TV whitespaces, to connect 3 million people living in unserved rural areas to 
+broadband by 2022. And we’re working in more than 20 countries, harnessing this same technology to bring 
+broadband to rural communities elsewhere.  
+•  We also know that access to affordable housing is a significant barrier for many, and this year, we launched a 
+major  initiative  to  expand  housing  options  for  people  who  work  in  the  Puget  Sound  region  where  we  are 
+headquartered. We believe that everyone should be able to choose to live in the community where they work, 
+not just our employees and business partners, but all those who serve the broader community, from teachers 
+and small-business owners, to first responders and medical practitioners. It’s why we are putting $500 million 
+to work in loans and grants to accelerate the construction of more affordable housing in the region.  
+5 
+ 
+  
+
+--- Page 7 ---
+•  Finally,  more  broadly,  we’ve  expanded  our  support  for  the  nonprofit  sector.  We  work  closely  with  nonprofit 
+organizations to help them accelerate their organizational transformation with technology, and, in fiscal 2019, 
+Microsoft  donated  or  provided  discounted  software  and  services  worth  more  than  $1.5 billion  via  Microsoft 
+Philanthropies.  Our  employees  generously  donated  an  additional  $170 million  (including  company  match) 
+through our employee giving program to support nonprofits in local communities around the world.  
+CULTURE  
+At its core, Microsoft’s strength lies in our talented people. It is a privilege to lead Microsoft employees around the world 
+who  work  every  day  to  earn  our  customers’  trust  and  help  them  succeed.  We’ve  long  recognized  the  importance  of 
+prioritizing the physical, emotional, and financial well-being of our employees and their families, providing industry-leading 
+benefits, including paid vacation and sick leave, as well as paid leaves of absence for a variety of life situations, including 
+welcoming a new child or taking care of a family member with a serious health condition.  
+We  are  on  a  journey  to  close  the  gap  between  our  espoused  culture  and  the  lived  experience  for  every  employee  at 
+Microsoft.  Each  day  we  practice  customer  obsession  –  listening  and  then  innovating  to  meet  customers’  unarticulated 
+needs.  We  operate  as  One  Microsoft  to  build  and  deliver  the  best  solutions  for  customers.  And  we  strive  to  make  our 
+workplace  more  diverse  and  inclusive  to  serve  our  diverse  customers  around  the  world  and  create  a  workplace  where 
+everyone can do their best work. Since fiscal 2016, we have increased the number of women corporate vice presidents by 
+152 percent. We’ve increased the number of African American/Black and Hispanic/Latinx employees in nonretail roles by 
+54 percent. And this past fiscal year, more than half of our U.S.-based interns were women, African American/Black, or 
+Hispanic/Latinx. Diversity and inclusion continue to be a core priority for every employee and leader at Microsoft as part of 
+our  annual  performance  and  development  approach.  And  this  past  year  we  strengthened  the  connection  between  our 
+growth  mindset  culture  and  our  approach  to  diversity  and  inclusion  by  introducing  a  science-based,  global  allyship 
+program.  
+At  the  board  level,  the  slate  of  directors  nominated  for  election  at  the  2019  annual  shareholders  meeting  includes  five 
+women  (accounting  for  38 percent  of  our  directors)  and  two  of  our  four  board  committees  will  be  chaired  by  women. 
+Overall,  more  than  half  of  our  nominees  (54  percent)  represent  gender  or  ethnic  diversity.  Representation  is  only  one 
+measure of progress, and we must keep pushing to do more, but I’m encouraged by our progress. Culture transformation 
+is a continuous process of learning, renewal, and having the everyday courage to confront our own fixed mindsets, while 
+remaining true to our enduring values of respect, integrity, and accountability.  
+In closing, at our partner conference this year, I talked about how our more than 140,000 employees, combined with our 
+17 million partners and our 75 million customers, have a collective opportunity to improve the lives of the 7 billion people 
+on the planet through the power of technology. Everything we do is driven by this deep sense of purpose. We will continue 
+to work alongside our customers to help them build their own digital capability and work to earn their trust every day. We 
+will continue to innovate across the cloud and edge to help our customers thrive – today and long into the future. And we 
+will continue to invest in large and growing markets to expand our opportunity.  
+As I reflect on this fiscal year, I’m proud of our progress and impact. And I’m even more optimistic about the opportunity 
+ahead.  
+Satya Nadella  
+Chief Executive Officer  
+October 16, 2019  
+6 
+ 
+  
+  
+ 
+
+--- Page 8 ---
+(In millions, except per share amounts) 
+Year Ended June 30, 
+Revenue 
+Gross margin 
+Operating income 
+Net income 
+Diluted earnings per share 
+Cash dividends declared per share 
+Cash, cash equivalents, and short-term 
+investments 
+Total assets 
+Long-term obligations 
+Stockholders’ equity 
+FINANCIAL HIGHLIGHTS  
+2019 (a)   
+$ 125,843  
+82,933  
+42,959  
+39,240(b) 
+5.06 (b) 
+1.84  
+   133,819  
+  286,556  
+  114,806  
+  102,330  
+2018    
+$  110,360  
+72,007  
+35,058  
+16,571(c) 
+2.13(c) 
+1.68  
+    133,768  
+  258,848  
+  117,642  
+82,718  
+2017 (d)(e)  
+2016 (d)  
+$  96,571  
+62,310  
+29,025 (f) 
+25,489 (f) 
+3.25 (f) 
+1.56  
+   132,981  
+  250,312  
+  106,856  
+87,711  
+$  91,154  
+58,374  
+26,078 (g) 
+20,539 (g) 
+2.56 (g) 
+1.44  
+2015   
+$  93,580  
+60,542  
+18,161(h) 
+12,193(h) 
+1.48(h) 
+1.24  
+   113,240  
+  202,897  
+66,705  
+83,090  
+96,526  
+    174,303  
+44,574  
+80,083  
+(b) 
+(c) 
+(f) 
+(g) 
+(h) 
+(a)  GitHub  has  been  included  in  our  consolidated  results  of  operations  starting  on  the  October 25,  2018  acquisition 
+date.  
+Includes a $2.6 billion net income tax benefit related to intangible property transfers and a $157 million net charge 
+related to the enactment of the Tax Cuts and Jobs Act (“TCJA”), which together increased net income and diluted 
+earnings per share (“EPS”) by $2.4 billion and $0.31, respectively. Refer to Note 12 – Income Taxes of the Notes to 
+Financial Statements for further discussion.  
+Includes a $13.7 billion net charge related to the enactment of the TCJA, which decreased net income and diluted 
+EPS by $13.7 billion and $1.75, respectively. Refer to Note 12 – Income Taxes of the Notes to Financial Statements 
+for further discussion.  
+(d)  Reflects the impact of the adoption of new accounting standards in fiscal year 2018 related to revenue recognition 
+and leases.  
+(e)  LinkedIn has been included in our consolidated results of operations starting on the December 8, 2016 acquisition 
+date.  
+Includes  $306 million  of  employee  severance  expenses  primarily  related  to  our  sales  and  marketing  restructuring 
+plan,  which  decreased  operating  income,  net  income,  and  diluted  EPS  by  $306 million,  $243 million,  and  $0.04, 
+respectively.  
+Includes $630 million of  asset impairment charges related to our Phone business and $480 million of  restructuring 
+charges associated with our Phone business restructuring plans, which together  decreased operating income, net 
+income, and diluted EPS by $1.1 billion, $895 million, and $0.11, respectively.  
+Includes  $7.5 billion  of  goodwill  and  asset  impairment  charges  related  to  our  Phone  business  and  $2.5 billion  of 
+integration  and  restructuring  expenses,  primarily  associated  with  our  Phone  business  restructuring  plans,  which 
+together  decreased  operating  income,  net  income,  and  diluted  EPS  by  $10.0 billion,  $9.5 billion,  and  $1.15, 
+respectively.  
+ISSUER PURCHASES OF EQUITY SECURITIES, DIVIDENDS, AND STOCK PERFORMANCE  
+SHARE REPURCHASES AND DIVIDENDS  
+Share Repurchases  
+On  September 16,  2013,  our  Board  of  Directors  approved  a  share  repurchase  program  (“2013  Share  Repurchase 
+Program”) authorizing up to $40.0 billion in share repurchases. The 2013 Share Repurchase Program became effective 
+on October 1, 2013, and was completed on December 22, 2016.  
+On  September 20,  2016,  our  Board  of  Directors  approved  a  share  repurchase  program  authorizing  up  to  an  additional 
+$40.0 billion in share repurchases (“2016 Share Repurchase Program”). This share repurchase program commenced on 
+December 22, 2016 following completion of the 2013 Share Repurchase Program, has no expiration date, and  may be 
+suspended  or  discontinued  at  any  time  without  notice.  As  of  June 30,  2019,  $11.4 billion  remained  of  the  2016  Share 
+Repurchase Program.  
+7 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+--- Page 9 ---
+We repurchased the following shares of common stock under the share repurchase programs:  
+(In millions) 
+Year Ended June 30, 
+First Quarter 
+Second Quarter 
+Third Quarter 
+Fourth Quarter 
+Total 
+Shares 
+24  
+57  
+36  
+33  
+150  
+Amount 
+2019 
+$  2,600  
+6,100  
+3,899  
+4,200  
+$  16,799  
+Shares 
+ 22  
+ 22  
+ 34  
+ 21  
+ 99  
+Amount 
+2018 
+$  1,600  
+  1,800  
+  3,100  
+  2,100  
+$   8,600  
+Shares 
+  63  
+  59  
+  25  
+  23  
+170  
+Amount 
+2017 
+$  3,550  
+3,533  
+1,600  
+1,600  
+$  10,283  
+Shares repurchased in the first and second quarter of fiscal year 2017 were under the 2013 Share Repurchase Program. 
+All  other  shares  repurchased  were  under  the  2016  Share  Repurchase  Program.  The  above  table  excludes  shares 
+repurchased  to  settle  employee  tax  withholding  related  to  the  vesting  of  stock  awards  of  $2.7 billion,  $2.1 billion,  and 
+$1.5 billion for fiscal years 2019, 2018, and 2017, respectively. All share repurchases were made using cash resources.  
+Dividends  
+Our Board of Directors declared the following dividends:  
+Declaration Date 
+Fiscal Year 2019 
+September 18, 2018 
+November 28, 2018 
+March 11, 2019 
+June 12, 2019 
+Total 
+Fiscal Year 2018 
+September 19, 2017 
+November 29, 2017 
+March 12, 2018 
+June 13, 2018 
+Total 
+Record Date 
+Payment Date 
+  November 15, 2018     December 13, 2018  
+March 14, 2019  
+June 13, 2019  
+August 15, 2019     September 12, 2019  
+February 21, 2019    
+May 16, 2019    
+  November 16, 2017    
+February 15, 2018    
+May 17, 2018    
+December 14, 2017  
+March 8, 2018  
+June 14, 2018  
+August 16, 2018     September 13, 2018  
+Dividend 
+Per Share 
+$   0.46  
+  0.46  
+  0.46  
+  0.46  
+$  1.84  
+Amount 
+  (In millions)  
+$  3,544  
+3,526  
+3,521  
+3,516  
+$  14,107  
+$  0.42  
+  0.42  
+  0.42  
+  0.42  
+$  3,238  
+3,232  
+3,226  
+3,220  
+$  1.68  
+$  12,916  
+The dividend declared on June 12, 2019 was included in other current liabilities as of June 30, 2019.  
+8 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+
+--- Page 10 ---
+STOCK PERFORMANCE  
+COMPARISON OF 5 YEAR CUMULATIVE TOTAL RETURN*  
+Among Microsoft Corporation, the S&P 500 Index  
+and the NASDAQ Computer Index  
+Microsoft Corporation 
+S&P 500 
+NASDAQ Computer 
+6/14 
+100.00 
+100.00 
+100.00 
+6/15 
+108.67 
+107.42 
+112.28 
+6/16 
+129.46 
+111.71 
+115.54 
+6/17 
+178.71 
+131.70 
+159.97 
+6/18 
+260.63 
+150.64 
+209.89 
+6/19 
+359.85 
+166.33 
+229.01 
+*  $100 invested on 6/30/14 in stock or index, including reinvestment of dividends.  
+9 
+ 
+  
+  
+ 
+  
+  
+ 
+
+--- Page 11 ---
+Note About Forward-Looking Statements  
+This report includes estimates, projections, statements relating to our business plans, objectives, and expected operating 
+results that  are “forward-looking statements” within the  meaning  of the Private Securities Litigation Reform Act  of 1995, 
+Section 27A  of  the  Securities  Act  of  1933,  and  Section 21E  of  the  Securities  Exchange  Act  of  1934.  Forward-looking 
+statements  may  appear  throughout  this  report,  including  the  following  sections:  “Business”  and  “Management’s 
+Discussion and Analysis of Financial Condition  and Results of Operations”.  These forward-looking statements generally 
+are identified by the words “believe,” “project,” “expect,” “anticipate,” “estimate,” “intend,” “strategy,” “future,” “opportunity,” 
+“plan,” “may,” “should,” “will,” “would,” “will be,” “will continue,” “will likely result,” and similar expressions. Forward-looking 
+statements are based on current expectations and assumptions that are subject to risks and uncertainties that may cause 
+actual results to differ materially. We describe risks and uncertainties that could cause actual results and events to differ 
+materially in “Risk Factors,” “Management’s Discussion and Analysis of Financial Condition and Results  of Operations,” 
+and  “Quantitative  and  Qualitative  Disclosures  about  Market  Risk”  in  our  fiscal  year  2019  Form  10-K.  Readers  are 
+cautioned not to place undue reliance on forward-looking statements, which speak only as of the date they are made. We 
+undertake no obligation to update or revise publicly any forward-looking statements, whether because of new information, 
+future events, or otherwise.  
+BUSINESS  
+GENERAL  
+Embracing Our Future  
+Microsoft is a technology company whose mission is to  empower every person  and every organization on the planet to 
+achieve more. We strive to create local opportunity, growth, and impact in every country around the world. Our platforms 
+and tools help drive small business productivity, large business competitiveness, and public-sector efficiency. They also 
+support new startups, improve educational and health outcomes, and empower human ingenuity.  
+We  continue  to  transform  our  business  to  lead  in  the  new  era  of  the  intelligent  cloud  and  intelligent  edge.  We  bring 
+technology and products together into experiences and solutions that unlock value for our customers. In this next phase of 
+innovation, computing is more powerful and ubiquitous from the cloud to the edge. Artificial intelligence (“AI”) capabilities 
+are rapidly advancing, fueled by data and knowledge of the world. Physical and virtual worlds are coming together with 
+the  Internet  of  Things  (“IoT”)  and  mixed  reality  to  create  richer  experiences  that  understand  the  context  surrounding 
+people,  the  things  they  use,  the  places  they  go,  and  their  activities  and  relationships.  A  person’s  experience  with 
+technology spans a multitude of devices and has become increasingly more natural and multi-sensory with voice, ink, and 
+gaze interactions.  
+What We Offer  
+Founded in 1975, we develop and support software, services, devices, and solutions that deliver new value for customers 
+and help people and businesses realize their full potential.  
+We offer an array of services, including cloud-based solutions that provide customers with software, services, platforms, 
+and  content,  and  we  provide  solution  support  and  consulting  services.  We  also  deliver  relevant  online  advertising  to  a 
+global audience.  
+Our  products  include  operating  systems;  cross-device  productivity  applications;  server  applications;  business  solution 
+applications;  desktop  and  server  management  tools;  software  development  tools;  and  video  games.  We  also  design, 
+manufacture, and sell devices, including PCs, tablets, gaming and entertainment consoles, other intelligent devices, and 
+related accessories.  
+10 
+ 

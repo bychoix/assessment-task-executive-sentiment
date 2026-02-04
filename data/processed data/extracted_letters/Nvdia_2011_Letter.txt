@@ -1,0 +1,379 @@
+
+--- Page 12 ---
+dear Fellow  
+stakeholders,
+this was one of the most important years in nvIdIa’s history. 
+while extending our leadership in computer graphics, we 
+expanded our reach and began realizing our vision to help 
+revolutionize the computer industry.
+Foreseeing the importance of energy efficiency,  
+we set out half a decade ago to build high-end 
+parallel and mobile processors. These ground-
+breaking initiatives sought to address two of our 
+fundamental convictions: that power will limit the 
+number of computers in large data centers, and 
+that energy efficiency will define our experience 
+with mobile devices.
+These beliefs turned out to be well placed. And, 
+with both products on the market, we began to 
+achieve major wins. 
+Results in the fourth quarter provided a glimpse  
+of their potential. Net profit more than doubled  
+to $172 million from the previous quarter, and 
+gross margin hit a record 48.1 percent. For the full 
+year, net profit totaled $253 million, from 2010’s 
+$68 million loss, as revenue rose 6.5 percent to 
+$3.54 billion.
+In many respects, the fourth quarter marked the 
+beginning of a new NVIDIA. Our coming-out party 
+was this year’s International Consumer Electronics 
+Show, where major news was announced:
+  OEMs announced a range of super phones  
+incorporating the NVIDIA Tegra 2 mobile super 
+chip, making it the show’s runaway hit.
+  We unveiled Project Denver, a secret NVIDIA-built 
+custom CPU based on ultra energy-efficient ARM 
+architecture. 
+  Microsoft underscored Project Denver’s  
+importance, disclosing that the next generation  
+of Windows will, for the first time, run on ARM 
+architecture.
+And less than a week later, NVIDIA entered into a 
+significant cross-licensing agreement with Intel. 
+This provides us with access to all of Intel’s 
+technologies to build our own processors, as well 
+as $1.5 billion in licensing payments over six years. 
+Tesla GPU
+1 billion transistors
+512 processors
+TeGra sysTem-on-a-chiP
+241 million transistors
+8 processors
+ nvidia is the only company in the world that makes highly energy-efficient processors which both fit in 
+your pocket and power your datacenter. the tesla Gpu is designed for high-performance computing, and 
+the tegra chip is used in mobile devices.
+10
+
+--- Page 13 ---
+a new comPUTinG revolUTion
+After a 30-year run with the PC at the center of 
+innovation, the computer industry is being rocked 
+by dramatic changes. 
+In this new world, PCs will remain the main 
+platform for creative expression. But the devices 
+most central to our lives will be super phones and 
+tablets. They will be our most personal computers.
+Just as the PC revolution once transformed the 
+computer industry, the mobile computing revolu-
+tion will have equally far-reaching impact.
+Consider….These handheld computers are created 
+by phone companies, not traditional OEMs. We buy 
+them from carriers—not just retailers. We use them 
+to enjoy books, games, music, and apps downloaded 
+from a digital store—not shrink-wrapped software. 
+And their architecture is based on processors like 
+Tegra, which are entire computers on a thumbnail-
+size chip incorporating ARM CPUs, not x86-com-
+patible CPUs.
+Nearly everything about these devices is different, 
+including the way we will use them. 
+In the future, you’ll be able to hold up your phone to 
+a Chinese menu and see it instantly translated into 
+a chosen language. You may be able to use it to 
+take your pulse, gauge your blood pressure, and 
+perhaps even measure blood-sugar levels.
+You’ll be able to use your tablet’s video camera  
+to view your living room. Magically, a computer-
+generated 3D image of the coffee table you are 
+thinking about buying will appear in the room. You 
+will be able to wander, and by looking through the 
+tablet, view the table from varying angles. 
+ Jen-Hsun Huang – co-founder, president and chief executive officer
+This and so much more will be possible. But 
+delivering on the full promise of mobile computing 
+will require a new class of processor—one that 
+provides supercomputing capabilities yet sips tiny 
+amounts of power. 
+We believe the most energy-efficient architecture 
+for this challenge is a GPU. It works in parallel, 
+breaking down a large challenge into small tasks 
+that can be handled simultaneously by hundreds  
+of tiny processors.
+a cUlTUre of reinvenTion
+Realizing the potential of mobile computing plays 
+to NVIDIA’s strengths. And we have demonstrated 
+our adaptability to seize new opportunities by 
+repeatedly reinventing ourselves. 
+Back in 1993, we launched our three-man startup  
+to revolutionize PC graphics, believing that the  
+PC would become a consumer device for enjoying 
+games and multimedia. This, in time, became a 
+massive industry, leading us to $1 billion in revenue 
+faster than any semiconductor company in history. 
+In the early 2000s, we invented the programmable 
+graphics processor, giving software developers  
+an infinitely flexible palette for expressing their 
+artistic vision. This expanded our reach into using 
+computer graphics for creating movies, revealing 
+3D medical images and styling cars. We became  
+a GPU company, ultimately reaching $4 billion  
+in revenue.
+nvidia corporation  
+2011 annual review 
+11
+
+--- Page 14 ---
+ nvidia’s tegra Zone app provides a curated collection of the 
+best android games for tegra-powered devices.
+NVIDIA’s latest reinvention is based on energy-
+efficient high-performance processors that are 
+100-times more energy efficient than a PC. This 
+opens a new, massive growth opportunity for us. 
+Within just a few years, 2.5 billion phones will  
+be sold annually, each a mobile computer. Our 
+opportunity will, thus, increase sixfold, to a total 
+addressable market of some $30 billion.
+TeGra sUPer chiPs
+Already, today’s market for super phones is 
+growing exponentially. The device’s ability to deliver 
+high-definition video chat, console-quality multi-
+player gaming and Web browsing is capturing many 
+millions of customers each month. 
+Tegra, which has earned a reputation as the most 
+advanced processor of its kind, was the first to 
+bring dual-core CPUs to mobile devices. 
+We have design wins with a large number of 
+partners. Some are long-time collaborators, such 
+as Acer, ASUS, Dell and Toshiba. Others are first-
+time partners in new industries that we are now 
+able to serve, such as LG, Motorola and Samsung. 
+Although relatively new to the mobile field, we  
+have key capabilities that matter greatly as the 
+mobile industry converges with the computer 
+industry. Among them: our deep expertise in 
+computing and graphics; our fast, precise product-
+execution cycle times honed from years of building 
+advanced technologies for PCs; and our extensive 
+intellectual property. 
+12
+At the recent Mobile World Congress, in Barcelona, 
+we unveiled our roadmap for future generations  
+of the Tegra chip. With the cadence of a new 
+processor every year, we expect to see a fivefold 
+improvement in performance in the next genera-
+tion version due out later this year, and a 75-fold 
+increase in five years. 
+sTrenGTh in core markeTs 
+Even as we were reinventing NVIDIA and expanding 
+our growth opportunities this year, we extended 
+our leadership in visual computing.
+The GeForce brand has long been the top choice  
+for gamers, and with the GTX 500 NVIDIA Fermi 
+generation of GPUs, we continue to lead the 
+industry. This line offers exceptional speed, a 
+revolutionary new GPU capability called tessella-
+tion, and further advances in immersive gameplay. 
+Its flagship, the GTX 580, is widely regarded by 
+enthusiasts and reviewers as the world’s fastest, 
+most advanced GPU. 
+GeForce’s promise is to delight gamers. And that 
+starts with great games. The fastest-growing 
+genre in PC gaming is massively multiplayer online 
+games, or MMO, and its most popular title is World 
+of Warcraft, with more than 12 million players 
+worldwide. This year, its creator, Blizzard, released 
+two highly anticipated PC games: StarCraft 2 and 
+World of Warcraft Cataclysm. 
+StarCraft 2 sold more than a million copies in its 
+first 24 hours, making it the fastest-selling real-
+time strategy game ever. And World of Warcraft: 
+
+--- Page 15 ---
+Cataclysm sold 3.3 million units in its first day, 
+making it the fastest-selling PC game ever. 
+Franchises like Starcraft and World of Warcraft 
+illustrate the vibrancy of GeForce’s market. 
+Another illustration is that we recently celebrated 
+shipment of our one-billionth GeForce GPU with 
+Taiwan Semiconductor Manufacturing Company 
+Ltd., a partner that has been critical to our success.
+Beyond building the most advanced GPUs, we 
+continued to create technologies that bring new 
+experiences to PC gamers. 3D Vision, the world’s 
+best stereoscopic 3D experience, immerses them 
+fully in a virtual world. Just two years after its 
+introduction, 3D Vision is now supported by more 
+than 1,000 individual products from dozens of 
+suppliers, including games, projectors, TVs, 
+cameras, and desktop and laptop screens. We  
+also launched 3DVisionLive.com, an online 
+community where users can share 3D content.
+In an emerging trend, PCs are pulling away from 
+consoles as the platform of choice for serious 
+gamers, accelerated by unique features like 
+tessellation, 3D Vision and the use of multiple  
+3D screens at once.
+Even as the GeForce GPU continues to lead the 
+market, our Quadro brand remains the industry 
+standard for graphics professionals. They use 
+workstations to speed work in product design, 
+visual effects for film production, video editing and 
+advanced visualization.
+For the second consecutive year, every film 
+nominated for an Oscar in the Best Visual Effects 
+category featured magic made possible by Quadro. 
+The international virtual space expedition to Mars 
+is harnessing the power of Quadro systems to 
+simulate a 520-day manned flight. And Quadro 
+enabled Glassworks in the UK, together with 
+University College London Hospitals, to create a 
+computer-generated heart model that beats in real 
+time, showing changes in the heart’s shape during 
+the cardiac cycle. Physicians can now study the 
+beating heart in ways never before possible.
+Another breakthrough for us this year was the 
+introduction of computational visualization, which 
+promises to revolutionize computer graphics,  
+just as our programmable shading once did. 
+Fermi-generation GPUs can rapidly generate a 
+photorealistic image that simulates the path of 
+light and material properties in a particular 
+environment—a process called ray tracing. By 
+accomplishing this at a rate of several images a 
+second, rather than an image every several hours, 
+Quadro processors transform how designers and 
+artists enhance their digital creations.
+ tesselation provides a nearly infinite level of detail to what had been coarse 3d 
+models. in the unigine Heaven benchmark, shown above, a mythical village is 
+brought to life with volumetric clouds and advanced compute shaders.
+nvidia corporation  
+2011 annual review 
+13
+
+--- Page 16 ---
+papers increased fivefold. Prominent scientists 
+delivered talks on such diverse fields as self-driven 
+cars; computational photography that enables 
+changes to be made in focus, depth of field and 
+lighting on already-captured images; and compu-
+tational finance applied to stock-options pricing.
+The adoption of our Tesla processors by top 
+supercomputing centers indicates the importance 
+of GPUs in the future of high-performance technical 
+computing. By adding GPUs to CPU clusters, 
+standard enterprise servers can be transformed 
+into supercomputing servers. 
+This new architecture has wide appeal. Standard 
+CPU clusters can serve the email and database 
+needs for a multinational’s employees. And 
+specialized CPU/GPU clusters can be used by  
+the company’s engineers and researchers for 
+product development. With CUDA GPU computing, 
+we have made it possible for supercomputers to 
+achieve performance levels never before possible, 
+while keeping them widely affordable.
+One of the most significant achievements of GPU 
+computing was news that Tesla processors helped 
+power the world’s fastest supercomputer—China’s 
+2.5 petaflop Tianhe-1A supercomputer—as well  
+as two other systems on the list of the world’s five 
+top supercomputers. 
+ through project inspire, nvidia employees volunteer in their local community to drive  
+transfomative projects with lasting impact.
+ tesla Gpus, which provide exceptional power and fuel efficiency, 
+now run three of the world’s most powerful supercomputers.
+acceleraTinG scienTific Discovery 
+The growing ambitions of scientists and research-
+ers to tackle enormous challenges—modeling  
+cell mutation, predicting weather, manipulating 
+nanomaterials to create lightweight parts for 
+fuel-efficient cars—make processing power  
+more important than ever as a tool for discovery. 
+Computation has become so fundamental to the 
+scientific process that it has come to be called  
+the third pillar of science, together with theory  
+and experimentation.
+To meet this challenge, NVIDIA created a new breed 
+of parallel-processing GPUs that work not just with 
+the pixels of an image but with numerical data. This 
+parallel computing architecture is called CUDA. 
+Among its most important applications are in the 
+medical field. Researchers at University of Califor-
+nia, San Diego’s Radiation Oncology Department 
+have shown that GPUs can cut the amount of 
+radiation used in CT scans by up to 72 times.  
+A team from Harvard and Brigham & Women’s 
+Hospital has found a way to create 3D images of a 
+patient’s arteries, providing a non-invasive way to 
+locate potentially lethal plaque. And researchers in 
+Montpellier, France, use GPUs to virtually still a 
+beating heart, enabling surgeons to treat patients 
+by guiding robotic arms that predict and adjust  
+for movement. 
+A sign of CUDA’s growing importance was our 
+second annual GPU Technology Conference, held in 
+San Jose, Calif. Attendance grew 50 percent from 
+the previous year and the number of submitted 
+14
+
+--- Page 17 ---
+larGer commUniTy
+Commitment to supporting the larger community, 
+particularly those areas in which we operate, 
+remains central to who we are. 
+Last year, the number of our offices where local 
+employees participated in a charitable event near 
+their offices rose from 12 to 18, and volunteerism 
+increased 20 percent. We continued Project Inspire, 
+which employees forego an annual holiday party 
+and instead participate in a program that benefits 
+their local community.
+Our flagship initiative in Santa Clara, Calif., drew 
+more than 1,000 employees, family members  
+and local residents. Over a weekend in mid-
+December, we converged on a community center in 
+nearby San Jose, with the goals of building garden 
+beds for low-income families, constructing a large 
+educational greenhouse and making improvements 
+to the building and grounds.
+Similar efforts occurred elsewhere. In Beijing, 
+employees, joined by business partners, continued 
+to work with an orphanage that the office “adopted” 
+two years ago, donating computer systems and 
+supplies. In Pune, India, our employees raised 
+funds to build a classroom at a school for visually-
+impaired girls. And in Würselen, Germany, 
+employees worked side by side with youth to 
+improve a vocational training center. 
+The NVIDIA Foundation, one of the industry’s only 
+employee-led charitable foundations, continued its 
+work in the areas of disease prevention, education 
+and human services. The Foundation launched a 
+strategic initiative called Compute the Cure, an 
+effort to combine employees’ interest in health with 
+NVIDIA technology, by funding the work of global 
+cancer researchers. It will announce its first 
+funding project this year. 
+I’m pleased to note that we also completed our first 
+global citizenship report this year, in which we set 
+out the measures we’re taking, and our goals, for 
+ensuring sustainability. 
+lookinG aheaD
+NVIDIA has spent the past five years investing  
+and planning for the rise of mobile and parallel 
+computing. It’s thrilling to see these defining the 
+new computer industry. 
+We have enormous work ahead of us to realize our 
+vision. But I believe we are better situated than any 
+company to thrive in this new environment. And I 
+have never been more excited about our prospects.
+Sincerely,
+Jen-hsun huang 
+Co-founder, President and Chief Executive Officer
+April 2011
+nvidia corporation  
+2011 annual review 
+15
+ 
+ 
+ 

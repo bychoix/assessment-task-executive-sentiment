@@ -1,0 +1,239 @@
+
+--- Page 2 ---
+Letter From Your CEO
+To our stockholders, customers, partners, and employees:
+When I joined Intel at the age of 18, I could not have imagined
+that I would one day have the honor of becoming CEO of this
+iconic company. After a 30-year journey inspired by the
+leadership of Gordon Moore, Robert Noyce, and Andy Grove,
+and then a decade away, I have returned to Intel with great
+excitement and passion to take on my dream job. For the last
+eight years, I was CEO of VMware, where I had the privilege of
+re-imagining an enterprise software pioneer and leading it to
+new heights. I gained valuable insights along the way, but my
+experience at Intel has always been foundational to my
+thinking and close to my heart.
+I take on this job humbled by the challenges and excited by
+the limitless opportunities. Digital technology is transforming
+the world at an accelerated pace, driven by what I call the four
+key “superpowers”: cloud, mobility fueled by 5G, artificial
+intelligence (AI) and machine learning, and the intelligent
+edge. They are superpowers because each expands the
+impact of the others and together, they are reshaping every
+aspect of our lives and work. This goes straight to Intel’s
+purpose and my own passion: creating technology that
+touches and enriches the lives of every person on earth.
+These superpowers are also reshaping the business of silicon
+innovation. In this evolving landscape, Intel is the only
+company that has the depth and breadth of intelligent silicon,
+platform, software, architecture, design, manufacturing, and
+scale that our customers need to capitalize on these
+opportunities and fuel their next-generation innovations.
+This was underscored in 2020 as Intel delivered another year
+of record financial results, while navigating the impacts of a
+global pandemic. This is a testament to my predecessor Bob
+Swan’s leadership. He laid the foundation for the company’s
+transformation in three key areas, including our expansion
+beyond silicon to platforms as well as an evolution of the
+integrated device manufacturer (IDM) model, setting the stage
+for our new IDM 2.0 vision. He broadened our focus from
+central processing units (CPUs) to a full portfolio of xPUs,
+where CPUs remain the center of our business, but we also
+now deliver graphics processing units (GPUs) and other
+special-purpose accelerators for AI, machine learning, and 5G.
+“Intel is the only company that has the
+depth and breadth of intelligent silicon,
+platform, software, architecture, design,
+manufacturing, and scale that our
+customers need to capitalize on these
+opportunities and fuel their next-
+generation innovations.”
+Pat Gelsinger, Chief Executive Officer
+While we are operating from a position of progress and
+financial strength, we have a great deal of work ahead of us.
+Since I returned to Intel, our customers, partners, and
+employees have given me direct and honest feedback about
+what Intel does well and where we must do better. They
+continue to see Intel as essential to solving problems at scale,
+safeguarding the technology infrastructure, and securing the
+global semiconductor supply chain. They also know that we
+must once again lead in execution and innovation, with a
+predictable roadmap of leadership silicon.
+I am confident that Intel can be the world’s leading
+semiconductor company and set a course for a new era of
+innovation and technological leadership in this landscape of
+tremendous change. We may look different from our past in
+many respects, but we will always remain dedicated to
+excellence in engineering innovation and execution. I have
+four priorities that will fortify our leadership position:
+Be the leader in every category in which we compete.
+We have a strong product roadmap that highlights the power
+of integrated design and manufacturing to create truly
+differentiated products. We are well-positioned to lead the
+industry, building on our CPU leadership with a diverse xPU
+portfolio and deep customer collaboration. But we must
+move faster to outpace the competition where we are the
+established leader, take share in adjacent segments where
+they are strong, and learn and capitalize on new opportunities
+more quickly with data and analysis driving decision making.
+Execute flawlessly to our commitments. We must
+demonstrate that customers can rely on Intel for their
+products and their strategies for the future. We will continue
+to ramp our portfolio on the Intel 10nm high-volume
+manufacturing process in 2021 in Oregon, Arizona, and Israel.
+
+--- Page 3 ---
+We will deliver with quality and scale our Intel 7nm process
+and invest in future manufacturing leadership. We will also
+leverage our foundry and supplier ecosystem as part of our
+agile IDM 2.0 model that customers can rely on for the
+greatest innovations in the industry, delivered with agility and
+at scale.
+Passionately innovate with boldness and speed. We will be
+a source of continuous innovation through world-leading
+engineering, leading process technology, and research into
+next-generation computing architectures. We will lead in new
+chip designs and technologies that accelerate our customers’
+high-value workloads in the cloud, at the edge, and on the
+client. We will continue to pursue radical areas to innovate as
+every aspect of the world and humanity comes online and
+creates more opportunities for us to transform digital
+technology. We must outpace anything our competitors—or
+customers—can build.
+Reignite our culture to attract and motivate the best
+engineers and technologists on the planet. Intel must be
+where the best talent in the world can fulfill their dreams,
+contributing and inventing at a scale that touches the lives of
+every person on earth. We need to untether our enormous
+energy and potential for our business with a vibrant, inclusive,
+and open culture. We need to bring back key aspects of the
+“Grove-ian” discipline for direct, transparent, and data-driven
+decisions and accountability. This will unlock enormous
+energy and potential for our business.
+“We will help solve the world’s
+greatest challenges through deep
+technical collaboration with our
+customers, helping them transform
+their industries with radical innovation
+and leadership products.”
+In addition to positioning Intel for success in a new era, these
+priorities serve a higher purpose. We will help solve the
+world’s greatest challenges through deep technical
+collaboration with our customers, helping them transform
+their industries with radical innovation and leadership
+products. Along with customers, partners, governments, and
+NGOs we will support smart policies that accelerate the
+creation of safe and secure digital infrastructure, advanced
+manufacturing, and a workforce of the future. We will work
+with government partners to ensure the integrity and
+resilience of our global supply chain, and ensure Intel is the
+source and the enabler of U.S. technology leadership that
+fuels a global ecosystem. And we will remain steadfast in our
+commitment to achieve Intel’s 2030 global challenges
+focused on positive impact in responsibility, inclusivity, and
+sustainability.
+I am thrilled to lead Intel during a critical time of change and
+vast opportunity to shape the future of our industry and the
+world. I look forward to working with our extraordinarily
+talented Intel team and our industry partners around the
+world to create and deliver leadership products, powerful
+platforms, and breakthrough technologies to our customers
+around the world.
+I believe deeply in this company and the powerful future we
+will create together. Our best days are in front of us.
+Pat Gelsinger, CEO
+Intel Corporation
+March 2, 2021
+This Annual Report contains forward-looking statements, and actual results could differ materially. Risk factors that could cause actual results to
+differ are set forth in the “Risk Factors” section and throughout our 2020 Form 10-K, which is included in this Annual Report. These risk factors are
+subject to update by our future filings and submissions with the U.S. SEC. Forward-looking statements included in our 2020 Form 10-K are based
+on management’s expectations as of January 21, 2021, and forward-looking statements in the CEO and Chairman letters are based on
+expectations as of March 2, 2021. Intel disclaims any obligation to update these statements, except as required by law.
+
+--- Page 4 ---
+Letter From Your Chairman
+2020 was a time of crisis and renewal for Intel, marked by the
+global pandemic, economic disruption, calls for action on
+social equity, devastating wildfires, and intense competition.
+Intel employees met the challenges with extraordinary
+energy, demonstrating again the resilience of the culture.
+Thanks to their focus and diligence, Intel entered 2021 with a
+renewed sense of purpose as well as a position of financial
+and strategic strength.
+Intel revenue for 2020, $77.9 billion, was the highest in the
+company’s history. The company generated $35.4 billion in
+cash from operations for the year and $21.1 billion in free
+cash flow1. This brings cash from operations over the five
+years ending in 2020 to a total of $141.9 billion and free cash
+flow for this period to a total of $74.8 billion. Return on
+average equity for the year was 26.4%, bringing the five-year
+average to 22.8%. These results reflect the economic value of
+Intel’s technology, strategy, and execution.
+In technology companies, value creation begins with technical
+innovation and the people who achieve it. When I joined the
+Board of Directors, I was impressed by the scope and depth of
+the technical talent at Intel. When I was an engineering
+student, I had read about the groundbreaking work of Intel’s
+founders and was inspired by how the technology they were
+developing was changing the world. Years later, my
+conversations with Intel employees give me confidence that
+the potential for silicon technology remains enormous.
+To realize this potential, the Board of Directors works with
+management to review and approve business strategy,
+exploring opportunities and risks. We oversee the allocation
+of resources to execute the strategy and create value for the
+owners and the various stakeholders and communities that
+we serve. This process addresses investments in the
+company’s internal capabilities, opportunities in external
+investments, and the return of cash to owners.
+Intel’s focus is to play a larger role in its customers’ success by
+delivering a predictable cadence of leadership products.
+Investments in central processing units, or CPUs, meet the
+needs of customers and keep the core business vibrant. Intel is
+also expanding its capabilities to provide multi-architectures,
+or xPUs, to meet the needs of a growing range of customers
+and applications in new markets. To ensure leadership, Intel
+continues to invest in differentiated technologies, such as
+artificial intelligence, advanced 5G networking technologies,
+and intelligent, autonomous edge computing. In 2020 Intel
+invested $13.6 billion in research and development.
+Intel is one of the few semiconductor companies that relies
+primarily on the integration of design and manufacturing.
+Most of Intel’s products are designed by Intel’s engineers and
+produced in Intel’s manufacturing facilities. Intel will continue
+this integrated model to be able to provide new products with
+significant cost, power, and performance advantages. The
+technology and manufacturing organization, Intel’s largest
+and once described by former CEO Andy Grove, as “the heart
+and soul of Intel”—is a vital part of the company’s culture.
+Omar Ishrak, Chairman of the Board
+“Intel has visionary leadership who we
+are confident will take the company to
+new heights and set future directions
+of technology for Intel and the
+industry.”
+The largest portion of Intel’s capital investments in 2020 was
+directed to Intel’s factories and the highly sophisticated
+production equipment inside them. Total capital investment
+for the year was $14.3 billion. Since 2017 Intel has doubled
+wafer volume capacity in its 14nm and 10nm process
+technologies, and it is committed to delivering more
+advanced technology.
+To complement its strategic objectives and strengthen its
+internal resources, Intel looks externally for potential
+acquisition opportunities. A key example in 2020 was Intel’s
+acquisition of Moovit, which accelerates the company’s
+offering of Mobility as a Service, also known as MaaS, and
+brings Mobileye closer to achieving its plan to become a
+complete mobility provider, including robotaxi services. Intel
+completed various other acquisitions in 2020 to expand its
+product offerings and the markets it serves.
+Intel also seeks to identify businesses that may no longer be
+an optimal strategic fit. As part of this process, in 2020 the
+company agreed to sell its NAND memory business to SK
+hynix for $9 billion US dollars. Intel has retained its Intel®
+Optane™ Technology, a memory technology built on a unique
+architecture that the company believes will be important in
+data center architectures. In 2020 Intel also divested the
+majority of its Home Gateway Platform division.
+1 See Non-GAAP Financial Measures within Management’s Discussion and Analysis and in this Annual Report

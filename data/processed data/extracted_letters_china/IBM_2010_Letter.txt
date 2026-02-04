@@ -1,0 +1,630 @@
+
+--- Page 12 ---
+10
+As the new century dawned, we saw change coming. The IT industry  
+and the broader economy were being transformed by the rising tide of  
+global integration, by a new computing model and by new client needs  
+for integration and innovation.
+And that meant we needed to transform ourselves.
+1. We changed our business mix toward  
+higher-value, more profitable technologies  
+and market opportunities.
+Segment Pre-Tax Income* 
+($ in billions)
+2. We became a globally integrated enterprise,  
+improving productivity and capturing new growth.
+Since 2005, global integration has enabled IBM to gain $6 billion in 
+productivity savings while improving service quality. We have shifted 
+resources toward building client relationships and employee skills, 
+while positioning IBM for new market opportunities, such as business 
+analytics, Smarter Cities and infrastructure build-outs underway in 
+emerging markets.
+Growth Markets Share of Geographic Revenue  
+(excluding divested businesses of PCs and printers)
+Hardware
+Financing
+Services
+Software
+* Sum of external segment pre-tax income not equal to IBM pre-tax income.
+** Excludes Enterprise Investments and not restated for stock-based compensation.
+11%
+00
+21%
+06 07
+08
+09 10
+3. By aligning our business model with our clients’ 
+needs we generated superior financial results.
+Financial Performance History 
+(% of total revenue, $ in billions)
+We achieved record earnings per share. 
+Diluted earnings per share in 2010 were $11.52, having nearly 
+tripled since the end of 2000, and marking eight consecutive 
+years of double-digit growth. Our focus on productivity  
+and a continuing shift in our business mix to more profitable 
+segments has helped drive our performance. 
+And record cash performance.  
+In 2010 our free cash flow, excluding the year-to-year change in 
+Global Financing receivables, was $16.3 billion—an increase of 
+$1.2 billion from 2009. Since the end of 2000 we have generated 
+$109 billion in free cash flow.
+Pre-Tax Income Margin
+Gross Profit Margin
+Free Cash Flow
+4. We invested in future sources of growth  
+and provided record returns to shareholders … 
+Since the end of 2000, we invested $43 billion in capital  
+expenditures and $27 billion net on acquisitions (116 companies)  
+targeted toward high-value areas.
+We returned $89 billion to our shareholders as share repurchases  
+and increased our dividend each year over the last decade.  
+At the end of 2010 our quarterly dividend per share was five  
+times higher than in 2000.
+  … while continuing to invest in R&D — nearly  
+$60 billion since the end of 2000.
+Primary Uses of Cash Since the End of 2000 
+$177
+   billion
+$70billion
+$70billion
+Reinvested
+Reinvested
+Capital Expenditures & Acquisitions
+Acquisitions & Capital Expenditures
+$107billion
+$107billion
+Returned to Shareholders
+Returned to Shareholders
+Share Repurchases & Dividends
+Share Repurchases & Dividends
+
+--- Page 13 ---
+Generating Higher Value at IBM
+11
+ At Least $20
+Operating EPS*
+5.  Today, we run a business model that delivers  
+long-term value and high performance.
+Early in 2007, we established our earnings per share road map  
+to 2010.  It provided clarity about our business model, objectives  
+and key factors driving performance. The road map also aligned  
+all IBMers against a set of long-term objectives. 
+We achieved $11.52 of EPS in 2010, well above the high  
+end of the range of $10 to $11 during one of the toughest  
+economic environments in decades. 
+This resulted in superior returns to investors over the  
+road map period. 
+Now, our 2015 Road Map continues the drive to higher  
+value—with the expectation of at least $20 operating EPS  
+in five years (non-GAAP).*
+Key objectives over the next five years:
+•  $100 billion in free cash flow
+•   Software becomes about 
+•  $70 billion of capital returned 
+  to shareholders
+•   $20 billion in spending  
+on acquisitions
+half of segment profit
+•   Growth markets  
+approach 30 percent of 
+geographic revenue
+Operating EPS*
+Segment Operating Pre-Tax Income*, **
+Software
+Services
+Hardware/Financing
+2000
+2006
+2007
+2008
+2009
+2010
+2015
+Key Drivers for 2015 EPS Road Map
+ * Excludes acquisition-related and nonoperating 
+retirement-related charges. 
+ ** 2000 and 2001 exclude Enterprise Investments  
+and not restated for stock-based compensation.  
+Sum of external segment pre-tax income not equal  
+to IBM pre-tax income.
+Revenue Growth 
+A combination of base 
+revenue growth, a shift to 
+faster growing businesses 
+and strategic acquisitions.
+Operating Leverage 
+A shift to higher-margin businesses 
+and enterprise productivity  
+derived from global integration  
+and process efficiencies.
+Share Repurchase 
+Leveraging our strong cash 
+generation to return value  
+to shareholders by reducing 
+shares outstanding.
+
+--- Page 14 ---
+12
+Today our investments are fueling growth initiatives 
+that are expected to drive $20 billion in incremental 
+revenue by 2015.
+Growth Markets
+Approaches 
+30%
+of IBM’s  
+geographic revenue by 2015 
+Opportunity:  
+The emerging market GDP growth  
+rate—expected to be 5 percent  
+through 2015—is more than double  
+that of major markets.   
+2015 Road Map Objective:  
+Growth Markets revenue  
+approaches 30 percent of IBM’s  
+geographic revenue by 2015.
+Cloud
+$7billion  
+in revenue by 2015
+Opportunity:  
+Cloud is a new, highly efficient model  
+for consuming and delivering IT-based 
+services. It is made possible by virtualizing 
+resources, automating processes  
+and standardizing tasks so they can be  
+offered as easy-to-use services.
+2015 Road Map Objective:  
+Cloud revenue is expected to be  
+$7 billion by 2015, of which $3 billion  
+is incremental.
+A historic economic expansion is underway in the  
+emerging markets of the world—as their populations  
+join the middle class and their economies join the global 
+marketplace. In the largest of these emerging markets, 
+such as China, India and Brazil, IBM is broadening  
+its well-established base of skills and capabilities, nearly 
+doubling our number of branch locations. In less  
+developed markets, such as Africa, we are leveraging 
+anchor clients in sectors like communications and  
+banking. Our recent partnership with Bharti Airtel Africa to 
+provide 21st century wireless telecommunications across  
+16 countries of Sub-Saharan Africa is one example.
+IBM has helped thousands of clients in areas as diverse  
+as banking, healthcare and government build their own 
+clouds or securely tap into IBM cloud-based business and 
+infrastructure services. IBM manages millions of cloud-
+based transactions every day and provides cloud analytics 
+services to clients like Seton Hall University, Petco, Speedo 
+and Crocs.
+ING, a major player in the financial services industry, 
+engaged IBM to design and build a cloud platform that will 
+speed the delivery of new services to millions of clients and 
+employees. Danone is working with IBM to provide a secure 
+cloud trading network for its customers and business 
+partners, while ADP is using IBM’s cloud integration 
+software to expand its tax filing offerings to new markets 
+serving employers of all sizes.
+
+--- Page 15 ---
+Generating Higher Value at IBM
+13
+Business Analytics
+$16billion  
+in revenue by 2015
+Opportunity:  
+Global data volumes are predicted  
+to increase by 29 times over the next  
+10 years to 35 zettabytes.* (A zettabyte  
+is a 1 followed by 21 zeros.) 
+2015 Road Map Objective:  
+Business analytics revenue is   
+expected to be $16 billion by 2015.
+Smarter Planet
+$10billion  
+in revenue by 2015
+Opportunity:   
+The infusion of digital intelligence into 
+industries, infrastructures, processes  
+and cities can make them more  
+productive, efficient and responsive. 
+2015 Road Map Objective:  
+Smarter Planet revenue is expected  
+to be $10 billion by 2015.
+Enterprises need a way to manage and mine the deluge  
+of potentially valuable information, and the key is advanced 
+data analytics. IBM spotted this emerging need early, 
+building the world’s leading analytics practice—with  
+7,800 expert consultants, the world’s premier nonacademic 
+mathematics function and the acquisition of 25 companies, 
+for $14 billion in gross spending, to deepen our capabilities.
+Our scientists have received more than 500 analytics 
+patents. They are expanding technology frontiers through 
+breakthroughs like the powerful new computer named 
+Watson, which competed and won on the television  
+quiz show Jeopardy! Applying Watson’s use of advanced 
+analytics to decipher natural language, IBM is working  
+to identify better healthcare diagnoses, potential  
+drug interactions and “what if” scenarios in finance  
+and compliance.
+In 2008 and 2009, we articulated a point of view on ways 
+the world can become smarter, and in 2010, we deployed 
+significant resources to capture the opportunity in key, 
+high-growth industries where our experience and solution 
+delivery is strongest. We also expanded our Smarter Cities 
+initiative, targeting local leaders who influence trillions in 
+spending worldwide. In Rio de Janeiro, IBM is developing  
+a system to integrate real-time information and processes 
+across many city departments, including civil defense, 
+transportation and meteorology, for a sustainable opera-
+tions infrastructure in the face of unprecedented growth. 
+Similar city infrastructure projects are underway in cities 
+across the world such as Ho Chi Minh City, Shanghai, 
+Seoul, Sydney, Helsinki, Amsterdam, Rotterdam, San 
+Francisco and Washington, D.C.
+
+--- Page 16 ---
+14
+In our second century, as in our first, IBM’s business model 
+is based on continuous forward motion.
+Through 100 years of a commitment  
+to innovation and progress … 
+Inventing core technologies …
+A commitment to research …
+Through breakthroughs like the FORTRAN programming  
+language in 1957, computer memory in the 1960s, the relational 
+database in the 1970s, reduced instruction set computing (RISC)  
+in the early 1980s, and materials science advances in the 1990s 
+(now in millions of mobile devices), IBM built the foundations for a  
+world of instrumented, interconnected and intelligent systems. 
+Defining computing architectures …
+From punched card tabulators in the 1920s, to the compatible 
+mainframe System/360 in the 1960s, to the PC in the 1980s,  
+to parallel computing in the 1990s, IBM has shaped the modern  
+IT industry. Today IBM is leading shifts to enterprise cloud  
+computing and building highly optimized systems like Watson  
+able to understand and analyze natural language.
+•  1911  
+Net income:  
+$800,000
+IBM has invested more than $150 billion in R&D, and has received 
+more than 75,000 U.S. patents. Five IBMers were Nobel Laureates. 
+Today we have 10 global research labs pioneering breakthroughs, 
+advancing technologies and helping define open standards. IBM 
+Research is engaged in long-term collaborations with universities, 
+government agencies and businesses, in fields as varied as  
+nanotechnology, deep analytics and the evolution of the Internet.
+•  1943  
+Net income:  
+$9 million  
+1957 • 
+Net income:
+ $110 million
+Revenue:  
+exceeds $100 million
+Revenue:
+exceeds $1 billion 
+1910
+1920
+1930
+1940
+1950
+1960
+For 100 years, IBM has transformed industries 
+and advanced the world’s most critical systems.
+Automating Rail Systems
+1915 Nearly all major U.S. 
+railroads used tabulating 
+technology to automate 
+scheduling and accounting 
+operations, starting  
+with New York Central and 
+Hudson River Railroad.
+2010 Helped Russian Railways 
+move 1.3 billion passengers 
+and freight more efficiently.
+Modernizing Government 
+1922 Tabulating technology 
+used to conduct Brazil’s first 
+mechanized census.
+2010 Helped New York  
+State save nearly $1 billion 
+preventing tax fraud with 
+advanced analytics.
+Automating Aviation 
+Industry Operations  
+1962 Created the Sabre  
+airline reservation system for 
+American Airlines—a precursor  
+of everything from the ATM  
+to e-commerce.
+Raising Healthcare  
+Standards
+1965 Physicians detected 
+changes in temperature, blood 
+pressure and heartbeat with  
+data collected and visualized  
+by an IBM monitoring system.
+2010 Helping New Delhi’s 
+international airport manage 
+growth in air travel from  
+28 million passengers today  
+to an expected 150 million 
+passengers in 2020.
+2010 Stream computing 
+technology and advanced 
+analytics research at the  
+University of Ontario Institute  
+of Technology are used to  
+monitor the health of premature 
+babies at the Hospital  
+for Sick Children, Toronto. 
+
+--- Page 17 ---
+$160
+$140
+$120
+$100
+$80
+$60
+$40
+$20
+Generating Higher Value at IBM
+15
+IBM Share Price*
+(Adjusted for stock splits)
+… IBM has changed global business and society, in the 
+process generating strong financial results and superior 
+returns to our owners. 
+Since 1915, IBM stock has  
+appreciated more than 
+40,000
+times its original value. 
+Over that same period the  
+Dow Jones Industrial Average  
+has appreciated about
+125
+times.
+One hundred years of driving progress gives us confidence 
+that we can continue to do so—and to deliver superior 
+returns—in our second century.
+1960
+1970
+1980
+1990
+2000
+2010
+•  1985  
+Net income:  
+$6.6 billion  
+Revenue:  
+exceeds 
+$50 billion
+•  2000  
+Net income:  
+$7 billion 
+Revenue: 
+$85.1 billion
+2010 • 
+Net income:
+$14.8 billion
+Revenue:
+$99.9 billion
+Building Smarter Energy  
+and Water Systems
+1965 Analyzed ways to increase 
+power output of hydroelectric 
+dams in France.
+2009 Helped implement  
+the world’s first nationwide  
+smart grid for Malta’s  
+energy and water systems.
+Reinventing Transportation 
+1930 IBM receives patent  
+for traffic signal timing system.
+2010 Helped speed  
+development of GM’s  
+Chevrolet Volt electric vehicle 
+with sophisticated design  
+and simulation software.
+Upgrading the  
+Retail Experience
+1974 Supermarkets start 
+scanning UPC barcodes, 
+invented by IBM.
+2010 Collaborated with 
+Thailand’s Ministry of  
+Agriculture and Cooperatives  
+to implement food traceability 
+technologies with farmers, 
+exporters and retailers.
+Developing Banking  
+Infrastructure
+1997 Created first global 
+settlement system for currency 
+exchange, averaging $4 trillion  
+a day, with the CLS Group, an 
+industry consortium.
+2008 Introduced world’s first 
+real-time securities settlement 
+system for Mexico.
+
+--- Page 18 ---
+Financial Highlights
+International Business Machines Corporation and Subsidiary Companies
+16
+($ in millions except per share amounts)
+For the year ended December 31: 
+Revenue 
+Net income 
+Earnings per share of common stock:
+  Assuming dilution 
+  Basic 
+Net cash provided by operating activities 
+Capital expenditures, net 
+Share repurchases 
+Cash dividends paid on common stock 
+  Per share of common stock 
+At December 31: 
+Cash, cash equivalents and marketable securities 
+Total assets 
+Working capital 
+Total debt 
+Total equity 
+Common shares outstanding (in millions) 
+Market capitalization  
+Stock price per common share 
+Number of employees in IBM/wholly owned subsidiaries 
+2010 
+2009
+$  99,870 
+$  95,758
+$  14,833 
+$  13,425
+$    11.52 
+$    10.01
+$    11.69 
+$    10.12
+$  19,549 
+$  20,773
+3,984 
+15,375 
+3,177 
+2.50 
+3,747
+7,429
+2,860
+2.15
+2010 
+2009
+$  11,651 
+$  13,973
+113,452 
+109,022
+7,554 
+28,624 
+23,172 
+1,228 
+12,933
+26,099
+22,755
+1,305
+$180,220 
+$170,869
+$  146.76 
+$  130.90
+426,751 
+399,409
+
+--- Page 19 ---
+Report of Financials
+International Business Machines Corporation and Subsidiary Companies
+17
+Management Discussion
+Overview 
+Forward-Looking and Cautionary Statements 
+Management Discussion Snapshot 
+Description of Business 
+Year in Review 
+Prior Year in Review 
+Other Information  
+Looking Forward 
+Liquidity and Capital Resources 
+  Critical Accounting Estimates 
+  Currency Rate Fluctuations 
+  Market Risk 
+Financing Risks 
+Employees and Related Workforce 
+Global Financing 
+Report of Management 
+Report of Independent Registered  
+  Public Accounting Firm 
+Consolidated Financial Statements
+Earnings 
+Financial Position 
+Cash Flows 
+Changes in Equity 
+18
+18
+ 18
+20
+25
+39
+46
+46
+47
+50
+53
+53
+54
+54
+55
+60
+61
+62
+63
+64
+ 65
+Inventories 
+Investments and Sundry Assets 
+Intangible Assets Including Goodwill 
+Notes to Consolidated  
+Financial Statements
+A  Significant Accounting Policies 
+B  Accounting Changes 
+C   Acquisitions/Divestitures 
+D   Fair Value 
+E  Financial Instruments (Excluding Derivatives)  
+F 
+G  Financing Receivables 
+H  Plant, Rental Machines and Other Property  
+I 
+J 
+K  Borrowings 
+L  Derivative Financial Instruments 
+M  Other Liabilities 
+N  Equity Activity 
+O  Contingencies and Commitments 
+P  Taxes 
+Q  Research, Development and Engineering 
+R  Earnings Per Share of Common Stock 
+S  Rental Expense and Lease Commitments 
+T  Stock-Based Compensation 
+U  Retirement-Related Benefits 
+V  Segment Information 
+W  Subsequent Event 
+Five-Year Comparison of Selected Financial Data 
+Selected Quarterly Data 
+Performance Graphs 
+Board of Directors and Senior Leadership 
+Stockholder Information 
+ 68
+79
+81
+86
+ 88
+ 90
+ 90
+ 92
+92
+93
+94
+96
+102
+103
+103
+106
+108
+108
+109
+109
+112
+126
+130
+131
+132
+133
+135
+136
+ 
+ 
+ 
+ 

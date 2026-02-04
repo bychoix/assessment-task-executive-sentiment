@@ -1,0 +1,595 @@
+
+--- Page 4 ---
+A Letter from the Chairman 
+3
+2019: Enabling sustainable growth
+In 2019, IBM delivered a second consecutive year of revenue 
+growth excluding the impact of currency and divestitures.  
+We ended the year on a strong note, with accelerating 
+revenue growth and our strongest year-to-year increase  
+in gross profit margins in over a decade. 
+For the full year, the company achieved $77.1 billion  
+in revenue, operating gross profit margins of 48 percent  
+and operating earnings per share of $12.81. We had strong 
+cash generation with net cash from operating activities of 
+$14.8 billion and free cash flow of $11.9 billion. We returned 
+$7.1 billion in capital to our shareholders, including 
+dividends of $5.7 billion. This was the 24th consecutive year 
+of raising our dividend, and the 104th consecutive year  
+of providing one. 
+These results are the product of bold moves to  
+transform your company from top to bottom, strengthening 
+our integrated value proposition and positioning us for 
+sustainable growth. 
+The new foundation of integrated value 
+The problems we solve for clients are complex equations  
+that cannot be satisfied with technology alone. They require  
+a partner that can also offer deep industry expertise  
+and a relationship of trust. 
+IBM is the only company that combines the portfolio, 
+people and sense of purpose necessary to meet today’s 
+enterprise demands. Over the last decade, we have forged the 
+foundations of our end-to-end, integrated value proposition 
+through a series of transformative actions.
+1. Capital: A bold shift to drive innovation 
+Transformation requires investment. And since 2012,  
+we have devoted significant capital to developing new 
+capabilities. In all, we invested more than $120 billion  
+to transform our strategy, our portfolio and our workforce.  
+At the same time, we returned $97 billion to shareholders.
+We invested nearly $30 billion in capital expenditures, 
+building our cloud and cognitive offerings and bolstering  
+our security and services capabilities. 
+We have also invested $45 billion in research and 
+development, forging the futures of cloud, AI, blockchain  
+and quantum computing. IBM inventors received 9,262  
+U.S. patents in 2019, the most ever awarded to a U.S. 
+company. It was our 27th straight year of patent leadership. 
+We have bolstered our portfolio with 65 companies, 
+including Red Hat, the largest acquisition in the history  
+of IBM. In Red Hat, we acquired a powerful growth engine, 
+and a company synonymous with the cloud, open source  
+and interoperability. Its singular architecture allows  
+clients to build an application once and run it anywhere.  
+And it enables the seamless integration of multiple clouds, 
+from any vendor, addressing a $1.2 trillion hybrid cloud 
+market opportunity.
+2. Portfolio: Built for the future
+The shifts in capital allocation were designed to build a 
+portfolio that is stronger and more aligned with the fastest 
+growing segments of the market. Since 2012, we also 
+divested businesses with annual revenues of more than 
+$10 billion ($2 billion in 2019 alone) that do not strengthen 
+our hand in Chapter 2. We did this while keeping annualized 
+revenue growth approximately flat, excluding the impact  
+of divestitures and currency. Today, we have reinvented 
+50 percent of our portfolio, including: 
+ –
+ –
+ –
+ –
+Cloud: In 2013, cloud represented only 4 percent  
+of IBM’s revenue. Today, cloud is 27 percent— 
+a $21.2 billion business—and growing rapidly. In the  
+past year, we’ve substantially enhanced our public  
+cloud offerings, including dramatic improvements  
+in ease of use, 99.999% availability and the strongest 
+security posture in the industry. That’s why clients  
+with the most demanding regulatory and resiliency 
+requirements, like BNP Paribas, are moving their most 
+critical workloads to the IBM Cloud. 
+Data and AI: Our investments in data and AI have 
+cemented our position of enterprise market leadership. 
+For the third straight year, IDC has named IBM the  
+global leader in AI. We secured more than 1,800  
+AI patents in 2019 alone. Our Data Science Elite team  
+is accelerating client journeys to AI. And there are  
+more than 30,000 Watson client engagements across  
+20 different industries, helping clients like Yara build  
+a digital farming platform, Woodside Energy optimize  
+its operations and Vodafone Idea transform its core  
+IT infrastructure. 
+Security: IBM helps secure 95 percent of the Fortune 
+Global 500 and manages more than 70 billion events 
+every day. In 2019, we introduced Cloud Pak for Security, 
+a powerful new security solution designed to solve  
+a critical pain point in the industry: connecting and 
+orchestrating disparate security tools. 
+Blockchain: IBM is the global leader in enterprise 
+blockchain solutions, with hundreds of client 
+engagements infusing new levels of trust and 
+transparency into the global supply chain. We have  
+more than 2,000 blockchain experts. And we are 
+working with more than 20 large consortium networks 
+that are reshaping entire industries, like IBM Food Trust  
+for reliable food supply and TradeLens for shipping. 
+
+--- Page 5 ---
+4 
+Moments  
+from IBM’s 
+transformation
+As our company has led 
+clients on their digital 
+journeys, IBM has also 
+transformed itself— 
+through acquisitions, 
+breakthrough technologies 
+and social innovations.
+IBM Cloud
+IBM Cloud has grown to be a more 
+than $21 billion business offering 
+enterprises public, private and 
+hybrid cloud solutions. In 2019, 
+IBM introduced the world’s first 
+financial services-ready public 
+cloud, secure and purpose-built  
+for the industry.
+IBM Q
+A fundamentally different way  
+of computing, quantum has the 
+potential to transform business and 
+solve some of the world’s biggest 
+problems. IBM has led in quantum 
+research and development and 
+now offers a fleet of 15 advanced 
+quantum computers.
+Red Hat
+One of the largest technology 
+acquisitions in history combined 
+the power and flexibility of 
+Red Hat’s open hybrid cloud 
+technologies with the scale  
+and depth of IBM’s innovation  
+and industry expertise.
+IBM Watson
+IBM Watson helped AI emerge 
+from a long “winter” and is now 
+deployed in customer service, 
+healthcare, supply chain, weather 
+forecasts, energy exploration  
+and other fields—totaling more 
+than 30,000 client engagements.
+IBM Security
+IBM Security was built for industry-
+leading compliance, threat 
+monitoring and container security. 
+In 2019, Cloud Pak for Security 
+was introduced to orchestrate tools 
+across the entire security stack.
+IBM Garage
+A comprehensive approach  
+to innovation and transformation, 
+the IBM Garage process brings 
+designers and developers together 
+with clients and stakeholders. The 
+process helps create and scale new 
+ideas and achieve business value.
+Strategic Divestitures
+Over eight years, IBM has sold 
+businesses with more than 
+$10 billion in revenue, including 
+semiconductor manufacturing  
+and x86 servers, in order to 
+allocate capital to innovation.
+1. Purpose
+2. Ownership
+3. Transparency
+P-TECH
+Pathways in Technology Early 
+College High Schools (P-TECH)  
+is a new education model 
+co-developed by IBM working 
+together with educators, 
+policymakers and elected officials.
+IBM Blockchain
+IBM Food Trust, TradeLens and 
+other initiatives are streamlining 
+supply chain processes and 
+bringing trust and transparency 
+to transactions.
+Principles for Trust & Transparency
+For more than a century, IBM  
+has earned the trust of clients  
+and society. In 2018, we codified 
+the core principles that guide 
+everything we do, from handling 
+client data to the responsible 
+deployment of new technologies. 
+Business Roundtable
+In 2019, IBM signed the  
+Business Roundtable Statement  
+on the Purpose of a Corporation. 
+The Business Roundtable is  
+a group that brings together the 
+CEOs of nearly 200 American 
+companies.
+
+--- Page 6 ---
+A Letter from the Chairman 
+5
+ –
+ –
+ –
+IBM Services: From digital strategy to infrastructure 
+services, IBM Services exemplifies the end-to-end 
+capability of our company. Over the last 10 years,  
+we have built the world’s largest digital agency, with 
+57 studios and 17,000 IBM iX digital consultants.  
+And we have scaled our global delivery network, with 
+services professionals that have breadth of experience 
+and industry expertise in areas like financial services, 
+telecommunications and supply chain, around the world. 
+IBM Systems: The recently launched IBM z15 is  
+our most secure and capable mainframe ever, with 
+encryption that can be applied across hybrid cloud 
+environments, cloud-native development capabilities 
+and an industry-first approach to instant recovery.
+Quantum: In 2019, IBM introduced a 53-qubit quantum 
+computer, the largest universal quantum computing 
+system available for commercial use. More than 
+100 global clients and 200,000 registered users have  
+run over 160 billion experiments on the IBM Quantum 
+Computation Center’s fleet of 15 quantum systems  
+through the cloud, including Daimler AG, JPMorgan 
+Chase and Anthem. 
+3. IBMers: Talent, skills and culture 
+AI and other advanced technologies are changing the very 
+nature of work. To keep up with the rate and pace of these 
+changes, IBM has revitalized the skills of our workforce.  
+In the last five years, the percentage of IBMers with skills  
+of the future increased to 90 percent. 
+At the heart of our workforce transformation is the 
+constant acquisition of relevant skills. To support this work, 
+we built a platform that allows IBMers to plainly see the skills 
+they have, and the skills they need. And we developed an 
+AI-based, personalized learning system to help them acquire 
+those skills. More than 26 million learning hours were logged 
+in 2019 alone. 
+As important, IBM is committed to fostering a culture  
+in which all IBMers feel they can bring their best selves to 
+work. Diversity and inclusion are essential to our business.  
+They fuel innovation and drive employee satisfaction.  
+And in 2019, we achieved record diversity across all 
+representation groups and best-in-class inclusion scores.  
+We were again widely recognized as one of the best places  
+to work for mothers, veterans, LGBTQ employees and more. 
+IBM understands that diversity is a fact, but inclusion  
+is a choice. We have made our choice. And that is just one 
+reason why our employee engagement score is at an all-time 
+high, improving 17 points since 2014.
+4. Speed: Changing the way we work
+Today, enterprise client expectations are dictated by their 
+consumer technology experiences. In order to match the 
+speed of development found in consumer markets, we 
+needed to fundamentally change the way IBM worked. 
+This process began with the creation of IBM Design 
+Thinking, an enterprise-grade variant of the well-known 
+human-centered design process. We then adopted agile 
+development practices, to create the working conditions  
+for small, diverse teams to solve problems and introduce  
+new solutions quickly.
+IBM has hired more than 20,000 designers. We have 
+more than 100,000 employees working in agile methodology. 
+And we have converted more than 10 million square feet  
+of offices into agile workspaces. 
+This led to a significant change in the way our clients 
+experience IBM today: the IBM Garage. These are dedicated, 
+physical spaces in which clients work side by side with 
+IBMers to co-create solutions, applying IBM Design Thinking 
+and agile methods. They can happen anywhere in the world, 
+in dedicated IBM spaces or client offices. 
+In 2019, we conducted approximately 600 engagements 
+in which we helped clients adopt these same practices.  
+The end result has been record Net Promoter Scores from 
+clients across all IBM businesses. 
+5. Good tech: A model of responsible stewardship  
+for the digital age
+Of all the work we have done to transform IBM, I am most 
+proud of the way in which we are defining responsible 
+stewardship in the digital age. 
+At IBM, we have always taken the long view. That means 
+grounding strategy and business decisions in core values  
+that endure through decades of political, technological  
+and societal change. They are: 
+ –
+ –
+ –
+Dedication to every client’s success.
+Innovation that matters, for our company  
+and for the world.
+Trust and personal responsibility in all relationships.
+Leading with values is not wide-eyed altruism. It is clear-
+eyed business strategy. Values attract the best employees. 
+They sustain our client relationships. And they have guided 
+our efforts to lead the industry in modeling what “good tech” 
+looks like. 
+
+--- Page 7 ---
+6 
+For example, our Principles for Trust and Transparency 
+have become the global ethical standard of digital 
+responsibility, inspiring similar doctrine in businesses  
+and governments around the world:
+ –
+ –
+ –
+The purpose of new technology is to augment  
+mankind, not replace it.
+Data and the insights it yields belong only  
+to the owner of that data.
+AI should be open, transparent and explainable.
+At IBM, we consider the full impact of our technology on 
+society. And we readily accept our leadership role in making 
+the digital era an inclusive era. 
+As such, we have pioneered programs that ensure  
+the many—not just a few—benefit from the digital economy. 
+To that end, we substantially expanded our 21st-century 
+apprenticeship program and P-TECH six-year high school 
+education model in 2019. Enrollment in the apprentice 
+program grew twice as fast as expected. And P-TECH doubled 
+the number of participating schools to 220, in 24 countries, 
+with a pipeline of 150,000 students.
+Our Call for Code and Code and Response programs 
+continue to scale, tapping the talents of developers to address 
+some of society’s most intractable challenges. In 2019, 
+180,000 developers from 165 countries created more than 
+5,000 applications focused on disaster relief. 
+In 2019, IBM published its 29th annual IBM and the 
+Environment Report, and advanced our environmental 
+leadership as a founding member of the Climate Leadership 
+Council, where we have supported a carbon tax that will 
+reduce carbon emissions globally through market-based 
+incentives. At the same time, we remain on track to achieve a 
+40 percent reduction of carbon dioxide emissions associated 
+with our own energy consumption by 2025. In addition, IBM 
+developed a breakthrough method of recycling polyethylene 
+terephthalate (PET), a widely used plastic with a high carbon 
+footprint that is difficult to recycle. IBM’s new method will 
+make it possible for more types of PET plastic to become 
+100 percent recyclable, helping to reduce the 8 million tons 
+of plastics that enter our oceans each year.
+New leadership for a new era
+I am enormously proud of the work we have done to transform 
+IBM for this moment. And with the foundation for growth now 
+in place, it is the right time for a new leader to continue this 
+critically important journey for IBM and our clients. 
+As such, I have elected to retire at the end of 2020 after 
+nearly 40 years with the company. Effective April 6, 2020, 
+Arvind Krishna, our Senior Vice President for Cloud and 
+Cognitive, will become the next Chief Executive Officer of IBM 
+and a member of the Board. Jim Whitehurst, CEO of Red Hat, 
+will become President of IBM. 
+Arvind is a brilliant business leader and technologist 
+who has played a significant role in developing our key 
+technologies including artificial intelligence, cloud, quantum 
+computing and blockchain. And Jim is a seasoned leader who 
+built Red Hat into the world’s leading provider of open source 
+enterprise IT software solutions and services. Together,  
+this dream team of technological acumen and business  
+savvy will build on IBM’s new foundations. 
+As we make this transition, I want you to know that my 
+belief in IBM and IBMers has never been stronger. It has been 
+the privilege of my life to lead this great company during this 
+time of significant transformation. And, most importantly,  
+I would like to thank our employees for their tireless 
+dedication, our clients for their trust and partnership,  
+and our investors for their continued belief in our company 
+and its strategy. 
+At IBM, we believe in the fundamental promise of 
+technology: that when we apply science to real-world 
+problems, we can create a tomorrow that is better than today; 
+a tomorrow that is more sustainable, more profitable and 
+more equitable. 
+And I believe that IBM is essential to fulfilling 
+that promise.
+Virginia M. Rometty  
+Chairman, President and Chief Executive Officer
+In an effort to provide additional and useful information regarding the company’s 
+financial results and other financial information, as determined by generally accepted 
+accounting principles (GAAP), these materials contain non-GAAP financial measures 
+on a continuing operations basis, including operating earnings per share, operating 
+gross profit margin, free cash flow, and revenue adjusted for divested businesses and 
+constant currency. The rationale for management’s use of this non-GAAP information 
+is included on pages 26, 27 and 58 of the company’s 2019 Annual Report, which is 
+Exhibit 13 to the Form 10-K submitted with the SEC on February 25, 2020. For 
+reconciliation of these non-GAAP financial measures to GAAP and other information, 
+please refer to pages 39, 46, 59 and 139 of the company’s 2019 Annual Report.
+
+--- Page 8 ---
+What does it  
+take to lead  
+IBM’s clients  
+in their next 
+chapter of digital 
+transformation?
+7
++  Innovative Technology  
+We help build agile organizations, 
+fueled by data, guided by AI insight 
+and built for change in any cloud 
+environment. Add blockchain  
+and the coming era of quantum 
+computing, and we’ll continue 
+leading our clients’ journeys  
+to the Cognitive Enterprise. 
++  Industry Expertise 
+The problems we solve and  
+the opportunities we discover  
+for clients cannot be achieved 
+through technology alone. 
+Providing counsel and insights, 
+based on deep industry knowledge 
+and experience, IBM is the  
+only company with the portfolio 
+and the people to meet today’s 
+enterprise demands.
++  Trust and Security  
+We build trust, privacy and security 
+into even our most cutting-edge 
+technologies. Just as crucial is the 
+trust we build into our business 
+relationships. Continually 
+considering the full impact  
+of our technology on society,  
+we are committed to responsible 
+stewardship for the digital age.
+ 
+
+--- Page 9 ---
+8 8 
+Innovative 
+Technology
+Hybrid cloud is a potential $1.2 trillion 
+market, with IBM already in the lead.  
+As businesses construct and connect 
+multiple clouds, IBM offers customers 
+the ability to build applications once 
+and run them anywhere. Whether  
+for public cloud, private cloud or 
+on-premises systems, IBM’s hybrid 
+approach enables clients to unleash  
+any cloud’s full potential.
+  Our acquisition of Red Hat has been 
+a game changer. Red Hat OpenShift is 
+the platform of choice for hybrid cloud.
+ $21.2  
+ billion  
+cloud revenue  
+in 2019
+ 2,000+  
+clients using Red Hat 
+and IBM’s hybrid 
+cloud platform
+
+--- Page 10 ---
+Innovative Technology  
+9
+Banks are  
+accelerating their 
+transformations
+Banks were pioneers in building consumer-facing apps,  
+but deeper digital reinvention in the finance industry  
+has been slower, limited by concerns that include data 
+security and privacy. Today, many institutions are working 
+with IBM to reinvent their infrastructure—and create new 
+technology models for finance, such as the world’s first 
+financial services-ready cloud. 
+When the global bank BNP Paribas began accelerating  
+its digitization strategy, its goal was to deliver superior 
+services to its customers and corporate clients while 
+ensuring the security and confidentiality of their data.  
+The bank discovered that it could not digitize quickly enough  
+with its existing private cloud. It turned to IBM to co-create  
+a public cloud that would be robust, reliable and secure 
+enough to support its banking applications and its extensive 
+compliance and security requirements. The BNP Paribas 
+dedicated public cloud will combine the security of a private 
+cloud with the speed, scalability and cost savings of a public 
+cloud. The bank will also benefit from IBM Watson AI and 
+other services—enabling it to tap into new technologies, 
+innovate more quickly and, ultimately, deliver a better 
+customer experience.
+Consumers expect convenience and security from their 
+banks. The challenge: how to increase convenience without 
+giving up on security. State Bank of India, the country’s 
+largest bank, partnered with IBM Services to create a  
+secure mobile platform, YONO (You Only Need One), that  
+is transforming how more than 18 million people in India 
+bank, invest, shop, order food and more.
+
+--- Page 11 ---
+10 
+Airlines are building  
+new travel experiences
+Airlines must deliver superior passenger experiences with 
+every flight. To do that, they are rethinking and reinventing 
+their technology core—and how their employees work.
+Carriers are shifting mission-critical workloads to 
+IBM Cloud and hybrid cloud environments, taking advantage 
+of the open, scalable architecture and microservices to 
+improve their processes, accommodate growth and offer new 
+digital services such as automatic rebooking. And airlines 
+are using AI to offer personalized pricing and other 
+new services.
+The IBM Travel Platform offers a range of customized 
+mobile applications that empower airline employees, allowing 
+them to offer higher levels of service, manage boarding more 
+efficiently, deploy maintenance resources, and more. Aloft, 
+The Weather Company’s Total Turbulence can predict 
+turbulence ahead of time, so plane routes can be optimized.
+Across the industry, these shifts are allowing carriers  
+to find new ways to improve the journey.
+
+--- Page 12 ---
+Innovative Technology  
+11
+Telcos are innovating 
+more nimbly 
+Success in any market requires rapid, agile innovation.  
+In Europe, Vodafone Business partnered with IBM to combine  
+Vodafone’s leadership in Edge, 5G and IoT with IBM’s public 
+and hybrid cloud, industry expertise and professional 
+services. The partnership is enabling companies like 
+National Express to deliver digital solutions faster, utilizing  
+a multicloud approach and capitalizing on AI, blockchain  
+and other advanced technologies.
+In India, Vodafone Idea, a Vodafone Group joint venture, 
+signed an IT outsourcing partnership with IBM to deliver 
+enhanced customer experience to millions of connected 
+customers and yield synergies by consolidating two large 
+pre-merger IT environments. The partnership uses IBM’s 
+hybrid cloud, analytics and security capabilities to accelerate 
+Vodafone Idea’s progression to an open, agile and secure  
+IT environment.
+IBM, with Red Hat, is also helping Vodafone Idea build  
+an open universal hybrid cloud, able to serve all aspects  
+of core network and IT from a common cloud. This will enable  
+continued improvements in customer service, a step change 
+reduction in cost, and the rapid deployment of Edge-based 
+offerings to enterprise clients.
+
+--- Page 13 ---
+12 12 
+Artificial intelligence is transforming 
+how businesses operate, how people  
+do their jobs and how customers 
+engage. Across industries, IBM clients 
+are rapidly moving from pilots to 
+enterprise-wide AI adoption. With 
+IBM Watson, the pieces are now in place  
+to scale AI with trust and transparency. 
+  And with IBM’s allegiance to open 
+source technology, these AI solutions 
+perform with seamless interoperability, 
+whatever the software platform  
+or cloud environment. 
+Infrastructure can 
+maintain its own safety
+The world’s civil infrastructure is aging. Catastrophic  
+failures of bridges and roads are a growing threat. A recent 
+study determined that in the U.S. alone, 47,052 bridges  
+were structurally deficient. 
+Sund & Bælt, which owns and operates some of the 
+largest infrastructure in the world—including the Great Belt 
+Bridge in Denmark—has partnered with IBM to create 
+Maximo for Civil Infrastructure, a solution that uses machine 
+intelligence to monitor the effects of stress, use and age  
+on bridges and tunnels—and to announce when intervention  
+is required.
+It will measure the impacts of cracks, rust, corrosion  
+and other potential stressors by integrating and analyzing 
+data from The Weather Company, maintenance records  
+and sensors that are placed on structures, worn by workers 
+and flown by drones. Using predictive and prescriptive 
+maintenance strategies, the system can flag the most serious 
+issues. As a result, maintenance crews will be able to work 
+with maximum efficiency and effectiveness.
+ #1  
+market leader  
+in enterprise AI
+ 30,000+  
+IBM Watson client 
+engagements
+ 1,800+  
+AI patents in 2019

@@ -1,0 +1,834 @@
+
+--- Page 12 ---
+ADVANCING GPU COMPUTING 
+THROUGH TURBULENT TIMES
+DEAR NVIDIANS 
+AND STAKEHOLDERS,
+This was an extraordinary year. We achieved 
+records in each of our businesses. It was 
+also a challenging, turbulent year, particularly 
+in the third and fourth quarters as the 
+cryptocurrency boom ended sharply and 
+datacenter customers became more 
+cautious amid economic uncertainties. 
+In the face of these headwinds, we made 
+giant strides in advancing computer 
+graphics, high-performance datacenter 
+computing, and AI. We are well positioned 
+to continue our growth.
+Revenue rose 21 percent to $11.72 billion, 
+and gross margins expanded to 61.2 percent. 
+GAAP earnings per share were $6.63, up 
+38 percent. And we returned $1.95 billion 
+to shareholders through dividends and 
+share repurchases.
+Turing has arrived and is reinventing 
+computer graphics. We name our new 
+GPU architectures after great inventors, 
+scientists, and artists. We name them 
+after the people for whom we create 
+our computers. Turing is our newest 
+architecture. Turing-based GeForce 
+RTX GPUs make possible real-time ray 
+tracing, a method of creating photorealistic 
+graphics that has been a dream our 
+industry has pursued for nearly four 
+decades. Turing makes this dream possible 
+by combining inventions in ray tracing, 
+AI, and programmable shading in a new 
+approach to graphics we named RTX. 
+For gamers, it’s a giant leap from Pascal. 
+Once you experience the heart-pounding 
+realism of real-time ray-traced graphics, 
+you can’t go back. Microsoft has adopted 
+ray tracing in the next major Windows API, 
+called Microsoft DirectX Raytracing, or 
+DXR. Next-generation games can easily 
+adopt ray tracing, and they’ll be beautiful. 
+At CES 2019, we rounded out our RTX 
+lineup with the GeForce RTX 2060, the 
+first Turing GPU for the mass market 
+and a major upgrade opportunity for 
+millions of gamers. And we announced 
+more than 40 new models of GeForce RTX 
+gaming notebooks, addressing one of the 
+fastest-growing segments in PC gaming 
+today. Combining the incredible energy 
+efficiency of our GPUs with our Max-Q 
+system power optimization technologies, 
+RTX notebooks are powerful yet thin-and-
+sleek gaming machines.
+Our gaming business grew 13 percent 
+this year to a record $6.25 billion. With 
+the cryptocurrency turbulence behind us 
+and dazzling ray-traced games ahead, we 
+expect the RTX lineup to drive sustained 
+growth for our GeForce business.
+We believe that one day everyone will 
+be a gamer. Some will want to play on 
+powerful gaming systems. Others will 
+prefer the convenience to play anywhere 
+and anytime there is a moment to spare. 
+To expand the reach of games, we’ve been 
+working for more than five years on a 
+cloud gaming system—a virtual gaming 
+PC in the cloud—called GeForce NOW. 
+In beta for about a year as we optimize the 
+challenging performance and latency of 
+cloud gaming, GeForce NOW has hundreds 
+of thousands of registered users and a 
+waitlist of a million more.
+Turing opens the $250 billion visual 
+effects markets for our professional 
+visualization business. Our pro workstation 
+business achieved another record this year, 
+growing 21 percent to $1.13 billion. We’re 
+excited for the future as the Turing-based 
+Quadro RTX is the most significant 
+workstation GPU upgrade in a decade. 
+Quadro RTX excels at new applications 
+like photorealistic rendering, data science, 
+AI, and VR. Tens of millions of designers 
+and creative artists will enjoy a boost 
+in productivity and an array of all-new 
+capabilities. Imagine walking through a 
+photorealistic rendering of a new building 
+in VR. Or having an AI program assist 
+you by automatically creating parts of 
+the building’s design using generative-
+design technology. Partners like Dell, 
+HP, and Lenovo have already announced 
+workstations powered by Quadro RTX.
+And with Turing’s RTX ray-tracing capability, 
+film studios can finally install NVIDIA GPUs 
+in their render farms—providing a long-
+awaited performance leap to the graphics 
+rendering process of modern filmmaking. 
+Nearly every movie today includes some 
+special effects and image enhancement. 
+Our Quadro RTX server will accelerate 
+this tedious process, delivering 4X the 
+performance and one-third the cost 
+compared to CPU render farms.
+AI adoption by hyperscalers, cloud, and 
+enterprises drove growth of 52 percent in 
+our datacenter business, reaching $2.93 
+billion for the year. We didn’t meet our 
+growth expectations for the fourth quarter 
+as datacenter customers slowed purchases. 
+The quarter overshadowed what was 
+otherwise a year of great expansion 
+of our datacenter portfolio.
+
+--- Page 13 ---
+NVIDIA accelerates three broad workloads 
+of computing in “the new HPC” market: AI 
+applications run by cloud service providers, 
+scientific computing in supercomputing 
+labs, and enterprise data analytics and 
+machine learning across industries like 
+retail, healthcare, and financial services.
+It was a landmark year for NVIDIA in 
+supercomputing. We now power the fastest 
+supercomputers in the United States, 
+Europe, and Japan. The U.S.-based Summit 
+supercomputer—the world’s fastest— 
+uses more than 27,000 NVIDIA V100 GPUs 
+to achieve 144 petaflops of performance. 
+On the most recent TOP500 list, we 
+added 41 new systems for a total of 127 
+supercomputers accelerated by NVIDIA. 
+The GPU-accelerated computing approach 
+NVIDIA pioneered has proven to be the best 
+path forward as the era of exponential 
+scaling of the CPU ends.
+Cloud service providers use state-of-the-
+art AI technologies when Google enhances 
+and sorts your vacation photos, when Alexa 
+answers questions or plays your song 
+requests, or when Netflix recommends a 
+movie for you to enjoy. These AI programs 
+learned from examples and were written 
+by giant computers. 
+NVIDIA’s GPUs and CUDA AI platform 
+power many of these computers and are 
+used by researchers, developers, and 
+service operators around the world to 
+create and deploy AI services. This year, 
+we announced our second-generation 
+Tensor Core GPU, called T4. It’s the most 
+energy-efficient GPU and is designed for 
+easy adoption by hyperscale and enterprise 
+datacenters. T4 is super versatile, able 
+to accelerate deep learning training and 
+inference, machine learning, data analytics, 
+and cloud graphics. Adoption of T4 during 
+the year was terrific. In January 2019, 
+Google Cloud announced availability of 
+T4 GPUs in its datacenters in the U.S., 
+Europe, Brazil, India, Singapore, and Tokyo. 
+T4 is designed for scale-out computing— 
+the architecture used by hyperscalers and 
+enterprises—and optimized for computing 
+services where many users share a 
+datacenter as a utility. 
+We also announced a breakthrough in 
+scale-up computing, where one computer 
+is dedicated to a few people to achieve 
+the fastest possible turnaround time. 
+We launched NVIDIA DGX-2, the world’s 
+first single-node computer to deliver two 
+petaflops of deep learning performance. 
+DGX-2 is powered by 16 fully interconnected 
+Volta GPUs, pre-integrated with system 
+software, and connected to the NGC cloud 
+Image courtesy of GamesBeat
+store of accelerated applications. It’s a 
+great example of NVIDIA’s transformation 
+into a computing company. In December 
+2018, DGX-2 achieved first place in six 
+categories of the first-ever objective 
+third-party AI benchmark, called MLPerf. 
+The DGX platform has been adopted by 
+all leading computer makers and cloud 
+service providers.
+This year, we entered a new high 
+performance computing market with 
+the launch of the RAPIDS acceleration 
+libraries for data analytics and machine 
+learning. Developed with the open-source 
+community, RAPIDS is a large suite of 
+CUDA acceleration libraries that does 
+for data scientists what we’ve done for 
+deep learning developers. Data science 
+is a field of computer science that applies 
+algorithms to discover important insights 
+from the seas of data collected by companies 
+in healthcare, financial services, retail, and 
+telecommunications. Companies use data 
+science to forecast inventory, detect fraud 
+and security breaches, connect riders 
+to drivers, predict delivery arrival times, 
+and help with lab experiments in drug 
+discovery. Because of the vast amount 
+of data involved, data science is one of the 
+newest and most intensive HPC applications. 
+We can help data scientists discover insights 
+faster and work on much larger data sets 
+with our computers. 
+We fueled innovation on and off the road 
+with the NVIDIA DRIVE platform. Our 
+auto business grew 15 percent this year 
+to a record $641 million, driven by the 
+adoption of next-generation AI capabilities 
+under the hood and inside the cockpit.
+Our strategy is not to build self-driving 
+cars, but to create a platform for every 
+transportation company in the world to 
+build them. To do so, we built our own 
+self-driving car to create the end-to-end 
+systems that we offer to customers. 
+The NVIDIA DRIVE platform includes 
+DGX-based AI development systems, 
+the DRIVE Constellation virtual reality 
+simulator, our DRIVE AP2X autopilot 
+computer, the full self-driving car 
+and driver interaction software stacks 
+DRIVE AV and DRIVE IX, and the fleet of 
+mapping and testing cars called BB8. 
+Tier one partners rolled out new Xavier-
+based DRIVE AGX car computers, we 
+brought functional safety to the DRIVE 
+platform, and we completed our first 
+hands-free, 50-mile loop around the 
+San Francisco Bay Area with BB8.
+At CES, we announced DRIVE AutoPilot, 
+the world’s first commercially available 
+Level 2-plus self-driving car computer. 
+DRIVE AutoPilot uses deep learning 
+networks, features surround camera 
+perception both in and outside of the car, 
+and boasts world-leading AI processing 
+capabilities. It significantly surpasses 
+today’s ADAS offerings. Already, Volvo, 
+Continental, and ZF have selected DRIVE 
+AutoPilot to power autonomous vehicles.
+To accelerate the path to safe autonomous 
+driving, we introduced DRIVE Constellation, 
+a VR simulator where autonomous vehicles 
+can safely drive billions of miles in the 
+datacenter. 
+The world of autonomous machines 
+extends well beyond self-driving cars. 
+Eventually, every machine that moves 
+will be autonomous—including hundreds 
+of millions of warehouse forklifts, farming 
+machines, and delivery robots.
+
+--- Page 14 ---
+CARING FOR OUR 
+COMMUNITIES
+BUILDING THE FUTURE
+The highest purpose of a company is to 
+make a positive impact in the world. At the 
+global level, we do so with our inventions 
+and ideas. Across our sites around the 
+world, we also contribute to making our 
+local communities better. We balance our 
+near-term business goals with long-term 
+commitments to improving lives, protecting 
+our environment, and creating new 
+technologies that benefit society and raise 
+the ladder of science ever higher.
+We’re proud to be recognized as one of 
+the nation’s best employers and most 
+socially responsible companies by such 
+lists as Fortune’s Best Places to Work, 
+the Corporate Equality Index, and the Dow 
+Jones Sustainability Index. We debuted in 
+FY19 on Barron’s 100 Most Sustainable 
+Companies list and Equileap’s Gender 
+Equality Index.
+NVIDIANs are passionate about giving 
+back through volunteerism and generosity. 
+Our philanthropic giving this year, through 
+contributions and community partnerships, 
+exceeded $5.3 million. And 73 percent 
+of our offices around the world held 
+fundraisers or volunteered in their 
+communities during the year.
+To date, the NVIDIA Foundation’s Compute 
+the Cure initiative has directed more than 
+$5 million to the fight against cancer, 
+including more than $365,000 raised 
+by our employees last year for cancer 
+organizations around the world.
+We started NVIDIA to solve real-time 3D 
+graphics. Creating a realistic computer-
+simulated world is one of the greatest 
+challenges in computing. After a quarter 
+century of relentless pursuit, we’re still 
+working on it. We believed in the beginning 
+that the endeavor would create one of the 
+world’s leading technology companies. 
+We believe it now. Through our work we 
+pioneered GPU computing and evolved it 
+over the decades to advance the fields of 
+computer graphics, high performance 
+computing, and AI. Fundamentally, these 
+areas share similar challenges. Each 
+breakthrough opened the door to new 
+and impactful challenges to tackle next.
+Our NVIDIA Research team broke new 
+ground this year in AI-based graphics 
+technologies. Their work with GAN 
+algorithms was particularly exciting, 
+creating the first AI-rendered interactive 
+virtual world.
+We also opened a new AI Robotics Research 
+lab in Seattle. The lab is working on a wide 
+array of research projects, including robots 
+that can mimic human motion, adapt to 
+unstable surfaces, and even assist with 
+kitchen tasks.
+Technologies in our virtual robot training 
+environment—where robots learned to putt 
+a golf ball—are being applied to autonomous-
+vehicle simulators to improve the safety of 
+tomorrow’s self-driving cars. Our work in 
+robotics will revolutionize manufacturing, 
+agriculture, and space exploration. Robotics 
+will even make future games more fun with 
+AI characters that interact with you in 
+make-believe worlds. 
+Our work is reshaping trillion-dollar 
+industries like transportation, healthcare, 
+and manufacturing, and fostering entirely 
+new industries just taking root.
+In healthcare, research doctors use 
+our systems to develop deep learning 
+AI techniques that detect diabetic 
+retinopathy and cancer, study chest 
+CT scans, or find hairline bone fractures. 
+These AI models can work alongside 
+radiologists to increase accuracy. We 
+created the NVIDIA Clara computing 
+platform, named after Red Cross founder 
+Clara Barton, for researchers and imaging 
+equipment makers. Clara unifies the 
+computational pipeline of medical imaging 
+systems so that these new algorithms can 
+be more easily deployed in hospitals.
+The computers NVIDIA makes are the 
+essential instruments of scientists, 
+researchers, artists, and creators. We 
+make tools with amazing and incredible 
+possibilities. Like a time machine, we 
+make computers for the Einsteins and 
+da Vincis of our time to help them see 
+and create the future. Few companies 
+stand at this intersection. It inspires 
+us and is our core purpose. I can’t 
+imagine more important work.
+This year will stand as one of the most 
+extraordinary in our company’s history. 
+It was surely turbulent. Yet it was a year 
+when we did some of our best work ever. 
+The strides we made this year have 
+positioned us solidly for the future. 
+We look forward to tackling the exciting 
+challenges ahead and making a positive 
+impact on how the future turns out for 
+generations to come.
+Jensen Huang 
+CEO and Founder, NVIDIA 
+April 2019
+
+--- Page 15 ---
+NVIDIA CORPORATION 
+NOTICE OF 2019 ANNUAL MEETING 
+PROXY STATEMENT AND FORM 10-K 
+FORWARD-LOOKING STATEMENTS 
+Certain  statements  in  this  document  including,  but  not  limited  to,  statements  as  to:  the  impact,  benefits,  abilities,  features  and  performance  of  our 
+products and technologies; NVIDIA being well positioned to continue its growth; Turing reinventing computer graphics and making ray tracing possible; 
+next-generation games being able to easily adopt ray tracing and their beauty; GeForce RTX 2060 being a major upgrade opportunity for millions of gamers; 
+our expectation that the RTX lineup will drive sustained growth for our business; our belief that one day everyone will be a gamer, and how and where they 
+will  want  to  play;  the  benefits  and  market  opportunity  for  Turing  and  our  professional  visualization  business;  Quadro  RTX  being  the  most  significant 
+workstation GPU upgrade in a decade; Quadro RTX enabling tens of millions of designers and creative artists to enjoy a boost in productivity and capabilities 
+and its ability to deliver increased performance and reduced costs from CPU render farms; NVIDIA accelerating three broad workloads in the new HPC 
+market; NVIDIA’s GPU-accelerated computing approach being the best path forward as the era of exponential scaling of CPUs ends; data science being 
+one of the newest and most intensive HPC applications and how NVIDIA can help data scientists to discover insights faster and work on much larger data 
+sets; NVIDIA’s strategy to create a platform for transportation companies to build self-driving cars; that every machine that moves will eventually be 
+autonomous; NVIDIA working on creating realistic computer-simulated worlds and our belief that this will create one of the world’s leading technology 
+companies; NVIDIA’s work in robotics revolutionizing manufacturing, agriculture and space exploration; robotics making future games more fun with AI 
+characters that interact with you in make-believe worlds; NVIDIA’s work and GPU computing reshaping trillion-dollar industries and fostering entirely 
+new  industries;  looking  forward  to  tackling  the  exciting  challenges  ahead  and  making  a  positive  impact  on  how  the  future  turns  out  for  generations; 
+NVIDIA’s products serving as gaming’s largest platform and giving rise to an entirely new generation of gamers; Quadro RTX’s delivering graphics that 
+creators didn’t expect for another 5-10 years; autonomous vehicles being right around the corner; and our market position and strategies are forward-
+looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that 
+could cause actual results to differ materially include: global economic conditions; our reliance on third parties to manufacture, assemble, package and 
+test our products; the impact of technological development and competition; development of new products and technologies or enhancements to our 
+existing products and technologies; market acceptance of our products or our partners’ products; design, manufacturing or software defects; changes in 
+consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of our products or technologies when 
+integrated into systems; as well as other factors detailed from time to time in the reports NVIDIA files with the Securities and Exchange Commission, or 
+SEC, including, but not limited to, its annual report on Form 10-K and quarterly reports on Form 10-Q. Copies of reports filed with the SEC are posted on 
+the company’s website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and 
+speak only as of April 12, 2019, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect 
+future events or circumstances. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- Page 16 ---
+NOTICE OF 2019 ANNUAL MEETING OF STOCKHOLDERS
+Date and time:
+Wednesday, May 22, 2019 at 10:30 a.m. Pacific Daylight Time
+Location:
+Online at www.virtualshareholdermeeting.com/NVIDIA2019
+Items of business:
+• Election of twelve directors nominated by the Board of Directors
+• Approval of our executive compensation
+• Ratification of the selection of PricewaterhouseCoopers LLP as our independent registered
+public accounting firm for fiscal year 2020
+• Approval of an amendment and restatement of our Certificate of Incorporation to eliminate
+supermajority voting to remove a director without cause
+Transaction of other business properly brought before the meeting
+Record date:
+You can attend, and vote at, the annual meeting if you were a stockholder of record at the close
+of business on March 25, 2019.
+Virtual meeting
+admission:
+We will be holding our annual meeting online only this year at
+www.virtualshareholdermeeting.com/NVIDIA2019.  To participate in the annual meeting, you
+will need the control number included on your notice of proxy materials or printed proxy card.
+Pre-meeting forum:
+In order to allow for communication with our stockholders in connection with the annual
+meeting, we have established a pre-meeting forum located at www.proxyvote.com where you
+can submit advance questions to us.
+Your vote is very important.  Whether or not you plan to attend the virtual meeting, PLEASE VOTE YOUR SHARES.  As an
+alternative to voting online at the meeting, you may vote via the Internet, by telephone or, if you receive a paper proxy
+card in the mail, by mailing the completed proxy card.
+Important notice regarding the availability of proxy materials for the Annual Meeting of Stockholders to be held on
+May 22, 2019.  This Notice, our Proxy Statement, our Annual Report on Form 10-K, and our Annual Review are available
+at www.nvidia.com/proxy.
+By Order of the Board of Directors 
+Timothy S. Teter 
+Secretary
+Santa Clara, California
+April 12, 2019
+
+--- Page 17 ---
+TABLE OF CONTENTS
+DEFINITIONS
+PROXY SUMMARY
+PROXY STATEMENT
+Information About the Meeting
+Proposal 1—Election of Directors
+Director Qualifications and Nomination of Directors
+Our Director Nominees
+Information About the Board of Directors and Corporate Governance
+Independence of the Members of the Board of Directors
+Board Leadership Structure
+Role of the Board in Risk Oversight
+Corporate Governance Policies of the Board of Directors
+Stockholder Communications with the Board of Directors
+Majority Vote Standard
+Board Meeting Information
+Committees of the Board of Directors
+Director Compensation
+Review of Transactions with Related Persons
+Security Ownership of Certain Beneficial Owners and Management
+Proposal 2—Approval of Executive Compensation
+Executive Compensation
+Compensation Discussion and Analysis
+Risk Analysis of Our Compensation Plans
+Summary Compensation Table for Fiscal 2019, 2018, and 2017
+Grants of Plan-Based Awards For Fiscal 2019
+Outstanding Equity Awards as of January 27, 2019
+Option Exercises and Stock Vested in Fiscal 2019
+Employment, Severance and Change-in-Control Arrangements
+Potential Payments Upon Termination or Change-in-Control
+Pay Ratio
+Compensation Committee Interlocks and Insider Participation
+Compensation Committee Report
+Proposal 3—Ratification of the Selection of Independent Registered Public Accounting Firm for Fiscal
+2020
+Fees Billed by the Independent Registered Public Accounting Firm
+Report of the Audit Committee of the Board of Directors
+Proposal 4—Approval of an Amendment and Restatement to our Certificate of Incorporation
+Equity Compensation Plan Information
+Additional Information
+Section 16(a) Beneficial Ownership Reporting Compliance
+Other Matters
+APPENDIX A—Amended and Restated Certificate of Incorporation
+PAGE
+1
+2
+5
+5
+8
+9
+10
+16
+16
+16
+16
+17
+18
+18
+18
+18
+20
+21
+22
+24
+25
+25
+39
+40
+41
+42
+44
+44
+45
+46
+46
+46
+47
+48
+49
+50
+51
+51
+51
+52
+A-1
+
+--- Page 18 ---
+DEFINITIONS
+2007 Plan
+2012 ESPP
+NVIDIA Corporation Amended and Restated 2007 Equity Incentive Plan
+NVIDIA Corporation Amended and Restated 2012 Employee Stock Purchase Plan
+2019 A&R Charter
+The Company’s proposed Amended and Restated Charter
+AC
+Audit Committee
+Base Operating Plan
+Performance goal necessary to earn the target award under the Variable Cash Plan and for the target
+number of SY PSUs to become eligible to vest
+Board
+CC
+CD&A
+CEO
+CFO
+Charter
+Company
+Control Number
+Dodd Frank Act
+Exchange Act
+Exequity
+FASB
+Fiscal 20__
+Form 10-K
+GAAP
+The Company’s Board of Directors
+Compensation Committee
+Compensation Discussion and Analysis
+Chief Executive Officer
+Chief Financial Officer
+The Company’s Amended and Restated Certificate of Incorporation
+NVIDIA Corporation, a Delaware corporation
+Identification number for each stockholder included in Notice or proxy card
+Dodd-Frank Wall Street Reform and Consumer Protection Act
+Securities Exchange Act of 1934, as amended
+Exequity LLP, the CC’s independent compensation consultant
+Financial Accounting Standards Board
+The Company’s fiscal year ended on the last Sunday in January of the stated year
+The Company’s Annual Report on Form 10-K for Fiscal 2019 filed with the SEC on February 21, 2019
+Generally accepted accounting principles
+Internal Revenue Code
+U.S. Internal Revenue Code of 1986, as amended
+Lead Director
+Lead independent director
+Meeting
+MY PSUs
+Nasdaq
+NCGC
+NEOs
+Non-GAAP Operating
+Income
+Annual Meeting of Stockholders
+Multi-year PSUs with a three-year performance metric
+The Nasdaq Stock Market LLC
+Nominating and Corporate Governance Committee
+Named Executive Officers consisting of our CEO, our CFO, and our other three most highly compensated
+executive officers as of the end of Fiscal 2019
+GAAP operating income adjusted for stock-based compensation expense, acquisition-related and other
+costs, and legal settlement costs, as the Company reports in its respective earnings materials.  The net
+aggregate adjustment to GAAP operating income for these items for Fiscal 2019 was $603 million and for
+Fiscal 2018 was $407 million.  Please see Reconciliation of Non-GAAP Financial Measures in our CD&A for
+a reconciliation between the non-GAAP measures and GAAP results
+Notice
+NYSE
+PSUs
+PwC
+RSUs
+S&P 500
+SEC
+Notice of Internet Availability of Proxy Materials
+New York Stock Exchange
+Performance stock units
+PricewaterhouseCoopers LLP
+Restricted stock units
+Standard & Poor’s 500 Composite Index
+U.S. Securities and Exchange Commission
+Securities Act
+Securities Act of 1933, as amended
+Stretch
+Performance goal necessary for the maximum number of MY PSUs to become eligible to vest
+Stretch Operating Plan
+Performance goal necessary to earn the maximum award under the Variable Cash Plan and for the
+maximum number of SY PSUs to become eligible to vest
+SY PSUs
+Target
+Threshold
+TSR
+PSUs with a single-year performance metric, vesting over four years
+Performance goal necessary for the target number of MY PSUs to become eligible to vest
+Minimum performance goal necessary to earn an award under the Variable Cash Plan and for SY PSUs
+and MY PSUs to become eligible to vest
+Total shareholder return
+Variable Cash Plan
+The Company’s variable cash compensation plan
+1
+
+--- Page 19 ---
+This summary highlights information contained elsewhere in the proxy statement.  This summary does not contain all of
+the information that you should consider, and you should read the entire proxy statement carefully before voting.
+PROXY SUMMARY
+2019 Annual Meeting of Stockholders
+Date and time:
+Wednesday, May 22, 2019 at 10:30 a.m. Pacific Daylight Time
+Location:
+Record date:
+Online at www.virtualshareholdermeeting.com/NVIDIA2019
+Stockholders as of March 25, 2019 are entitled to vote
+Admission to meeting:
+You will need your Control Number to attend the annual meeting
+Voting Matters and Board Recommendations
+A summary of the 2019 Meeting proposals is below.  Every stockholder’s vote is important. Our Board urges you to vote
+your shares FOR each of the proposals. 
+Matter
+Management Proposals:
+Election of twelve directors
+Page
+Board
+Recommendation
+Vote Required 
+for Approval
+Effect of
+Abstentions
+Effect of Broker
+Non-Votes
+FOR each director
+nominee
+More FOR than
+WITHHOLD votes None
+8
+None
+Approval of our executive compensation
+24
+FOR
+Ratification of the selection of PwC as our
+independent registered public accounting firm
+for Fiscal 2020
+Approval of an amendment and restatement of
+our Charter to eliminate supermajority voting
+to remove a director without cause
+47
+FOR
+50
+FOR
+Election of Directors (Proposal 1)
+Majority of
+shares present
+Majority of
+shares present
+66 2/3% of
+shares
+outstanding
+Against
+None
+Against
+None
+Against
+Against
+The following table provides summary information about each director nominee:
+Name
+Age
+Director
+Since
+Robert K. Burgess
+Tench Coxe
+Persis S. Drell
+James C. Gaither
+Jen-Hsun Huang
+Dawn Hudson
+Harvey C. Jones
+Michael G. McCaffery
+Stephen C. Neal
+Mark L. Perry (1)
+A. Brooke Seawell
+Mark A. Stevens
+61
+61
+63
+81
+56
+61
+66
+65
+70
+63
+71
+59
+2011
+1993
+2015
+1998
+1993
+2013
+1993
+2015
+2019
+2005
+1997
+Occupation
+Independent Consultant
+Managing Director, Sutter Hill Ventures
+Provost, Stanford University
+Managing Director, Sutter Hill Ventures
+President & CEO, NVIDIA Corporation
+Independent Consultant
+Managing Partner, Square Wave Ventures
+Chairman & Managing Director, Makena Capital Management
+Chairman, Cooley LLP
+Independent Consultant
+Venture Partner, New Enterprise Associates
+Financial
+Expert
+Committee
+Membership
+ü
+ü
+ü
+ü
+ü
+ü
+CC
+CC
+CC
+NCGC
+AC
+CC, NCGC
+AC
+AC, NCGC
+CC
+AC, NCGC
+2008 (2) Managing Partner, S-Cubed Capital
+(1)  Lead Director
+(2)  Mr. Stevens previously served as a member of our Board from 1993 until 2006
+2
+
+--- Page 20 ---
+Board Overview and Recent Refreshment
+Our director nominees exhibit a variety of competencies, professional experience, and backgrounds, and contribute diverse
+viewpoints and perspectives to our Board.  While the Board benefits from the experience and institutional knowledge that
+our longer-serving directors bring, it has also brought in new perspectives and ideas by appointing three new directors in
+the last four years, including, most recently in 2019, Stephen C. Neal, a veteran attorney and corporate advisor.  Below are
+the skills and competencies that our NCGC and Board consider important for our directors to have in light of our current
+business and future market opportunities, and the number of directors who possess them: 
+Our NCGC and Board also consider diversity in business experience, professional expertise, gender and ethnic background
+among Board members in recommending nominees to serve as directors.
+Corporate Governance Highlights
+Our Board is committed to strong corporate governance to promote the long-term interests of NVIDIA and our stockholders.
+We seek a collaborative approach to stockholder issues that affect our business and to ensure that our stockholders see
+our governance and executive pay practices as well-structured.  In the Fall of 2018, we contacted stockholders holding
+approximately 1% or more of our common stock (except for brokerage firms and index funds who we know do not engage
+in individual conversations with companies), representing an aggregate ownership of 27%, to gain insights into their views
+on  corporate  governance,  executive  compensation  and  environmental,  social  and  corporate  governance  issues.    Our
+management and a member of our Board met with stockholders holding, in total, 26% of our common stock.
+Highlights of our corporate governance practices include:  
+üProxy access
+üDeclassified Board
+üMajority voting for directors
+üActive Board oversight of risk and risk management
+üAll Board members independent, except for our CEO
+üIndependent Lead Director
+ü75% or greater attendance by each Board member at 
+    meetings of the Board and applicable committees
+üIndependent directors frequently meet in executive sessions
+üAt least annual Board and committee self-assessments
+üAnnual stockholder outreach, including NCGC participation
+üStock ownership guidelines for our directors and executive
+officers
+Approval of Executive Compensation for Fiscal 2019 (Proposal 2)
+We are asking our stockholders to cast a non-binding vote, also known as “say-on-pay,” to approve our NEOs’ compensation.
+The Board believes that our compensation policies and practices are effective in achieving our goals of attracting, motivating
+and retaining a high-caliber executive team; rewarding financial and operating performance; and aligning our executives’
+interests with those of our stockholders to create long-term value. The Board and our stockholders have approved holding
+our “say-on-pay” votes annually. 
+Executive Compensation Highlights
+Our executive compensation program is designed to pay for performance.  We utilize compensation elements that align our
+NEOs’  interests  with  those  of  our  stockholders  to  create  long-term  value.    Our  NEO  pay  is  heavily  weighted  toward
+3

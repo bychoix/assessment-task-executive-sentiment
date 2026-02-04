@@ -1,0 +1,296 @@
+
+--- Page 2 ---
+Letter From Your CEO
+For 2014, Intel reported record revenue of $55.9 billion, up 6% from 2013. Net income rose 22% to $11.7 
+billion, and earnings per share were $2.31. Our operating income of $15.3 billion was up 25% over 
+2013. We achieved record annual unit shipments for PCs, servers, tablets, phones, and the Internet of Things.
+Our strategy for growth is playing out well. We are driving our core businesses in personal computing  
+and the enterprise, building on those assets to move into new areas such as the Internet of Things and 
+wearables, strengthening Intel’s position in mobile, and continuing our relentless pursuit of Moore’s Law.  
+The diversity and scale of Intel products today put us in a unique position to compete across the breadth  
+of devices that compute and connect. 
+Growing our core businesses
+In PC clients, revenue of $34.7 billion was up 4% over 2013. Operating income of $14.6 billion was up 25%. We introduced  
+the Intel® Core™ M processor family, designed to enable superior compute and graphics performance and long battery life in 
+razor-thin, fanless mobile devices. In Chromebooks*, Intel now leads in market segment share. In data center products, revenue 
+was $14.4 billion, up 18% over 2013, and operating income increased 31% as we capitalized on the growth of cloud computing 
+and big data. We introduced next-generation Intel® Xeon® processors that enhance performance, efficiency, and security for 
+compute, storage, and network workloads in cloud environments. 
+Our core businesses are also providing valuable intellectual property to help us compete in diverse computing markets. For example, 
+certain models of the ultra-thin Dell Venue* 8 tablet ship with Intel® RealSense™ technology, a 3-D camera capability we originally 
+created for PCs. Likewise, Intel® Atom™ processors, developed first as an extension of our PC products family, are found in 
+smartphones and tablets, as well as storage, networking, and computing devices in the data center and Internet of Things.  
+Progress in mobile
+We exceeded our goal to ship 40 million units for tablets during 2014, and became one of the largest silicon providers for tablets. 
+The first U.S. smartphone powered by Intel® processors was introduced. We are ramping crucial LTE communications products 
+and began shipping our second-generation 7260 LTE baseband modem. Landmark agreements with Rockchip and Spreadtrum  
+in China give us new sources of innovation and partners with whom to scale Intel® architecture products. In 2015 we look to 
+improve mobile profitability by further reducing costs through efficiencies and products such as our SoFIA System-on-Chip 
+targeted for the mobile market segment.  
+Leading in emerging sectors
+We have made investments and established positions in emerging growth sectors such as the Internet of Things and wearables 
+before these segments become mainstream. Our Internet of Things revenue grew 19% in 2014, to more than $2 billion. We 
+announced our Basis Peak™ fitness and sleep tracker and Intel® Curie™ module, a button-sized computer designed for wearables, 
+and have established a growing portfolio of wearable technology collaborations with several world-class fashion and fitness brands. 
+Moore’s Law: going strong at 50
+In 1965, Intel co-founder Gordon Moore made his visionary observations about how integrated electronics would change our 
+world through ever-shrinking, ever-cheaper silicon circuits. Fifty years later, “Moore’s Law” remains Intel’s heritage and is still 
+our driving force. In 2014, we launched chips based on the world’s first 14-nanometer (nm) manufacturing process, and our 
+10nm process is under development. As we further advance Moore’s Law, our silicon technology leadership will remain a valuable 
+competitive advantage. 
+Role model for corporate responsibility
+Intel continues to be a leader in environmental sustainability, education, and community involvement. In 2014, we extended 
+efforts to ensure ethical sourcing of minerals for our products, including “conflict minerals” from the Democratic Republic of the 
+Congo (DRC) and adjoining countries. After accomplishing our goal to manufacture microprocessors that are DRC conflict-free  
+for tantalum, tin, tungsten, and gold, we have set a new goal that all products on our roadmap for 2016 and beyond will be DRC 
+conflict-free for these minerals. In January 2015, we also announced a broad Diversity in Technology initiative that includes our 
+commitment to invest $300 million to support hiring and retaining of women and under-represented minorities at Intel and 
+throughout the technology and gaming industries.  
+It’s best with Intel
+We solidified our strategy and executed it well in 2014, resulting in a very strong year for Intel. We sharpened our focus,  
+accelerated our pace of innovation, and delivered stockholder return. As we move forward, we will continue our work to  
+ensure that if it’s smart and connected, it is best with Intel.  
+Brian M. Krzanich, Chief Executive Officer
+Past performance does not guarantee future results. This Annual Report to Stockholders contains forward-looking statements, and actual results could differ materially. 
+Risk factors that could cause actual results to differ are set forth in the "Risk Factors" section and throughout our 2014 Form 10-K, which is included in this Annual Report. 
+These risk factors are subject to update by our future SEC filings and earnings releases.
+
+--- Page 3 ---
+Letter From Your Chairman
+Financial Results
+2014 was a year of significant and tangible  
+progress for Intel.  
+The financial achievements described in the CEO’s letter 
+reflect the energies of a company that is changing. There  
+is a renewed focus on discipline and results, and we are 
+executing on our strategy to deliver value to stockholders. 
+We have strengthened our resolve to be successful in the 
+market and to take informed, appropriate business risks. 
+We are determined to heed the lessons of history, adapt  
+to changes in our environment, and lead with innovation.
+Your Board of Directors has been listening to investor concerns and has taken  
+a fresh look at its own responsibilities to stockholders. Our priorities in 2014 
+included strategic clarity, cash policy, and Board composition.
+The Board has actively engaged in discussions about the strategy behind Intel’s 
+investments, to help make sure possible risks and returns for stockholders are 
+clearly understood. We have seen progress in unprofitable businesses and are 
+encouraged by new investments to capture strategic opportunities. 
+In reviewing cash policy, the Board looks first at the needs of the business.  
+Most of Intel’s investments focus on advanced technologies critical to business 
+success. In 2014, Intel made capital investments of $10.1 billion, the largest 
+portion of which was used to build and equip leading-edge manufacturing 
+capacity. The company also spent $11.5 billion on research and development. 
+About 70% of this was for technical capabilities and intellectual property, the 
+costs and benefits of which are shared across Intel’s business segments. This 
+broad and deep foundation allows us to integrate functions into the platform 
+products that customers increasingly require.
+After reviewing plans for the business, the Board considers the dividend and 
+then stock repurchases. In 2014, the Board announced the first increase in the 
+dividend since 2012, from $0.90 to $0.96 per share. It also authorized an 
+acceleration of stock repurchases to return more cash to investors. Intel 
+repurchased $10.8 billion worth of Intel stock in 2014, five times the level of 
+2013. Through dividends and repurchases, Intel returned cash to stockholders  
+in 2014 of $15.2 billion, more than two times the amount in 2013.  
+These actions extend Intel’s commitment to deliver long-term value to owners.  
+In the last five years, Intel returned $54.2 billion to stockholders through 
+dividends and stock repurchases. Since 2009, the dividend has risen from  
+$0.56 to $0.96 per share, and average shares outstanding have decreased  
+from 5.6 to 5.1 billion shares.
+With an eye to Intel’s future, the Board reviewed its composition to make sure  
+it has the appropriate skills and experience for stewardship. We added a new 
+Board member who brings more than 20 years of experience in enterprise 
+software innovation and cloud computing, areas that are key to Intel’s business.
+While pointing with pride to accomplishments, we understand there is more to 
+do. Many of us are disciples of former Intel CEO and Chairman Andy Grove. In his 
+world, there are no victory laps. Every day brings a new challenge, and we must 
+never become complacent.
+At the same time, the optimism about the future shared by all of Intel’s founders 
+remains strong in Intel’s culture. Fifty years after Gordon Moore made his famous 
+predictions for the future of integrated electronics, we believe the potential for 
+innovation continues to be enormous.
+Change is essential for innovation. We must continue to embrace change and 
+innovate. Our goal is to continue the foundational technology investments and 
+drive Intel’s profitability.
+Net Revenue
+Dollars in billions
+54.0 53.3 52.7
+55.9
+38.8
+35.4
+38.3 37.6
+35.1
+43.6
+60
+50
+40
+30
+20
+10
+05 06 07 08 09 10 11 12 13 14
+Diluted Earnings Per Share
+Dollars
+2.50
+2.39
+2.00
+2.01
+2.31
+2.13
+1.89
+1.50
+1.00
+.50
+2010 2011 2012 2013 2014
+Dividends Per Share Paid
+Dollars
+0.87
+0.90
+0.90
+0.78
+1.00
+0.80
+0.60
+0.63
+0.40
+0.20
+2010 2011 2012 2013 2014
+Cash from Operations
+Dollars in billions
+21.0
+18.9
+20.8
+20.4
+16.7
+25
+20
+15
+10
+5
+Andy D. Bryant, Chairman of the Board
+2010 2011 2012 2013 2014
+
+--- Page 4 ---
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K
+(Mark One)
+È ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+For the fiscal year ended December 27, 2014.
+or
+‘ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+For the transition period from
+to
+.
+Commission File Number 000-06217
+INTEL CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+State or other jurisdiction of
+incorporation or organization
+2200 Mission College Boulevard, Santa Clara, California
+(Address of principal executive offices)
+94-1672743
+(I.R.S. Employer
+Identification No.)
+95054-1549
+(Zip Code)
+Registrant’s telephone number, including area code (408) 765-8080
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Name of each exchange on which registered
+Common stock, $0.001 par value
+The NASDAQ Global Select Market*
+Securities registered pursuant to Section 12(g) of the Act:
+None
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes È No ‘
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ‘ No È
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past 90 days. Yes È No ‘
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate website, if any, every Interactive Data
+File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or
+for such shorter period that the registrant was required to submit and post such files). Yes È No ‘
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (§229.405 of this chapter) is not contained
+herein, and will not be contained, to the best of registrant’s knowledge, in definitive proxy or information statements incorporated by reference in
+Part III of this Form 10-K or any amendment to this Form 10-K. ‘
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting
+company. See the definitions of “large accelerated filer,” “accelerated filer,” and “smaller reporting company” in Rule 12b-2 of the Exchange Act.
+Smaller reporting company ‘
+Large accelerated filer È Accelerated filer ‘
+Non-accelerated filer ‘
+(Do not check if a smaller reporting company)
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes ‘ No È
+Aggregate market value of voting and non-voting common equity held by non-affiliates of the registrant as of June 27, 2014, based upon the
+closing price of the common stock as reported by The NASDAQ Global Select Market on such date, was
+$153.0 billion
+4,736 million shares of common stock outstanding as of February 6, 2015
+DOCUMENTS INCORPORATED BY REFERENCE
+Portions of the registrant’s proxy statement related to its 2015 Annual Stockholders’ Meeting to be filed subsequently are incorporated by
+reference into Part III of this Annual Report on Form 10-K. Except as expressly incorporated by reference, the registrant’s proxy statement shall
+not be deemed to be part of this report.
+
+--- Page 5 ---
+INTEL CORPORATION
+FORM 10-K
+FOR THE FISCAL YEAR ENDED DECEMBER 27, 2014
+INDEX
+PART I
+Item 1.
+Business . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 1A. Risk Factors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 1B. Unresolved Staff Comments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 2.
+Item 3.
+Item 4.
+Properties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Legal Proceedings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Mine Safety Disclosures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+PART II
+Item 5.
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity
+Securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 6.
+Item 7.
+Selected Financial Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Management’s Discussion and Analysis of Financial Condition and Results of Operations . . . . . . . . . . . . . . . .
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 8.
+Item 9.
+Financial Statements and Supplementary Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure . . . . . . . . . . . . . . .
+Item 9A. Controls and Procedures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 9B. Other Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+PART III
+Item 10. Directors, Executive Officers and Corporate Governance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 11.
+Executive Compensation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters . . . . . . .
+Item 13. Certain Relationships and Related Transactions, and Director Independence . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 14.
+Principal Accounting Fees and Services . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Page
+1
+16
+23
+24
+24
+24
+25
+27
+28
+45
+47
+111
+111
+111
+112
+112
+112
+112
+112
+Item 15.
+Exhibits, Financial Statement Schedules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+113
+PART IV

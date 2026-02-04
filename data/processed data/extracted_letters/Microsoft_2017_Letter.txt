@@ -1,0 +1,756 @@
+
+--- Page 2 ---
+Dear shareholders, customers, partners and employees:  
+Thank you for your support and investment in Microsoft. We’re proud of our progress this year, and we are eager to make 
+even more progress in the year ahead.  
+We continue to be guided by our mission to empower every person and every organization on the planet to achieve 
+more. The breadth and depth of our mission unlocks unprecedented opportunity as technology transforms every industry 
+and has the power to make a difference in the lives of everyone. We strive to create local opportunity, growth and impact in 
+every community and country around the world. Our platforms and tools enable creativity in all of us, and help drive small-
+business productivity, large business competitiveness and public-sector efficiency. They also support new startups, improve 
+educational and health outcomes, and empower human ingenuity. Our sense of purpose lies in our customers’ success.  
+Now let me share more about what we delivered in fiscal 2017 for our shareholders, our customers and partners, and for 
+the communities in which we operate throughout the world.  
+PROGRESS AND OUR RESULTS  
+We delivered $90.0 billion in revenue and $22.3 billion in operating income this past fiscal year. Adjusting for Windows 10 
+revenue deferrals and restructuring expenses, revenue was $96.7 billion with $29.3 billion in operating income.  
+We continued to invest in innovation and expand our market opportunities, while maintaining our commitment to shareholder 
+return, which included total cash return of $22.3 billion this year.  
+Our commercial cloud annualized revenue run rate ended the year exceeding $18.9 billion, up more than 56 percent year-
+over-year. Our cloud growth puts us squarely on track to reach the goal we set a little over two years ago of $20 billion in 
+commercial cloud annualized revenue run rate in fiscal 2018.  
+The strength of our results across our reporting segments reflects our accelerating innovation as well as increased customer 
+usage and engagement across our businesses.  
+•  More than 100 million people use Office 365 commercial.  
+•  More than 27 million consumers use Office 365 Home & Personal across devices.  
+•  More than 53 million members are active on Xbox Live.  
+•  More than 500 million LinkedIn members use the LinkedIn network.  
+•  Windows 10 is active on more than 500 million devices around the world.  
+•  Dynamics 365 customers grew more than 40 percent year-over-year.  
+•  Azure compute usage more than doubled year-over-year.  
+We prioritized our investments to capture our expanding market opportunities. We are investing for the future with product 
+innovation complemented by new acquisitions and partnerships. We have completed our acquisition of LinkedIn to connect 
+the world’s largest professional  network with the world’s leading  professional cloud. We are investing to create  broader 
+economic benefit and opportunity with our datacenter expansion, bringing Azure to 42 regions globally  – more than any 
+other cloud provider – and with the most comprehensive compliance coverage in the industry.  
+We  broadened  our  offerings  to  reach  new  audiences,  such  as  bringing  Office  365  to  firstline  workers  from  retail  and 
+hospitality to manufacturing. We took collaboration to a new level with Microsoft Teams, which brings people, conversations 
+and content together in a digital hub. We are in the forefront of innovating in mixed reality and how this new medium can 
+radically change gaming, firstline and knowledge work through immersive experiences. We are innovating in gaming with 
+new services such as Mixer and Xbox Game Pass. We introduced hundreds of new Azure  
+1 
+  
+
+--- Page 3 ---
+services, including new cognitive services APIs for vision, speech, text, translation, emotion and more. We have galvanized 
+the company’s efforts around AI both to power each of our product categories with breakthrough capabilities and make the 
+same capabilities available to our customers through Azure. We inspired new ways for students and teachers to create and 
+learn with Windows 10 S. And we continued to create new device categories with Windows 10 and Surface, including the 
+new Surface Studio and Laptop.  
+And  we’re  continually  transforming  to  better  serve  customers,  evolving  our  sales  and  marketing  approach  to  galvanize 
+around five core customer solution areas.  
+Across every industry in every corner of the world, our customers are using Microsoft technologies to radically transform 
+everything from agriculture to manufacturing, and we are only at the beginning. Here are some examples.  
+BOEING  
+Boeing is using Microsoft HoloLens for 3-D visualization to transform employee training, and it is using Cortana Intelligence, 
+Azure  and  Azure  IoT  to  harness  a  wealth  of  aircraft  data.  This  “digital  twin”  aircraft  increases  crew  and  maintenance 
+efficiency, improves customer experience, and creates a new business model and services that Boeing can offer its airline 
+customers.  
+THYSSENKRUPP  
+thyssenkrupp Elevator is using HoloLens to transform the way it measures, visualizes and installs its products, streamlining 
+the initial surveying process of a stair lift installation. Using spatial mapping, 3-D visualization and the natural inputs offered 
+by mixed reality, the company has digitized its sales and manufacturing processes to reduce delivery times as much as 4x, 
+transforming its customer experience and growing its business opportunity.  
+TETRA PAK  
+Tetra Pak, the world’s largest food packaging company and inventor of the 20th century’s most important innovation in that 
+industry, aseptic packaging technology, employs Azure to enable  its cloud-connected machines to  predict  exactly when 
+equipment  needs maintenance. Service engineers  use  HoloLens to access experts who remotely guide them through a 
+repair, reducing time and cost. With the cloud and mixed reality, Tetra Pak is delivering new and existing value in a much 
+more efficient way – in the most remote locations, on the most mobile devices.  
+LAND O’ LAKES  
+Land O’ Lakes is working to feed the world sustainably by embracing the Microsoft Cloud, predictive data analytics and 
+mobile technologies in tandem with family farmers. Using Azure, Office 365 and Surface, farmers in different parts of the 
+world can access agronomic research, weather information and satellite data to make the right planting decisions and react 
+to real-time changes in the field, every day.  
+SCHNEIDER ELECTRIC  
+Responsible and sustainable management of fresh water is one of the world’s biggest challenges. With 70 percent of fresh 
+water reserves being used for agricultural purposes, every drop counts. Schneider Electric has built a smart farming platform 
+using Azure IoT to enable farmers to more efficiently manage water use. Advanced analytics, live local data from sensors 
+on the farm and access to pricing information from the local water utility allow farmers to maximize crop and livestock yields 
+and lower energy consumption by pumping water at optimal times.  
+CASE WESTERN RESERVE UNIVERSITY AND CLEVELAND CLINIC  
+Case  Western  Reserve  University  and  Cleveland  Clinic  are  using  mixed  reality  to  transform  medical  education.  Using 
+HoloLens, they built an entirely new and immersive way to teach and learn human anatomy. Doctors who have  
+2 
+ 
+
+--- Page 4 ---
+looked at data sets like this for years say they have never fully understood the 3-D structure until seeing it as a hologram 
+with HoloLens, giving them the ability to see a brain tumor in mixed reality and predict the impact of the tumor with 3-D 
+modeling, or seeing the aortic valve in true relation to the critical structures around it.  
+LOOKING FORWARD: OUR EXPANSIVE OPPORTUNITY  
+A new technology paradigm  
+As you can begin to see in the examples above, a new technology paradigm is emerging, one with an intelligent cloud and 
+an intelligent edge. Microsoft will lead this new era. There are three characteristics that define this shift. The first is that the 
+experience layer is becoming multidevice and multisense, where a person’s experience with technology will span a multitude 
+of devices and become increasingly more natural and multisensory with voice, ink, gestures and gaze interactions. Second, 
+artificial intelligence (AI) will be pervasive across devices, apps and infrastructure to drive insights and act on your behalf. 
+Third, computing will be more distributed than ever before with compute power at the edge, whether it’s the connected car, 
+the connected factory floor or any connected device. As developers write new applications for this paradigm, they need new 
+mechanisms to manage the complexity of distributed, event-driven computing.  
+With this  new paradigm comes  new opportunity. Every  customer  is  looking for both  innovative technology to drive  new 
+growth and a strategic partner that can help them build their own digital capability. Customers are looking to change how 
+they  use  digital  technology  and  to  reimagine  how  they  empower  their  employees,  engage  customers,  optimize  their 
+operations,  and  change  the  very  core  of  their  products  and  services.  They  are  building  their  own  digital  systems  of 
+intelligence to drive growth. Microsoft is uniquely positioned to capitalize on this opportunity with the combination of our 
+technology, partner ecosystem and culture of growth mindset.  
+As we look ahead to fiscal 2018 and beyond, we will focus on bringing our technology and products together into experiences 
+and solutions that deliver new value for our customers. Going forward, we will focus our innovation and investments in areas 
+where we see the greatest opportunity for growth.  
+The modern workplace  
+The  workplace  itself  is  transforming  –  from  changing  employee  expectations,  a  widening  skills  gap,  more  diverse  and 
+globally distributed teams, to an increasingly complex threat environment. The productivity experiences and tools we deliver 
+will unlock the creator in all of us and enable seamless teamwork not just in the workplace, but also at school and at home 
+across all the devices people use – from the phone to the laptop to mixed-reality headsets to the whiteboard. Microsoft 365 
+– which brings together Windows 10, Office 365 and Enterprise Mobility & Security – will be a key driver of value for our 
+business customers of all sizes and for our business growth. The Microsoft Graph, which provides the underlying data model 
+of the user’s experience, and the LinkedIn network, will make it possible for every professional in any business or functional 
+role to be much more productive in getting things done.  
+Business applications  
+Every  process  inside  a  business  is  being  digitized.  This  rapid  shift  means  customers  are  looking  to  move  away  from 
+monolithic suites that perpetuate disconnected data siloes and expensive custom extensibility frameworks. Our approach 
+with Dynamics 365 and LinkedIn is to build modular business applications that are part of a connected data graph, enabling 
+AI and extensibility that  span a customer’s business process  needs. We will enable organizations  of all sizes to digitize 
+business-critical  functions  across  relationship  sales,  talent  and  people  processes,  operations,  customer  service, field 
+service, and more.  
+Applications and infrastructure  
+Cloud computing  is foundational to enabling  digital transformation for  any  organization. Beyond being  a trusted,  global, 
+hyper-scale cloud, what makes Azure unique is our hybrid consistency, developer productivity and SaaS  
+3 
+
+--- Page 5 ---
+application  integration.  Our  hybrid  infrastructure  consistency  spans  identity,  data,  compute,  management  and  security, 
+helping  to  support  the  real-world  needs  and  evolving  regulatory  requirements  of  commercial  customers  and  enterprise-
+focused SaaS  ISVs. Azure Stack is an extension of Azure that enables developers to build and deploy applications the 
+same  way  whether  they  run  on  the  intelligent  cloud  or  the  intelligent  edge.  With  Visual  Studio  and  Azure  Services,  we 
+provide the toolchain and application platform for modern DevOps that helps organizations with their agility and productivity 
+– and enable them to use the best of the Windows ecosystem and the best of the Linux ecosystem together. Azure enables 
+SaaS ISV developers to reach 100 million plus enterprise users through the integration of Azure Active Directory and Office 
+365, and by embedding Power BI, Power Apps and Flow as part of their applications, enables customers to have consistent 
+identity, developer extensibility and security across their application portfolio  spanning their own custom applications and 
+SaaS applications.  
+Data and AI  
+The core currency of any business going forward will be the ability to reason over its data  using AI to drive competitive 
+advantage.  Microsoft  Research  continues  to  make  significant  advances  in  AI  technologies,  infusing  them  into  product 
+experiences  like  Bing,  Cortana,  LinkedIn  Newsfeed,  Skype  Translator,  Editor  and  PowerPoint  Designer  in  Office, 
+Relationship  Health  in  Dynamics,  HoloLens,  and  many  more. We  are  uniquely  positioned  to  take  this  AI  capability  and 
+democratize it, so that every developer can be an AI developer, and every company can become an AI company. It all starts 
+with having support for the comprehensive data estate spanning Azure Database, Cosmos DB, Data Warehouse and Data 
+Lake, combined with SQL Server. Azure is the cloud with the richest set of ML tools, bot framework and cognitive services, 
+enabling developers to add AI capabilities into their applications. With state-of-the-art GPU and FPGA support, our Azure 
+infrastructure is best in class for AI workloads. I am excited about our road map here and what’s to come.  
+Gaming  
+The  $100 billion  plus  gaming  industry  is  experiencing  massive  growth  and  transformation,  and  we  have  an  expansive 
+opportunity as we think about gaming end-to-end – from the way games are created and distributed to how they are played 
+and viewed. We will build on our strong foundation of connected gaming assets across PC, console, mobile and work to 
+grow  and  engage  the  53 million  strong  Xbox  Live  member  network  more  deeply  and  frequently –  from  great  game 
+experiences to streaming to social to mixed reality. We will be the company for gamers to play the games they want, with 
+the people they want, on the devices they want.  I’m excited about our opportunity to accelerate our growth opportunity, 
+innovate boldly and earn new fans.  
+While these solution areas capture our near-term opportunity, we’re also investing in cutting-edge research to lead well into 
+the future. Artificial intelligence, mixed reality and quantum computing will come together and shape the future of our industry 
+and others for generations to come. We’re deeply committed to leading in these areas and bringing them together in ways 
+that  enable  humanity  to  solve  our  most  pressing  issues,  from  climate  change  to  curing  cancer  to  creating  economic 
+opportunity for all. We will do so by adhering to the highest ethical principles and standing for our timeless values.  
+OUR RESPONSIBILITY IN THE WORLD  
+Our mission to empower every person and every organization on the planet extends to our corporate social responsibility 
+efforts. We strive to use our technology, grants, employees and voice to improve people’s lives by enabling access to the 
+benefits and opportunities that technology offers. This past year we increased our investments across a range of strategic 
+initiatives.  
+•  Microsoft Philanthropies donated more than $1.2 billion in software and services in fiscal 2017, helping nonprofits 
+around the world get the technology and skills they need for today’s digital economy.  
+•  Since 2016 we have donated more than $1 billion in cloud services to more than 90,000 nonprofits and university 
+researchers – achieving our $1 billion milestone a year early – and announced a new plan to more than triple the 
+number of nonprofits we’ll reach to 300,000 over the next three years.  
+4 
+ 
+
+--- Page 6 ---
+•  Our employees raised a record-breaking $142 million through our employee giving program in 2016. I am proud 
+and humbled by their commitment to not only make a difference with our customers and partners, but in their local 
+communities and the broader world.  
+•  We’re ensuring that our products and services are accessible to meet the needs of all our customers, including 
+the more than 1 billion people around the world with disabilities. Examples include our new Eye Control feature in 
+Windows 10 for people with ALS, and Seeing AI, a free app on iOS for blind and low vision users that narrates the 
+world around you.  
+•  We’re  partnering  with  telecommunications  companies  through  our  Rural  Airband  Initiative  to  bring  broadband 
+connectivity to 2 million people in rural America by 2022, helping to close the rural broadband gap for the more 
+than 20 million Americans living in rural communities who lack access to the economic, educational  and health 
+opportunities the internet provides.  
+•  We’re advancing our  sustainability efforts, completing our largest wind energy purchase to date and  aiming to 
+address some of the world’s toughest environment challenges through our new AI for Earth initiative.  
+•  Finally,  as  part  of  our  broader  responsibility  to  engage  thoughtfully  in  the  public  dialogue  on  the  important 
+challenges facing our world, we published “A Cloud for Global Good” to help companies and governments ensure 
+technology is trusted, responsible and inclusive.  
+When I reflect on the past year, I’m proud of our progress – both in our own continued transformation and in how we are 
+empowering customers to digitally transform.  
+As a multinational corporation, we have both a substantial opportunity and a high responsibility to ensure that technology’s 
+benefits  reach  people  more  broadly  across  our  global  society  and  economy.  Everywhere  we  operate,  we  focus  on 
+contributing to local communities in positive ways – helping to spark growth, competitiveness and economic opportunity for 
+all.  
+To serve the needs of our customers well into the future, we must continually transform while remaining steadfast to our 
+timeless values. Microsoft has both the capability and the culture to help customers digitally transform today, while creating 
+new technologies that are among the most innovative and impactful humankind has ever experienced with mixed  reality, 
+artificial intelligence and quantum computing.  
+We will continue to invest in the highest growth opportunities, innovate boldly, and empower people and organizations by 
+creating the platforms and tools that enable others to grow and thrive, now and well into the future.  
+Satya Nadella  
+Chief Executive Officer  
+October 16, 2017  
+5 
+  
+  
+  
+ 
+
+--- Page 7 ---
+The following table reconciles our financial results reported in accordance with generally accepted accounting principles 
+(“GAAP”) to non-GAAP financial results. The shareholder letter contains non-GAAP financial information to aid investors in 
+better understanding the company’s revenue and operating income results for fiscal year 2017. Non-GAAP results exclude 
+the net impact from Windows 10 revenue deferrals and the impact of restructuring expenses.  
+($ in millions, except per share amounts) 
+2017 As Reported (GAAP) 
+Net Impact from Windows 10 Revenue Deferrals 
+Restructuring Expenses 
+2017 As Adjusted (non-GAAP) 
+Twelve Months Ended June 30, 
+Operating 
+Income 
+Revenue 
+$  89,950  
+6,707  
+—  
+$  96,657  
+$  22,326  
+6,707  
+306
+$  29,339  
+6 
+ 
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+
+--- Page 8 ---
+(c) 
+(e) 
+(In millions, except per share data) 
+FINANCIAL HIGHLIGHTS 
+2016 
+2017 (a)   
+Year Ended June 30, 
+Revenue 
+55,689 (b) 
+Gross margin 
+22,326 (b)(c)   
+Operating income 
+21,204 (b)(c)   
+Net income 
+2.71 (b)(c)   
+Diluted earnings per share 
+Cash dividends declared per share 
+1.56  
+Cash, cash equivalents, and short-term investments      132,981  
+  241,086  
+Total assets 
+  104,165  
+Long-term obligations 
+72,394  
+Stockholders’ equity 
+2013   
+$  89,950 (b)  $  85,320 (d)  $  93,580   $  86,833   $  77,849  
+57,464  
+26,764 (i) 
+21,863 (i) 
+2.58 (i) 
+0.92  
+77,022  
+    174,303 (f)     170,569 (f)      140,890 (f) 
+24,531 (f) 
+78,944  
+52,540 (d) 
+20,182 (d)(e)   
+16,798 (d)(e)   
+2.10 (d)(e)   
+1.44  
+    113,240  
+  193,468 (f) 
+62,114 (f) 
+71,997  
+60,542  
+18,161 (g)   
+12,193 (g)   
+1.48 (g)   
+1.24  
+96,526  
+59,755  
+27,759  
+22,074  
+2.63  
+1.12  
+85,709  
+44,574 (f)   
+80,083  
+35,285 (f)   
+89,784  
+2014 (h)  
+2015 
+(a)  On December 8, 2016, we acquired LinkedIn Corporation. LinkedIn has been included in our consolidated results of 
+operations starting on the acquisition date.  
+(b)  Reflects the impact of the net revenue deferral from Windows 10 of $6.7 billion, which decreased operating income, 
+net income, and diluted earnings per share (“EPS”) by $6.7 billion, $4.4 billion, and $0.57, respectively.  
+Includes  $306  million  of employee severance expenses primarily related  to our sales and marketing restructuring 
+plan,  which  decreased  operating  income,  net  income,  and  diluted  EPS  by  $306 million,  $243 million,  and  $0.03, 
+respectively.  
+(d)  Reflects the impact of the net revenue deferral from Windows 10 of $6.6 billion, which decreased operating income, 
+net income, and diluted EPS by $6.6 billion, $4.6 billion, and $0.58, respectively.   
+Includes $630 million of asset impairment charges related to our phone business, and $480  million of restructuring 
+charges  associated  with  our  phone  business  restructuring  plans,  which  together  decreased  operating  income,  net 
+income, and diluted EPS by $1.1 billion, $895 million, and $0.11, respectively.  
+(g) 
+(f)  Reflects  the  impact  of  the  adoption  of  the  new  accounting  standard  in  fiscal  year  2017  related  to  balance  sheet 
+classification of debt issuance costs. See Note 12 – Debt of the Notes to Financial Statements for further discussion.  
+Includes  $7.5   billion  of  goodwill  and  asset  impairment  charges  related  to  our  phone  business,  and  $2.5 billion  of 
+integration  and  restructuring  expenses,  primarily  associated  with  our  phone  business  restructuring  plans,  which 
+together  decreased  operating  income,  net  income,  and  diluted  EPS  by  $10.0 billion,  $9.5 billion,  and  $1.15, 
+respectively.  
+(h)  On April 25, 2014, we acquired substantially all of Nokia Corporation’s Devices and Services business (“NDS”). NDS 
+(i) 
+has been included in our consolidated results of operations starting on the acquisition date.  
+Includes a charge related to a fine imposed by the European Commission in March 2013 which decreased operating 
+income and net income by $733 million (€561 million) and diluted EPS by $0.09. Also includes a charge for Surface 
+RT inventory adjustments recorded in the fourth quarter of fiscal year 2013, which decreased operating income, net 
+income, and diluted EPS by $900 million, $596 million, and $0.07, respectively.  
+QUARTERLY STOCK PRICE INFORMATION, ISSUER PURCHASES OF EQUITY SECURITIES, 
+DIVIDENDS, AND STOCK PERFORMANCE  
+QUARTERLY STOCK PRICE INFORMATION  
+Our common stock is traded on the NASDAQ Stock Market under the symbol MSFT. On July 31, 2017, there were 101,825 
+registered holders of record of our common stock. The high and low common stock sales prices per share were as follows:  
+Quarter Ended 
+Fiscal Year 2017 
+High 
+Low 
+Fiscal Year 2016 
+High 
+Low 
+September 30 
+December 31 
+March 31 
+June 30 
+Fiscal Year 
+$  58.70
+$  64.10
+  $  66.19
+  $  72.89
+$  72.89
+50.39   
+56.32   
+61.95   
+64.85   
+50.39  
+$  48.41   
+39.72   
+$  56.85    $  55.64    $  56.77   
+48.04   
+48.19   
+43.75   
+$  56.85  
+39.72  
+7 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+--- Page 9 ---
+Share Repurchases  
+SHARE REPURCHASES AND DIVIDENDS  
+On September 16, 2013, our Board of Directors approved a share repurchase program authorizing up to $40.0 billion in 
+share  repurchases.  This  share  repurchase  program  became  effective  on  October 1,  2013,  and  was  completed  on 
+December 22, 2016.  
+On  September 20,  2016,  our  Board  of  Directors  approved  a  share  repurchase  program  authorizing  up  to  an  additional 
+$40.0 billion  in  share  repurchases.  This  share  repurchase  program  commenced  on  December 22,  2016  following 
+completion  of  the  prior  program  approved  on  September 16,  2013,  has  no  expiration  date,  and  may  be  suspended  or 
+discontinued at any time without notice. As of June 30, 2017, $36.8 billion remained of this $40.0 billion share repurchase 
+program.  
+We repurchased the following shares of common stock under the share repurchase programs:  
+(In millions) 
+Year Ended June 30, 
+First Quarter 
+Second Quarter 
+Third Quarter 
+Fourth Quarter 
+Total 
+Shares 
+Shares 
+Amount 
+2017  
+Amount 
+2016  
+Shares 
+63   $  3,550  
+3,533  
+59  
+1,600  
+25  
+1,600  
+23  
+  89   $  4,000  
+3,600  
+  66  
+3,600  
+  69  
+3,600  
+  70  
+  43  
+  43  
+ 116  
+  93  
+ 170   $   10,283  
+ 294   $  14,800  
+ 295  
+Amount 
+2015  
+$  2,000
+2,000 
+5,000 
+4,209 
+$
+    13,209 
+Shares  repurchased  during  the  third  and  fourth  quarter  of  fiscal  year  2017  were  under  the  share  repurchase  program 
+approved  September 20,  2016.  All  other  shares  repurchased  were  under  the  share  repurchase  program  approved 
+September 16, 2013. The above table excludes shares repurchased to settle statutory employee tax withholding related to 
+the vesting of stock awards. All repurchases were made using cash resources.  
+Dividends  
+In fiscal year 2017, our Board of Directors declared the following dividends:  
+Declaration Date 
+September 20, 2016 
+November 30, 2016 
+March 14, 2017 
+June 13, 2017 
+Dividend 
+Per Share 
+Record Date 
+$  0.39
+  November 17, 2016
+Total Amount 
+(In millions)   
+$  3,024
+6 
+Payment Date 
+December 8,  201
+0.39   
+February 16, 2017   
+3,012  
+7 
+0.39   
+0.39   
+May 18, 2017   
+August 17, 2017   
+3,009  
+3,006  
+7 
+  September 14,  201
+7 
+March 9, 201
+June 8, 201
+The dividend declared on June 13, 2017 will be paid after the filing date of the 2017 Form 10-K and was included in other 
+current liabilities as of June 30, 2017.  
+In fiscal year 2016, our Board of Directors declared the following dividends:  
+Declaration Date 
+September 15, 2015 
+December 2, 2015 
+8 
+Dividend 
+Per Share 
+Record Date 
+$  0.36
+  November 19, 2015
+Total Amount 
+(In millions)   
+$  2,868
+Payment Date 
+  December 10, 201
+5 
+0.36   
+February 18, 2016   
+2,842  
+2016 
+March 10, 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+ 
+   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+
+--- Page 10 ---
+Declaration Date 
+March 15, 2016 
+June 14, 2016 
+Dividend 
+Per Share 
+Record Date 
+Total Amount 
+0.36   
+May 19, 2016   
+2,821  
+2016 
+0.36   
+August 18, 2016   
+2,800  
+2016 
+Payment Date 
+June 9, 
+September 8, 
+The dividend declared on June 14, 2016 was included in other current liabilities as of June 30, 2016.  
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+--- Page 11 ---
+COMPARISON OF 5 YEAR CUMULATIVE TOTAL RETURN* 
+Among Microsoft Corporation, the S&P 500 Index,  
+and the NASDAQ Computer Index  
+Microsoft Corporation 
+S&P 500  
+NASDAQ Computer  
+6/12 
+$ 100.00  
+  100.00  
+  100.00  
+6/13 
+$ 116.38  
+  120.60  
+  98.40  
+6/14 
+$ 144.62  
+  150.27  
+  140.53  
+6/15 
+$ 157.17  
+  161.43  
+  157.83  
+6/16 
+6/17 
+$ 187.22   $ 258.45  
+  197.92  
+  167.87  
+  223.98  
+  162.37  
+*  $100 invested on 6/30/12 in stock or index, including reinvestment of dividends.  
+10 
+ 
+  
+  
+ 
+  
+  
+  

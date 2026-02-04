@@ -1,0 +1,984 @@
+
+--- Page 7 ---
+DEAR NVIDIANS 
+AND STAKEHOLDERS,
+As we prepare this annual report, the world 
+is in an all-out war against COVID-19. Unlike 
+anything we’ve confronted in generations, 
+the COVID-19 pandemic is a medical as well 
+as an economic crisis. Citizens all over the 
+world are sheltered in place. Store shelves 
+are empty. Restaurants are closed. Streets 
+are eerily quiet. And while we battle this 
+virus by staying at home, brave nurses, 
+doctors, and first responders are on the 
+front lines risking their safety and that of 
+their families to protect us. Their courage is 
+breathtaking, and we owe them our thanks 
+and support.
+At NVIDIA, we exercised an abundance of 
+caution and closed our nearly 60 offices 
+around the world. Employees are working 
+from home to help reduce the spread of the 
+virus. Our extended family of direct hourly 
+contractors is also sheltered in place and 
+will continue to be paid.
+We are deploying our most powerful 
+weapons to defeat COVID-19: our 
+technology and our scientists. NVIDIA-
+powered supercomputers all over the world 
+are being called into service to search for 
+new drug compounds that can treat or 
+vaccinate against the virus. NVIDIA’s team of 
+computational scientists is joining these 
+researchers to speed their discovery. We’re 
+giving COVID-19 researchers free access to 
+our Parabricks genome-sequencing 
+software. So far, 325 institutions, including 
+hospitals, universities, and supercomputing 
+centers, have engaged. Meanwhile, we 
+united gamers around the world to share the 
+GPUs in their gaming rigs, assembling the 
+largest distributed supercomputer ever to 
+run Folding@Home.
+Several hundred thousand gamers amassed 
+a 1.5 exaflops supercomputer. That is 
+1,500,000,000,000,000,000 operations per 
+second! Five times the compute power of 
+Summit, the most powerful supercomputer 
+in the world, and more than the world’s top 
+100 supercomputers combined. 
+No war has ever united the world’s 
+scientists like this pandemic. We will get 
+through this together.
+Rising to the Challenge
+As we entered the year, our outstanding 
+growth was stopped in its tracks by the 
+simultaneous headwinds of a collapsing 
+cryptocurrency market, a pause in 
+hyperscale spending, and a rapidly 
+deteriorating trade environment with China. 
+Despite being knocked back on our heels at 
+the outset, we finished the year strong.
+Full-year revenue was $10.9 billion, down 
+7 percent. Gross margins expanded to 62 
+percent and GAAP earnings per share were 
+$4.52, down 32 percent. We returned $390 
+million during the year to shareholders 
+through quarterly cash dividends. The 
+growth trajectory of the fourth quarter tells 
+the story—with revenue of $3.11 billion, up 
+41 percent from a year ago.
+GPU revenue, which consists of GeForce 
+gaming, Quadro workstation graphics, and 
+Data Center platforms for HPC and AI, was 
+$2.77 billion during the quarter, up 40 
+percent from a year ago. Data Center 
+revenue was a record $968 million, up 43 
+percent from a year ago. Tegra system-on-
+chip processor revenue, which includes 
+automotive, custom gaming systems, and 
+embedded edge AI platforms, was $331 
+million, up 47 percent from a year ago.
+Graphics. Accelerated Computing. AI. 
+Data Centers. Self-Driving Cars.
+We are innovating at the epicenter of the 
+most important technology trends of our 
+time. We made significant advances in each 
+area last year. Believing in the importance of 
+this work and staying focused despite the 
+setback drove our return to growth. Let me 
+say a few words about each area.
+THE GROWTH TRAJECTORY OF THE FOURTH QUARTER TELLS THE STORY
+”
+“
+s
+n
+o
+i
+l
+l
+i
+B
+n
+i
+$3.5
+$3.0
+$2.5
+$2.0
+$1.5
+$1.0
+$0.5
+$0
+REVENUE
++41%
+$3.11
+$2.21
+65%
+60%
+GROSS MARGINS
++1,020 bps
+64.9%
+55%
+54.7%
+EPS
++66%
+$1.53
+$0.92
+1.75
+1.50
+1.25
+1.00
+0.75
+0.50
+0.25
+0
+4Q19
+4Q20
+50%
+4Q19
+4Q20
+GAAP results
+4Q19
+4Q20
+ 
+
+--- Page 8 ---
+NVIDIA Omniverse for architecture, engineering, and construction
+Reinventing Graphics
+Graphics is the force that fuels NVIDIA’s 
+massive R&D engine. NVIDIA invented 
+the GPU and introduced the world to 
+programmable shading nearly 20 years 
+ago. Since then, we have dreamed about 
+creating the next big thing: real-time ray 
+tracing, which simulates the behavior of 
+light more accurately to create 
+photorealistic images.
+After more than a decade’s work, 
+we created the world’s first real-time 
+ray-tracing GPU. It combines two new 
+groundbreaking technologies: a ray-tracing 
+accelerator and a deep learning Tensor 
+Core processor. 
+The ray-tracing accelerator finds the 
+intersections of billions of light rays and 
+the objects they illuminate. As a complex 
+shader program computes the surface 
+illumination by the beam, some of the 
+light is absorbed, reflected, or refracted 
+onto other nearby surfaces. This ray- 
+tracing process iterates to produce a 
+photorealistic image.
+Even with the most powerful GPUs, the 
+computation is too immense to render the 
+images fast enough, let alone beautifully. AI 
+came to the rescue. Using state-of-the-art 
+deep learning methods, we taught an AI to 
+predict the rest of the image from the few 
+rendered pixels. The AI model runs on 
+super-fast Tensor Core processors. 
+Combining programmable shading, ray 
+tracing, and artificial intelligence, we have 
+reinvented computer graphics. We call this 
+new graphics architecture NVIDIA RTX.
+NVIDIA RTX: Biggest Upgrade in the History 
+of the GPU
+The graphics industry—including game 
+developers, design tool makers, and film 
+studios—has overwhelmingly adopted 
+NVIDIA RTX. Leaders like Pixar, ILM, Sony, 
+Weta Digital, Epic, Adobe, Autodesk, 
+Dassault, EA, Activision Blizzard, 
+Microsoft, Ubisoft, and many more have 
+added accelerated ray tracing. NVIDIA RTX 
+is a home run. We have created the best 
+reason to upgrade graphics since the 
+invention of the GPU. 
+We have the best lineup of GeForce 
+desktop PC gaming GPUs in our history. 
+The upgrade cycle is well on its way. We 
+estimate that by the end of January some 15 
+percent of our installed base had upgraded 
+to RTX. We expect this to be one of the most 
+successful GeForce generations.
+We also expanded the GeForce market 
+this year in three significant ways: RTX 
+Max-Q gaming laptops, RTX Studio 
+creative workstations, and GeForce NOW 
+cloud gaming.
+With Max-Q, we’ve created a new gaming 
+device category: thin and light gaming PCs. 
+Gamers want a powerful GPU, but in an 
+elegant laptop design. GeForce RTX with 
+Max-Q technology has broken through the 
+energy-efficiency barrier needed to address 
+the large pent-up demand for gaming 
+laptops. There are more than 125 models of 
+Turing architecture-powered laptops 
+shipping today.
+NVIDIA RTX is democratizing film-quality 
+rendering for all creators and designers. 
+Photorealistic rendering is no longer solely 
+the realm of professional studios with large 
+server farms. Forty creative and design 
+applications are now RTX-accelerated, 
+including Dimension, Substance Alchemist, 
+and Premiere Pro from Adobe, as well as 
+Chaos Group’s V-Ray, Autodesk’s Arnold, 
+and Blender’s Cycles.
+And in partnership with leading PC makers 
+Dell, HP, and Lenovo, we built a whole new 
+line of NVIDIA RTX-powered consumer and 
+professional workstations and laptops to 
+run these new design and creative tools. 
+More than 60 models of RTX Studio laptops 
+are now available.
+GeForce NOW, our cloud gaming service, 
+is out of beta. Hundreds of millions more 
+gamers can now add a virtual GeForce 
+graphics card to their device. GeForce 
+NOW’s reach is global via NVIDIA’s data 
+centers in North America and Europe, and 
+through partners like Taiwan Mobile, 
+Russia’s Rostelcom, Korea’s LG U+, and 
+Japan’s SoftBank. More than 2 million 
+gamers joined GeForce NOW in the 
+platform’s first week.
+
+--- Page 9 ---
+NVIDIA Pioneered 
+Accelerated Computing
+We pioneered the use of GPUs to accelerate 
+scientific computing. As semiconductor 
+scaling reaches its limits, GPU acceleration 
+has proven to be an excellent path forward. 
+The November 2019 TOP500 list of the 
+world’s fastest supercomputers was 
+NVIDIA’s best showing to date. Now 136 
+systems on the TOP500 are NVIDIA-
+accelerated, including Summit, the world’s 
+most powerful supercomputer. The most 
+powerful systems in the United States, 
+Europe, and Japan, and the world’s top 
+industrial supercomputer, are all powered 
+by NVIDIA GPUs. From just 10 percent four 
+years ago, NVIDIA GPUs now power 40 
+percent of this year’s new supercomputers. 
+We expect this trend to continue.
+Unlike running code on CPUs, accelerated 
+computing is a full-stack approach—
+optimized across processor, system, 
+software, algorithms, and application for 
+incredible speedups. With each application 
+domain—whether ray tracing, molecular 
+dynamics, fluid dynamics, quantum 
+chemistry, or deep learning—processing 
+time has gone from weeks to days, and from 
+days to hours. Researchers see a boost in 
+productivity. Data center operators enjoy 
+cost reductions. This creates new growth 
+opportunities for our company.
+This year we achieved significant 
+milestones in several new 
+application domains:
+ > NVIDIA RTX for photorealistic 
+rendering for design and film
+ > NVIDIA Aerial for 5G 
+radio processing 
+ > NVIDIA Parabricks for next-
+generation genome sequencing 
+ > NVIDIA RAPIDS for data science 
+and analytics
+ > NVIDIA TensorRT for deep 
+learning inferencing
+Visualizing NASA’s Mars lander simulations in real time with 
+NVIDIA DGX-2 with Magnum IO GPUDirect Storage
+NVIDIA AI
+NVIDIA AI for Inference
+AI is the most powerful technology force of 
+our time and the engine driving our data 
+center business. AI is software that learns to 
+automate skills that require intelligence: the 
+ability to perceive, reason, and plan. 
+Someday, trillions of connected devices 
+will perceive their environment, infer a 
+response, and do seemingly smart things. 
+We will simply tell these devices what we 
+need. Recent breakthroughs are making this 
+future possible sooner rather than later. 
+Researchers have made advances in speech 
+recognition, natural language 
+understanding, recommendation systems, 
+and natural speech synthesis—the essential 
+elements to have a conversation with an AI. 
+Billions of people each make hundreds of 
+queries every day. The AI models, each 
+processing billions of operations, must 
+respond in a fraction of a second. 
+Inference is an enormous computing 
+challenge—done at hyperscale and 
+processing complex algorithms at light 
+speed. NVIDIA excels at this work. Inference 
+is a big opportunity for us.
+Inference is the fastest-growing part of our 
+data center business, which itself is our 
+fastest-growing segment. After years of 
+development, we announced NVIDIA 
+TensorRT 7, which can compile and optimize 
+image, speech, and language models. 
+Developers can now train AI models on 
+NVIDIA GPUs, and then optimize them for 
+deployment on NVIDIA GPUs. Develop on 
+NVIDIA—run on NVIDIA. 
+AI software learns by processing massive 
+amounts of previously collected data to find 
+a complex hierarchy of patterns that can 
+predict what to do when a similar situation 
+arises. AI can learn new skills through 
+examples, trial and error, or adapting skills 
+from similar tasks. AI computers must be 
+incredibly fast to learn from a large amount 
+of data and perform more complex skills. 
+Building fast computers is where NVIDIA 
+comes in.
+NVIDIA builds the computing platform for 
+the era of AI. We made a giant bet, 
+reimagined the computing stack, and 
+invented a whole new kind of computer. It 
+combines our new GPU with Tensor Core 
+processing, NVLink high-speed 
+interconnects, cuDNN libraries for deep 
+learning, Magnum IO for distributed 
+computing and high-speed data movement, 
+HGX multi-GPU server boards, NVIDIA DGX 
+computer systems, the NGC registry of 
+pre-optimized acceleration libraries, the 
+TensorRT neural network graph compiler, 
+and the Triton Inference Server to deploy 
+models into hyperscale data centers. We 
+have invested tens of thousands of 
+engineering years to advance AI computing.
+NVIDIA’s AI architecture is ideal for training 
+as well as inference and is available 
+anywhere from the cloud to PCs. It scales 
+from a tiny two-watt NVIDIA Jetson 
+computer to the fastest supercomputer in 
+the world. The performance, versatility, 
+broad accessibility, and consistent pace of 
+advance are the pillars of our success. 
+
+--- Page 10 ---
+NVIDIA AI at the Edge
+Mellanox
+AI started in the cloud. The next big 
+opportunity will be at the edge, where the 
+action is. IoT sensors connected to AI 
+computers will automate retail stores, 
+warehouses, factories, farms, streets, 
+highways, airports, and subways. AI can 
+orchestrate traffic, adjust and save power, 
+speed checkouts, or direct a fleet of forklifts 
+in a warehouse. Processing AI at the edge is 
+needed to limit the cost of streaming 
+continuous sensor data, protect sensitive 
+information, or respond instantly to 
+the environment.
+During the year we announced the NVIDIA 
+EGX Intelligent Edge Computing Platform. A 
+full-stack AI platform, EGX is highly secure, 
+is high throughput, runs cloud-native 
+applications, and can be deployed and 
+managed as a distributed fleet. With EGX, 
+we are bringing AI to the world’s largest 
+industries. Walmart, BMW, NTT East, 
+Procter & Gamble, and Samsung Electronics 
+are among the first adopters of EGX.
+5G is going to turbocharge edge AI. Running 
+on the same EGX platform, and with the 
+NVIDIA Aerial 5G GPU-accelerated software 
+radio, telecommunications service providers 
+can provision 5G services on any standard 
+OEM server. And companies can provide 
+highly reliable and secure AI services in 
+places where Wi-Fi is not available. Ericsson 
+is NVIDIA’s development partner to build an 
+industrial-strength solution for 5G.
+Data center technologies are central to our 
+computing platform. In 2019, we announced 
+the purchase of Mellanox Technologies, the 
+world’s leading provider of networking 
+technologies for high-performance data 
+centers. Our companies are long-term 
+partners, having built together many of the 
+world’s supercomputers and NVIDIA AI 
+systems. Mellanox has fantastic people and 
+culture, and a long history of innovation. 
+Based in Israel, it will be one of our most 
+significant design centers. We have received 
+approval from all necessary regulatory 
+agencies to proceed with the acquisition, and 
+expect it to close on or about April 27, 2020.
+NVIDIA AI in Autonomous Vehicles 
+and Robotics
+Every machine that moves will have 
+autonomous capability someday, from 
+vehicles and construction equipment to 
+forklifts and wheelchairs.
+We created the NVIDIA DRIVE AV platform to 
+enable any company to build autonomous 
+cars. DRIVE is an open platform that 
+includes an end-to-end AV development 
+infrastructure, functional safety, an 
+auto-grade AV computer, and a self-driving 
+car application. Our platform is used 
+worldwide by hundreds of established 
+companies and startups building 
+autonomous cars, shuttles, taxis, trucks, 
+and delivery and logistics robots.
+During the year, we announced our first 
+truck partnership with Volvo Group, one of 
+the world’s largest truck and construction 
+vehicle makers. Volvo is using the DRIVE 
+platform end-to-end—from data center 
+servers to develop, validate, and simulate 
+their self-driving truck application to 
+deploying a fleet of trucks powered by 
+DRIVE computers. 
+We also announced Orin, our second-
+generation robotics processor. Orin’s 
+combination of CPU, GPU, Tensor Core, and 
+computer vision processing offers 10x the 
+performance of our current Xavier SoC. 
+Future self-driving vehicles will demand 
+expanded driving capabilities, improved 
+safety through software and hardware 
+redundancy, and faster response times. 
+Orin’s leap in performance and safety 
+architecture will make it possible. 
+Autonomous vehicles represent just one of 
+the opportunities. In the future, warehouses 
+and manufacturing lines will have fleets of 
+Orin-powered robots that work closely and 
+collaboratively with people to move, lift, and 
+make things.
+
+--- Page 11 ---
+NVIDIA will have deep domain expertise 
+in important markets—transportation, 
+healthcare, manufacturing, logistics, and 
+public safety—and offer an end-to-end AI 
+platform that makes it easy for companies 
+to develop their own AI services. 
+And we will continue to advance the state 
+of computer graphics for gaming, art, and 
+design while leveraging our expertise and 
+scale to create the future of AI.
+That’s our plan: Graphics, Accelerated 
+Computing, and AI. From Data Centers 
+to Self-Driving Cars. Graphics feeds AI. 
+AI feeds Graphics.
+We had an extraordinary year. Confronted 
+with adversity as we entered the year, the 
+company rose to the challenge and made it 
+our finest moment. I am incredibly proud of 
+our people and the work we did. 
+And now, as the world faces one of the great 
+tests of our generation, I know that NVIDIA 
+will step up again. We are inspired and driven 
+to create the essential instruments for 
+scientists, researchers, and developers 
+whose work can change the world. It’s our 
+purpose, and it is as relevant today as it’s 
+ever been.
+Thank you all for your support. The best, and 
+most amazing, is yet to come. Stay tuned.
+Jensen Huang 
+CEO and Founder, NVIDIA 
+April 2020
+CARING FOR 
+OUR COMMUNITIES
+LOOKING AHEAD  
+NVIDIA has a singular goal that remains our 
+mission today: to build one of the world’s 
+great companies—one that makes lasting 
+impacts on industry and society, lifting 
+humanity higher, while achieving near-term 
+business goals for long-term sustainability. 
+We do this with our inventions and ideas as 
+well as through our company-wide 
+contributions to our communities. 
+We are living through an extraordinary time 
+in computing. Though computers have 
+steadily become more useful, broader 
+adoption has been limited by skilled 
+programmers who are also domain experts 
+in niche markets. Unless an application has 
+a sufficiently large market—like search or 
+photo editing—it is unlikely to warrant 
+an investment. 
+One of many examples of our inventions 
+contributing to society is NVIDIA Clara, a 
+platform that is advancing the science and 
+practice of healthcare. Clara AI helps 
+radiologists develop AI models to detect 
+early signs of disease. 
+This year we introduced Clara AI 
+federated learning, a way to enable multi-
+organizational AI research collaboration 
+while preserving patient privacy. We are 
+delighted that the American College of 
+Radiology and UCLA Health are early 
+adopters. Clara Genomics is an acceleration 
+platform to analyze the data from gene 
+sequencing. The speedups it provides will 
+significantly accelerate biological and 
+medical research and discovery. 
+We encourage and make it easy for our 
+employees to support charities that most 
+inspire them. Our Inspire 365 initiative offers 
+employees a large variety of volunteer 
+opportunities and time off from work to help 
+their communities. NVIDIA offices around 
+the world held nearly 200 charitable events 
+last year and contributed nearly 12,000 
+volunteer hours and millions of dollars.
+Now, AI can adapt a previously learned 
+skill and program itself for a niche 
+application. A farmer can teach an AI to pick 
+and sort a harvest of tomatoes into different 
+categories to sell to restaurants, in grocery 
+stores, or to be used for sauce. A radiologist 
+can teach an AI to detect a rare disease. A 
+maker of air conditioners can train an AI to 
+monitor its installed base to ensure 
+energy-efficient operations. 
+AI is democratizing software. Any company 
+can become a technology company. Domain 
+experts will not need to program. They will 
+teach AI to automate repetitive or dangerous 
+tasks. AI will enable automation across the 
+world’s largest industries and drive a new 
+wave of computing adoption.
+NVIDIA will contribute by building the AI 
+computer—for researchers, for inference 
+deployment in the cloud, for AI computing at 
+the edge, and for autonomous machines. 
+NVIDIA’s platform will be optimized across 
+full stacks—from chips, systems, software, 
+and algorithms, to data center networking—
+available anywhere, from every cloud 
+service provider and computer maker.
+
+--- Page 12 ---
+NVIDIA CORPORATION
+NOTICE OF 2020 ANNUAL MEETING
+PROXY STATEMENT AND FORM 10-K
+FORWARD-LOOKING STATEMENTS
+Certain statements in this document including, but not limited to, statements as to: the impact, beneﬁts, abilities, features, performance, and availability 
+of our products and technologies, including GeForce RTX, Quadro RTX, NVIDIA Omniverse, NVIDIA DGX systems, NVIDIA TensorRT software, NVIDIA 
+GPUs, NVIDIA EGX, RTX Max-Q gaming laptops, RTX Studio creative workstations, GeForce NOW cloud gaming, NVIDIA’s AI architecture, NVIDIA Aerial, 
+NVIDIA DRIVE AV, Orin, and NVIDIA Clara; NVIDIA as the leading platform to accelerate AI and the world’s most demanding supercomputing applications; 
+our contractors continuing to be paid; NVIDIA’s efforts to combat COVID-19; NVIDIA innovating at the epicenter of the most important technology trends 
+of our time; our growth drivers and opportunities; the upgrade cycle being well on its way; our expectation for RTX to be one of the most successful 
+GeForce generations; our expectation that NVIDIA GPUs will increasingly be used in accelerated computing; AI being the most powerful technology force 
+of our time and the engine driving our data center business; the number of connected devices in the future and how they will work and be used; the impact 
+of  IoT  sensors  connected  to  AI  computers;  NVIDIA  bringing  AI  to  the  world’s  largest  industries  with  EGX;  Mellanox  becoming  one  of  NVIDIA’s  most 
+signiﬁcant  design  centers  and  the  expected  closing  date  of  the  acquisition;  every  machine  that  moves  having  autonomous  capabilities  someday;  the 
+demands  of  future  self-driving  vehicles;  AI  enabling  automation  and  driving  computing  adoption;  and  our  market  position  and  strategies  are 
+forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important 
+factors that could cause actual results to differ materially include: global economic conditions; our reliance on third parties to manufacture, assemble, 
+package  and  test  our  products;  the  impact  of  technological  development  and  competition;  development  of  new  products  and  technologies  or 
+enhancements  to  our  existing  product  and  technologies;  market  acceptance  of  our  products  or  our  partners'  products;  design,  manufacturing  or 
+software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of our 
+products or technologies when integrated into systems; as well as other factors detailed from time to time in the most recent reports NVIDIA ﬁles with 
+the Securities and Exchange Commission, or SEC, including, but not limited to, its annual report on Form 10-K and quarterly reports on Form 10-Q. 
+Copies  of  reports  ﬁled  with  the  SEC  are  posted  on  the  company's  website  and  are  available  from  NVIDIA  without  charge.  These  forward-looking 
+statements  are  not  guarantees  of  future  performance  and  speak  only  as  of  the  date  hereof,  and,  except  as  required  by  law,  NVIDIA  disclaims  any 
+obligation to update these forward-looking statements to reﬂect future events or circumstances.
+
+--- Page 13 ---
+NOTICE OF 2020 ANNUAL MEETING OF STOCKHOLDERS
+Date and time:
+Tuesday, June 9, 2020 at 11:00 a.m. Pacific Daylight Time
+Location:
+Online at www.virtualshareholdermeeting.com/NVIDIA2020
+Items of business:
+• Election of eleven directors nominated by the Board of Directors
+• Approval of our executive compensation
+• Ratification of the selection of PricewaterhouseCoopers LLP as our independent registered
+public accounting firm for fiscal year 2021
+• Approval of an amendment and restatement of our Amended and Restated 2007 Equity
+Incentive Plan
+• Approval of an amendment and restatement of our Amended and Restated 2012 Employee
+Stock Purchase Plan
+Transaction of other business properly brought before the meeting
+Record date:
+You can attend, and vote at, the annual meeting if you were a stockholder of record at the close
+of business on April 13, 2020.
+Virtual meeting
+admission:
+We will be holding our annual meeting online only this year at
+www.virtualshareholdermeeting.com/NVIDIA2020.  To participate in the annual meeting, you
+will need the control number included on your notice of proxy materials or printed proxy card.
+Pre-meeting forum:
+In order to allow for communication with our stockholders in connection with the annual
+meeting, we have established a pre-meeting forum located at www.proxyvote.com where you
+can submit advance questions to us.
+Your vote is very important.  Whether or not you plan to attend the virtual meeting, PLEASE VOTE YOUR SHARES.  As an
+alternative to voting online at the meeting, you may vote via the Internet, by telephone or, if you receive a paper proxy
+card in the mail, by mailing the completed proxy card.
+Important notice regarding the availability of proxy materials for the Annual Meeting of Stockholders to be held on
+June 9, 2020.  This Notice, our Proxy Statement, our Annual Report on Form 10-K, and our Annual Review are available
+at www.nvidia.com/proxy.
+By Order of the Board of Directors 
+Timothy S. Teter 
+Secretary
+2788 San Tomas Expressway, Santa Clara, California 95051
+April 29, 2020
+
+--- Page 14 ---
+TABLE OF CONTENTS
+DEFINITIONS
+PROXY SUMMARY
+PROXY STATEMENT
+Information About the Meeting
+Proposal 1—Election of Directors
+Director Qualifications and Nomination of Directors
+Our Director Nominees
+Information About the Board of Directors and Corporate Governance
+Independence of the Members of the Board of Directors
+Board Leadership Structure
+Role of the Board in Risk Oversight
+Corporate Governance Policies of the Board of Directors
+Stockholder Communications with the Board of Directors
+Majority Vote Standard
+Board Meeting Information
+Committees of the Board of Directors
+Director Compensation
+Review of Transactions with Related Persons
+Security Ownership of Certain Beneficial Owners and Management
+Proposal 2—Approval of Executive Compensation
+Executive Compensation
+Compensation Discussion and Analysis
+Risk Analysis of Our Compensation Plans
+Summary Compensation Table for Fiscal 2020, 2019, and 2018
+Grants of Plan-Based Awards For Fiscal 2020
+Outstanding Equity Awards as of January 26, 2020
+Option Exercises and Stock Vested in Fiscal 2020
+Employment, Severance and Change-in-Control Arrangements
+Potential Payments Upon Termination or Change-in-Control
+Pay Ratio
+Compensation Committee Interlocks and Insider Participation
+Compensation Committee Report
+Proposal 3—Ratification of the Selection of Independent Registered Public Accounting Firm for Fiscal
+2021
+Fees Billed by the Independent Registered Public Accounting Firm
+Report of the Audit Committee of the Board of Directors
+Proposal 4—Approval of an Amendment and Restatement of our Amended and Restated 2007 Equity
+Incentive Plan
+Proposal 5—Approval of an Amendment and Restatement of our Amended and Restated 2012
+Employee Stock Purchase Plan
+Equity Compensation Plan Information
+Additional Information
+Delinquent Section 16(a) Reports
+Other Matters
+APPENDIX A—Amended and Restated 2007 Equity Incentive Plan
+APPENDIX B—Amended and Restated 2012 Employee Stock Purchase Plan
+PAGE
+1
+2
+5
+5
+8
+9
+10
+15
+15
+15
+15
+16
+17
+17
+17
+18
+19
+21
+22
+24
+25
+25
+34
+35
+36
+37
+39
+39
+40
+41
+41
+41
+42
+43
+44
+45
+57
+62
+62
+62
+63
+A-1
+B-1
+
+--- Page 15 ---
+DEFINITIONS
+2007 Plan
+2012 ESPP
+AC
+NVIDIA Corporation Amended and Restated 2007 Equity Incentive Plan
+NVIDIA Corporation Amended and Restated 2012 Employee Stock Purchase Plan
+Audit Committee
+Base Operating Plan
+Performance goal necessary to earn the target award under the Variable Cash Plan and for the target
+number of SY PSUs to become eligible to vest
+Board
+CC
+CD&A
+CEO
+CFO
+Charter
+Company
+Control Number
+Dodd Frank Act
+Exchange Act
+Exequity
+FASB
+Fiscal 20__
+Form 10-K
+GAAP
+The Company’s Board of Directors
+Compensation Committee
+Compensation Discussion and Analysis
+Chief Executive Officer
+Chief Financial Officer
+The Company’s Amended and Restated Certificate of Incorporation
+NVIDIA Corporation, a Delaware corporation
+Identification number for each stockholder included in Notice or proxy card
+Dodd-Frank Wall Street Reform and Consumer Protection Act
+Securities Exchange Act of 1934, as amended
+Exequity LLP, the CC’s independent compensation consultant
+Financial Accounting Standards Board
+The Company’s fiscal year ended on the last Sunday in January of the stated year
+The Company’s Annual Report on Form 10-K for Fiscal 2020 filed with the SEC on February 20, 2020
+Generally accepted accounting principles
+Internal Revenue Code
+U.S. Internal Revenue Code of 1986, as amended
+Lead Director
+Lead independent director
+Meeting
+MY PSUs
+Nasdaq
+NCGC
+NEOs
+Non-GAAP Operating
+Income
+Annual Meeting of Stockholders
+Multi-year PSUs with a three-year performance metric
+The Nasdaq Stock Market LLC
+Nominating and Corporate Governance Committee
+Named Executive Officers consisting of our CEO, our CFO, and our other three most highly compensated
+executive officers as of the end of Fiscal 2020
+GAAP operating income adjusted for stock-based compensation expense, acquisition-related and other
+costs, and legal settlement costs, as the Company reports in its respective earnings materials.  The net
+aggregate adjustment to GAAP operating income for these items for Fiscal 2020 was $889 million and for
+Fiscal 2019 was $603 million.  Please see Reconciliation of Non-GAAP Financial Measures in our CD&A for
+a reconciliation between the non-GAAP measures and GAAP results
+Notice
+NYSE
+PSUs
+PwC
+RSUs
+S&P 500
+SEC
+Notice of Internet Availability of Proxy Materials
+New York Stock Exchange
+Performance stock units
+PricewaterhouseCoopers LLP
+Restricted stock units
+Standard & Poor’s 500 Composite Index
+U.S. Securities and Exchange Commission
+Securities Act
+Securities Act of 1933, as amended
+Stretch
+Performance goal necessary for the maximum number of MY PSUs to become eligible to vest
+Stretch Operating Plan
+Performance goal necessary to earn the maximum award under the Variable Cash Plan and for the
+maximum number of SY PSUs to become eligible to vest
+SY PSUs
+Target
+Threshold
+TSR
+PSUs with a single-year performance metric, vesting over four years
+Performance goal necessary for the target number of MY PSUs to become eligible to vest
+Minimum performance goal necessary to earn an award under the Variable Cash Plan and for SY PSUs
+and MY PSUs to become eligible to vest
+Total shareholder return
+Variable Cash Plan
+The Company’s variable cash compensation plan
+1
+
+--- Page 16 ---
+This summary highlights information contained elsewhere in the proxy statement.  This summary does not contain all of
+the information that you should consider, and you should read the entire proxy statement carefully before voting.
+PROXY SUMMARY
+2020 Annual Meeting of Stockholders
+Date and time:
+Tuesday, June 9, 2020 at 11:00 a.m. Pacific Daylight Time
+Location:
+Record date:
+Online at www.virtualshareholdermeeting.com/NVIDIA2020
+Stockholders as of April 13, 2020 are entitled to vote
+Admission to meeting:
+You will need your Control Number to attend the annual meeting
+Voting Matters and Board Recommendations
+A summary of the 2020 Meeting proposals is below.  Every stockholder’s vote is important. Our Board urges you to vote
+your shares FOR each of the proposals. 
+Matter
+Management Proposals:
+Election of eleven directors
+Page
+Board
+Recommendation
+Vote Required 
+for Approval
+Effect of
+Abstentions
+Effect of Broker
+Non-Votes
+FOR each director
+nominee
+More FOR than
+WITHHOLD votes None
+8
+None
+Approval of our executive compensation
+24
+FOR
+Ratification of the selection of PwC as our
+independent registered public accounting firm
+for Fiscal 2021
+Approval of an amendment and restatement of
+our 2007 Equity Incentive Plan
+Approval of an amendment and restatement of
+our 2012 Employee Stock Purchase Plan
+42
+45
+57
+FOR
+FOR
+FOR
+Election of Directors (Proposal 1)
+Majority of
+shares present
+Majority of
+shares present
+Majority of
+shares present
+Majority of
+shares present
+Against
+None
+Against
+None
+Against
+None
+Against
+None
+The following table provides summary information about each director nominee:
+Occupation
+Independent
+Name
+Age
+Robert K. Burgess
+Tench Coxe
+Persis S. Drell
+Jen-Hsun Huang
+Dawn Hudson
+Harvey C. Jones
+Michael G. McCaffery
+Stephen C. Neal
+Mark L. Perry (1)
+A. Brooke Seawell
+Mark A. Stevens
+62
+62
+64
+57
+62
+67
+66
+71
+64
+72
+60
+Director
+Since
+2011
+1993
+2015
+1993
+2013
+1993
+2015
+2019
+2005
+Independent Consultant
+Managing Director, Sutter Hill Ventures
+Provost, Stanford University
+President & CEO, NVIDIA Corporation
+Independent Consultant
+Managing Partner, Square Wave Ventures
+Managing Director, Makena Capital
+Management
+Chairman Emeritus & Senior Counsel,
+Cooley LLP
+Independent Consultant
+1997
+2008 (2) Managing Partner, S-Cubed Capital
+Venture Partner, New Enterprise Associates
+Financial
+Expert
+ü
+Committee
+Membership
+CC
+CC
+CC
+AC
+CC, NCGC
+AC
+NCGC
+AC, NCGC
+CC
+AC, NCGC
+ü
+ü
+ü
+ü
+ü
+ü
+ü
+ü
+ü
+ü
+ü
+ü
+ü
+ü
+ü
+(1)  Lead Director
+(2)  Mr. Stevens previously served as a member of our Board from 1993 until 2006
+Board Overview and Recent Refreshment
+Our director nominees exhibit a variety of competencies, professional experience, and backgrounds, and contribute diverse
+viewpoints and perspectives to our Board.  While the Board benefits from the experience and institutional knowledge that
+2

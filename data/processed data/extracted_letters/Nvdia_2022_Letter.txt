@@ -1,0 +1,547 @@
+
+--- Page 14 ---
+DEAR NVIDIANS 
+AND STAKEHOLDERS,
+NVIDIA had an excellent year. Full-year 
+revenue was a record $26.91 billion, up 
+61 percent from $16.68 billion a year ago. 
+Gross margins expanded to 64.9 percent, 
+and earnings per share were $3.85, up 
+123 percent from a year ago. We 
+returned $399 million during the year 
+to shareholders through quarterly 
+cash dividends.
+Our top priority remains the continued 
+expansion of NVIDIA accelerated 
+computing—creating software, systems, 
+and chips to serve new markets. NVIDIA 
+grows through any combination of these. 
+New chips open new markets. For 
+example, the new Orin robotics 
+processor chip is the central computer 
+for a new generation of logistics robots, 
+delivery robots, and self-driving cars, 
+trucks, and taxis. And Grace is a new 
+CPU architecture designed for ultra-fast 
+data processing, the essential operation 
+of AI and machine learning. Grace is our 
+entry into the CPU market.
+New software opens new markets. 
+NVIDIA has sped up computing a million 
+times over the past decade by GPU-
+accelerating algorithms, optimizing 
+across the full stack, and scaling across 
+the entire data center. NVIDIA SDKs, or 
+software development kits, capture the 
+complex computer science and 
+engineering into expertly crafted CUDA 
+libraries. Our cuQuantum SDK running 
+on DGX computers is the ideal simulation 
+system for quantum computing, 
+chemistry, and cybersecurity 
+researchers. And while quantum 
+computing may still be a few decades 
+away, NVIDIA cuOpt is a real-time 
+combinatorial complexity planner that 
+operations, logistics, and delivery 
+services can use today. 
+NVIDIA SDKs are the heart and soul of 
+accelerated computing. New SDKs 
+connect us to new opportunities. NVIDIA 
+has hundreds of SDKs that form several 
+core platforms: NVIDIA RTX for graphics, 
+NVIDIA HPC for scientific computing, 
+NVIDIA AI for data science and AI, NVIDIA 
+DRIVE for autonomous vehicles, and 
+NVIDIA Omniverse, our physically 
+accurate simulation platform for 
+developing and operating automated 
+fleets of cars and trucks, and automating 
+places like warehouses and factories.
+Starting this year, we are offering 
+enterprise software license and support 
+models for NVIDIA AI, NVIDIA DRIVE, and 
+NVIDIA Omniverse.
+New software, new systems, and new 
+chips can create markets. Machine 
+learning algorithms developed on 
+TensorFlow and PyTorch, and processed 
+by NVIDIA AI running on our DGX 
+systems with Tensor Core GPUs, 
+revolutionized AI. Omniverse running on 
+OVX systems with NVIDIA Spectrum 
+networking chips and systems will be 
+added to NVIDIA's platform to open the 
+next wave of AI. 
+REVENUE
++61%
+$26.91
+$16.68
+$30
+$25
+$20
+$15
+$10
+$5
+$0
+s
+n
+o
+i
+l
+l
+i
+B
+n
+i
+GROSS MARGIN
++260 bps
+64.9%
+62.3%
+65%
+64%
+63%
+62%
+61%
+60%
+EPS
++123%
+$3.85
+$1.73
+$4
+$3
+$2
+$1
+$0
+FY21
+FY22
+FY21
+FY22
+GAAP results
+FY21
+FY22
+ 
+
+--- Page 15 ---
+We’ve expanded our platform in every 
+dimension and direction—more 
+developers, more applications, and new 
+customers in new industries. NVIDIA 
+now serves over three million developers 
+and is available from every major 
+computer maker and cloud, and has been 
+adopted by over 25,000 companies in 100 
+trillion dollars' worth of industries. 
+NVIDIA GTC 2022 LAUNCHED 
+LARGEST-EVER WAVE OF 
+NEW PRODUCTS
+We built NVIDIA like a computing stack, 
+or neural network, in four layers: 
+hardware, system software, platform 
+software, and applications. Each layer is 
+open to computer makers, service 
+providers, and developers to integrate 
+with their offerings.
+We innovated across every layer this 
+year. At our virtual developers 
+conference GTC 2022, we announced 
+new GPU, CPU, and networking chips 
+and systems—our largest rollout to date.
+The Hopper-architecture-based NVIDIA 
+H100 GPU has arrived, and its 
+performance is unbelievable. It's the new 
+engine of the world's AI infrastructure. 
+At four petaflops of AI power, H100 
+performance is an order of magnitude 
+beyond that of our NVIDIA Ampere-based 
+A100. Designed to support the next wave 
+Grace CPU Superchip
+NVIDIA Hopper H100
+of AI adoption, it introduces a set of 
+breakthrough security features like GPU 
+isolation and confidential computing, 
+dynamic programming to speed complex 
+science problems, direct memory 
+connections, and high-speed networking.
+We also introduced the Grace CPU 
+Superchip—our entry into CPUs. With an 
+unbelievable one-terabyte-per-second 
+memory bandwidth, Grace moves and 
+processes mountains of data. It's ideal 
+for AI infrastructure, cloud, and 
+scientific computing.
+In addition to GPU and CPU news, we 
+announced NVIDIA Spectrum-4—the 
+world's first 800 Gbps networking 
+switch. With Spectrum for Ethernet, 
+Quantum for InfiniBand, NVLink for 
+multi-node DGX, and our DOCA 
+networking, storage, and security 
+infrastructure software stack, NVIDIA is 
+ready to build out the world's AI 
+infrastructure, from end to end.
+NVIDIA GPU, CPU, and networking 
+systems are some of the industry's most 
+advanced technologies and form the 
+foundation of our computing platform.
+We now have more than 450 NVIDIA AI 
+libraries and software development kits 
+to serve industries such as gaming, 
+design, quantum computing, AI, 5G/6G, 
+and robotics.
+It was a breakthrough year for NVIDIA 
+accelerated computing.
+ 
+
+--- Page 16 ---
+NVIDIA RTX REINVENTS 
+COMPUTER GRAPHICS, 
+BLURRING REAL AND 
+PHYSICAL WORLDS
+Computer graphics is the driving force 
+of NVIDIA. Through the decades, we've 
+repeatedly reinvented computer 
+graphics—the GPU, programmable 
+shading, material simulation, and, in 
+2018, RTX real-time ray tracing and AI 
+image synthesis.
+The arrival of NVIDIA RTX real-time ray 
+tracing, approximating the physics of 
+light and materials to generate 
+photorealistic virtual worlds, accelerated 
+the industry to warp speed and pulled us 
+all 10 years into the future.
+Today, RTX is everywhere and 
+reinventing every application of 3D 
+graphics. More than 250 games and apps 
+use RTX, from Fortnite to Adobe 
+Photoshop. Architecture walkthroughs, 
+product design, product configurators, 
+and virtual showrooms are now 
+photorealistic. NVIDIA RTX made 
+real-time photorealistic 3D graphics 
+possible. The line between computer 
+graphics and reality, and therefore the 
+digital and physical worlds, will become 
+increasingly blurred.
+THE AI INFRASTRUCTURE 
+OF AI COMPANIES
+Fast computers running AI algorithms 
+can learn patterns and relationships 
+from data to write software that was 
+previously impossible. Knowledge of this 
+new way of developing software and 
+products is spreading quickly. 
+Companies from nearly every industry 
+are processing and refining their raw 
+data to make AI software. They are 
+manufacturers of intelligence, and data 
+centers are their factories.
+We work with over 25,000 companies, 
+applying AI to reinvent their industries—
+from consumer internet companies to 
+those in healthcare, manufacturing, 
+FESTO Physical Model
+FESTO Omniverse Digital Twin
+logistics, retail, financial services, 
+energy, design, and transportation. 
+AI is the most impactful technology force 
+of our time. We are all hands on deck to 
+advance the NVIDIA AI platform, solve 
+new problems, and make AI more 
+accessible—from PC, cloud, enterprise 
+data centers, the industrial edge, robotic 
+systems, and scientific supercomputers.
+THE NEXT WAVE OF AI
+This year, bringing Omniverse to market 
+was a huge achievement and opened a 
+new chapter for NVIDIA. Omniverse is a 
+3D simulation engine to build and 
+connect virtual worlds. In Omniverse, 
+designers can collaborate with other 
+designers, and even AIs and robots, to 
+create virtual worlds. Digital twins of 
+robots can hone their skills in virtual 
+worlds before performing tasks in the 
+physical world. 
+An automobile manufacturer like BMW 
+can build and test a new factory with a 
+digital twin before laying the first brick 
+and configuring the first assembly line. 
+Once the actual factory is operating, 
+logistics planners will use the digital 
+twin to prototype new process flows and 
+software. That software can be deployed 
+into the physical factory when 
+optimizations demonstrate improved 
+efficiency. Digital twins will be essential 
+to designing and operating future 
+software-defined plants.
+Large industrial companies have already 
+created fully operational digital twins in 
+Omniverse. Siemens Energy is 
+developing a digital twin for predictive 
+maintenance at power plants that could 
+help save utility providers an estimated 
+$1.7 billion a year. Ericsson is simulating 
+the interplay between 5G cells and the 
+environment. PepsiCo is using digital 
+twins to improve the efficiency and 
+sustainability of its more than 600 
+distribution centers. Amazon is using 
+digital twins to optimize the design and 
+flow of its warehouses and train more 
+intelligent robotic solutions.
+The Omniverse ecosystem has expanded 
+quickly in its first year. More than 80 
+software tools connect to Omniverse, 
+across design and rendering, robotics, 
+digital twin, and industrial automation 
+ecosystems. Omniverse has been 
+downloaded 150,000 times by individual 
+creators and evaluated by over 700 
+companies. And now, Omniverse Cloud 
+adds a one-click capability to reach tens 
+of millions of designers, creators, 
+roboticists, and AI researchers.
+Nearly 30 years of NVIDIA graphics, 
+physics, simulation, AI, and computing 
+expertise made Omniverse possible. 
+We now have the engine for the next 
+wave of AI. 
+ 
+
+--- Page 17 ---
+ROBOTIC SYSTEMS—AI 
+AUTOMATES THE WORLD
+Today's AI centers on perception and 
+pattern recognition. AI can recognize an 
+image, understand speech, suggest a 
+song, or recommend an item to buy.
+A new wave of AI is dawning in which 
+robots perceive the environment, reason 
+about where they are, where they need to 
+go and what they need to do, and then 
+develop a plan to do it.
+Robots will take many forms, physical 
+and digital. Some will stock shelves in 
+warehouses or build cars. Others will be 
+medical instruments that integrate 
+real-time sensor data and assist with 
+medical procedures. Self-driving cars 
+are robotic vehicles with digital robots 
+inside, riding along with us, helping with 
+driving and navigation tasks.
+NVIDIA Isaac is our platform for 
+industrial robots. More than 700 
+customers and partners use Isaac to 
+develop robots for e-commerce 
+fulfillment, retail automation, cleaning, 
+and last-mile delivery.
+NVIDIA Clara Holoscan is for 
+AI-powered medical systems—an 
+open, programmable platform built to 
+medical-grade specification for 
+next-generation robotic imaging and 
+surgical instruments. 
+Extreme Weather
+NVIDIA DRIVE is for autonomous vehicles 
+—a full-stack open platform for AV 
+development. The automotive industry is 
+enormous, with 100 million cars sold 
+each year and an installed base of over a 
+billion vehicles. With an $11 billion 
+design win pipeline over the next six 
+years, Auto has several upcoming 
+inflection points that we believe will 
+create the next multibillion-dollar 
+business for NVIDIA.
+The NVIDIA Orin robotics computer 
+powers Isaac, Holoscan, and DRIVE. Orin 
+is in production and already powering 25 
+electric vehicle makers building 
+autonomous vehicles.
+The NVIDIA DRIVE AV computer and 
+software will power Mercedes-Benz's 
+new fleet in 2024. And beginning in 2025, 
+all new Jaguar and Land Rover vehicles 
+will be powered by NVIDIA DRIVE AV.
+THE POWER OF A MILLION-X TO 
+BATTLE CLIMATE CHANGE
+We are living in a transformational time 
+in the field of computer science. Our 
+invention of the GPU and CUDA 
+democratized scientific computing. 
+NVIDIA AI computing scaled across a 
+data center can solve scientific 
+challenges a million-x more in speed and 
+scale, opening the door to tackle some of 
+the world's grandest challenges, like 
+drug discovery and climate science.
+We announced last year our Earth-2 
+initiative—a digital twin of our planet. 
+Earth-2 will be a simulation system to 
+predict the complex multi-physics of 
+Earth's atmosphere, land, sea, and ice 
+caps at sufficiently high resolution to 
+predict regional impacts of human 
+actions over decades. 
+
+--- Page 18 ---
+I want to thank NVIDIA developers, 
+partners, customers, and families for 
+the amazing work you do. Exciting new 
+frontiers lie ahead. Let's seek them 
+out together.
+Jensen Huang 
+CEO and Founder, NVIDIA 
+April 2022
+Earth-2 Simulation
+Earth-2 will require the invention of new 
+chips, supercomputers, and AI 
+algorithms that can predict climate 
+physics millions to billions times faster 
+than today. 
+Earth-2's implications for science and 
+society can be massive. And there is 
+early evidence we can succeed. 
+Researchers at NVIDIA and universities 
+Berkeley, Caltech, Michigan, Purdue, 
+and Rice have developed a weather 
+forecasting AI model called FourCastNet 
+that can predict weather events such as 
+hurricanes, atmospheric rivers, and 
+extreme rain up to 45,000x faster. What 
+previously took a classical numerical 
+simulation a year to complete now takes 
+just minutes.
+Collaborating with climate scientists 
+worldwide, we hope to create a system 
+that lets researchers simulate climate 
+change while providing a platform to 
+predict the impact of mitigation and 
+adaptation strategies. 
+Earth-2 will pull together the brightest 
+minds to tackle one of humanity's 
+greatest threats. 
+LOOKING AHEAD
+We had a fantastic year, but nothing 
+makes me prouder than the incredible 
+people who have made NVIDIA the 
+company it is today. We want our 
+company to be where they can do their 
+life's work, so it's a true honor that we 
+were ranked No. 1 on Glassdoor's Best 
+Places to Work list for large U.S. 
+companies. Employees alone drive this 
+ranking, and I am so grateful. 
+Our employees support the communities 
+in which they work and live. They joined 
+the company in contributing more than 
+$22 million to charitable causes in fiscal 
+year 2022. 
+Together, we drove advances this 
+year in AI, HPC, gaming, creative 
+design, autonomous vehicles, and 
+robotics—some of the world's most 
+impactful areas. 
+We enter the upcoming year with strong 
+momentum. Demand for our products is 
+exceptional. We made substantial strides 
+in diversifying and expanding our supply 
+base. Our execution has never been 
+better. And we go into this year with the 
+largest wave of new products in 
+our history.
+
+--- Page 19 ---
+NVIDIA CORPORATION 
+NOTICE OF 2022 ANNUAL MEETING 
+PROXY STATEMENT AND FORM 10-K 
+FORWARD-LOOKING STATEMENTS 
+Certain  statements  in  this  document  including,  but  not  limited  to,  statements  as  to:  the  impact,  benefits,  abilities,  features,  performance,  and 
+availability of our products and technologies, including NVIDIA RTX, NVIDIA GeForce 30 Series GPUs, GeForce NOW, the Hopper GPU, the Grace 
+CPU Superchip, NVIDIA Omniverse, NVIDIA Maxine, NVIDIA Isaac, NVIDIA DRIVE, NVIDIA Jetson, NVIDIA SDKs, CUDA libraries, cuQuantum, NVIDIA 
+cuOpt, NVIDIA HPC, NVIDIA AI, NVIDIA DGX systems, Tensor Core GPUs, NVIDIA H100, NVIDIA Spectrum-4, Quantum, NVLink, DOCA networking, 
+Omniverse Cloud, NVIDIA Clara Holoscan, NVIDIA Orin, NVIDIA DRIVE AV, and Earth-2; NVIDIA taking on tough problems and shaping the world for 
+the  better;  the  unique  contribution  of  NVIDIA;  companies  processing  mountains  of  data  to  train  and  refine  AI  models;  data  centers  essentially 
+becoming AI factories; the impact of AI on the world; the next phase of the internet being 3D; everything that moves someday being an autonomous 
+machine; the continued expansion of NVDIA accelerated computing; the next wave of AI; our collaborations with third parties; our customers; the 
+line  between  computer  graphics  and  reality,  and  therefore  the  digital  and  physical  worlds,  becoming  increasingly  blurred;  digital  twins  being 
+essential to designing and operating future software-defined plants; the expansion of the Omniverse ecosystem; robots taking on many forms; our 
+design  win  pipeline;  NVIDIA  AI  computing  opening  the  door  to  tackle  the  world's  grandest  challenges;  the  impact  of  mitigation  and  adaption 
+strategies on climate change; our momentum for the upcoming year; our growth drivers and opportunities; and our market position and strategies 
+are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. 
+Important  factors  that  could  cause  actual  results  to  differ  materially  include:  global  economic  conditions;  our  reliance  on  third  parties  to 
+manufacture, assemble, package and test our products; the impact of technological development and competition; development of new products 
+and technologies or enhancements to our existing product and technologies; market acceptance of our products or our partners' products; design, 
+manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss 
+of performance of our products or technologies when integrated into systems; as well as other factors detailed from time to time in the most recent 
+reports NVIDIA files with the Securities and Exchange Commission, or SEC, including, but not limited to, its annual report on Form 10-K and quarterly 
+reports on Form 10-Q. Copies of reports filed with the SEC are posted on the company's website and are available from NVIDIA without charge. 
+These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, 
+NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- Page 20 ---
+NOTICE OF 2022 ANNUAL MEETING OF STOCKHOLDERS
+Date and 
+time:
+Thursday, June 2, 2022 at 11:00 a.m. Pacific Daylight Time
+Location:
+Virtually at www.virtualshareholdermeeting.com/NVDA2022
+Items of 
+business:
+• Election of thirteen directors nominated by the Board of Directors
+• Advisory approval of our executive compensation
+• Ratification  of  the  selection  of  PricewaterhouseCoopers  LLP  as  our  independent  registered  public 
+accounting firm for fiscal year 2023
+• Approval of an amendment to our Restated Certificate of Incorporation to increase the number of 
+authorized shares of common stock from 4 billion to 8 billion shares
+• Approval  of  an  amendment  and  restatement  of  our  Amended  and  Restated  2007  Equity  Incentive 
+Plan
+• Transaction of other business properly brought before the meeting
+Record date: You  can  attend  and  vote  at  the  annual  meeting  if  you  were  a  stockholder  of  record  at  the  close  of 
+business on April 4, 2022.
+Stockholder 
+list:
+A list of stockholders entitled to vote at the close of business on the April 4, 2022 record date will be 
+available  during 
+the  annual  meeting  at  www.virtualshareholdermeeting.com/NVDA2022  and 
+electronically  for  10  days  prior  to  the  annual  meeting  to  registered  stockholders  for  any  legally  valid 
+purpose  related  to  the  annual  meeting.    For  access  to  the  stockholder  list,  please  contact  us  at 
+shareholdermeeting@nvidia.com.
+Virtual 
+meeting 
+admission:
+We will be holding our annual meeting virtually at www.virtualshareholdermeeting.com/NVDA2022.  To 
+participate  in  the  annual  meeting,  you  will  need  the  control  number  included  on  your  notice  of  proxy 
+materials or printed proxy card.
+Pre-meeting 
+forum:
+To communicate with our stockholders in connection with the annual meeting, we have established a 
+pre-meeting forum located at www.proxyvote.com where you can submit advance questions. 
+Your vote is very important.  Whether or not you plan to attend the virtual annual meeting, PLEASE VOTE YOUR SHARES.  
+As  an  alternative  to  voting  during  the  virtual  annual  meeting,  you  may  vote  in  advance  online,  by  telephone  or,  if  you 
+have elected to receive a paper proxy card in the mail, by mailing the completed proxy card.
+Important notice regarding the availability of proxy materials for the Annual Meeting of Stockholders to be held on 
+June 2, 2022.  This Notice, our Proxy Statement, our Annual Report on Form 10-K, and our Annual Review are available 
+at www.nvidia.com/proxy.
+By Order of the Board of Directors 
+Timothy S. Teter 
+Secretary
+2788 San Tomas Expressway, Santa Clara, California 95051
+April 19, 2022

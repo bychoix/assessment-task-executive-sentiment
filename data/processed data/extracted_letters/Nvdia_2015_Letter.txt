@@ -1,0 +1,202 @@
+
+--- Page 12 ---
+T
+H
+E
+Y
+E
+A
+R
+I
+N
+R
+E
+V
+I
+E
+W
+DEAR STAKEHOLDERS,
+WE’VE 
+TRANSFORMED 
+OUR COMPANY
+We remain the world’s leading PC graphics chip company.  
+But we are now much more. We create software-rich visual  
+computing products for PCs, data centers, and mobile devices. 
+Our reinvention has allowed us  
+to continue to grow despite  
+the slowing PC market.
+ 
+ 
+ 
+
+--- Page 13 ---
+WE’VE 
+TRANSFORMED 
+OUR COMPANY
+Our financial results reached record levels in fiscal 2015, 
+with revenue up 13 percent to $4.7 billion and gross margins 
+widening 60 basis points to 55.5 percent. GAAP EPS rose 
+51 percent to $1.12 a share. And we returned $1 billion to 
+shareholders through dividends and stock repurchases.
+The successful execution of our strategies drove a year  
+of progress:
+>   We created new products that bring our world-leading 
+visual computing capabilities to customers through 
+mobile and cloud platforms. Our data center and cloud 
+platform businesses, Tesla and GRID, grew 60 percent. 
+Our mobile platform businesses, including auto,  
+grew 45 percent.
+>   We introduced specialized, software-rich visual  
+computing products for large vertical markets. Our 
+market share for discrete GPUs hit a record 72 percent – 
+not only because our GeForce GPUs are best-in-class, 
+but because GeForce is a “game platform” within the  
+PC, and is loved by gamers all over the world.
+>   We launched SHIELD, our first living-room entertainment 
+device, in March 2015. SHIELD is the most advanced 
+smart TV device on the market, and early reviews have 
+been fantastic. Smart TV consoles are revolutionizing our 
+TV experience, just as smartphones revolutionized mobile 
+communications. Tens of millions of these devices are 
+sold each year, with growth over 50 percent annually.  
+We see this as a very large market where we can make  
+a great, sustainable contribution. 
+>   Our invention engine continues to fire. We introduced  
+Maxwell, our 10th generation GPU architecture and a  
+breakthrough in performance and efficiency. We also 
+launched Tegra X1, our latest mobile superchip, which  
+is at the heart of our DRIVE automotive computers and  
+our SHIELD devices. 
+We faced challenges during the year in commodity phone 
+and PC markets. But our strategy is to engage component 
+opportunities only where OEMs value our differentiation.  
+And to focus our resources on growth markets – gaming, 
+automotive, enterprise, and high performance computing  
+& cloud.
+REVENUE BY MARKET
+GAMING
+36% YoY
+2400
+1800
+1200
+600
+200
+150
+100
+50
+AUTOMOTIVE
+85% YoY
+ENTERPRISE
+4% YoY
+900
+675
+450
+225
+HPC AND CLOUD
+PC AND MOBILE OEMs
+300
+225
+150
+75
+53% YoY
+1600
+1200
+800
+400
+-13%  YoY
+2014
+2015
+2014
+2015
+2014
+2015
+Revenue in Millions
+2014
+2015
+2014
+2015
+2015 ANNUAL REVIEW
+11
+
+--- Page 14 ---
+T
+H
+E
+Y
+E
+A
+R
+I
+N
+R
+E
+V
+I
+E
+W
+MAKING AN IMPACT
+The people of NVIDIA share a passion for community service 
+and a deep sense of corporate responsibility. 
+Our philanthropic giving this year totaled $4.8 million, 
+including more than $2 million toward Stanford University’s 
+investments in medical research, teaching, and a new  
+state-of-the-art hospital.
+We proudly awarded our first annual $150,000 Global Impact 
+Award, recognizing the groundbreaking use of GPUs to 
+address social, humanitarian, and environmental problems. 
+The winner, out of more than two dozen outstanding 
+candidates, was the San Diego Supercomputer Center 
+for its work developing seismic simulations that help us 
+understand conditions that cause earthquakes. 
+Our philanthropic efforts are driven by the NVIDIA 
+Foundation, one of the industry’s few employee-run giving 
+initiatives, which ensures that our energies in this area 
+reflect our employees’ priorities. 
+The Foundation’s flagship program, Compute the Cure, 
+focuses on funding research that uses innovative 
+computing techniques in the fight against cancer.  
+Our $1.6 million invested in Compute the Cure in recent 
+years includes major grants to research teams at the  
+Dana-Farber Cancer Institute and Stanford.
+Project Inspire brings together our people, along with  
+their families and friends, to transform their local 
+communities. It continues to gain momentum, with offices 
+worldwide participating. 
+In Santa Clara, our employees made extensive physical 
+improvements to Fischer Middle School, a school in an 
+underserved part of our community. Our own investment of 
+some $600,000 in labor and materials was joined by nearly 
+$200,000 from other local companies and nonprofits. 
+In Courbevoie, France, we transformed Centre  
+Franchemont School. And in Westford, Massachusetts,  
+our office made over a local Boys and Girls Club. 
+Over the course of the year, employees contributed more  
+than 15,500 volunteer hours. Many chose to support 
+education programs and activities that, in total, benefited 
+more than 67,000 children. 
+All of these efforts reflect the dedication and spirit of our 
+employees, which benefit the less fortunate and brings  
+us closer as a team. 
+THE ROAD AHEAD
+I am delighted by NVIDIA’s transformation this year.  
+We have innovated beyond PCs, and emerged as a growth 
+company which offers products that are having great  
+success in the large mobile and cloud markets. 
+Our innovation is revolutionizing the markets we serve.  
+With our new business model, we can see a clear path  
+to sustain our growth and are excited by the opportunity  
+to build a company many times our current size. Most 
+importantly, we are making important contributions to 
+science, industry, customers, and our community that  
+make me incredibly proud. 
+I want to thank the employees of NVIDIA for their 
+extraordinary achievements this year. All we’ve achieved  
+is only possible with their innovation and dedication. 
+Sincerely,
+Jen-Hsun Huang
+CEO & Co-founder, NVIDIA
+April 2015
+ 
+ 
+ 
+ 

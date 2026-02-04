@@ -1,0 +1,344 @@
+
+--- Page 3 ---
+Dear Fellow StakeholDerS,
+NVIDIa DID ItS BeSt 
+work IN oUr 20-year 
+hIStory.
+  revenue grew 7 percent in fiscal year 2013 to a record 
+$4.28 billion at a time when much of the PC industry 
+contracted. we exceeded our previous peak of $4.10 
+billion five years ago, when $710 million came from 
+chipsets, a business we have exited. 
+  GPU revenue grew for a second straight year, up  
+2 percent overall and up 8 percent excluding chipsets.
+  tegra revenue related to phones and tablets grew  
+50 percent, driven by marquee wins for tegra 3 in the 
+explosive tablet market. Building on this momentum,  
+we introduced tegra 4 near the year’s end and the 
+following month unveiled tegra 4i, our first chip to 
+combine an application processor with an lte modem.
+  Gross margins and cash hit record levels, even as we 
+invested for future growth.
+  we showed off our first fully integrated products.  
+NVIDIa ShIelD, the runaway hit of the 2013 International 
+Consumer electronics Show, is an android-based gaming 
+device that highlights our tegra processor. and NVIDIa 
+GrID, by bringing GPUs to the cloud, will do for graphics-
+rich applications what Netflix does for movies.
+our gross margin increased to 52.0 percent, up 0.6 
+percentage point from the prior year. Diluted earnings 
+declined 4 percent to $0.90 a share, reflecting increased 
+investment to secure future growth. we achieved a record 
+level of cash, at $3.73 billion, and gave back $147 million to 
+our shareholders through share buybacks and a newly 
+launched dividend program. 
+these achievements came against a background that 
+offered plenty of difficulties. Continued hard-disk shortages 
+related to lingering floods in thailand weakened the PC 
+industry. there were supply shortages for 28nm silicon 
+early in the year. and demand in europe stayed soft. 
+  Kepler GPUs (left) have 
+moved across our product 
+line, proving revolutionary 
+for gamers, designers, 
+visual artists, researchers 
+and scientists. Tegra 4 
+(right) is the world’s fastest 
+mobile processor.
+nvidia corporation  
+2013 annual review 
+1
+
+--- Page 4 ---
+a VISUal worlD
+Computer graphics is a unique and powerful medium.  
+It has transformed the PC from a tool for productivity into a 
+platform for creative expression, entertainment, design, 
+even scientific discovery. 
+through computer graphics we can create and enjoy 
+immersive games and imaginative movies. we can design 
+and build super cars…or energy efficient cars…even cars 
+that drive themselves. we can visualize a virus at the 
+atomic level to save lives, and simulate the collision of 
+galaxies to better understand the beginning of life.
+IN a worlD INCreaSINGly FIlleD 
+wIth VISUal DISPlayS, ComPUter 
+GraPhICS eNaBle oUr CUStomerS 
+to INteraCt wIth the VaSt Sea  
+oF DIGItal IDeaS, INFormatIoN aND 
+eNtertaINmeNt. they CaN eNGaGe 
+wIth CoNteNt wIth a FreeDom 
+that No other meDIUm allowS.
+we are seeing the “computerization” of all electronic 
+devices around us. the force that transformed the phone 
+into a smartphone is now sweeping through tVs, cars,  
+and in the near future, watches, glasses, and household 
+appliances. In just a few years, analysts predict, there will 
+be 5 billion hD displays in the world. as the leader in visual 
+computing, we aim to light every pixel on each of those 
+screens through our range of offerings. 
+ProPellinG ComPUTer GraPhiCs from  
+a TeChnoloGy inTo an indUsTry
+our first strategic priority is to extend our technology 
+leadership in visual computing. we are 20 years into this 
+business and have created an innovation engine that has 
+resulted in thousands of patented inventions, technologies, 
+industry relationships and a powerful brand. as the reach 
+of computing grows to smartphones, tablets, and beyond, 
+visual computing is more important than ever. we believe 
+our assets in this field of computing are unmatched. and 
+we are not standing still.
+By remaining focused on visual computing, and by providing 
+the world’s best minds in this field an environment to do 
+their best work, we will continue to invent breakthrough 
+technologies.
+we take our innovations to market in three ways. First, we 
+design and build industry leading GPU and tegra processors. 
+Second, we create fully integrated system products, like 
+ShIelD and GrID, for markets where we can add distinct, 
+unique value. third, we license our technology to partners 
+to integrate into their proprietary products.
+this year we made remarkable strides across these areas.
+  Tegra powers highly 
+innovative tablets like 
+microsoft’s surface rT (left) 
+and the nexus 7 from Google™ 
+(right). it also drives Tesla’s 
+model s’s instrument cluster 
+and infotainment system. 
+(opposite page).
+2
+nvidia corporation  
+2013 annual review 
+
+--- Page 5 ---
+aSCeNt oF teGra
+In just a short time, we’ve become a growing force in 
+mobile computing. tegra 3, the world’s first quad core 
+mobile processor, won its way into some of the year’s  
+most innovative tablets, including the Nexus 7, Google’s 
+first tablet, as well as the Surface rt, microsoft’s first 
+computer. tegra 3 also powered the htC one X super 
+phone, as well as phones from Fujitsu, lG and Zte.  
+the tegraZone mobile game store, the first of its kind, 
+exceeded 6 million downloads. 
+along with these milestones, the tegra family grew  
+richer. the recently launched tegra 4 is the world’s  
+fastest mobile processor, with 72 GPU cores and the  
+only arm Cortex-a15 four-plus-one architecture. with 
+tegra 4, we also introduced the world’s first “always-on 
+hDr” camera—our initial step in bringing the promising 
+field of computational photography to mobile computing.
+we’re thrilled to have just launched tegra 4i, our first 
+mobile processor with an integrated lte modem, based  
+on technology from our mid-2011 acquisition of Icera.  
+By bringing a super phone experience to the mainstream, 
+tegra 4i gives us entry to the lte market, which is 
+projected to reach 150 million units in 2013 and growing  
+at 50 percent annually.
+mobile computing is not just about tablets and smartphones. 
+Powerful mobile processors will increasingly find their way 
+into all kinds of devices, including our cars. all of the major 
+car manufacturers are working on the next big thing in the 
+auto industry—interactive visual displays and systems that 
+enhance our driving experience while improving safety.
+today, NVIDIa technology powers the digital instrument 
+clusters and infotainment systems of more than 20 brands 
+and 100 models, including vehicles from audi, Bmw, 
+lamborghini and Vw, as well as the tesla model S, which 
+won motor trend’s “Car of the year” for 2013.
+nvidia corporation  
+2013 annual review 
+3
+
+--- Page 6 ---
+kePler: a reVolUtIoNary GPU  
+For GamING, SCIeNCe aND DeSIGN
+we rolled out the first kepler-based processors to the 
+company’s first customers, gamers. and they were thrilled. 
+our flagship kepler-based GeForce GPU, the GtX690, was 
+lauded as “a card to cherish” by PC magazine. as we drove 
+kepler throughout the GeForce product lineup—from the 
+$99 segment right through to our top-end $999 card—
+positive reviews poured in. 
+kepler GPUs are proving revolutionary for researchers  
+and scientists. oak ridge National laboratory launched 
+titan with 18,688 kepler-based tesla GPUs, and it took  
+the No. 1 spot on the top500 supercomputer list. this 
+milestone capped a year in which GPU-accelerated 
+computing hit a tipping point, with 50 of the top 500 
+supercomputers powered by NVIDIa GPUs. 
+oUr New kePler GPU 
+arChIteCtUre SolIDIFIeD 
+NVIDIa’S leaDerShIP aCroSS 
+oUr Core marketS.
+we finished the year with overall GPU market share rising 
+to 65 percent from 56 percent the previous year, and 
+notebook share climbing to 63 percent from 48 percent. 
+NVIDIa GPUs are now general purpose processors, thanks 
+to the breakthrough invention of CUDa several years ago. 
+Built around a dense fabric of processors, NVIDIa’s most 
+powerful version of the kepler GPU consists of over 2,000 
+processors working tightly in parallel. Now, NVIDIa GPUs 
+can not only process pixels for computer imagery, they  
+can simulate particles for fluid dynamics and molecules  
+for drug discovery.
+to date, CUDa has been downloaded 1.7 million times,  
+and the latest version, CUDa 5, has been downloaded  
+once a minute, on average, since its launch last year.  
+It is being taught in more than 600 universities. a new 
+initiative to teach parallel programming through online 
+classes from Udacity and Coursera is reaching tens of 
+thousands of students worldwide. and tesla revenue  
+grew 37 percent. the era of GPU-accelerated computing 
+has arrived.
+For professional designers and visual effects artists,  
+we began shipping kepler-based Quadro GPUs at the  
+start of fiscal year 2014. we expect to build on our strong  
+lead in this market, from manufacturing to media and 
+entertainment. For the fourth year running, all of the  
+films nominated for the Best Visual effects oscar were 
+powered by Quadro.
+4
+nvidia corporation  
+2013 annual review 
+
+--- Page 7 ---
+oUr FIrSt INteGrateD ProDUCtS
+while we achieved many great things this year, I am 
+especially proud of the work we did to introduce our  
+first fully integrated system products—ShIelD and GrID. 
+ShIelD is an NVIDIa-developed android gaming device, 
+powered by tegra 4. It lets you enjoy the growing library of 
+games built for android, and also remotely play PC games 
+equipped with GeForce GtX GPUs. we believe ShIelD is 
+the answer for today’s gamers who want to be untethered 
+from any specific device or platform. Simply put, ShIelD 
+lets gamers play the way they want. and it will be a new 
+engine in our thriving tegra ecosystem—inspiring great 
+games to be developed for tegraZone and, in turn, a 
+broader base of tegra-powered devices. 
+Just as ShIelD is a device built around tegra, GrID is a 
+first-of-its-kind visual computing appliance built around 
+the GPU. GrID will allow gamers to play titles stored in the 
+cloud and streamed to any screen, design professionals  
+to utilize graphics-intensive apps via the cloud, and large 
+companies to extend VDI across the enterprise. GrID opens 
+the door to new growth opportunities for GPU server 
+appliances, housed in cloud data centers, that deliver 
+graphically rich software applications. 
+  Geforce GTX 690 (opposite 
+page, top) is meticulously 
+designed, inside and out, 
+while Titan (opposite page, 
+bottom) is now the world’s 
+fastest supercomputer. 
+shield (left) took Ces 2013 
+by storm. Grid (above) 
+streams games and 
+graphics-rich content. 
+nvidia corporation  
+2013 annual review 
+5
+
+--- Page 8 ---
+makING a CoNtrIBUtIoN
+making a contribution is one of our core values. we’re 
+proud that our technology contributes to consumers’ 
+enjoyment, to designers’ ability to produce their best work 
+and to scientists’ ability to make the next breakthrough. 
+we’re just as proud of our commitment to contribute to  
+the communities where we operate. 
+the culture that binds together our 8,000 employees 
+across 42 offices starts with giving. each year, our people 
+band together to transform their local community. I’m 
+inspired by the enthusiasm our people bring to this 
+work—and by the gratification they and their family 
+members who join them get from collaborating on such 
+worthwhile projects.
+we call this program Project Inspire. and this year’s 
+flagship event was the best ever. Fifteen hundred of us in 
+the Santa Clara, California, head office joined together  
+to transform a community farm in nearby San Jose. we 
+constructed buildings, prepared new fields and improved 
+irrigation, enabling the farm to nearly triple its production 
+and serve more local families. NVIDIa offices around the 
+world hosted similar events to give back to local 
+communities in need.
+the NVIDIa Foundation, which conducts much of our 
+philanthropic work, is a rarity in the corporate world. It is 
+run exclusively by our employees who set its priorities and 
+execute its programs. and it does some of our best work.
+among its most exciting projects this year was a $2 million 
+initiative to enable grants and low-interest loans to be 
+made to family businesses getting back on their feet after 
+Japan’s devastating 2011 tsunami. our blog has written 
+about some of their moving stories—how, with our help, 
+Norifumi Sato created a small, bustling mulberry tea 
+factory, and Jun Saichi worked to build a grocery store  
+on wheels to serve hard-struck villages.
+Compute the Cure, a multi-prong effort to combat cancer, 
+is another important NVIDIa Foundation undertaking. we 
+invest in projects to improve the speed at which researchers 
+can leverage genomic data to identify cancers and cures. 
+our people and the Foundation donated more than $300,000 
+to cancer research. we also raised awareness of cancer  
+by participating in movember, which involved nearly half 
+our global offices. and I’m proud to say that we established  
+our own cancer support network for those dealing with  
+the disease. 
+  our 8,000 staff in over 40  
+sites are bound by a common 
+culture that starts with giving. 
+some 1,500 employees, family 
+members and others joined 
+together in Project inspire, in 
+santa Clara, to transform a 
+community farm near our 
+head office.
+6
+nvidia corporation  
+2013 annual review 
+
+--- Page 9 ---
+nvidia corporation  
+2013 annual review 
+7
+
+--- Page 10 ---
+lookING aheaD
+our growth over the past 20 years pursuing a simple 
+vision—bringing computer screens to life with computer 
+graphics—has taken us on an amazing journey. as we’ve 
+progressed, our three-person startup has grown to a staff 
+of 8,000. and our headquarters in Santa Clara, just a few 
+blocks from where we started, is bursting at the seams. 
+So, we’ve decided to put up our own building right across 
+the street, one that will be as distinctive as our company.  
+It will give us the room and inspiration to fulfill our long-
+term vision.
+Its architecture harmonizes smart functionality and a 
+shape that inspires our employees—the triangle, which is 
+the fundamental building block of computer graphics. 
+efficiency is our central concern in its design, and we’ve 
+been very thoughtful about its use of space, energy and  
+its impact on the environment, and, of course, its cost. 
+on one level, the building will inspire and lift us, and  
+help frame our ambition. on another, its vast open floors 
+will facilitate our cross-functional work. the nature of  
+our work requires experts from multiple disciplines to  
+come together, and this building is designed above all  
+for collaboration. 
+our new headquarters fuses together craftsmanship,  
+soul and purpose. and it’s hard to find a better definition 
+than that of NVIDIa.
+Sincerely,
+Jen-hsun huang 
+Co-Founder, President and Chief executive officer
+april 2013
+8
+nvidia corporation  
+2013 annual review 
+ 
+ 
+ 

@@ -1,0 +1,290 @@
+
+--- Page 3 ---
+Letter From Your CEO
+2016 was a year of tremendous transformation for Intel as we took important, and in some 
+cases difficult, steps to accelerate our evolution from a PC company to one that powers the 
+cloud and billions of smart, connected computing devices. We restructured the company  
+while also launching exciting new products, successfully integrating Altera, and investing  
+for growth. Our results provide evidence that our strategy is working and delivering strong 
+returns to our shareholders.
+Intel reported record full-year revenue of $59.4 billion, up 7% from 2015 with the addition of 
+Altera and strength across the business. The Data Center Group achieved record revenue and 
+volume driven by continuing strong demand from cloud service providers, the ramp of new, 
+adjacent products, and big gains in networking. Our Internet of Things Group also achieved 
+record revenue and volume with impressive design wins in video, retail, and automotive. And, despite a decline in 
+the PC market, the Client Computing Group grew revenue and profitability through strong execution, a robust 
+segmentation strategy, a rich mix of Intel® Core™ processors, and volume modem shipments. 
+In 2016, we also reshaped the company in several important ways. We successfully integrated Altera (now Intel’s 
+Programmable Solutions Group), which grew and delivered new products during integration. We announced plans  
+to divest Intel Security and establish it as a separate company in order to increase our focus while participating in 
+the new McAfee’s future success. We also initiated an Intel-wide restructuring program, and made several executive 
+leadership changes that brought some of the most seasoned technology veterans to Intel. All together, these 
+transformative efforts have aligned the company around the greatest opportunities for growth driven by one of  
+the most significant changes I’ve seen in business—data.
+Data is the lifeblood of every industry working to reinvent itself in the modern age. Companies that use data will 
+thrive and grow; companies that don’t will fall behind. This data revolution is a big opportunity for Intel because we 
+provide essential technologies for processing, analyzing, storing, and sharing data. Data fuels our virtuous cycle of 
+growth. It drives the continuing build-out of the cloud and the transformation of networks, and enables amazing 
+new computing experiences like artificial intelligence, autonomous driving, and merged reality. The growth of data 
+and new data-intensive markets adds billions to Intel’s total addressable market.
+While our business undergoes significant changes to capture these growth opportunities, we are not changing  
+Intel’s commitment to operate responsibly and with transparency. We continue our efforts to advance diversity  
+and inclusion, environmental sustainability, supply chain responsibility, and social impact. We also continue our 
+relentless pursuit of Moore’s Law, which remains foundational to our strategy and our technology leadership.
+In 2017, Intel is focused on four priorities: accelerating growth in the data center; keeping the client business healthy 
+and strong; extending our growth in the Internet of Things; and flawlessly executing the launch and ramp of our 
+memory technologies and programmable solutions. We made excellent progress in 2016. Our work continues with  
+a very clear picture of how, as a data company, Intel will drive long-term value for our shareholders.
+Brian M. Krzanich, Chief Executive Officer
+Past performance does not guarantee future results. This Annual Report contains forward-looking statements, and actual results could differ materially. Risk factors that could cause 
+actual results to differ are set forth in the “Risk Factors” section and throughout our 2016 Form 10-K, which is included in this Annual Report. These risk factors are subject to update 
+by our future filings and submissions with the U.S. Securities and Exchange Commission and earnings releases.
+
+--- Page 4 ---
+(This page intentionally left blank)
+
+--- Page 5 ---
+Letter From Your Chairman
+Financial Results
+Evaluating whether Intel’s business is properly managed 
+for long-term value is one of the primary responsibilities  
+of the Board of Directors. In technology companies, 
+long-term value comes from continuing innovation.  
+The cycle of investment, innovation, and value would not 
+be sustainable without profits. Today’s profits finance 
+tomorrow’s innovation.
+Two measures of success are especially important to me  
+as a stockholder and your Chairman. Intel generated cash 
+flow from operations in 2016 of $22 billion and return on stockholders’ equity  
+of 16%. This caps five years in which cash from operations averaged over $20 
+billion and return on stockholders’ equity averaged over 19%. These figures 
+indicate the intrinsic health of the business and the value created over time with 
+stockholders’ money.
+In 2016 the Board continued to work on how best to capture opportunities and 
+enhance returns for the owners. The company has made progress in directing 
+more resources to growing and emerging businesses and fewer to mature, less 
+profitable, or less strategic businesses. Most of the research and development 
+spending goes to technical capabilities and intellectual property used by more 
+than one business group. These shared investments provide a foundation that is 
+an important and productive feature of Intel’s business model.
+In considering how and where to deploy capital, the Board begins with a review 
+of the business and critical needs. The largest portion of Intel’s 2016 capital 
+investment of $9.6 billion was used to build and equip what we expect will be the 
+most advanced wafer fabrication facilities in the world, on the forefront of 
+Moore’s Law. These manufacturing marvels will rely on process technology that 
+allows us to optimize performance, cost, and power consumption across our 
+product line.
+The Board typically looks at acquisitions as a way of adding capabilities more 
+quickly or better than the company could do with internal resources. The Board 
+evaluates projected returns as part of the acquisition decision process. Once the 
+investments have been made, the Board monitors performance. Most of the 
+transactions Intel pursues target specific technologies or expertise. In addition  
+to the acquisition of Altera, Intel completed 11 other acquisitions in 2016 for 
+total consideration, net of cash acquired, of $1.1 billion, consistent with the 
+number of transactions and levels of investment in 2015 and 2014. The Board 
+will occasionally consider large transactions, such as Altera, that offer new and 
+significant opportunities.
+After providing for the needs of the business, the Board considers cash policy 
+and return to stockholders. In 2016, Intel paid $4.9 billion in dividends and 
+repurchased $2.6 billion in stock, for a total return to stockholders of $7.5 billion. 
+Over the last five years, Intel has returned a cumulative total of $54.4 billion to 
+stockholders in dividends and stock repurchases.
+Culture and continuity are important to success. Behind the results of 2016  
+is a strong and resilient culture with talented and dedicated employees. The 
+Board is grateful to employees for their sustained focus and execution in a  
+time of change. 
+Intel’s founders were highly motivated by the knowledge that silicon technology 
+could change the way people live. Today, Intel employees continue to share  
+that pride. Intel approaches its 50th anniversary in 2018 with optimism about 
+the potential for technology and confidence in the business that makes  
+innovation possible.
+Andy D. Bryant, Chairman of the Board
+54.0 53.3 52.7
+59.4
+55.9 55.4
+Net Revenue
+Dollars in billions
+60
+43.6
+38.3
+37.6
+35.1
+50
+40
+30
+20
+10
+07 08 09 10 11 12 13 14 15 16
+Diluted Earnings Per Share
+Dollars
+2.13
+1.89
+2.31
+2.33
+2.12
+2.50
+2.00
+1.50
+1.00
+.50
+2012 2013 2014 2015 2016
+Dividends Per Share Paid
+Dollars
+0.87
+0.90
+0.90
+1.04
+0.96
+1.20
+1.00
+0.80
+0.60
+0.40
+0.20
+2012 2013 2014 2015 2016
+Cash from Operations
+Dollars in billions
+18.9
+20.8
+20.4
+19.0
+21.8
+25
+20
+15
+10
+5
+2012 2013 2014 2015 2016
+
+--- Page 6 ---
+(This page intentionally left blank)
+
+--- Page 7 ---
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K
+(Mark One)
+È ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+For the fiscal year ended December 31, 2016.
+or
+‘ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+For the transition period from
+to
+.
+Commission File Number 000-06217
+INTEL CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+State or other jurisdiction of
+incorporation or organization
+2200 Mission College Boulevard, Santa Clara, California
+(Address of principal executive offices)
+94-1672743
+(I.R.S. Employer
+Identification No.)
+95054-1549
+(Zip Code)
+Registrant’s telephone number, including area code (408) 765-8080
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Name of each exchange on which registered
+Common stock, $0.001 par value
+The NASDAQ Global Select Market*
+Securities registered pursuant to Section 12(g) of the Act:
+None
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes È No ‘
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ‘ No È
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past 90 days. Yes È No ‘
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate website, if any, every interactive data file
+required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for
+such shorter period that the registrant was required to submit and post such files). Yes È No ‘
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (§229.405 of this chapter) is not contained
+herein, and will not be contained, to the best of registrant’s knowledge, in definitive proxy or information statements incorporated by reference in
+Part III of this Form 10-K or any amendment to this Form 10-K. ‘
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting
+company. See the definitions of “large accelerated filer,” “accelerated filer,” and “smaller reporting company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer È Accelerated filer ‘
+Non-accelerated filer ‘
+(Do not check if a smaller reporting company)
+Smaller reporting company ‘
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes ‘ No È
+Aggregate market value of voting and non-voting common equity held by non-affiliates of the registrant as of July 1, 2016, based upon the
+closing price of the common stock as reported by the NASDAQ Global Select Market on such date, was
+$154.8 billion
+4,728 million shares of common stock outstanding as of February 7, 2017
+DOCUMENTS INCORPORATED BY REFERENCE
+Portions of the registrant’s proxy statement related to its 2017 Annual Stockholders’ Meeting to be filed subsequently are incorporated by
+reference into Part III of this Annual Report on Form 10-K. Except as expressly incorporated by reference, the registrant’s proxy statement shall
+not be deemed to be part of this report.
+
+--- Page 8 ---
+(This page intentionally left blank)
+
+--- Page 9 ---
+INTEL CORPORATION
+FORM 10-K
+FOR THE FISCAL YEAR ENDED DECEMBER 31, 2016
+INDEX
+PART I
+Item 1.
+Business . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 1A. Risk Factors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 1B. Unresolved Staff Comments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 2.
+Item 3.
+Item 4.
+Properties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Legal Proceedings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Mine Safety Disclosures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+PART II
+Item 5.
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity
+Securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 6.
+Item 7.
+Selected Financial Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Management’s Discussion and Analysis of Financial Condition and Results of Operations . . . . . . . . . . . . . . . .
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 8.
+Item 9.
+Financial Statements and Supplementary Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure . . . . . . . . . . . . . . .
+Item 9A. Controls and Procedures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 9B. Other Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+PART III
+Item 10. Directors, Executive Officers and Corporate Governance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 11.
+Executive Compensation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters . . . . . . .
+Item 13. Certain Relationships and Related Transactions, and Director Independence . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 14.
+Principal Accounting Fees and Services . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Page
+2
+15
+23
+23
+23
+23
+24
+26
+27
+45
+47
+108
+108
+108
+109
+109
+109
+109
+109
+Item 15.
+Exhibits, Financial Statement Schedules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+110
+PART IV

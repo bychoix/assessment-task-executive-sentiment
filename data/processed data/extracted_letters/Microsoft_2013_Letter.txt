@@ -1,0 +1,593 @@
+
+--- Page 4 ---
+TO OUR SHAREHOLDERS, CUSTOMERS, PARTNERS AND EMPLOYEES:  
+This is a unique letter for me – the last shareholder letter I will write as the CEO of the company I love. We have always 
+believed that technology will unleash human potential and that is why I have come to work every day with a heart full of 
+passion for more than 30 years.  
+Fiscal Year 2013 was a pivotal year for Microsoft in every sense of the word.  
+Last  year  in  my  letter  to  you  I  declared  a  fundamental  shift  in  our  business  to  a  devices  and  services  company.  This 
+transformation impacts how we run the company, how we develop new experiences, and how we take products to market 
+for both consumers and businesses.  
+This past year we took the first big bold steps forward in our transformation and we did it while growing revenue to $77.8 
+billion (up 6 percent). In addition, we returned $12.3 billion (up 15 percent) to shareholders through dividends and stock 
+repurchases. While we were able to grow revenue to a record level, our earnings results reflect investments as well as some 
+of the challenges of undertaking a transformation of this magnitude.  
+With this as backdrop, I’d like to summarize where we are now and where we’re headed, because it helps explain why I’m 
+so enthusiastic about the opportunity ahead.  
+Our strategy: High-value activities enabled by a family of devices and services  
+We are still in the early days of our transformation, yet we made strong progress in the past year launching devices and 
+services  that  people  love  and  businesses  need.  We  brought  Windows  8  to  the  world;  we  brought  consistent  user 
+experiences to PCs, tablets, phones and Xbox; and we made important advancements to Windows Server, Windows Azure, 
+Microsoft Dynamics and Office 365. We are proud of what we accomplished this year and continue to be passionate about 
+delivering better devices and services more quickly.  
+To increase innovation, capability, efficiency and speed we further sharpened our strategy, and in July 2013 we announced 
+we are rallying behind a single strategy as One Microsoft. We declared that Microsoft’s focus going forward will be to create 
+a family of devices and services for individuals and businesses that empower people around the globe at home, at 
+work and on the go, for the activities they value most.  
+Over time, our focus on high-value activities will generate amazing innovation and new areas of growth. What is a high-
+value activity? Think of the experiences people have every day that are most important to them – from communicating with 
+a family member and researching a term paper to having serious fun and expressing ideas. In a business setting, high-
+value activities include experiences such as conducting meetings with colleagues in multiple locations, gaining insight from 
+massive amounts of data and information, and interacting with customers.  
+Microsoft will enable these types of high-value activities with a family of devices – from both Microsoft and our partners – 
+as well as with our services.  
+As we go to market, we will primarily monetize our high-value activities by leading with devices and enterprise services. In 
+this model, our consumer services such as Bing and Skype will differentiate our devices and serve as an on-ramp to our 
+enterprise services while generating some revenue from subscriptions and advertising. Enterprise services continue to be 
+an  area of great  strength, growth  and opportunity as businesses of all sizes  look to Microsoft to  help them move to the 
+cloud, manage a growing number of devices, tap into big data and embrace new social capabilities.  
+ 
+ 
+
+--- Page 5 ---
+Executing and accelerating  
+In the past year we took many bold steps forward in executing on our strategy.  
+First, we are well  underway  in  implementing the  new organization  structure announced  in July. The teams are  working 
+together  in  new  and exciting ways.  The key change we  made is deceptively  simple but profoundly  powerful:  Instead of 
+organizing our teams around individual products, we’ve organized by function, including, for example, engineering, sales, 
+marketing and finance. It ensures we have one strategy and work as one team with one set of shared goals.  
+Second, in September we announced we are purchasing Nokia’s Devices and Services business – including its smartphone 
+and mobile phone businesses; award-winning engineering and design teams; manufacturing and assembly facilities around 
+the world; and teams devoted to operations, sales, marketing and support. This is a signature event in our transformation 
+and will bring together the best mobile device work of Microsoft and Nokia. It will accelerate our growth with Windows Phone 
+while strengthening our overall device ecosystem and our opportunity.  
+Third, in September, we also announced a new segment-reporting framework. We have five new reporting segments tightly 
+aligned with our focus on delivering innovative devices and services for both our enterprise and consumer customers. This 
+framework was designed to give valuable insight into our progress in the key transformations we are undertaking in our 
+businesses to drive long-term growth.  
+As I think about what’s ahead, I’m incredibly optimistic about what Microsoft will deliver. We are accelerating as we bring to 
+market Windows 8.1 PCs and tablets with our partners,  Surface 2, Xbox One and  new phones; advance our enterprise 
+services including Windows Server, Windows Azure, Microsoft Dynamics and Office 365; and innovate on new high-value 
+activities.  
+Moving forward  
+With the decisions we’ve made this year, the strategy we’ve put in place, the organization we’ve designed, the world-class 
+talent we have, and the devices and services we are creating, we are well-positioned to deliver growth and world-changing 
+technology long into the future.  
+We have seen incredible results in the past decade – delivering more than $200 billion in operating profit. I’m optimistic not 
+only as the CEO but as an investor who treasures his Microsoft stock.  
+Working at Microsoft has been a thrilling experience – we’ve changed the world and delivered record-setting success – and 
+I know our best days are still ahead.  
+Thank you for your support.  
+Steven A. Ballmer  
+Chief Executive Officer  
+September 27, 2013  
+ 
+ 
+  
+  
+
+--- Page 6 ---
+SELECTED FINANCIAL DATA, QUARTERLY STOCK PRICE INFORMATION,  
+ISSUER PURCHASES OF EQUITY SECURITIES, DIVIDENDS, AND STOCK PERFORMANCE  
+(In millions, except per share data) 
+Year Ended June 30, 
+Revenue 
+Operating income 
+Net income 
+Diluted earnings per share 
+Cash dividends declared per share 
+Cash, cash equivalents, and short-term 
+investments 
+Total assets 
+Long-term obligations 
+Stockholders’ equity 
+FINANCIAL HIGHLIGHTS  
+2013 
+2012 
+   2011 
+2010 
+$  77,849  
+$  73,723  
+$  69,943    
+$   62,484    
+$  26,764 (a) 
+$  21,763 (b) 
+$  27,161  
+$  24,098  
+$  21,863 (a) 
+$  16,978 (b) 
+$  23,150  
+$  18,760  
+$ 
+$ 
+2.58 (a) 
+0.92  
+$ 
+$ 
+2.00 (b) 
+0.80  
+$ 
+$ 
+2.69  
+0.64  
+$ 
+$ 
+2.10  
+0.52  
+$  77,022  
+$  63,040  
+$  52,772  
+$  36,788  
+      $  142,431  
+$  121,271  
+$   108,704  
+$  86,113  
+$  26,070  
+$  22,220  
+$  22,847  
+$  13,791  
+$  78,944  
+$  66,363  
+$  57,083  
+$  46,175  
+1.6
+2009 
+$    58,43
+7 
+$  20,36
+3 
+$  14,56
+9 
+$ 
+2 
+$ 
+2 
+$  31,44
+7 
+$  77,88
+8 
+$  11,29
+6 
+$  39,55
+8 
+0.5
+(a) 
+(b) 
+Includes a charge related to a fine imposed by the European Commission in March 2013 which decreased operating 
+income and net income by $733 million (€561 million) and diluted earnings per share by $0.09. Also includes a charge 
+for Surface RT inventory adjustments recorded in the fourth quarter of fiscal year 2013, which decreased operating 
+income by $900 million, net income by $596 million, and diluted earnings per share by $0.07.  
+Includes a goodwill impairment charge related to our Online Services Division business segment which decreased 
+operating income and net income by $6.2 billion and diluted earnings per share by $0.73.  
+QUARTERLY STOCK PRICE  
+Our common stock is traded on the NASDAQ Stock Market under the symbol MSFT. On July 18, 2013, there were 119,862 
+registered holders of record of our common stock. The high and low common stock sales prices per share were as follows:  
+Fiscal Year 
+September 30 
+Quarter Ended 
+Fiscal Year 2013 
+High 
+Low 
+Fiscal Year 2012 
+High 
+Low 
+$    30.25  
+$  26.26  
+$  27.50  
+$  24.26  
+$    31.61  
+$  28.54  
+$  28.15  
+$  23.79  
+$   35.78  
+$  28.11  
+$   28.66  
+$  26.28  
+$  32.89  
+$  28.32  
+$  32.95  
+$  26.39  
+$   35.78 
+$  26.26 
+$  32.95 
+$  23.79 
+December 31 
+March 31 
+June 30 
+Share Repurchases  
+SHARE REPURCHASES AND DIVIDENDS  
+On September 22, 2008, we announced that our Board of Directors approved a share repurchase program authorizing up 
+to $40.0 billion in share repurchases with an expiration date of September 30, 2013. As of June 30, 2013, approximately 
+$3.6 billion of the approved repurchase amount remained. The repurchase program may be suspended or discontinued at 
+any time without prior notice.  
+We repurchased the following shares of common stock under the above-described repurchase plan using cash resources:  
+(In millions) 
+Year Ended June 30, 
+Shares 
+Amount 
+2013 
+Shares 
+Amount 
+2012 
+Shares 
+Amount 
+2011 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- Page 7 ---
+(In millions) 
+First quarter 
+Second quarter 
+Third quarter 
+Fourth quarter 
+Total 
+Shares 
+  33  
+  58  
+  36  
+  31  
+Amount 
+$  1,000  
+  1,607  
+  1,000  
+  1,000  
+Shares 
+  38  
+  39  
+  31  
+  34  
+Amount 
+$  1,000  
+  1,000  
+  1,000  
+  1,000  
+Shares 
+ 163  
+ 188  
+  30  
+  66  
+158  
+$   4,607  
+ 142  
+$   4,000  
+ 447  
+Amount 
+$  4,000 
+5,000 
+827 
+1,631 
+$   11,458
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+--- Page 8 ---
+Dividends  
+In fiscal year 2013, our Board of Directors declared the following dividends:  
+Declaration Date 
+September 18, 2012 
+November 28, 2012 
+March 11, 2013 
+June 12, 2013 
+Dividend 
+Per Share 
+Record Date 
+$ 0.23     November 15, 2012   
+February 21, 2013  
+$  0.23    
+May 16, 2013  
+$  0.23    
+August 15, 2013  
+$  0.23    
+Payment Date 
+Total Amount 
+(In millions) 
+$   1,933     December 13,  2012 
+March 14, 2013 
+$  1,925    
+$  1,921    
+June 13, 2013 
+$  1,916     September 12,  2013 
+The dividend declared on June 12, 2013 will be paid after the filing of our Form 10-K and was included in other current 
+liabilities as of June 30, 2013.  
+In fiscal year 2012, our Board of Directors declared the following dividends:  
+Declaration Date 
+September 20, 2011 
+December 14, 2011 
+March 13, 2012 
+June 13, 2012 
+Dividend 
+Per Share 
+Record Date 
+Total Amount 
+(In millions) 
+Payment Date 
+$  0.20    
+$  0.20    
+$  0.20    
+$  0.20    
+  November 17, 2011   
+February 16, 2012  
+May 17, 2012  
+August 16, 2012  
+$   1,683          December 8,  2011 
+March 8, 2012 
+$  1,683    
+$  1,678    
+June 14, 2012 
+$  1,676     September 13, 2012 
+The dividend declared on June 13, 2012 was included in other current liabilities as of June 30, 2012.  
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+   
+
+--- Page 9 ---
+STOCK PERFORMANCE 
+COMPARISON OF 5 YEAR CUMULATIVE TOTAL RETURN*  
+Among Microsoft Corporation, the S&P 500 Index,  
+and the NASDAQ Computer Index  
+Microsoft Corporation 
+S&P 500 
+NASDAQ Computer 
+6/08  
+100.00  
+100.00  
+100.00  
+6/09  
+88.52  
+73.79  
+84.52  
+6/10  
+87.33  
+84.43  
+99.07  
+6/11  
+101.05  
+110.35  
+133.08  
+6/12  
+122.14  
+116.36  
+151.51  
+6/13  
+142.14  
+140.32  
+158.50  
+*  $100 invested on 6/30/08 in stock or index, including reinvestment of dividends  
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+
+--- Page 10 ---
+Note About Forward-Looking Statements 
+Certain  statements  in  this  report,  other  than  purely  historical  information,  including  estimates,  projections,  statements 
+relating  to  our  business  plans,  objectives,  and  expected  operating  results,  and  the  assumptions  upon  which  those 
+statements are based, are “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act 
+of 1995, Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Forward-looking 
+statements  may  appear  throughout  this  report,  including  without  limitation,  the  following  sections:  “Business,” 
+“Management’s Discussion and Analysis,” and “Risk Factors.” These forward-looking statements generally are identified by 
+the  words  “believe,”  “project,”  “expect,”  “anticipate,”  “estimate,”  “intend,”  “strategy,”  “future,”  “opportunity,”  “plan,”  “may,” 
+“should,” “will,” “would,” “will be,” “will continue,” “will likely result,” and similar expressions. Forward-looking statements are 
+based on current expectations and assumptions that are subject to risks and uncertainties which may cause actual results 
+to differ materially from the forward-looking statements. A detailed discussion of risks and uncertainties that could cause 
+actual results and events to differ materially from such forward-looking  statements  is  included  in the  section titled “Risk 
+Factors” in our fiscal year 2013 Form 10-K. We undertake no obligation to update or revise publicly any forward-looking 
+statements, whether because of new information, future events, or otherwise.  
+BUSINESS DESCRIPTION  
+GENERAL  
+Microsoft was founded in 1975. Our mission is to enable people and businesses throughout the world to realize their full 
+potential  by creating  technology that transforms the way people work,  play, and communicate. We develop and  market 
+software,  services,  and  hardware  devices  that  deliver  new  opportunities,  greater  convenience,  and  enhanced  value  to 
+people’s lives. We do business worldwide and have offices in more than 100 countries.  
+We generate revenue by developing, licensing, and supporting a wide range of software products and services, by designing 
+and selling hardware devices, and by delivering relevant online advertising to a global customer audience. In addition to 
+selling individual products and services, we offer suites of products and services.  
+Our  products  include  operating  systems  for  computing  devices,  servers,  phones,  and  other  intelligent  devices;  server 
+applications for distributed computing environments; productivity applications; business solution applications; desktop and 
+server  management  tools;  software  development  tools;  video  games;  and  online  advertising.  We  also  design  and  sell 
+hardware devices including Surface RT and Surface Pro, the Xbox 360 gaming and entertainment console, Kinect for Xbox 
+360, Xbox 360 accessories, and Microsoft PC accessories.  
+We offer cloud-based  solutions that provide customers  with  software,  services, and content over the  Internet by way  of 
+shared computing  resources  located  in centralized data  centers. Examples of cloud-based computing  services we offer 
+include Microsoft Office 365, Microsoft Dynamics CRM  Online, Windows Azure, Bing, Skype, Xbox LIVE, and  Yammer. 
+Cloud revenue is earned primarily from usage fees, advertising, and subscriptions. We also provide consulting and product 
+and solution support services, and we train and certify computer system integrators and developers.  
+We conduct research and develop advanced technologies for future software, hardware, and services. We believe that we 
+will continue to grow and meet our customers’  needs by delivering a family of devices and  services for individuals and 
+businesses that empower people around the globe at home, at work, and on the go, for the activities they value most. We 
+will continue to create new opportunities for partners, increase customer satisfaction, and improve our service excellence, 
+business efficacy, and internal processes.  
+During the periods presented, we operated our business  in five  segments:  Windows Division, Server and  Tools, Online 
+Services Division, Microsoft Business Division, and Entertainment and Devices Division. Our segments  
+OPERATING SEGMENTS  
+ 
+ 

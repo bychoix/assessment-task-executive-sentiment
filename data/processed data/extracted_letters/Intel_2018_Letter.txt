@@ -1,0 +1,263 @@
+
+--- Page 5 ---
+LETTER FROM YOUR CEO
+“Our ambitions have never been
+greater, but with an expanded
+market comes new competition.”
+We find ourselves today at a significant moment in the history of the technology industry, and of
+Intel. We enter our second half-century as the world is reordering in ways that promise to make
+our company even more central to its future.
+The fact that this year also marks my first as CEO leading this extraordinary team—and this
+annual report my first to you, our owners—brings all of this home to me in a highly personal
+way. The opportunities and the responsibilities are, frankly, both humbling and energizing as I
+meet Intel employees, partners and customers around the world.
+When Intel was created in 1968, the world was witnessing an explosion of hardware capability.
+Propelled by Gordon Moore’s famous law, Intel, its partners and its customers transformed
+business and society by providing a run of innovation that rivaled the Industrial Revolution. At
+various points along the way, some believed that semiconductors had become commodities.
+Always, technology, together with software innovation, created new possibilities and
+opportunity that dwarfed everything that had come before it.
+Today, computing is distributed into all things, now capable of entirely new and more powerful
+kinds of work—most notably, machine learning, deep learning and other forms of artificial
+intelligence (AI). We find ourselves again, not at an end, but at a beginning. The data-centric era
+is bringing volumes and varieties of information that make entirely new demands on our
+technology. A diversity of innovation will be required to make the leaps forward in performance,
+efficiency, latency, security and form factors that create value for our customers across the
+spectrum of new workloads.
+In response, your company has been on a journey of transformation. One principally fueled by
+opportunity. This is visible in our financial performance. Exceeding the goals we set in January,
+we achieved record revenue in 2018, up 13 percent due to strong demand in both our data-
+centric and PC-centric businesses. We grew operating income faster than revenue, and earnings
+per share even faster. Improvements in operational efficiency contributed to these strong
+results, while we also invested a record $28.7 billion in R&D and capital spending to strengthen
+our competitive position.
+We continued improving the performance and capabilities of our industry-leading CPUs while expanding our efforts to win in growth areas like AI,
+autonomous driving and 5G. We are developing new, purpose-built processors and technologies enabling new classes of products for our
+customers. We can do this because Intel is uniquely able to invest billions of dollars across six pillars of innovation that will drive computing
+forward: process and packaging technology, architectures, memory, interconnects, security technologies, and software. At the same time, we are
+researching completely new approaches to computing like neuromorphic, probabilistic and quantum that could unlock even greater opportunities.
+Today, Intel is not only the CPU leader in PC and server segments, but we are positioned to compete and hungry to win in a market for silicon that
+has expanded to more than $300 billion1—the largest in our company’s history.
+Finally, because our work is inherently linked to the growth not only of business but of society, innovation and economic impact must be
+accompanied by continued extension of our role as a global citizen and leader. The many dimensions of this are described in our Corporate
+Responsibility Report at www.intel.com/responsibility. I am especially proud of the outstanding diversity and inclusion accomplishment in which
+Intel reached full representation2 of women and underrepresented minorities in our U.S. workforce and gender pay equity across our global
+workforce. Also, to celebrate our 50th anniversary, Intel employees contributed 1.5 million volunteer hours around the world.
+The path ahead, while enormously promising, remains challenging. As Andy Grove reminded us, it helps to be paranoid, and we take nothing for
+granted in driving our transformation forward.
+Our ambitions have never been greater, but with an expanded market comes new competition. In particular, we have missed important milestones
+in process technology, which weighed on our customers and created opportunity for our competitors. To win, we must execute with excellence
+and at the same time approach every day with a growth mindset and a customer obsession. We must deeply internalize the essential role we play
+in our customers’ businesses and relentlessly anticipate their need for the scalable and highly-relevant innovation that only Intel can offer. Our
+data-centric strategy will continuously evolve, and we rigorously evaluate opportunities to accelerate our transformation, while optimizing return
+on our investments.
+Our ace in the hole is our culture, and our ability to evolve it. This company is unbelievable in its ability to solve problems. Challenges can tear
+teams apart—or bring them together. Our leadership team and our employees responded to the challenges and opportunities of 2018 by coming
+together to engineer solutions, improve our execution and increase our output. I am confident that they will do so in 2019 and beyond.
+That’s why I am so proud, humbled and grateful to find myself writing to you for the first time as the current steward of this special company to
+thank you for your continued support and trust. I truly believe our second half-century promises to be even more remarkable than our first.
+Bob Swan, Chief Executive Officer
+1 Source: Intel calculated 2022 TAM derived from industry analyst reports.
+2 Full representation means that Intel’s workforce now reflects the percent of women and underrepresented minorities available in the U.S. skilled labor market.
+Past performance does not guarantee future results. This Annual Report contains forward-looking statements, and actual results could differ materially. Risk factors that could cause actual results
+to differ are set forth in the “Risk Factors” section and throughout our 2018 Form 10-K, which is included in this Annual Report. These risk factors are subject to update by our future filings and
+submissions with the U.S. Securities and Exchange Commission and earnings releases.
+
+--- Page 6 ---
+LETTER FROM YOUR CHAIRMAN
+“We enter our second half century with
+strong business momentum, big
+challenges, and enormous
+opportunities.”
+Intel’s 50th year was the most profitable in its history. The company enters its sixth decade with
+strong momentum, dynamic markets, and enormous opportunities.
+In 2018 Intel’s return on equity was 29.3%, the highest since the year 2000. The operations
+generated $29.4 billion in cash, an Intel record. For the past five years, Intel’s return on equity
+averaged approximately 20% and the operations generated a total of $112.8 billion in cash.
+These results reflect a thoughtful and disciplined approach to our business. As part of its
+oversight, Intel’s Board of Directors provides independent guidance on strategy and initiatives.
+With financial capital, the discussion begins with a review of current and future business,
+focusing on critical needs and areas of highest potential returns. Intel is expanding to capture
+opportunity that includes the data center, artificial intelligence, and autonomous driving, and
+our capital allocation is designed to accelerate progress. Intel’s capital spending in 2018 was
+$15.2 billion. The largest portion of this was invested in equipment and facilities to advance
+and expand Intel’s manufacturing capabilities. We expect these investments to enable the
+company to meet customer demand for improved products and to generate high returns for
+stockholders.
+After reviewing the needs of the business, the Board considers ways to return cash to
+stockholders, through dividends and stock repurchases. During 2018, Intel paid $5.5 billion in
+dividends and increased Intel’s dividend per share by 10% from 2017. The company also
+repurchased $10.7 billion in shares, an increase from 2017. Since 2013, we have reduced the
+level of diluted shares outstanding by 7.8%. Since 1992, when Intel initiated dividend
+payments, Intel has returned a cumulative $180.1 billion to stockholders in repurchases and
+dividends.
+How does a company like Intel continue to deliver value, decade after decade, in a dynamic
+industry? Intel’s success has always depended foremost on its employees and a culture that
+delivers outstanding innovation and technology. The business must welcome diverse
+perspectives, adapt, and change, but its values must endure. Intel’s founders
+fostered a culture of excellence that values innovation, integrity, and optimism. As we evolve our culture to pursue new opportunities these remain
+guiding principles. Talented people with diverse traits and backgrounds, united by shared values and robust processes, help to support the
+exchange and development of ideas necessary for vitality and relevance. Corporate responsibility and governance provide a strong foundation for
+business success.
+With this in mind, the Board gives careful consideration to investments in people, so that the company has the resources to attract, develop, and
+retain talent and make Intel a compelling place to work. The Board conducts an annual, comprehensive review to ensure that compensation
+practices for employees at all levels are aligned with our strategy to pay competitively, retain talent, and build stockholder value. We are
+committed to equal pay for equal work and experience, on a global basis, regardless of gender or ethnicity. Training and development at Intel is a
+continuous journey, with programs available for people at all stages of their careers—from new employees to the most senior leaders.
+It is important not only to do the right thing but also to make it possible for people to know we do the right thing. Transparency, engagement, and
+accountability are critical elements of the Board’s stewardship. Intel’s Annual Report to stockholders, for the second consecutive year, is presented
+in a format that goes beyond the legal requirements to provide information about our business in a clear and effective manner. We supplement
+these disclosures with additional reports and presentations on topics such as our business strategy, sustainability initiatives, and
+accomplishments. Intel has an active year-round engagement program with stockholders and other stakeholders. The Board and its committees
+receive regular reports on comments and perspectives provided through these activities.
+Intel’s Board has been a leader in adopting corporate governance practices that reinforce accountability. In the past three years, we refreshed the
+Board membership with five new independent directors. We were one of the first public companies to adopt majority voting in the election of
+directors and, more recently, adopt proxy access, providing stockholders who have held at least 3% of our stock for at least three years the ability
+to include director nominees in our proxy statement. This year we have lowered the share ownership threshold for calling special meetings of
+stockholders to 15%.
+The Board invested the largest portion of its time in 2018 in vigorous discussions about culture, leadership and sustainable value, as we
+conducted a search for Intel’s seventh CEO. In 2019, we elected Bob Swan, who previously served as interim CEO and Chief Financial Officer.
+We are fortunate to have a leader of Bob’s caliber as CEO. Please join us in welcoming Bob to the role and looking ahead with optimism as Intel
+continues to embrace change and define its future.
+Andy D. Bryant, Chairman of the Board
+
+--- Page 7 ---
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K
+(Mark One)
+Í ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended December 29, 2018.
+or
+‘ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from
+to
+.
+Commission File Number 000-06217
+INTEL CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+State or other jurisdiction of
+incorporation or organization
+2200 Mission College Boulevard, Santa Clara, California
+(Address of principal executive offices)
+94-1672743
+(I.R.S. Employer
+Identification No.)
+95054-1549
+(Zip Code)
+Registrant’s telephone number, including area code (408) 765-8080
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Common stock, $0.001 par value
+Name of each exchange on which registered
+The Nasdaq Global Select Market*
+Securities registered pursuant to Section 12(g) of the Act:
+None
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes Í No ‘
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ‘ No Í
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days. Yes Í No ‘
+Indicate by check mark whether the registrant has submitted electronically every interactive data file required to be submitted pursuant to Rule 405
+of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit
+such files). Yes Í No ‘
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (§229.405 of this chapter) is not contained herein,
+and will not be contained, to the best of registrant’s knowledge, in definitive proxy or information statements incorporated by reference in Part III of
+this Form 10-K or any amendment to this Form 10-K. ‘
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company,
+or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging
+growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer Í
+Accelerated filer ‘
+Non-accelerated filer ‘
+Smaller reporting company ‘
+Emerging growth company ‘
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with
+any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ‘
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes ‘ No Í
+Aggregate market value of voting and non-voting common equity held by non-affiliates of the registrant as of June 29, 2018, based upon the
+closing price of the common stock as reported by the Nasdaq Global Select Market on such date, was $229.2 billion. 4,497 million shares of
+common stock were outstanding as of January 26, 2019.
+Portions of the registrant’s proxy statement related to its 2019 Annual Stockholders’ Meeting to be filed subsequently are incorporated by
+reference into Part III of this Annual Report on Form 10-K. Except as expressly incorporated by reference, the registrant’s proxy statement shall not
+be deemed to be part of this report.
+DOCUMENTS INCORPORATED BY REFERENCE
+
+--- Page 8 ---
+TABLE OF CONTENTS
+ORGANIZATION OF OUR ANNUAL REPORT ON FORM 10-K
+The order and presentation of content in our Annual Report on Form 10-K (Form 10-K) differs from the traditional U.S. Securities
+and Exchange Commission (SEC) Form 10-K format. We believe that our format improves readability and better presents how we
+organize and manage our business. See “Form 10-K Cross-Reference Index” within the Financial Statements and Supplemental
+Details for a cross-reference index to the traditional SEC Form 10-K format.
+The preparation of consolidated financial statements is in conformity with U.S. generally accepted accounting principles (GAAP).
+We have included key metrics that we use to measure our business, some of which are non-GAAP measures. See these
+“Non-GAAP Financial Measures” within Other Key Information.
+FUNDAMENTALS OF OUR BUSINESS
+Introduction to Our Business
+A Year in Review
+Our Strategy
+How We Organize Our Business
+Our Products
+Our Capital
+Who Manages Our Business
+MANAGEMENT’S DISCUSSION AND ANALYSIS (MD&A)
+Overview
+Revenue, Gross Margin, and Operating Expenses
+Segment Trends and Results
+Other Consolidated Results of Operations
+Liquidity and Capital Resources
+Contractual Obligations
+Quantitative and Qualitative Disclosures about Market Risk
+OTHER KEY INFORMATION
+Selected Financial Data
+Sales and Marketing
+Competition
+Intellectual Property Rights and Licensing
+Critical Accounting Estimates
+Risk Factors
+Non-GAAP Financial Measures
+Properties
+Market for Our Common Stock
+Availability of Company Information
+FINANCIAL STATEMENTS AND SUPPLEMENTAL DETAILS
+Auditor’s Reports
+Consolidated Financial Statements
+Notes to the Consolidated Financial Statements
+Financial Information by Quarter
+Controls and Procedures
+Exhibits and Financial Statement Schedules
+Form 10-K Cross-Reference Index
+PAGE
+3
+4
+6
+8
+9
+10
+18
+19
+20
+23
+38
+39
+42
+43
+45
+46
+47
+48
+49
+49
+58
+60
+60
+61
+63
+65
+70
+109
+110
+111
+116

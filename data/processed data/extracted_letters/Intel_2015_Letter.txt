@@ -1,0 +1,303 @@
+
+--- Page 3 ---
+Letter From Your CEO
+Intel is evolving from a PC company to one that powers the infrastructure for an increasingly smart and 
+connected world. While 2015 started with challenges in PC market demand as well as macroeconomic 
+and currency conditions, we finished the year strong. Our financials demonstrate a strategy that’s working 
+and provide a solid foundation for growth.
+Intel reported full-year revenue of $55.4 billion, which was nearly flat versus 2014. Record revenue in  
+the data center, Internet of Things, and memory businesses mostly offset the decline in PC demand. 
+These businesses made up 40% of our revenue and delivered $2.2 billion in profitable revenue growth. 
+This was the first year that these growth areas made up the majority of our operating profit. We also 
+sharpened the focus of our Intel Security Group and exceeded our previously stated goal of improving 
+mobile profitability by $800 million.
+Intel’s business model is evolving
+While the client computing business will continue to be a valuable source of cash flow and intellectual property (IP), our 
+business model is evolving. The data center and Internet of Things businesses are the primary growth engines for Intel,  
+and memory and field-programmable gate arrays (FPGAs) can accelerate these opportunities—forming and fueling a  
+virtuous cycle of growth. 
+The ability to integrate and reuse IP across a broad portfolio of products also differentiates our strategy and allows us to 
+evolve in new ways. We reuse IP from our client computing business, for example. We also plan to reuse the IP we gained  
+with our acquisition of Altera to deliver a new class of integrated microprocessor and FPGA products for our data center  
+and Internet of Things customers. 
+Expanding the boundaries of technology
+Intel’s relentless pursuit of Moore’s Law is foundational to our strategy and another valuable differentiator. Our manufacturing 
+leadership allows us to continuously push the limits of performance and functionality. As a result, we expand the boundaries  
+of technology to make the most amazing experiences possible. I’m proud that in addition to delivering solid financials that 
+demonstrate our evolution, we delivered innovation. We launched our best processor ever—the 14-nanometer 6th generation 
+Intel® Core™ processor—and a new, low-power Intel® Curie™ processor for wearables and other Internet of Things devices. We  
+also announced 3D XPoint™ technology, a revolutionary new class of memory, and kicked off an ambitious cloud computing 
+initiative that is accelerating public, private, and hybrid cloud adoption. 
+Setting challenging goals to evolve how we do business
+At Intel, we also tackle significant societal challenges, setting transparent and ambitious goals to address corporate 
+responsibility issues. In 2015, we launched our Diversity and Inclusion initiative, setting a bold hiring and retention goal  
+to achieve full1 representation of women and underrepresented minorities in Intel’s U.S. workforce by 2020. I’m also  
+incredibly proud that a thorough compensation analysis showed we’re at 100% gender pay parity for U.S. employees  
+across job types and levels.2 In addition, we continued our efforts to establish a conflict-free3 supply chain for Intel products. 
+Maintaining accountability in the supply chain will be an ongoing process for Intel.
+A strong foundation for growth
+In 2015, we delivered results that showed our strategy is working. As we move forward, we will continue to focus on flawless 
+execution and making amazing experiences possible. We’ll also broaden our data center and Internet of Things product 
+portfolios with the Altera acquisition. In summary, we’ll continue pivoting to power the infrastructure for the smart and 
+connected world as we diversify beyond our PC business. We’ve built a strong foundation for long-term growth for the 
+company, but there’s more work to do to continue Intel’s evolution.
+Brian M. Krzanich, Chief Executive Officer
+Past performance does not guarantee future results. This Annual Report contains forward-looking statements, and actual results could differ materially. Risk factors that could cause 
+actual results to differ are set forth in the “Risk Factors” section and throughout our 2015 Form 10-K, which is included in this Annual Report. These risk factors are subject to update 
+by our future filings and submissions with the U.S. Securities and Exchange Commission and earnings releases.
+1  Full representation (or full workforce representation) is the point at which Intel’s workforce in the U.S. matches the supply of skilled talent available (market availability) for current 
+roles at Intel.
+2 Parity is the quality or state of being equal or equivalent. Data does not include subsidiaries.
+3  “Conflict free” as used here refers to supply chains whose sources of conflict minerals (tantalum, tin, tungsten and/or gold) do not, based on our due diligence, finance or benefit 
+armed groups in the Democratic Republic of the Congo or adjoining countries. Additional information about Intel’s conflict-free efforts is available at conflictfree.intel.com. 
+
+--- Page 4 ---
+(This page intentionally left blank)
+
+--- Page 5 ---
+Letter From Your Chairman
+Financial Results
+Intel is a technology company. We invent things. Our 
+obligation to you, the owners, is to take those inventions 
+and create business value to earn a return on our efforts.
+Many of the Board’s strategic conversations in 2015 
+focused on how best to allocate resources for stockholder 
+value. The company is investing more in growing and 
+emerging businesses in the data center, Internet of Things, 
+and memory. And it is spending less in mature, less 
+profitable, or less strategic businesses.
+In the data center, we have strengthened the core CPU franchise and also 
+expanded it with investments in new capabilities, such as fabrics, silicon  
+photonics, and customization. The data center is Intel’s most significant  
+opportunity for potential growth.
+The Internet of Things segment is achieving high growth rates as it builds on its 
+traditional embedded processor business and finds new opportunities in the 
+cloud with solutions and technologies from across the company. This also adds 
+value to other businesses at Intel. 
+The memory segment continues to innovate and achieve high and profitable 
+growth with NAND technology and solid-state drive (SSD) solutions. The 
+introduction of 3D NAND and 3D XPoint technologies has the potential to help 
+us deliver better solutions to customers in the data center and other businesses 
+in the company.
+The PC business continues to be a vital source of technology, production volume, 
+and profits. We are maximizing the return in a difficult environment. Continuing 
+product innovation and segmentation have helped protect pricing even as unit 
+volume declines. Many of the strategic investments that have made this possible 
+are also key to building other businesses at Intel. 
+The foundation for all of this is silicon technology. Moore’s Law has defined our 
+past and will shape our business and company for years to come.
+The Board made a large allocation of capital in 2015 to fund the acquisition of 
+Altera, which closed in 2016. We expect Altera to augment efforts in the data 
+center and Internet of Things. We have also increased capital commitments to 
+new memory technologies that are enabling important opportunities for the 
+non-volatile SSD and data center businesses. And we continue to invest in 
+leading-edge manufacturing capabilities. 
+As part of its regular review of cash policy, the Board approved an eight-cent 
+increase in the cash dividend to $1.04 on an annual basis, beginning in the first 
+quarter of 2016. Intel repurchased $3.0 billion worth of Intel stock in 2015. The 
+total cash returned to stockholders through dividends and repurchases in 2015 
+was $7.6 billion.
+One of the highlights of the last year for me personally was the public dialogue 
+around the 50th anniversary of Moore’s Law. It was encouraging to see the 
+interest it generated, with thousands of stories reaching millions of people in  
+39 countries.  
+People often think that Moore’s Law is all about technology. In fact, Gordon’s 
+original paper was about economics. As with each of our founders, Gordon made 
+the successful transition from scientist to businessman. He understood the 
+obligation to owners and the need to connect innovation to business.  
+That tradition is very much alive today at Intel. The mandates to innovate and to 
+create business value remain important aspects of Intel culture. So does the 
+emphasis on execution and results.
+This is a time of significant change. There is more work to do, and we expect to 
+report continuing progress. 
+Net Revenue
+Dollars in billions
+54.0 53.3 52.7
+55.9 55.4
+43.6
+38.3 37.6
+35.4
+35.1
+60
+50
+40
+30
+20
+10
+06 07 08 09 10 11 12 13 14 15
+Diluted Earnings Per Share
+Dollars
+2.39
+2.31
+2.33
+2.13
+1.89
+2.50
+2.00
+1.50
+1.00
+.50
+2011 2012 2013 2014 2015
+Dividends Per Share Paid
+Dollars
+0.87
+0.90
+0.90
+0.96
+1.00
+0.80
+0.78
+0.60
+0.40
+0.20
+2011 2012 2013 2014 2015
+Cash from Operations
+Dollars in billions
+21.0
+18.9
+20.8
+20.4
+19.0
+25
+20
+15
+10
+5
+Andy D. Bryant, Chairman of the Board
+2011
+2012 2013
+2014
+2015
+
+--- Page 6 ---
+(This page intentionally left blank)
+
+--- Page 7 ---
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K
+(Mark One)
+È ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+For the fiscal year ended December 26, 2015.
+or
+‘ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+For the transition period from
+to
+.
+Commission File Number 000-06217
+INTEL CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+State or other jurisdiction of
+incorporation or organization
+2200 Mission College Boulevard, Santa Clara, California
+(Address of principal executive offices)
+94-1672743
+(I.R.S. Employer
+Identification No.)
+95054-1549
+(Zip Code)
+Registrant’s telephone number, including area code (408) 765-8080
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Name of each exchange on which registered
+Common stock, $0.001 par value
+The NASDAQ Global Select Market*
+Securities registered pursuant to Section 12(g) of the Act:
+None
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes È No ‘
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ‘ No È
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past 90 days. Yes È No ‘
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate website, if any, every interactive data file
+required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for
+such shorter period that the registrant was required to submit and post such files). Yes È No ‘
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (§229.405 of this chapter) is not contained
+herein, and will not be contained, to the best of registrant’s knowledge, in definitive proxy or information statements incorporated by reference in
+Part III of this Form 10-K or any amendment to this Form 10-K. ‘
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting
+company. See the definitions of “large accelerated filer,” “accelerated filer,” and “smaller reporting company” in Rule 12b-2 of the Exchange Act.
+Smaller reporting company ‘
+Large accelerated filer È Accelerated filer ‘
+Non-accelerated filer ‘
+(Do not check if a smaller reporting company)
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes ‘ No È
+Aggregate market value of voting and non-voting common equity held by non-affiliates of the registrant as of June 26, 2015, based upon the
+closing price of the common stock as reported by The NASDAQ Global Select Market on such date, was
+$147.3 billion
+4,724 million shares of common stock outstanding as of February 5, 2016
+DOCUMENTS INCORPORATED BY REFERENCE
+Portions of the registrant’s proxy statement related to its 2016 Annual Stockholders’ Meeting to be filed subsequently are incorporated by
+reference into Part III of this Annual Report on Form 10-K. Except as expressly incorporated by reference, the registrant’s proxy statement shall
+not be deemed to be part of this report.
+
+--- Page 8 ---
+(This page intentionally left blank)
+
+--- Page 9 ---
+INTEL CORPORATION
+FORM 10-K
+FOR THE FISCAL YEAR ENDED DECEMBER 26, 2015
+INDEX
+PART I
+Item 1.
+Business . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 1A. Risk Factors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 1B. Unresolved Staff Comments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 2.
+Item 3.
+Item 4.
+Properties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Legal Proceedings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Mine Safety Disclosures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+PART II
+Item 5.
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity
+Securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 6.
+Item 7.
+Selected Financial Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Management’s Discussion and Analysis of Financial Condition and Results of Operations . . . . . . . . . . . . . . . .
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 8.
+Item 9.
+Financial Statements and Supplementary Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure . . . . . . . . . . . . . . .
+Item 9A. Controls and Procedures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 9B. Other Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+PART III
+Item 10. Directors, Executive Officers and Corporate Governance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 11.
+Executive Compensation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters . . . . . . .
+Item 13. Certain Relationships and Related Transactions, and Director Independence . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 14.
+Principal Accounting Fees and Services . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Page
+1
+21
+31
+31
+31
+31
+32
+34
+35
+60
+62
+132
+132
+133
+134
+134
+135
+135
+135
+Item 15.
+Exhibits, Financial Statement Schedules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+136
+PART IV

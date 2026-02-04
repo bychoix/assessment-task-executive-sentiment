@@ -1,0 +1,1439 @@
+
+--- Page 2 ---
+Table of Contents
+Message from the President
+Long-term Strategy
+At a Glance 
+History
+Initiatives for 
+Sustainable Growth
+Financial Information
+Non-Automotive Business/Corporate 
+Information and Stock Information
+Table of Contents
+The Annual Report 2017 is intended to communicate to stakeholders the ways that Toyota is contributing to the sustain-
+able development of society and the earth based on its long-term strategies. More detailed ESG information is published 
+in the Sustainably Data Book 2017. 
+Toyota’s Reports and Publications
+Annual Report 2017
+Table of Contents
+1 Table of Contents
+(Published November 2017)
+2 Message from the President
+Securities Reports/SEC Fillings
+Financial Results/Operating Results
+Corporate Governance Reports
+Sustainability Data Book 2017
+Environmental Report 2017
+—Toward Toyota Environmental Challenge 2050—
+*  Toyota also publishes information on business and sustainability initiatives not included in the above reports and publications via its ofﬁ cial website. 
+Investors  http://www.toyota-global.com/investors/
+Sustainability  http://www.toyota-global.com/sustainability/
+Period Covered: Fiscal 2017 (April 2016 to March 2017)  Some of the initiatives in ﬁ scal 2018 are also included
+Scope of Report:  Toyota Motor Corporation (TMC)’s own initiatives and examples of those of its domestic and overseas 
+consolidated afﬁ liates, and so on.
+About the PDF
+This ﬁ le is an interactive PDF and can be navigated by clicking on the following elements.
+Main menu
+Jump to the beginning of each of the report’s main sections
+f each of the report’s main sections
+Sub-menu
+Jump to speciﬁ c parts within each section
+within each section
+Icons
+The 
+More details  and  WEB
+icons found in each section link to 
+ icons found in each section link to 
+related pages of the report and to relevant web pages and 
+ort and to relevant web pages and 
+PDFs online, respectively.
+y.
+n.
+* Requires an Internet connection. 
+1
+TOYOTA Annual Report 2017
+5 Long-term Strategy
+9 Eco-car Strategy: Electriﬁ cation
+12 Connected Strategy: Information
+15 Automated Driving and Utilizing AI: Intelligence
+18 At a Glance
+19 History
+20 Initiatives for Sustainable Growth
+22 Corporate Philosophy
+23 Making Ever-better Cars (TNGA)
+26 Taking on the Future
+  Mirai Creation Fund, Partner Robots
+28 Toyota Environmental Challenge 2050
+30 Aiming to Be the Best in Town
+  Toyota Mobility Foundation, Social Contribution Activities
+32 Employees
+35 Corporate Governance
+38 Risk Management
+39 Compliance
+40 Financial Information
+40  Financial Strategy
+42  Financial Results and Position
+49 Non-Automotive Businesses
+  Financial Services, Housing Services
+50 Corporate Information and Stock Information
+
+--- Page 3 ---
+Table of Contents
+Message from the President
+Long-term Strategy
+At a Glance 
+History
+Initiatives for 
+Sustainable Growth
+Financial Information
+Non-Automotive Business/Corporate 
+Information and Stock Information
+Message from the President
+Sharing 
+Our Passion to 
+Create the Future
+Ma king Ever-better Cars and Human Resource Development: 
+The Forces That Power Sustainable Growth
+The net losses recorded after the global ﬁ nancial crisis and the 
+Europe. Beginning with 80 participants in Australia, a total of 
+series of recall issues that began in the United States taught us an 
+approximately 500 people (including the European leg this year) 
+important lesson. We at Toyota learned the hard way that even 
+have now participated over the project’s four years. 
+rapid growth, if not built on a solid foundation, can ultimately fail to 
+serve the interests of stakeholders when it leads to rapid downturn. 
+Below are a few remarks from participants.
+To do right by our customers, investors, and other stakeholders, 
+els on cars that had cleared internal standards on test courses 
+I believe that we must build Toyota into a company that can sus-
+sometimes began to grate. It really brought home that some things 
+tainably grow in any environment. We must manage it so that, like 
+don’t come across through data alone.”
+a tree, the Company will grow larger and stronger over time, add-
+“In North America, we met people who live in places where having 
+ing new growth rings year by year so that it can bear abundant 
+a breakdown can be a life-or-death situation. For them, a car that 
+“On long-distance drives in real-world use environments, noise lev-
+fruit in the future. 
+won’t break or fail is an absolute necessity. I want to always 
+remember that for customers, cars function as partners that they 
+At the ﬁ nancial results press conference in May this year, I said that 
+trust with their lives and livelihoods.” 
+I want the current ﬁ scal year to be one in which we take a critical 
+“The experience made me painfully aware of the limits of my 
+look at our true selves and do everything we can to improve our 
+knowledge about cars. Working in an administrative division, 
+competitiveness. By competitiveness, I do not refer only to quanti-
+I can’t engage with a car the way an engineer can, but the things I 
+ﬁ able things, like costs and productivity. It is crucial that we 
+learned about what people think when driving were very valuable. 
+improve the intangibles that make us competitive, by, for example, 
+These two weeks changed my professional life.” 
+developing human resources who are passionate about making 
+ever-better cars and making the world a better place and who 
+There are a few things I always tell participants after they come back.
+work to make constant improvements based on Genchi Genbutsu 
+“You’ve driven the actual roads. You’ve had conversations. You’ve 
+(onsite, hands-on experience).
+experienced the road, the cars, and the people who use them with 
+your own senses. You’ve talked about these things and more with 
+The Five Continents Drive Project is one initiative aimed at human 
+your companions there using whatever knowledge of the local lan-
+resource development. Project participants drove across Australia 
+guage you had. That’s the kind of situation where the true essence 
+in 2014, then the Americas, divided into North America in 2015 
+of things emerges. Sometimes, the essence gets across best 
+and Latin America in 2016. In 2017, they are driving across 
+when you have limited words to express it. So,  don’t rely solely on 
+2
+TOYOTA Annual Report 2017
+
+--- Page 4 ---
+Table of Contents
+Message from the President
+Long-term Strategy
+At a Glance 
+History
+Initiatives for 
+Sustainable Growth
+Financial Information
+Non-Automotive Business/Corporate 
+Information and Stock Information
+Message from the President
+data. I want you to take what you felt with your own senses, take 
+Then, they are coming back to work, telling their junior colleagues 
+the true essence of things, and use it to make  ever-better cars. We 
+about their experiences, and applying those experiences in their 
+need you to help break down walls that Toyota itself has built.”
+own work. The road teaches the people, and the people make the 
+cars. I hope that more and more of our colleagues will come to 
+We’ve started a virtuous cycle. Participants are driving the same 
+understand this process at a visceral level. 
+roads as our customers, engaging with the cars and with the road. 
+Taking on the Future
+In the near future, cars are expected to connect with people and 
+What made me think that we ought to work with Dr. Pratt, made 
+communities and take on new roles as part of the social infrastruc-
+me want to work with him, was not just that he is an amazing 
+ture. New areas, such as AI, automated driving, robotics, and con-
+researcher and engineer, but because I believe that his goals and 
+nected cars, are becoming especially important, and it is no longer 
+motivations are the same as ours.
+enough to focus just on developing excellent cars and technolo-
+gies or to carry on sales and service in the same old ways.
+As we aim for the mobility society of the future, we are headed into 
+unknown territory, seeking to ascend as-yet unconquered peaks. 
+To take on a new breed of initiatives, we therefore felt it crucial to 
+To climb these uncharted mountains, new technologies and the 
+form a new team, rather than use previous frameworks. Accordingly, 
+Sherpas who know the paths will be indispensable. Dr. Pratt 
+in January 2016, we established Toyota Research Institute, Inc. 
+agreed to be our Sherpa. This is what I told him: “Your compan-
+(TRI), welcoming Dr. Gill Pratt as its CEO. 
+ions at Toyota are right behind you, sharing your goals and start-
+up mindset. And, I’m right there at the front of them. So don’t 
+I ﬁ rst met Dr. Pratt in August 2015. 
+worry, and take the path you believe in.”
+I asked him, “Why do you want to work with Toyota?” 
+His response was very simple. 
+No one knows when we’ll reach the summit we’re seeking, or 
+“I want to eliminate the everyday tragedy of trafﬁ c accidents and 
+even if we’re on the right path. What I do know is that only those 
+contribute to making society better.”
+who reach the summit can see the opportunities that lie beyond. 
+At the press conference announcing TRI’s establishment, he added to 
+this, saying “I think Toyota will contribute to society by transforming 
+In addition to TRI, we are actively collaborating and allying with 
+from a successful hardware company to a new company by inte-
+other companies and partners in other industries, chieﬂ y in new 
+grating software technologies; this is why I joined Toyota.”
+business areas. By humbly learning from these new partners and 
+combining our strengths, we are endeavoring to make the mobility 
+society of the future better, looking 10 and 20 years down the line. 
+3
+TOYOTA Annual Report 2017
+
+--- Page 5 ---
+Table of Contents
+Message from the President
+Long-term Strategy
+At a Glance 
+History
+Initiatives for 
+Sustainable Growth
+Financial Information
+Non-Automotive Business/Corporate 
+Information and Stock Information
+Message from the President
+Leading the Way Forward with Passion and a Start-up Mindset
+This year marks Toyota’s 80th anniversary. Toyota’s earliest roots 
+all areas of human transportation, working always from a desire to 
+are in automatic looms. Back then, I doubt that anyone could have 
+make transportation itself an exciting, moving experience.
+predicted that an automatic loom company would evolve to make 
+automobiles. 
+Lastly, I’d like to conclude with a few things that I believe.
+I believe growth must be sustainable.
+Today, we are faced with a number of new rivals. We share with 
+I believe if you do the right thing, the money will follow. 
+them the start-up mindset of wanting to make the world a better 
+I believe we have to earn our customers’ smiles every day and 
+place. Just as no one could have foreseen Toyota’s evolution, no 
+exceed their expectations.
+one knows what businesses will give rise to the mobility of the 
+I believe there is no “best,” only “better.”
+future. What I can say for certain, however, is that the next forms 
+I believe we are a company of dedicated, passionate people that 
+that mobility takes will be created by those with an outstanding 
+can accomplish anything.
+passion to make the world a better place. 
+And, I believe Toyota will continue to constantly strive to improve 
+We want to make ever-better cars.
+We want to make sure that cars remain a beloved form of mobility, 
+Thank you for your continued conﬁ dence and support. 
+the lives of customers and society as a whole. 
+no matter how they evolve.
+We want to make our mobility society better and better.
+October 2017
+I am conﬁ dent that no one wants these things more than we at 
+Toyota. I also believe that we cannot build the future by ourselves. 
+Having operated this long in the auto industry, working with vast 
+networks of companies, we deeply understand the need for part-
+ners who share our aspirations. Rather than taking an adversarial 
+stance, we want to form ties with a wide range of new partners to 
+work with shared passion to create the future. 
+I want Toyota to be not just an automotive company, but a human 
+movement company. “Move” refers not just to transportation, but 
+also to inspiring deep emotion or excitement. We intend to take on 
+Akio Toyoda
+President, Member of the Board of Directors
+Toyota Motor Corporation
+4
+TOYOTA Annual Report 2017
+
+--- Page 6 ---
+Table of Contents
+Message from the President
+Long-term Strategy
+At a Glance 
+History
+Initiatives for 
+Sustainable Growth
+Financial Information
+Non-Automotive Business/Corporate 
+Information and Stock Information
+  Long-term Strategy  Electriﬁ cation 
+Information 
+Intelligence
+The Changing Business Environment and the Expansion of Mobility Value
+The current pace and scale of structural change in 
+In this time of immense change, Toyota is taking 
+  Toyota aims to provide value related to social infra-
+move about freely and enjoyably and by providing 
+society and industry are unprecedented. Values and 
+a brand new approach, imagining the world in 2030 
+structure by achieving zero life cycle CO2 emissions 
+services optimized to individual lifestyles. 
+lifestyles are diversifying, while environmental prob-
+in order to create value propositions from a long-term 
+from its vehicles to help create a sustainable world, 
+  Going forward, Toyota will create a sustainable 
+lems and a wide range of social issues, such as 
+perspective. 
+eliminating causalities from trafﬁ c accidents, and 
+future mobility society by working hand-in-hand 
+urbanization, are growing more pronounced. At the 
+  Today, Toyota provides customers with the value of 
+improving transportation efﬁ ciency through the com-
+with partners across industry lines to provide broad-
+same time, innovation is driving rapid technological 
+mobility through cars. Going forward, in addition to 
+bined transport of people and things. 
+ranging value that exceeds customer expectations. 
+development in such areas as information, intelli-
+evolving this value as provided through cars, we plan 
+  We seek to expand the value we provide into the 
+gence, the Internet of Things (IoT), and robotics. 
+to expand it in the directions of social infrastructure 
+area of personal living by working to help all people 
+and personal living. 
+Business Environment Changes 
+The Expansion of Mobility Value
+Individual desires/
+Societal demands
+Lifestyle changes
+Environmental problems
+Urbanization
+Technological 
+innovation
+Intelligence
+IoT
+Robotics
+n
+o
+i
+t
+a
+v
+o
+n
+n
+i
+l
+i
+a
+c
+o
+S
+y
+r
+t
+s
+u
+d
+n
+i
+n
+i
+s
+e
+g
+n
+a
+h
+c
+l
+a
+r
+u
+t
+c
+u
+r
+t
+S
+Evolution 
+through cars 
+(mobility)
+Ultra-efficient 
+transportation of people 
+and things
+Sharing
+Helping all people 
+move about freely 
+and enjoyably
+Contributing to 
+the creation of 
+sustainable society  
+Combined transport of 
+people and things 
+Personal mobility
+More entertaining 
+transportation spaces 
+Customization to 
+suit individual 
+lifestyles 
+Zero life cycle CO2
+Fully automated 
+driving
+Big data/AI
+Personal concierge
+Zero causalities from 
+traffic accidents
+Creating opportunities 
+for outings
+Social 
+infrastructure
+Mobility 
+today
+Personal 
+living
+Alleviating traffic 
+congestion/Utilizing 
+transportation data
+Augmenting body 
+functions
+Health support
+5
+TOYOTA Annual Report 2017
+ 
+ 
+ 
+ 
+ 
+
+--- Page 7 ---
+Table of Contents
+Message from the President
+Long-term Strategy
+At a Glance 
+History
+Initiatives for 
+Sustainable Growth
+Financial Information
+Non-Automotive Business/Corporate 
+Information and Stock Information
+  Long-term Strategy  Electriﬁ cation 
+Information 
+Intelligence
+Focused on the Mobility of the Future
+Making Ever-better Cars and Our Strategic 
+Shift toward Electriﬁ cation, Information, 
+and Intelligence Technologies
+Based on the Toyota 
+Global Vision, announced 
+in March 2011, Toyota 
+strives to implement a 
+positive cycle of making 
+ever-better cars that 
+exceed customer expec-
+tations, enriching lives of 
+communities, being 
+rewarded with the smiles 
+of customers and commu-
+nities, and thus reinforcing 
+Shigeki Terashi
+Executive Vice President,
+Member of the Board 
+of Directors
+its stable base of business in order to grow sustain-
+ably in concert with society. As it faces the greatest 
+changes to the automobile in a century, Toyota’s 
+long-term strategy is to advance management based 
+on its vision of the future mobility society of 2030.
+  Since the birth of the automobile in the 18th centu-
+ry, the mobility of people and things has increased 
+dramatically. Today, it is possible to provide conve-
+nient transportation to virtually anywhere at any time. 
+The development of mobility has underpinned eco-
+nomic growth and the development of society and 
+culture. The heart of this evolution has been the 
+steady improvement of vehicle performance, safety, 
+and convenience.
+  Now, changes driven by innovation in automated 
+driving technologies that employ artiﬁ cial intelligence 
+(AI), connected car technologies, robotics, and other 
+areas are on the verge of linking cars, people, and 
+social infrastructure in new ways, transforming indus-
+try, society, and the very ways we live. 
+  We believe that our customers today greatly enjoy 
+car ownership—they feel attached to their cars and 
+appreciate car design and the fun of driving. However, 
+with environmental and resource-related problems 
+growing more severe, cars are increasingly being seen 
+as emblematic of pollution and the waste of energy 
+and resources. 
+  The technologies driving the rapid changes in the 
+business environment surrounding cars, such as 
+electriﬁ cation, connected systems, and AI, have the 
+potential to provide never-before-seen value. They 
+are also driving the provision of social value by, for 
+example, helping to eliminate trafﬁ c accidents and 
+environmental burden. Going forward, the costs 
+associated with these technologies, such as those of 
+enhancing functionality to meet needs related to 
+environmental regulations, automated driving tech-
+nology, and connected technologies, may signiﬁ cant-
+ly impact our businesses. However, mobility services 
+and connected services that utilize such technologies 
+also present opportunities to create new revenue 
+models. Based on this understanding, we believe 
+that Toyota must now endeavor to both make ever-
+better cars in order to sustain and enhance the auto-
+mobile manufacturing business, its current mainstay, 
+and shift to new business models for the future. 
+  To make ever-better cars, we are striving to 
+enhance the speciﬁ c appeal of each type of car, 
+whether it be a Lexus, part of our GR sports car 
+series, or a Land Cruiser, clearly deﬁ ning the role and 
+key characteristics of each. By doing so, we provide 
+value in the form of uniquely Toyota cars that will be 
+cherished and appreciated by customers for years 
+and years. At the same time, by making a strategic 
+shift toward electriﬁ cation, information, and intelli-
+gence to build new business models, we are 
+expanding our range of business. 
+In these ways, we will not only continue to evolve 
+our existing car manufacturing business, but expand 
+the scope of innovation to encompass social plat-
+forms that meet society’s needs and technological 
+platforms, such as AI, that extend beyond cars. By 
+doing so, we aim to provide broad-ranging value that 
+exceeds customer expectations as we work to cre-
+ate the mobility society of the future. 
+  There is a limit to what Toyota can do to provide 
+such future value. To blaze the trail toward a new 
+mobility society, we must ﬁ nd partners who share our 
+aspirations and will inspire us to continue pushing 
+forward while cooperating and competing with play-
+ers in other industries.
+Toyota’s Goals
+Development Aimed at both Axes of Making Ever-better Cars and Shifting to New Business Models 
+Making Ever-better Cars
+Strategic Shift toward Electriﬁ cation, Information, 
+and Intelligence to Build New Business Models
+Toyota 
+Global Vision
+Reinforcing new 
+value creation 
+capabilities
+Safety and 
+peace of 
+mind
+Developing Toyota 
+by taking on 
+the future
+Sustainable
+growth
+Waku-doki 
+(excitement and 
+exhilaration that 
+wows you)
+Environmental 
+sustainability
+Customers’ 
+smiles 
+Toyota 
+today 
+Strengthening true 
+competitiveness to 
+lay a foundation for 
+steady growth
+Steadily strengthening 
+our foundation
+(Creative, advanced 
+technologies)
+Ever-better cars
+Beloved cars
+Enhancing cars’ 
+appeal
+(The fun of driving)
+(More-than-adequate QDR*)
+Environmental 
+sustainability
+* QDR: Quality, durability, and reliability 
+6
+TOYOTA Annual Report 2017
+Safety and peace 
+of mind
+Intelligence
+Automated driving
+AI
+People
+Electriﬁ cation
+EV/FCV
+(HV/PHV)
+Information
+Connected 
+technology 
+Big data
+Waku-doki 
+(excitement and 
+exhilaration that 
+wows you)
+ 
+
+--- Page 8 ---
+Table of Contents
+Message from the President
+Long-term Strategy
+At a Glance 
+History
+Initiatives for 
+Sustainable Growth
+Financial Information
+Non-Automotive Business/Corporate 
+Information and Stock Information
+  Long-term Strategy  Electriﬁ cation 
+Information 
+Intelligence
+Focused on the Mobility of the Future
+Eco-car Strategy: Electriﬁ cation 
+Toyota is exploring all available options in powertrain 
+development. We believe that we can build a highly 
+energy efﬁ cient mobility society by allowing govern-
+ments and markets to select the cars best suited to 
+regional energy and infrastructure conditions and 
+allowing customers to choose the cars with the spe-
+ciﬁ c characteristics best suited to their needs. 
+  For the time being, the further development of 
+technologies for conventional engines, which are still 
+the mainstream, is a practical, highly realistic way to 
+help reduce CO2 emissions. At the same time, we are 
+working to develop and increase the use of fuel cell 
+vehicles (FCVs), the ultimate eco-cars, and advancing 
+other initiatives in coordination with diverse stakehold-
+ers to realize our goal of establishing a low-carbon 
+society that uses hydrogen. We are also accelerating 
+the development of electric vehicles (EVs), another 
+zero-emission vehicle option. To this end, we have 
+established the EV Business Planning Department 
+and a business and capital alliance with Mazda Motor 
+Corporation, launching a new company to implement 
+joint technological development. 
+  Toyota boasts a wealth of accumulated know-how 
+regarding vehicle electriﬁ cation technology and com-
+mercialization that dates back to the launch of the 
+Prius 20 years ago. We will continue to advance ini-
+tiatives to accelerate our technological development 
+and further reduce CO2 emissions. 
+Connected Strategy: Information
+Big data collected from cars will enable a wide range 
+of new mobility services, such as accident and 
+breakdown prediction, the generation of dynamic 
+maps using probe data (vehicle tracking information 
+generated using GPS), and agent functions to help 
+users drive safely and comfortably. 
+  Aiming to build new business models, Toyota is 
+shifting toward a focus on electriﬁ cation, intelligence, 
+and information, and has created what it calls 
+Connected Strategy. The three pillars of this strategy 
+are as follows. 1. Connect all cars to build a data col-
+lection platform, 2. Utilize big data to revolutionize 
+Toyota’s business, and 3. Collaborate with partners 
+in various other industries and IT companies to pro-
+duce new mobility services. 
+  We aim to combine Toyota’s strengths—such as 
+know-how developed in the automobile manufactur-
+ing business and contact with customers through 
+sales of more than 10 million vehicles annually—and 
+the strengths of companies in other industries, 
+including IT. By doing so, even as car usage shifts 
+from ownership toward service-based models, we 
+are working to create a safe, convenient, and excit-
+ing future mobility society by providing customers 
+with appealing services. 
+Automated Driving and Utilizing AI: Intelligence
+Toyota’s overall development philosophy for auto-
+mated driving technology is the Mobility Teammate 
+Concept, an approach built on the belief that people 
+and vehicles can work together in the service of safe, 
+convenient, and efﬁ cient mobility.
+  We believe that it is essential that we develop auto-
+mated driving technology to be human-centric and, 
+above all, safe. In addition to sophisticated safe driving 
+assistance, we are developing automated systems 
+that can perform full-time dynamic driving. At the 
+same time, by utilizing our advanced safety technolo-
+gy know-how, we are working to promote the rapid 
+uptake of new safety technologies in the market.
+  Toyota has established Toyota Research Institute, 
+Inc., with Dr. Gill Pratt, one of the world’s foremost AI 
+researchers, as its CEO, and set up a related venture 
+capital fund. Through these efforts, we are accelerat-
+ing initiatives in such areas as automated driving, AI, 
+and robotics. 
+  Toyota believes that safe, fun automated driving 
+technologies will expand freedom of movement for 
+all, bringing cars and people even closer together, 
+such that cars will continue to be loved by people.
+More details    Electriﬁ cation, information and intelligence, p. 9–17
+Advancing Our Business Structure
+Toyota is working to enhance its true competitive-
+ness, particularly in the automobile manufacturing 
+business, and shifting to new business models. In 
+line with these strategies, we are advancing initiatives 
+focused on ensuring ongoing growth 10 years from 
+now, 20 years from now, and beyond. Seeking to 
+break free of the restraints of Toyota’s existing con-
+ventions and rules, we have started from scratch, 
+focusing on the future as we set about to advance 
+business innovation. Ongoing growth will be impossi-
+ble unless we overcome the major issues created by 
+Toyota’s expansion. Today, Toyota makes and sells 
+more than 10 million automobiles annually. To survive 
+at this scale, we are establishing new ways of oper-
+ating to achieve the following two targets. 
+(cid:129)  Develop a sufﬁ cient number of people who can 
+lead with quick judgment, quick decisions and 
+quick action based on Genchi Genbutsu (onsite, 
+Toyota’s Business Innovation Concept
+Our ideal 
+Ambitious
+target 
+setting
+Initiatives that 
+break from 
+convention
+Today
+Previous methods
+10 years in the future, 
+20 years, and beyond
+hands-on experience), because the changes the 
+company faces require new ways of thinking 
+and acting
+(cid:129)  Reduce the time and effort consumed by cross-
+functional coordination and establish work pro-
+cesses that allow us to focus on making 
+ever-better cars
+  One of Toyota’s traditional strengths has been the 
+process by which its experts on each function and 
+process engage in thorough discussion to ﬁ nd opti-
+mal solutions. However, before we began our current 
+efforts to advance business innovation, overemphasis 
+on function-based logic and reasoning had become a 
+weakness, leaving Toyota unable to make quick deci-
+sions in response to a rapidly changing environment.  
+  Toyota regards the changes it has been making as 
+opportunities. We seek to take on new challenges, 
+unrestrained by existing approaches and remember-
+ing always that there are better methods waiting to 
+be discovered.
+Making Ever-better Cars and 
+Developing People
+Toyota has revised its internal organization a number 
+of times to enhance true competitiveness and pro-
+mote sustainable growth.
+In 2011, we adopted a system of autonomous 
+region-based management, stationing the chief ofﬁ cers 
+responsible for each region in their respective regions to 
+ensure operations are more closely linked with local 
+communities. In 2013, we adopted the Business Unit 
+System, under which we organized workﬂ ows by busi-
+ness model. Through these efforts, we made progress 
+toward achieving management closely rooted in local 
+areas and speedy product development. 
+  At the same time, however, it became clear that 
+even with these changes, Toyota’s ways of operating 
+were still basically extensions of the old forms, and 
+7
+TOYOTA Annual Report 2017
+ 
+
+--- Page 9 ---
+Table of Contents
+Message from the President
+Long-term Strategy
+At a Glance 
+History
+Initiatives for 
+Sustainable Growth
+Financial Information
+Non-Automotive Business/Corporate 
+Information and Stock Information
+  Long-term Strategy  Electriﬁ cation 
+Information 
+Intelligence
+Focused on the Mobility of the Future
+thus carried with them the same problems— 
+coordination across functions and decision making 
+were taking too long. 
+In April 2016, we adopted a new system with 
+smaller business units organized around products, 
+aiming to dissolve the barriers between functions, 
+reduce the need for cross-unit coordination, speed 
+up decision making, and better link all the work we 
+do to making ever-better cars while developing 
+human resources to support that goal. 
+  Speciﬁ cally, we concentrated our forward-looking 
+R&D and production engineering teams within the 
+Advanced R&D and Engineering Company and estab-
+lished four vehicle-based companies specializing in 
+compact cars, mid-size cars, commercial vehicles 
+(CVs), and the Lexus brand. We furthermore concen-
+trated powertrain component-related operations in the 
+Powertrain Company and connected technology-
+related operations in the Connected Company.
+  The new product-based companies serve to remove 
+all barriers between functions, consolidating the entire 
+process from planning to production under the authority 
+and responsibility of a single leader and providing all 
+necessary business functions within a compact struc-
+ture for streamlined, integrated operations. 
+  Toyota also reorganized its head ofﬁ ce, which is 
+responsible for corporate functions. We established 
+the Corporate Strategy Division, charged with formu-
+lating long-term strategy for ongoing growth, and the 
+Frontier Research Center, responsible for actively 
+incorporating insight from outside the Company to 
+create the technologies and businesses of the future 
+from a long-term, society-oriented perspective. 
+  Continuing our business innovation efforts, we 
+established the EV Business Planning Department in 
+December 2016. Then, in January 2017, we created 
+the Emerging-market Compact Car Company, aiming 
+to bring highly competitive ever-better cars to market 
+based on Daihatsu Motor Co., Ltd.’s approach to 
+manufacturing affordable, high-quality products. 
+In this way, we set up the EV business as an internal 
+start-up under the direct control of the president. This 
+too was in order to make a clean break from old hab-
+its and establish fast ways of operating to help drive 
+Toyota’s overall efforts to advance business innovation.  
+In April 2017, a year after transitioning to the new 
+system, in line with our ongoing Company-wide busi-
+ness innovation efforts, we established the GAZOO 
+Racing Company, aiming to leverage our accumulat-
+ed motor sports know-how to develop and release 
+cars that offer customers true Waku-doki (excitement 
+and exhilaration that wows you). We also consolidat-
+ed our regional business units into the Business 
+Planning & Operation Unit, unifying region-based 
+operations to facilitate cooperation with the product-
+based companies.  
+  The new framework has enabled the consolidation 
+of responsibility and authority in the company presi-
+dents, helping to speed decision making. 
+  Furthermore, the new framework has helped us oper-
+ate with a greater awareness of the entire car manufac-
+turing process. This has brought to light previously 
+unnoticed issues, and better positioned us to ﬂ exibly 
+change organizational frameworks going forward. 
+  Toyota is stepping up its competitiveness by 
+making ever-better cars while making a strategic 
+shift toward electriﬁ cation, information, and intel-
+ligence to advance initiatives aimed at expanding 
+future mobility value. To achieve the goals of our 
+long-term strategies, we are developing human 
+resources and revamping internal structures and 
+advancing business innovation while reinforcing 
+alliances with a wide range of partners, including 
+those in other industries. Looking at the enor-
+mous changes surrounding cars as opportunities, 
+Toyota is steadily advancing toward the creation 
+of a better mobility society. 
+Business Unit Presidents
+Didier Leroy
+Kiyotaka Ise
+Kazuhiro Miyauchi
+Moritaka Yoshida
+Keiji Masui
+Head Ofﬁ ce: New business 
+planning; Company-wide strategy
+Business units: 
+Medium-term strategy; near-term execution
+Frontier Research 
+Center
+Region-
+based
+Divisions not belonging 
+to any group
+(EV Business Planning Dept., 
+Corporate Strategy Div., 
+Corporate Affairs Dept., etc.)
+Groups
+(Business Development, 
+External Affairs & Public Affairs, 
+General Administration & 
+Human Resources, 
+Information Systems, 
+Accounting, 
+Sales Financial Business , 
+Purchasing, 
+Customer First Promotion, 
+Production Planning)
+i
+l
+B
+u
+s
+n
+e
+s
+s
+P
+a
+n
+n
+n
+g
+&
+O
+p
+e
+r
+a
+t
+i
+o
+n
+i
+T
+o
+y
+o
+t
+a
+C
+o
+m
+p
+a
+c
+t
+C
+a
+r
+C
+o
+m
+p
+a
+n
+y
+A
+d
+v
+a
+n
+c
+e
+d
+R
+&
+D
+a
+n
+d
+E
+n
+g
+n
+e
+e
+r
+i
+n
+g
+C
+o
+m
+p
+a
+n
+y
+i
+i
+i
+i
+M
+d
+-
+s
+z
+e
+V
+e
+h
+c
+e
+C
+o
+m
+p
+a
+n
+y
+l
+Product-based
+C
+V
+C
+o
+m
+p
+a
+n
+y
+L
+e
+x
+u
+s
+I
+n
+t
+e
+r
+n
+a
+t
+i
+o
+n
+a
+l
+C
+o
+.
+i
+P
+o
+w
+e
+r
+t
+r
+a
+n
+C
+o
+m
+p
+a
+n
+y
+C
+o
+n
+n
+e
+c
+t
+e
+d
+C
+o
+m
+p
+a
+n
+y
+i
+G
+A
+Z
+O
+O
+R
+a
+c
+n
+g
+C
+o
+m
+p
+a
+n
+y
+i
+E
+m
+e
+r
+g
+n
+g
+-
+m
+a
+r
+k
+e
+t
+C
+o
+m
+p
+a
+c
+t
+C
+a
+r
+C
+o
+m
+p
+a
+n
+y
+Yoshihiro Sawa
+Toshiyuki Mizushima
+Shigeki Tomoyama
+Shinya Kotera
+8
+TOYOTA Annual Report 2017
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- Page 10 ---
+Table of Contents
+Message from the President
+Long-term Strategy
+At a Glance 
+History
+Initiatives for 
+Sustainable Growth
+Financial Information
+Non-Automotive Business/Corporate 
+Information and Stock Information
+  Long-term Strategy  Electriﬁ cation 
+Information 
+Intelligence
+Eco-car Strategy: Electriﬁ cation 
+Toyota considers responding to environmental issues a top management 
+priority and has long endeavored to contribute to the realization of a sus-
+tainable mobility society. To this end, we have taken on tremendous 
+challenges, resulting in, for example, the release of the world’s ﬁ rst mass-
+produced hybrid vehicle, the Prius, in 1997, and a fuel cell vehicle, the 
+Mirai, in 2014. 
+  Nevertheless, severe heat, heavy rainfall, drought, and other extreme 
+weather phenomena attributable to climate change caused by rising lev-
+els of greenhouse gases continue to threaten livelihoods around the 
+world. Furthermore, the world’s reserves of oil, the main energy source 
+that powers cars, are not inﬁ nite. In response to these circumstances, in 
+2015, Toyota unveiled the Toyota Environmental Challenge 2050, starting 
+work on six challenges aimed at not only eliminating CO2 emissions, but 
+making a net positive impact on the planet and society. 
+  The ﬁ rst of the six challenges is the New Vehicle Zero CO2 Emissions 
+Challenge, under which we aim to reduce global average new vehicle 
+CO2 emissions by 90% from Toyota’s 2010 global level. Toyota is devel-
+oping and promoting the use of a variety of eco-cars to help achieve the 
+Paris Agreement* goal of keeping global warming below 2°C.
+*  The Paris Agreement, reached in December 2015, was negotiated at the 21st yearly session of 
+the Conference of the Parties (COP 21) to the United Nations Framework Convention on 
+Climate Change, held in Paris. The agreement set the long-term goal of limiting global warming 
+to well below 2°C compared with pre-industrial levels and calls for net zero anthropogenic 
+greenhouse gas emissions to be reached during the second half of the 21st century. 
+Toyota’s Environmental Technology Strategy
+Toyota believes that it is vital to pass down to the next generation the 
+gains in the mobility of people and things achieved thus far by global 
+mobility society while also addressing climate change and the uncertain 
+future of petroleum resources. We are therefore focusing efforts on 
+developing eco-cars that save energy and use diverse fuels while also 
+promoting their widespread use. Automotive fuels can be produced by 
+processing a variety of primary energy resources. By developing different 
+powertrains optimized for a range of such fuels, Toyota is working to 
+save energy and respond to fuel diversiﬁ cation.
+  As illustrated in the chart entitled “Alternative Fuel Comparison” on the 
+next page, there are multiple alternatives to petroleum, each with its own 
+pros and cons. Similarly, energy policy varies by country and region. 
+Toyota is advancing development on all fronts, including hybrid vehicles 
+(HVs), plug-in hybrid vehicles (PHVs), fuel cell vehicles (FCVs), and electric 
+vehicles (EVs). Each type of eco-car has a unique set of characteristics. 
+By enabling customers to pick eco-car that is right for them, we believe 
+that we are helping to build a highly energy-efﬁ cient mobility society. 
+WEB
+Toyota’s stance on keeping global warming below 2°C 
+(Message from the President, Environmental Report 2017) 
+Automotive Fuels and Powertrain Diversiﬁ cation
+Primary energy sources
+Automotive fuels
+Powertrains
+Petroleum 
+Natural gas
+Coal
+Biomass
+Uranium
+Hydro, solar, and 
+geothermal power
+Gasoline
+Diesel 
+Natural gas-based fuels
+Synthetic liquid fuels
+Biofuels
+Electricity
+Hydrogen
+9
+TOYOTA Annual Report 2017
+Conventional 
+vehicles
+ & HVs
+PHVs
+EVs
+FCVs
+g
+n
+i
+v
+a
+s
+y
+g
+r
+e
+n
+E
+n
+o
+i
+t
+a
+c
+ﬁ 
+i
+s
+r
+e
+v
+i
+d
+l
+e
+u
+F
+Improving the fuel economy of gasoline 
+and diesel vehicles, the dominant 
+car types in today’s market 
+Toyota is developing a range of eco-cars 
+to suit diverse customer lifestyles and 
+regional needs based on the idea that eco-
+friendly vehicles can best help protect the 
+environment if they are in widespread use
+Toyota’s cumulative global hybrid vehicle sales surpassed 
+10 million in January 2017
+Promoting the development of cars that 
+use alternative fuels 
+(electricity, hydrogen, etc.)
+ 
+ 
+
+--- Page 11 ---
+Table of Contents
+Message from the President
+Long-term Strategy
+At a Glance 
+History
+Initiatives for 
+Sustainable Growth
+Financial Information
+Non-Automotive Business/Corporate 
+Information and Stock Information
+  Long-term Strategy  Electriﬁ cation 
+Information 
+Intelligence
+Eco-car Strategy: Electriﬁ cation 
+Accelerating Electriﬁ cation Initiatives
+Toyota is advancing development on all fronts, with a particular focus on 
+electric and hydrogen power, which it views as especially promising 
+approaches to fuel diversiﬁ cation. FCVs offer convenience on par with 
+conventional gasoline vehicles in terms of cruising range and refueling 
+time. Moreover, hydrogen can be produced from a wide variety of mate-
+rials and used for a wide range of applications. And, while EVs currently 
+face hurdles due to battery limitations, namely cruising range and charg-
+ing time, they offer the advantages of being chargeable at home and 
+requiring only relatively simple infrastructure development. Policies and 
+regulations aimed at promoting the use of zero-emission vehicles are 
+developing rapidly around the world. Toyota believes that it is therefore 
+necessary to advance the development of eco-cars in a way that is 
+responsive to the energy challenges and infrastructure of each country 
+and region as well as the ways customers use vehicles. 
+  We take such an approach with EVs, one zero-emission vehicle 
+option; at the end of 2016, we set up the EV Business Planning 
+Department as an internal start-up aimed at creating and releasing prod-
+ucts based on the market characteristics of individual countries and 
+regions. Aiming to quickly bring EVs to market, the new department is 
+amassing a wide range of technological know-how and resources from 
+the Toyota Group, such as those of Toyota Industries Corporation, Aisin 
+Seiki Co., Ltd., and DENSO Corporation, working within a small 
+ corporate structure to advance development at a speed not seen before. 
+  We entered a business and capital alliance with Mazda Motor Corporation 
+toward the goal of making more-appealing cars, announced in August 2017. 
+One aim of this alliance is joint development of technologies for electric cars. 
+Demand and expectations for EVs are growing worldwide. Details are yet to 
+be determined, but Toyota and Mazda are considering the joint development 
+of technologies for the basic structure of competitive electric vehicles. These 
+technologies will enable rapid, ﬂ exible response to changing regulations and 
+market conditions. To the extent necessary for the joint development of EVs, 
+we aim to combine the strengths of both companies and freely share know-
+how related to EVs in order to nimbly and efﬁ ciently respond to difﬁ cult-to-
+predict changes in the EV market during the development period. In addition, 
+in late September 2017, Mazda, Denso, and Toyota signed a joint technology 
+development agreement related to basic structural technologies and estab-
+lished EV C.A. Spirit Corporation to facilitate said development. 
+  Toyota’s Corolla Hybrid and Levin Hybrid, equipped with hybrid units pro-
+duced in China, have been well received in the Chinese market. We intend to 
+release plug-in hybrid variants of the Corolla and Levin in this market in 2018 
+and are considering plans to introduce EVs within a few years. 
+  The development of both EVs and FCVs presents opportunities to 
+leverage Toyota’s electriﬁ cation technologies, which have been honed by 
+its extensive know-how and experience regarding hybrid technology, one 
+of Toyota’s core technologies. 
+  As our competitors also accelerate their electriﬁ cation initiatives, we 
+expect that competition to procure onboard batteries will intensify. 
+Among secondary batteries, which can be repeatedly charged and used, 
+lithium ion batteries offer the best performance in terms of power and 
+energy per unit mass and volume. Toyota developed the world’s ﬁ rst 
+method for observing the behavior of lithium ions contained in lithium ion 
+batteries’ electrolyte solution during charging and discharging. This is 
+expected to lead to new insights in research and development aimed at 
+improving battery performance and durability, helping to enhance the 
+cruising distance and battery life of PHVs and EVs. 
+  Lithium ion batteries employ ﬂ ammable organic solvents, so they must 
+be built to prevent leaks. Given this, Toyota is advancing R&D aimed at 
+creating a solid-state battery that will serve as a high-performance, next-
+generation battery. In addition to R&D conducted by our own dedicated 
+internal R&D divisions, we are working with universities and other 
+research organizations in this area. 
+Building a Low-carbon Society
+Spurred by the 2020 Tokyo Olympics and Paralympics, further develop-
+ment toward the creation of a hydrogen society is expected in the coming 
+years. Toyota seeks to contribute to this development. Since the 2014 
+release of the Mirai, Toyota has continued to focus on technological 
+Alternative Fuel Comparison (at present, in Japan)
+Choosing the Right Eco-car for the Job
+Hybrid Technology for Next-generation Eco-cars
+Electricity Hydrogen
+Biofuel
+Natural 
+gas
+EVs
+FCVs
+Internal 
+combustion 
+systems
+Internal 
+combustion 
+systems
+e
+z
+i
+s
+i
+l
+e
+c
+h
+e
+V
+Well to Wheel CO2*
+Supply
+Cruising range
+Refueling/
+recharging time
+Infrastructure
+HV/PHV zone
+Passenger car
+HV
+FCV zone
+Shuttle bus
+Full-size
+ truck
+FCV (BUS)
+EV zone
+Home delivery
+vehicle
+EV
+Short-
+distance 
+commuter
+FCV
+PHV
+Personal mobility
+Home 
+delivery 
+truck
+Travel distance
+HV
+Motor
+PCU
+Generator
+Battery
+Engine
+Fuel 
+tank
+*  A comprehensive assessment of CO2 emissions that takes into account all energy con-
+Fuel
+Electricity
+Gasoline, diesel, biofuels, CNG, synthetic fuels, etc.
+Hydrogen
+sumption from the extraction or production of the primary energy to the use of the vehicle.
+10
+TOYOTA Annual Report 2017
+EV
+Motor
+PCU
+Battery
+PHV
+FCV
+Motor
+PCU
+Generator
+Battery
+Engine
+Fuel 
+tank
+Motor
+PCU
+Battery
+FC 
+stack
+Hydrogen
+tank
+ 

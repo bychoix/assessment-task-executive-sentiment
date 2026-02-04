@@ -1,0 +1,670 @@
+
+--- Page 3 ---
+Letter From Your CEO
+2011 Highlights
+Letter From Your Chairman
+Investor Information
+2011 was an outstanding year for Intel. 
+on a high-volume 14nm manufacturing facility in Arizona and 
+Despite a tough macro-economic environment, 
+a leading-edge development fabrication facility in Oregon.  
+the company set records in platform unit sales, 
+revenue, and earnings, reﬂ ecting strong global 
+demand for our products and solid execution 
+by our employees around the world. 
+  We delivered revenue of $54.0 billion, up 24% compared to 
+2010. Net income rose to $12.9 billion, up 13% from 2010, and 
+earnings per share rose to $2.39, up 19% from the prior year. 
+Spending as a percentage of revenue was approximately ﬂ at com-
+pared to 2010, and our gross margin of 62.5% was at the top end 
+of our historical gross margin range for the second year in a row. 
+Continuing PC growth
+In 2011, the global demand for PCs continued to surge, especially in 
+emerging markets. For the ﬁ rst time, total PC purchases were higher 
+in China than in any other country, followed by the U.S., Brazil, and 
+Russia. Intel has beneﬁ ted from this growth, and as a result, 2011 
+revenue for the PC market segment of our business increased 17% 
+compared to 2010.  
+  Meanwhile, the PC itself is undergoing a renaissance. Last year, 
+Intel led the industry in reinventing the PC experience with the 
+launch of Ultrabook™ systems, a new category of thin, responsive, 
+and secure mobile devices that combine the best features of tablets 
+and notebooks. The ﬁ rst Ultrabook systems, powered by 2nd 
+generation Intel® Core™ processors, were introduced in 2011, and 
+we expect that the industry will bring more than 80 new Ultrabook 
+system designs to market in 2012. 
+Data storage and high-performance computing 
+Our Data Center Group develops technology for a range of applica-
+tions—from cloud computing and mission-critical servers to high-
+performance computing (HPC). Revenue for our Data Center Group 
+topped $10.1 billion in 2011, up 17% from 2010.
+  We produced our ﬁ rst teraﬂ op processor, capable of performing 
+complex HPC tasks such as mapping the human genome. In addition, 
+more high-volume storage and networking industries are standard-
+izing on Intel® architecture, with Intel® Xeon® processors replacing 
+proprietary solutions in routers, switches, and other parts of the 
+communications infrastructure. 
+Technology leadership
+Intel continues to develop the world’s most advanced semiconductor 
+Software and services
+As the world’s digital footprint expands, so does its vulnerability 
+to security breaches. More unique pieces of malware were 
+identiﬁ ed in the last two years than existed worldwide prior to 
+2010. In 2011, mobile malware increased 70% over 2010. Intel 
+recognized this growing threat and the need for a new approach 
+to platform security, which led to our acquisition of McAfee in 2011. 
+The McAfee DeepSAFE* technology platform, introduced in 2011, 
+combines McAfee’s security software with Intel’s silicon capabilities 
+and is designed to detect and prevent day-zero attacks. 
+Looking ahead
+Our industry is at the brink of a major transformation. The number 
+of connected devices in the world now tops 4 billion and continues 
+to rise rapidly. Transistor usage over the past three decades will 
+look ﬂ at compared to what will be needed to manage, interpret, and 
+store data over the next ﬁ ve years. This creates a huge opportunity 
+for Intel—and we are ready to deliver. 
+For example, we now have the power envelope, volume 
+economics, and technology to succeed in the smartphone market 
+segment with our new Intel® Atom™ processor platform. This 
+platform powers the Intel smartphone reference design that we 
+introduced in early 2012. Our industry partners have responded 
+enthusiastically. We have a multi-year strategic partnership with 
+Motorola Mobility covering both smartphones and tablets, and a 
+joint effort with Google to optimize future releases of the Android* 
+platform for low-power Intel Atom processors.  
+Corporate responsibility leadership
+In 2011, we extended our reputation as a leading corporate citizen, 
+making progress on our strategic objective to care for our people, 
+care for our planet, and inspire the next generation. Last year, we 
+became the ﬁ rst semiconductor company to obtain LEED* Silver 
+Certiﬁ cation for an entire manufacturing campus. We helped create 
+economic and social opportunities in over 100 countries through 
+our education transformation efforts, and reached our goal of 
+providing technology training to 10 million teachers. Intel was once 
+again named one of Fortune’s Best Companies to Work For, and we 
+continued to empower our people to give back to their communities 
+worldwide, with 50% of our workforce donating more than 1.1 
+technology. In 2011, we announced the ﬁ rst 3-D Tri-Gate transistor, 
+million hours of service in 2011. 
+which is based on Intel’s 22-nanometer (nm) process technology. 
+Our vision for the next decade is to create and extend comput-
+The new 22nm 3-D transistor technology enables up to a 37% 
+ing technology to connect and enrich the lives of every person on 
+increase in performance at low voltage versus Intel’s 32nm planar 
+earth. I am honored to work with the employees of Intel, who deliver 
+transistors. Alternatively, the new transistors consume less than 
+extraordinary results every day to make that vision a reality. 
+half the power when at the same performance as 2-D transistors on 
+32nm chips, enabling Intel innovation in power-constrained devices 
+such as smartphones and tablets. 
+At the same time, development of our next-generation 14nm 
+process technology is well under way, and we have broken ground 
+Paul S. Otellini, President and Chief Executive Ofﬁ cer
+As part of Intel’s ongoing commitment to 
+increasing stockholder value, the Board of 
+Directors raised the dividend twice in 2011 and 
+continued an active buyback program. Intel’s divi-
+dend payout totaled $4.1 billion in 2011, including 
+a 15% increase in the quarterly dividend paid in 
+Investor materials. Intel’s Investor Relations web site contains 
+the strategic importance of investing in our people. We support this 
+background on our company and our products, ﬁ nancial information, 
+value by cultivating a safe, respectful, and ethical work environment 
+frequently asked questions, and our online annual report, as well as 
+that enables employees to thrive both on the job and in their com-
+other useful information. For investor information, including additional 
+munities. We measure our progress each year by soliciting employee 
+copies of our annual report/10-K, 10-Qs, or other ﬁ nancial literature, 
+feedback through our annual Organizational Health Survey. In 2011, 
+visit our web site at www.intc.com or call Intel at (408) 765-1480 (U.S.); 
+a record 75% of our employees participated in the survey, providing 
+March 2011 and an additional 16% increase paid in September. The 
+(44) 1793 403 000 (Europe); (852) 2844 4555 (Hong Kong); 
+valuable insight into our current strengths and areas for improvement. 
+company used $14.1 billion to repurchase 642 million shares of stock 
+(81) 298 47 8511 (Japan).
+More information is available at www.intel.com/jobs.    
+in 2011, and the Board raised Intel’s authorization limit for share 
+Intel on NASDAQ. Intel’s common stock trades on The NASDAQ Global 
+Caring for the planet. We believe that technology plays a fundamental 
+repurchases by $20 billion. Intel also completed a senior notes offering 
+Select Market* under the symbol INTC.
+role in ﬁ nding solutions to the world’s environmental challenges. Intel 
+of $5 billion, primarily for the purpose of repurchasing Intel stock.
+Intel’s ongoing focus on corporate responsibility creates value 
+for stockholders, for the company, and for society. In 2011, Intel was 
+named to the Dow Jones Sustainability Indexes for the 13th consecu-
+Direct stock purchase plan. Intel’s Direct Stock Purchase Plan allows 
+is a recognized leader in sustainability for the ways we work to mini-
+stockholders to reinvest dividends and purchase Intel common stock 
+mize the environmental impacts of our operations and design products 
+on a weekly basis. For more information, contact Intel’s transfer agent, 
+that are increasingly energy efﬁ cient. In 2011, for the fourth year in a 
+Computershare Investor Services, LLC, by phone at (800) 298-0146 
+row, Intel was the largest voluntary purchaser of green power according 
+tive year, in recognition of the company’s performance and reporting on 
+(U.S. and Canada) or (312) 360-5123 (worldwide), or by e-mail through 
+to the U.S. Environmental Protection Agency. To underscore the 
+environmental issues, employee health and safety, supply chain, social 
+Computershare’s web site at www.computershare.com/contactus.
+importance of sustainability to our business, we again included an 
+impact programs and policies, and Intel’s commitment to operating at 
+Transfer agent and registrar. Computershare Investor Services, LLC, 
+environmental component in the formula used to determine the 
+the highest level of integrity throughout all operations. To strengthen 
+250 Royall Street, Canton, MA 02021 USA. Stockholders may call 
+payout for employee and executive variable compensation. We also 
+that commitment, in 2010 Intel formed a Compliance Committee of the 
+(800) 298-0146 (U.S. and Canada) or (312) 360-5123 (worldwide), 
+continued to collaborate with others to drive global standards for 
+Board charged with helping to ensure that the company remains in 
+or send e-mail through Computershare’s web site at 
+products and manufacturing that ensure energy-efﬁ cient performance. 
+compliance with antitrust requirements worldwide. The committee has 
+www.computershare.com/contactus with any questions regarding 
+More information is available at www.intel.com/go/environment.
+overseen the enhancement of Intel’s global compliance program, which 
+the transfer of ownership of Intel stock.
+Inspiring the next generation. Education is the foundation of 
+includes an audit program, competition policy and processes, training 
+Independent registered public accounting ﬁ rm. Ernst & Young LLP, 
+innovation, and as a technology company, Intel’s success rests on the 
+and communication, risk assessment, and more. 
+San Jose, California, USA.
+availability of skilled workers, a healthy technology ecosystem, and 
+Intel also continues to focus on increasing diversity among its 
+The Intel® brand. The Intel brand is consistently ranked as one of the 
+knowledgeable customers. In turn, the health of local economies—
+employees at all levels of the company. In 2011, the company launched 
+most recognizable and valuable brands in the world. It represents our 
+including those where our employees live and work—depends on 
+a comprehensive leadership development series targeted at advancing 
+commitment to moving technology forward to connect and enrich 
+access to technology and quality education. International studies show 
+career development and retention of African American and Hispanic 
+the lives of every person on earth. As the world leader in computing 
+that education plays a pivotal role in fostering labor productivity and 
+employees. The program provides coaching in business acumen, 
+innovation, Intel designs and builds the essential technologies that 
+economic growth. In support of our efforts to help transform educa-
+organizational leadership, strategic thinking, communication, and more. 
+serve as the foundation for the world’s computing devices.
+tion, Intel and the Intel Foundation collaborate with governments and 
+Through another new program, Extend Our Reach, a group of Intel’s 
+most senior women executives have become sponsors who mentor 
+and advocate for other female employees, as part of the company’s 
+ongoing Global Women’s Initiative aimed at attracting, developing, 
+and retaining female employees.  
+Corporate responsibility and integrated value. As a global technology 
+educators and invest approximately $100 million annually in programs 
+and business leader, we are committed to doing the right things, the 
+around the world—from professional development for teachers to 
+right way. Our corporate responsibility activities create value for Intel 
+premier science and engineering fairs. Applications of technology 
+by helping to mitigate risk, save costs, protect our brand value, and 
+in education also provide market opportunities for Intel. For example, 
+develop new market opportunities. For Intel, corporate responsibility 
+the Intel World Ahead Program delivers resources in the form of 
+In May 2012, I will retire from Intel’s Board, and I am delighted 
+is simply good business. In addition to the corporate responsibility 
+technology, Internet access, and digital content, and works to 
+that Andy Bryant will succeed me as Intel’s Chairman. Andy has had 
+content included in this Annual Report, we provide more detailed 
+implement effective e-learning environments. More information 
+a 30-year tenure at Intel—including serving as Chief Financial Ofﬁ cer 
+information in Intel’s Corporate Responsibility Report. Published each 
+is available at www.intel.com/educate.
+and overseeing the company’s Technology and Manufacturing Group 
+May and prepared using the Global Reporting Initiative’s G3.1 Sustain-
+Governance and ethics. Intel is committed to the highest standards 
+in his role as Chief Administrative Ofﬁ cer. His unique and invaluable 
+ability Reporting Guidelines, the report outlines our strategic priorities 
+of business ethics and corporate governance. Intel is a member of 
+experience and perspective will serve the Board and the company well. 
+and performance on a range of environmental, social, and governance 
+the United Nations Global Compact and has in place Human Rights 
+I joined the Intel Board in 1993, a year when the company’s annual 
+factors, including workplace practices, community engagement, and 
+Principles to reinforce our commitment to corporate citizenship. We 
+revenue was $8.78 billion, and Intel had 29,500 employees. It has been 
+supply chain responsibility. The report, supporting materials, and 
+are also committed to promoting effective governance and responsi-
+an honor to be part of Intel’s growth since that time, and I know that the 
+recent awards are available at www.intel.com/go/responsibility. 
+bility in our supply chain, and working collaboratively with others in 
+men and women of Intel will continue in the years ahead to help enrich 
+Caring for our people. Driven by our ongoing pursuit of Moore’s Law, 
+our industry through the Electronic Industry Citizenship Coalition. Our 
+all of our lives; it has been an amazing privilege to work with them.  
+innovation has always been an integral part of Intel’s culture. At the 
+Corporate Governance Guidelines, Code of Conduct, Conﬂ ict Minerals 
+heart of this innovation and our business success are our employees. 
+White Paper, Statement on Human Trafﬁ cking and Slavery, and other 
+One of the six Intel Values is “Great Place to Work,” which reinforces 
+related policies are available at www.intel.com/go/governance.
+Jane E. Shaw, Chairman of the Board
+Intel, Intel logo, Intel Atom, Intel Core, Intel Sponsors of Tomorrow., Intel Sponsors of Tomorrow. logo, Intel Xeon, and Ultrabook are trademarks of Intel Corporation in the U.S. and/or other countries. 
+*Other names and brands may be claimed as the property of others.        Printed on recycled paper using soy-based inks. 0412/200K/NK/MB/LM/RRD. Copyright © 2012, Intel Corporation. 
+All rights reserved.
+Powering the cloud
+The building blocks of connectivity
+As the number of connected devices in the world expands, so does 
+the demand for secure ways to create, share, store, and analyze data. 
+Intel® products form the backbone of cloud computing and the Internet. 
+Reinventing the PC 
+Ultrabook™ systems have arrived
+Sleek, stylish, and ultra-responsive, this new category of mobile devices 
+combines the best features of notebooks and tablets. Processors based 
+on our revolutionary 22nm 3-D Tri-Gate transistor technology will further 
+accelerate Ultrabook™ system innovation in 2012.
+Transforming education
+ More than 10 million teachers trained  
+Through the Intel® Teach Program, educators learn how to use technology 
+to create active learning environments where students acquire the skills 
+they need in today’s innovation economy. The total number of teachers 
+reached by the program surpassed 10 million in 2011. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- Page 4 ---
+Letter From Your CEO
+2011 Highlights
+Letter From Your Chairman
+Investor Information
+2011 was an outstanding year for Intel. 
+on a high-volume 14nm manufacturing facility in Arizona and 
+Despite a tough macro-economic environment, 
+a leading-edge development fabrication facility in Oregon.  
+the company set records in platform unit sales, 
+revenue, and earnings, reﬂ ecting strong global 
+demand for our products and solid execution 
+by our employees around the world. 
+  We delivered revenue of $54.0 billion, up 24% compared to 
+2010. Net income rose to $12.9 billion, up 13% from 2010, and 
+earnings per share rose to $2.39, up 19% from the prior year. 
+Spending as a percentage of revenue was approximately ﬂ at com-
+pared to 2010, and our gross margin of 62.5% was at the top end 
+of our historical gross margin range for the second year in a row. 
+Continuing PC growth
+In 2011, the global demand for PCs continued to surge, especially in 
+emerging markets. For the ﬁ rst time, total PC purchases were higher 
+in China than in any other country, followed by the U.S., Brazil, and 
+Russia. Intel has beneﬁ ted from this growth, and as a result, 2011 
+revenue for the PC market segment of our business increased 17% 
+compared to 2010.  
+  Meanwhile, the PC itself is undergoing a renaissance. Last year, 
+Intel led the industry in reinventing the PC experience with the 
+launch of Ultrabook™ systems, a new category of thin, responsive, 
+and secure mobile devices that combine the best features of tablets 
+and notebooks. The ﬁ rst Ultrabook systems, powered by 2nd 
+generation Intel® Core™ processors, were introduced in 2011, and 
+we expect that the industry will bring more than 80 new Ultrabook 
+system designs to market in 2012. 
+Data storage and high-performance computing 
+Our Data Center Group develops technology for a range of applica-
+tions—from cloud computing and mission-critical servers to high-
+performance computing (HPC). Revenue for our Data Center Group 
+topped $10.1 billion in 2011, up 17% from 2010.
+  We produced our ﬁ rst teraﬂ op processor, capable of performing 
+complex HPC tasks such as mapping the human genome. In addition, 
+more high-volume storage and networking industries are standard-
+izing on Intel® architecture, with Intel® Xeon® processors replacing 
+proprietary solutions in routers, switches, and other parts of the 
+communications infrastructure. 
+Technology leadership
+Intel continues to develop the world’s most advanced semiconductor 
+Software and services
+As the world’s digital footprint expands, so does its vulnerability 
+to security breaches. More unique pieces of malware were 
+identiﬁ ed in the last two years than existed worldwide prior to 
+2010. In 2011, mobile malware increased 70% over 2010. Intel 
+recognized this growing threat and the need for a new approach 
+to platform security, which led to our acquisition of McAfee in 2011. 
+The McAfee DeepSAFE* technology platform, introduced in 2011, 
+combines McAfee’s security software with Intel’s silicon capabilities 
+and is designed to detect and prevent day-zero attacks. 
+Looking ahead
+Our industry is at the brink of a major transformation. The number 
+of connected devices in the world now tops 4 billion and continues 
+to rise rapidly. Transistor usage over the past three decades will 
+look ﬂ at compared to what will be needed to manage, interpret, and 
+store data over the next ﬁ ve years. This creates a huge opportunity 
+for Intel—and we are ready to deliver. 
+For example, we now have the power envelope, volume 
+economics, and technology to succeed in the smartphone market 
+segment with our new Intel® Atom™ processor platform. This 
+platform powers the Intel smartphone reference design that we 
+introduced in early 2012. Our industry partners have responded 
+enthusiastically. We have a multi-year strategic partnership with 
+Motorola Mobility covering both smartphones and tablets, and a 
+joint effort with Google to optimize future releases of the Android* 
+platform for low-power Intel Atom processors.  
+Corporate responsibility leadership
+In 2011, we extended our reputation as a leading corporate citizen, 
+making progress on our strategic objective to care for our people, 
+care for our planet, and inspire the next generation. Last year, we 
+became the ﬁ rst semiconductor company to obtain LEED* Silver 
+Certiﬁ cation for an entire manufacturing campus. We helped create 
+economic and social opportunities in over 100 countries through 
+our education transformation efforts, and reached our goal of 
+providing technology training to 10 million teachers. Intel was once 
+again named one of Fortune’s Best Companies to Work For, and we 
+continued to empower our people to give back to their communities 
+worldwide, with 50% of our workforce donating more than 1.1 
+technology. In 2011, we announced the ﬁ rst 3-D Tri-Gate transistor, 
+million hours of service in 2011. 
+which is based on Intel’s 22-nanometer (nm) process technology. 
+Our vision for the next decade is to create and extend comput-
+The new 22nm 3-D transistor technology enables up to a 37% 
+ing technology to connect and enrich the lives of every person on 
+increase in performance at low voltage versus Intel’s 32nm planar 
+earth. I am honored to work with the employees of Intel, who deliver 
+transistors. Alternatively, the new transistors consume less than 
+extraordinary results every day to make that vision a reality. 
+half the power when at the same performance as 2-D transistors on 
+32nm chips, enabling Intel innovation in power-constrained devices 
+such as smartphones and tablets. 
+At the same time, development of our next-generation 14nm 
+process technology is well under way, and we have broken ground 
+Paul S. Otellini, President and Chief Executive Ofﬁ cer
+As part of Intel’s ongoing commitment to 
+increasing stockholder value, the Board of 
+Directors raised the dividend twice in 2011 and 
+continued an active buyback program. Intel’s divi-
+dend payout totaled $4.1 billion in 2011, including 
+a 15% increase in the quarterly dividend paid in 
+Investor materials. Intel’s Investor Relations web site contains 
+the strategic importance of investing in our people. We support this 
+background on our company and our products, ﬁ nancial information, 
+value by cultivating a safe, respectful, and ethical work environment 
+frequently asked questions, and our online annual report, as well as 
+that enables employees to thrive both on the job and in their com-
+other useful information. For investor information, including additional 
+munities. We measure our progress each year by soliciting employee 
+copies of our annual report/10-K, 10-Qs, or other ﬁ nancial literature, 
+feedback through our annual Organizational Health Survey. In 2011, 
+visit our web site at www.intc.com or call Intel at (408) 765-1480 (U.S.); 
+a record 75% of our employees participated in the survey, providing 
+March 2011 and an additional 16% increase paid in September. The 
+(44) 1793 403 000 (Europe); (852) 2844 4555 (Hong Kong); 
+valuable insight into our current strengths and areas for improvement. 
+company used $14.1 billion to repurchase 642 million shares of stock 
+(81) 298 47 8511 (Japan).
+More information is available at www.intel.com/jobs.    
+in 2011, and the Board raised Intel’s authorization limit for share 
+Intel on NASDAQ. Intel’s common stock trades on The NASDAQ Global 
+Caring for the planet. We believe that technology plays a fundamental 
+repurchases by $20 billion. Intel also completed a senior notes offering 
+Select Market* under the symbol INTC.
+role in ﬁ nding solutions to the world’s environmental challenges. Intel 
+of $5 billion, primarily for the purpose of repurchasing Intel stock.
+Intel’s ongoing focus on corporate responsibility creates value 
+for stockholders, for the company, and for society. In 2011, Intel was 
+named to the Dow Jones Sustainability Indexes for the 13th consecu-
+Direct stock purchase plan. Intel’s Direct Stock Purchase Plan allows 
+is a recognized leader in sustainability for the ways we work to mini-
+stockholders to reinvest dividends and purchase Intel common stock 
+mize the environmental impacts of our operations and design products 
+on a weekly basis. For more information, contact Intel’s transfer agent, 
+that are increasingly energy efﬁ cient. In 2011, for the fourth year in a 
+Computershare Investor Services, LLC, by phone at (800) 298-0146 
+row, Intel was the largest voluntary purchaser of green power according 
+tive year, in recognition of the company’s performance and reporting on 
+(U.S. and Canada) or (312) 360-5123 (worldwide), or by e-mail through 
+to the U.S. Environmental Protection Agency. To underscore the 
+environmental issues, employee health and safety, supply chain, social 
+Computershare’s web site at www.computershare.com/contactus.
+importance of sustainability to our business, we again included an 
+impact programs and policies, and Intel’s commitment to operating at 
+Transfer agent and registrar. Computershare Investor Services, LLC, 
+environmental component in the formula used to determine the 
+the highest level of integrity throughout all operations. To strengthen 
+250 Royall Street, Canton, MA 02021 USA. Stockholders may call 
+payout for employee and executive variable compensation. We also 
+that commitment, in 2010 Intel formed a Compliance Committee of the 
+(800) 298-0146 (U.S. and Canada) or (312) 360-5123 (worldwide), 
+continued to collaborate with others to drive global standards for 
+Board charged with helping to ensure that the company remains in 
+or send e-mail through Computershare’s web site at 
+products and manufacturing that ensure energy-efﬁ cient performance. 
+compliance with antitrust requirements worldwide. The committee has 
+www.computershare.com/contactus with any questions regarding 
+More information is available at www.intel.com/go/environment.
+overseen the enhancement of Intel’s global compliance program, which 
+the transfer of ownership of Intel stock.
+Inspiring the next generation. Education is the foundation of 
+includes an audit program, competition policy and processes, training 
+Independent registered public accounting ﬁ rm. Ernst & Young LLP, 
+innovation, and as a technology company, Intel’s success rests on the 
+and communication, risk assessment, and more. 
+San Jose, California, USA.
+availability of skilled workers, a healthy technology ecosystem, and 
+Intel also continues to focus on increasing diversity among its 
+The Intel® brand. The Intel brand is consistently ranked as one of the 
+knowledgeable customers. In turn, the health of local economies—
+employees at all levels of the company. In 2011, the company launched 
+most recognizable and valuable brands in the world. It represents our 
+including those where our employees live and work—depends on 
+a comprehensive leadership development series targeted at advancing 
+commitment to moving technology forward to connect and enrich 
+access to technology and quality education. International studies show 
+career development and retention of African American and Hispanic 
+the lives of every person on earth. As the world leader in computing 
+that education plays a pivotal role in fostering labor productivity and 
+employees. The program provides coaching in business acumen, 
+innovation, Intel designs and builds the essential technologies that 
+economic growth. In support of our efforts to help transform educa-
+organizational leadership, strategic thinking, communication, and more. 
+serve as the foundation for the world’s computing devices.
+tion, Intel and the Intel Foundation collaborate with governments and 
+Through another new program, Extend Our Reach, a group of Intel’s 
+most senior women executives have become sponsors who mentor 
+and advocate for other female employees, as part of the company’s 
+ongoing Global Women’s Initiative aimed at attracting, developing, 
+and retaining female employees.  
+Corporate responsibility and integrated value. As a global technology 
+educators and invest approximately $100 million annually in programs 
+and business leader, we are committed to doing the right things, the 
+around the world—from professional development for teachers to 
+right way. Our corporate responsibility activities create value for Intel 
+premier science and engineering fairs. Applications of technology 
+by helping to mitigate risk, save costs, protect our brand value, and 
+in education also provide market opportunities for Intel. For example, 
+develop new market opportunities. For Intel, corporate responsibility 
+the Intel World Ahead Program delivers resources in the form of 
+In May 2012, I will retire from Intel’s Board, and I am delighted 
+is simply good business. In addition to the corporate responsibility 
+technology, Internet access, and digital content, and works to 
+that Andy Bryant will succeed me as Intel’s Chairman. Andy has had 
+content included in this Annual Report, we provide more detailed 
+implement effective e-learning environments. More information 
+a 30-year tenure at Intel—including serving as Chief Financial Ofﬁ cer 
+information in Intel’s Corporate Responsibility Report. Published each 
+is available at www.intel.com/educate.
+and overseeing the company’s Technology and Manufacturing Group 
+May and prepared using the Global Reporting Initiative’s G3.1 Sustain-
+Governance and ethics. Intel is committed to the highest standards 
+in his role as Chief Administrative Ofﬁ cer. His unique and invaluable 
+ability Reporting Guidelines, the report outlines our strategic priorities 
+of business ethics and corporate governance. Intel is a member of 
+experience and perspective will serve the Board and the company well. 
+and performance on a range of environmental, social, and governance 
+the United Nations Global Compact and has in place Human Rights 
+I joined the Intel Board in 1993, a year when the company’s annual 
+factors, including workplace practices, community engagement, and 
+Principles to reinforce our commitment to corporate citizenship. We 
+revenue was $8.78 billion, and Intel had 29,500 employees. It has been 
+supply chain responsibility. The report, supporting materials, and 
+are also committed to promoting effective governance and responsi-
+an honor to be part of Intel’s growth since that time, and I know that the 
+recent awards are available at www.intel.com/go/responsibility. 
+bility in our supply chain, and working collaboratively with others in 
+men and women of Intel will continue in the years ahead to help enrich 
+Caring for our people. Driven by our ongoing pursuit of Moore’s Law, 
+our industry through the Electronic Industry Citizenship Coalition. Our 
+all of our lives; it has been an amazing privilege to work with them.  
+innovation has always been an integral part of Intel’s culture. At the 
+Corporate Governance Guidelines, Code of Conduct, Conﬂ ict Minerals 
+heart of this innovation and our business success are our employees. 
+White Paper, Statement on Human Trafﬁ cking and Slavery, and other 
+One of the six Intel Values is “Great Place to Work,” which reinforces 
+related policies are available at www.intel.com/go/governance.
+Jane E. Shaw, Chairman of the Board
+Intel, Intel logo, Intel Atom, Intel Core, Intel Sponsors of Tomorrow., Intel Sponsors of Tomorrow. logo, Intel Xeon, and Ultrabook are trademarks of Intel Corporation in the U.S. and/or other countries. 
+*Other names and brands may be claimed as the property of others.        Printed on recycled paper using soy-based inks. 0412/200K/NK/MB/LM/RRD. Copyright © 2012, Intel Corporation. 
+All rights reserved.
+Powering the cloud
+The building blocks of connectivity
+As the number of connected devices in the world expands, so does 
+the demand for secure ways to create, share, store, and analyze data. 
+Intel® products form the backbone of cloud computing and the Internet. 
+Reinventing the PC 
+Ultrabook™ systems have arrived
+Sleek, stylish, and ultra-responsive, this new category of mobile devices 
+combines the best features of notebooks and tablets. Processors based 
+on our revolutionary 22nm 3-D Tri-Gate transistor technology will further 
+accelerate Ultrabook™ system innovation in 2012.
+Transforming education
+ More than 10 million teachers trained  
+Through the Intel® Teach Program, educators learn how to use technology 
+to create active learning environments where students acquire the skills 
+they need in today’s innovation economy. The total number of teachers 
+reached by the program surpassed 10 million in 2011. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- Page 5 ---
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K
+(Mark One)
+È ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+For the fiscal year ended December 31, 2011.
+or
+‘ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+For the transition period from
+to
+.
+Commission File Number 000-06217
+INTEL CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+State or other jurisdiction of
+incorporation or organization
+2200 Mission College Boulevard, Santa Clara, California
+(Address of principal executive offices)
+94-1672743
+(I.R.S. Employer
+Identification No.)
+95054-1549
+(Zip Code)
+Registrant’s telephone number, including area code (408) 765-8080
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Name of each exchange on which registered
+Common stock, $0.001 par value
+The NASDAQ Global Select Market*
+Securities registered pursuant to Section 12(g) of the Act:
+None
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes È No ‘
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ‘ No È
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past 90 days. Yes È No ‘
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data
+File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or
+for such shorter period that the registrant was required to submit and post such files). Yes È No ‘
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (§229.405 of this chapter) is not contained
+herein, and will not be contained, to the best of registrant’s knowledge, in definitive proxy or information statements incorporated by reference in
+Part III of this Form 10-K or any amendment to this Form 10-K. ‘
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting
+company. See the definitions of “large accelerated filer,” “accelerated filer” and “smaller reporting company” in Rule 12b-2 of the Exchange Act.
+Smaller reporting company ‘
+Large accelerated filer È Accelerated filer ‘
+Non-accelerated filer ‘
+(Do not check if a smaller reporting company)
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes ‘ No È
+Aggregate market value of voting and non-voting common equity held by non-affiliates of the registrant as of July 1, 2011, based upon the
+closing price of the common stock as reported by The NASDAQ Global Select Market* on such date, was
+$119.0 billion
+4,996 million shares of common stock outstanding as of February 10, 2012
+DOCUMENTS INCORPORATED BY REFERENCE
+Portions of the registrant’s Proxy Statement related to its 2012 Annual Stockholders’ Meeting to be filed subsequently—Part III of this
+Form 10-K.
+
+--- Page 6 ---
+INTEL CORPORATION
+FORM 10-K
+FOR THE FISCAL YEAR ENDED DECEMBER 31, 2011
+INDEX
+PART I
+Item 1.
+Business . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 1A. Risk Factors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 1B. Unresolved Staff Comments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 2.
+Item 3.
+Item 4.
+Properties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Legal Proceedings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Mine Safety Disclosures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+PART II
+Item 5.
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity
+Securities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 6.
+Item 7.
+Selected Financial Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Management’s Discussion and Analysis of Financial Condition and Results of Operations . . . . . . . . . . . . . . . .
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 8.
+Item 9.
+Financial Statements and Supplementary Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure . . . . . . . . . . . . . . .
+Item 9A. Controls and Procedures . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 9B. Other Information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+PART III
+Item 10. Directors, Executive Officers and Corporate Governance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 11.
+Executive Compensation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters . . . . . . .
+Item 13. Certain Relationships and Related Transactions, and Director Independence . . . . . . . . . . . . . . . . . . . . . . . . . .
+Item 14.
+Principal Accounting Fees and Services . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Page
+1
+13
+19
+19
+19
+19
+20
+22
+23
+41
+43
+98
+98
+98
+99
+99
+99
+100
+100
+Item 15.
+Exhibits, Financial Statement Schedules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+101
+PART IV

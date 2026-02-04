@@ -1,0 +1,586 @@
+
+--- Page 12 ---
+DEAR NVIDIANS AND STAKEHOLDERS,
+GPU COMPUTING 
+HAS ARRIVED.
+The tool that we built for the da Vincis and Einsteins 
+of our time is the force behind today’s most promising 
+trends, from gaming and VR to AI and self-driving cars.
+We leverage our powerful platform by focusing on the 
+hardest problems that only we can solve. They require 
+deep technical integration, from processor to software 
+to systems to domain expertise. They are worth the 
+efforts of our talented, dedicated employees. 
+And they matter to the world. 
+
+--- Page 13 ---
+OUR COMPANY IS UNIQUE IN ITS EVOLUTION AND MARKET 
+POSITION. OUR STRATEGY IS FIRING ON ALL CYLINDERS.
+Revenue was up 38% to reach a record 
+AI fueled the rapid growth of our 
+Transformed from chips to platforms 
+$6.9 billion and gross margins expanded 
+datacenter business, which tripled year 
+and products. Along with our moves 
+270 basis points to hit 58.8 percent. GAAP 
+over year in the fourth quarter, bringing 
+to build platforms for select vertical 
+earnings per share were $2.57, up 138 
+total annual revenue to $830 million. We 
+markets, we’ve also evolved from 
+percent. And we returned $1 billion to 
+have a multi-year lead in AI computing. 
+building chips to building systems. 
+shareholders through dividends and 
+We’ve built an end-to-end platform that 
+NVIDIA SHIELD is one example of 
+stock repurchases.
+starts with a GPU optimized for AI. Our 
+this transformation. SHIELD is a tiny 
+single architecture spans computers of 
+supercomputer for the home. It brings 
+Our gaming business grew 44% this year 
+every shape and size—PCs, servers, IoT 
+NVIDIA’s famed gaming capabilities 
+to a record $4.1 billion. The breakthrough 
+devices—and is available from every 
+to the living room, serves up 4K HDR 
+Pascal architecture solidified our market 
+cloud service provider—Alibaba, Amazon, 
+movies, and is the AI computer that will 
+leadership. And we expanded our 
+Google, IBM, Microsoft. GPU deep 
+one day let you talk to and control your 
+platform with solutions to ride the 
+learning is the most advanced, most 
+home. The DGX-1 AI supercomputer, 
+massive waves of blockbuster games, 
+accessible platform for AI. 
+our main thrust to bring AI to every 
+eSports, and social media.
+enterprise, is another example of our 
+Adoption of DRIVE PX 2 spurred our 
+systems approach.
+We continued to lead visual computing, 
+multi-year lead in AI car computing. 
+seeing double digit growth in our 
+Our AI car platform spans the range of 
+Today, NVIDIA is capable of innovating 
+professional visualization business 
+autonomous vehicles, from auto-piloted 
+across the entire computing stack—
+and advancing the field with our latest 
+cars to driverless shuttles, from training 
+from the most advanced GPUs to 
+Iray and VR technologies.
+to cloud mapping to in-car AI capabilities. 
+innovative systems, from graphics to AI, 
+Some of the world’s most innovative 
+from device to cloud—to serve the most 
+automakers, the world’s largest auto 
+exciting growth industries of our time.
+suppliers, and the leading mapping 
+companies have adopted DRIVE PX.
+REVENUE
++38%
+$6.9 B
+GROSS MARGINS
++270 bps
+OPERATING MARGINS
++1,310 bps
+28.0%
+$3.00
+EPS
++138%
+$2.57
+58.8%
+FY '16
+FY '17
+FY '16
+FY '17
+$2.00
+$1.00
+$0.00
+$8 B
+$6 B
+$4 B
+$2 B
+$ 0
+
+--- Page 14 ---
+GIVING BACK TO OUR COMMUNITIES 
+SHAPING THE FUTURE
+NVIDIANs are passionate about giving 
+This includes $200,000 grants this year 
+NVIDIA is a learning machine. For 
+back to their communities, with a long 
+to the Translational Genomics Research 
+over two decades, we’ve continuously 
+history of volunteerism and strong 
+Institute for research to discover 
+reinvented ourselves. Our work today 
+support for fighting cancer and improving 
+individualized therapeutic vulnerability 
+is shaping the industries and society 
+education. Our philanthropic giving this 
+in cancer, and to a team at the University 
+of tomorrow. 
+year exceeded $5 million.
+of North Texas that aims to discover 
+new cancer biomarkers to improve 
+Our company regularly receives top 
+diagnosis and treatment. 
+marks on prominent lists of the most 
+socially and environmentally responsible 
+With Project Inspire, our employees and 
+companies, including debuting at No. 20 
+their families come together each year 
+on the 100 Best Corporate Citizens 
+to enhance their local communities. In 
+list in 2016. 
+Santa Clara, we celebrated our 10th 
+annual and largest yet event, which 
+Our employee-run NVIDIA Foundation 
+brought together 1,650 of us to transform 
+sets the priorities for our philanthropic 
+a local high school in an underserved 
+The computing model that we pioneered 
+efforts. We have invested more than $3 
+neighborhood. In Pune, India, nearly 
+is at the convergence of visual computing, 
+million in Compute the Cure, which aids 
+200 employees and their families 
+high performance computing, and AI—
+researchers using GPU computing 
+improved a rural high school and junior 
+technologies that will redefine the 
+techniques to accelerate their cancer-
+college. In the U.K., NVIDIANs teamed 
+relationship between man and machine. 
+fighting work as well as nonprofits 
+up to improve a facility for people with 
+The world we inhabit will increasingly 
+providing care and support services 
+learning disabilities.
+to those affected by the disease.
+be expanded by virtual realities. And 
+our natural abilities will be amplified 
+by artificial intelligence.
+This is undoubtedly the most exciting 
+time in our industry. AI will revolutionize 
+the very structure and fabric of society, 
+from transportation to healthcare, and 
+allow us to finally tackle those challenges 
+that matter most, like finding a cure 
+for cancer.
+We, at NVIDIA, are seizing the moment. 
+Jensen Huang 
+CEO and Founder, NVIDIA 
+April 2017
+The NVIDIA DGX SATURNV supercomputer will turboboost the U.S. government’s Cancer Moonshot. 
+Comprised of 124 DGX-1 systems, SATURNV is the most energy-efficient supercomputer in the world.
+
+--- Page 15 ---
+NVIDIA CORPORATION 
+NOTICE OF 2017 ANNUAL MEETING 
+PROXY STATEMENT AND FORM 10-K 
+FORWARD-LOOKING STATEMENTS 
+Certain statements in this document including, but not limited to, statements as to: the impact and benefits of our products and technologies; the 
+drivers of computer gaming growth; the impact of virtual reality, artificial intelligence and autonomous vehicles; and our market position and strategies 
+are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important 
+factors that could cause actual results to differ materially include: global economic conditions; our reliance on third parties to manufacture, assemble, 
+package and test our products; the impact of technological development and competition; development of new products and technologies or 
+enhancements to our existing products and technologies; market acceptance of our products or our partners’ products; design, manufacturing or 
+software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of our 
+products or technologies when integrated into systems; as well as other factors detailed from time to time in the reports NVIDIA files with the Securities 
+and Exchange Commission, or SEC, including its Form 10-K for the fiscal period ended January 29, 2017. Copies of reports filed with the SEC are 
+posted on the company’s website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future 
+performance and speak only as of April 7, 2017, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking 
+statements to reflect future events or circumstances. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- Page 16 ---
+NOTICE OF 2017 ANNUAL MEETING OF STOCKHOLDERS
+Date and time:
+Tuesday, May 23, 2017 at 10:30 a.m. Pacific Daylight Time
+Location:
+Online at www.virtualshareholdermeeting.com/NVIDIA2017
+Items of business:
+•  Election of twelve directors nominated by the Board of Directors
+•  Approval of our executive compensation
+•  Approval of the frequency of holding a vote on executive compensation
+•  Ratification of the selection of PricewaterhouseCoopers LLP as our independent 
+registered public accounting firm for fiscal year 2018
+Transaction of other business properly brought before the meeting
+Record date:
+Virtual meeting
+admission:
+Pre-meeting forum:
+You can attend, and vote at, the annual meeting if you were a stockholder of record at the close
+of business on March 24, 2017.
+We will be holding our annual meeting online only this year at 
+www.virtualshareholdermeeting.com/NVIDIA2017.  To participate in the annual meeting, you 
+will need the control number included on your notice of Internet availability of the proxy 
+materials or your proxy card (if you received a printed copy of the proxy materials).
+The online format for the annual meeting also allows us to communicate more effectively with 
+you via a pre-meeting forum that you can enter by visiting www.proxyvote.com.  On our pre-
+meeting forum, you can submit questions in advance of the annual meeting, and also access 
+copies of our proxy statement and annual report.
+Your vote is very important.  Whether or not you plan to attend the virtual meeting, PLEASE VOTE YOUR SHARES.  
+As an alternative to voting online at the meeting, you may vote via the Internet, by telephone or, if you receive a paper 
+proxy card in the mail, by mailing the completed proxy card.
+Important notice regarding the availability of proxy materials for the Annual Meeting of Stockholders to be held 
+on May 23, 2017.  This Notice, our Proxy Statement, our Annual Report on Form 10-K and our Stockholder Letter are 
+available at www.nvidia.com/proxy.
+By Order of the Board of Directors 
+Timothy S. Teter 
+Secretary
+Santa Clara, California
+April 7, 2017
+
+--- Page 17 ---
+TABLE OF CONTENTS
+DEFINITIONS
+PROXY SUMMARY
+PROXY STATEMENT
+Information About the Meeting
+Proposal 1—Election of Directors
+Director Qualifications
+Our Director Nominees
+Information About the Board of Directors and Corporate Governance
+Independence of the Members of the Board of Directors
+Board Leadership Structure
+Role of the Board in Risk Oversight
+Corporate Governance Policies of the Board of Directors
+Stockholder Communications with the Board of Directors
+Nomination of Directors
+Majority Vote Standard
+Board Meeting Information
+Committees of the Board of Directors
+Director Compensation
+Review of Transactions with Related Persons
+Security Ownership of Certain Beneficial Owners and Management
+Proposal 2—Approval of Executive Compensation
+Executive Compensation
+Compensation Discussion and Analysis
+Risk Analysis of Our Compensation Plans
+Summary Compensation Table for Fiscal 2017, 2016 and 2015
+Grants of Plan-Based Awards For Fiscal 2017
+Outstanding Equity Awards as of January 29, 2017
+Option Exercises and Stock Vested in Fiscal 2017
+Employment, Severance and Change-in-Control Arrangements
+Potential Payments Upon Termination or Change-in-Control
+Compensation Committee Interlocks and Insider Participation
+Compensation Committee Report
+Proposal 3—Approval of the Frequency of Holding an Advisory Vote on Executive Compensation
+Proposal 4—Ratification of Selection of Independent Registered Public Accounting Firm for Fiscal 2018
+Fees Billed by the Independent Registered Public Accounting Firm
+Report of the Audit Committee of the Board of Directors
+Equity Compensation Plan Information
+Additional Information
+Section 16(a) Beneficial Ownership Reporting Compliance
+Other Matters
+PAGE
+1
+2
+6
+6
+10
+11
+12
+18
+18
+18
+18
+19
+21
+21
+21
+22
+22
+24
+26
+27
+29
+30
+30
+49
+50
+51
+53
+57
+58
+58
+59
+59
+60
+61
+61
+63
+64
+65
+65
+65
+
+--- Page 18 ---
+2007 Plan
+2012 ESPP
+2016 Meeting
+2017 Meeting
+2018 Meeting
+AC
+Board
+CC
+CD&A
+CEO
+Company
+Control Number
+Dodd Frank Act
+Exchange Act
+Exequity
+FASB
+Fiscal 2016
+Fiscal 2017
+Fiscal 2018
+Form 10-K
+GAAP
+Internal Revenue Code
+Lead Director
+MY PSUs
+NASDAQ
+NCGC
+NEOs
+Non-GAAP Operating
+Income
+DEFINITIONS
+NVIDIA Corporation Amended and Restated 2007 Equity Incentive Plan
+NVIDIA Corporation Amended and Restated 2012 Employee Stock Purchase Plan
+2016 Annual Meeting of Stockholders
+2017 Annual Meeting of Stockholders
+2018 Annual Meeting of Stockholders
+Audit Committee
+The Company’s Board of Directors
+Compensation Committee
+Compensation Discussion and Analysis
+Chief Executive Officer
+NVIDIA Corporation, a Delaware corporation
+Identification number for each stockholder included in Notice or Proxy Card
+Dodd-Frank Wall Street Reform and Consumer Protection Act
+Securities Exchange Act of 1934, as amended
+Exequity LLP, the CC’s independent compensation consultant
+Financial Accounting Standards Board
+The Company’s fiscal year 2016 (January 26, 2015 to January 31, 2016)
+The Company’s fiscal year 2017 (February 1, 2016 to January 29, 2017)
+The Company’s fiscal year 2018 (January 30, 2017 to January 28, 2018)
+The Company’s Annual Report on Form 10-K for Fiscal 2017 filed with the SEC on March 1, 2017
+Generally accepted accounting principles
+U.S. Internal Revenue Code of 1986, as amended
+Lead independent director
+PSUs with a three-year performance metric
+The NASDAQ Stock Market LLC
+Nominating and Corporate Governance Committee
+Named Executive Officers consisting of our CEO, our chief financial officer and our other three executive 
+officers
+GAAP operating income adjusted for stock-based compensation expense, product warranty charge 
+(Fiscal 2016 only), legal settlement costs (Fiscal 2017 only), acquisition-related costs, contributions 
+(Fiscal 2017 only) and restructuring and other charges, as the Company reports in its respective 
+earnings materials.  The net aggregate adjustment to GAAP operating income for these items for Fiscal 
+2017 was $287 million, and for Fiscal 2016 was $378 million.  Please see Reconciliation of Non-GAAP 
+Financial Measures in our Compensation Discussion and Analysis for a reconciliation between the non-
+GAAP measures and GAAP results
+Notice
+NYSE
+PSUs
+PwC
+RSUs
+S&P 500
+SEC
+Stretch Operating Plan
+SY PSUs
+Target Compensation Plan Target goal attainment under the Variable Cash Plan, SY PSUs and MY PSUs
+Threshold
+Notice of Internet Availability of Proxy Materials
+New York Stock Exchange
+Performance stock units
+PricewaterhouseCoopers LLP
+Restricted stock units
+Standard & Poor’s 500 Composite Index
+U.S. Securities and Exchange Commission
+Maximum goal attainment under the Variable Cash Plan, SY PSUs and MY PSUs
+PSUs with a single-year performance metric, vesting over four years
+Threshold goal attainment under the Variable Cash Plan, SY PSUs and MY PSUs
+TSR
+Variable Cash Plan
+Total shareholder return
+The Company’s variable cash compensation plan
+1
+
+--- Page 19 ---
+PROXY SUMMARY
+This summary highlights information contained elsewhere in the proxy statement.  This summary does not contain all 
+of the information that you should consider, and you should read the entire proxy statement carefully before voting.
+2017 Annual Meeting of Stockholders
+Date and time:
+Location:
+Tuesday, May 23, 2017 at 10:30 a.m. Pacific Daylight Time
+Online at www.virtualshareholdermeeting.com/NVIDIA2017
+Stockholders as of March 24, 2017 are entitled to vote
+Record date:
+Admission to meeting: You will need your Control Number to attend the annual meeting
+Voting Matters and Board Recommendations
+A summary of the 2017 Meeting proposals is below.  Every stockholder’s vote is important. Our Board urges you 
+to vote your shares FOR proposals 1, 2 and 4, and for 1 YEAR for proposal 3. 
+Matter
+Management Proposals:
+Election of twelve directors
+Approval of our executive compensation
+Approval of the frequency of holding a vote on
+executive compensation
+Ratification of selection of PwC as our independent
+registered public accounting firm for Fiscal 2018
+Election of Directors (Proposal 1)
+Page
+Board
+Recommendation
+Vote Required 
+for Approval
+Effect of
+Abstentions
+Effect of Broker
+Non-Votes
+10
+29
+60
+61
+FOR each director 
+nominee
+More FOR than 
+WITHHOLD votes
+None
+FOR
+1 YEAR
+Majority of shares present Against
+Majority of shares present Against
+None
+None
+None
+FOR
+Majority of shares present Against
+None
+The following table provides summary information about each director nominee: 
+Name
+Age
+Director
+Since
+Robert K. Burgess
+Tench Coxe
+Persis S. Drell
+James C. Gaither
+Jen-Hsun Huang
+Dawn Hudson
+Harvey C. Jones
+Michael G. McCaffery
+William J. Miller (2)
+Mark L. Perry
+A. Brooke Seawell
+Mark A. Stevens
+59
+59
+61
+79
+54
+59
+64
+63
+71
+61
+69
+57
+2011
+1993
+2015
+1998
+1993
+2013
+1993
+2015
+1994
+2005
+Occupation
+Independent Consultant
+Managing Director, Sutter Hill Ventures
+Provost, Stanford University
+Managing Director, Sutter Hill Ventures
+President & CEO, NVIDIA Corporation
+Chief Marketing Officer, National Football League
+Managing Partner, Square Wave Ventures
+Chairman & Managing Director, Makena Capital Management Member
+Independent Consultant
+Independent Consultant
+Venture Partner, New Enterprise Associates
+1997
+2008 (3) Managing Partner, S-Cubed Capital
+Fiscal 2017 Committees
+AC
+NCGC
+CC
+Chair
+Member
+Member
+Member
+Member
+Member Member
+Chair
+Member
+(1)
+(1)
+(1)
+Chair
+Member
+Member
+__________
+(1)  AC Financial Expert
+(2)  Lead Director
+(3)  Mr. Stevens previously served as a member of our Board from 1993 until 2006
+2
+
+--- Page 20 ---
+Board Overview and Recent Refreshment
+Our director nominees exhibit a variety of competencies, professional experience and backgrounds, and contribute 
+diverse viewpoints and perspectives to our well-rounded Board.  While the Board benefits from the extensive experience 
+and institutional knowledge that our longer-serving directors bring, it has also brought in new perspectives and ideas by 
+appointing four new directors in the last six years, most recently Dr. Drell and Mr. McCaffery in 2015.  Below are the skills 
+and competencies that our NCGC and Board consider important for our directors to have in light of our current business, 
+and the number of directors that possess these competencies:
+Corporate Governance Highlights
+Our Board is committed to strong corporate governance, which is used to promote the long-term interest of NVIDIA 
+and our stockholders.  Regular stockholder outreach is important to us.  We seek a collaborative approach to stockholder 
+issues that affect our business and to ensure that our stockholders see our governance and executive pay practices as well-
+structured.  Each year, our management contacts our  top 20 institutional stockholders (except for brokerage firms and 
+institutional stockholders who we know do not engage in individual conversations with issuers) to gain valuable insights 
+into their views on corporate governance and executive compensation issues.  We met with stockholders holding a total of 
+approximately 30% of our common stock in both Fall of 2015 and Fall of 2016. Our Lead Director attended these meetings, 
+and we expect representatives of the Board will continue to participate in future stockholder outreach.  
+In response to feedback received during our annual stockholder outreach meetings, and in keeping with what is rapidly 
+becoming a corporate governance best practice, in November 2016, the NCGC recommended, and the Board voluntarily 
+adopted, a “proxy access” amendment to our Bylaws which enables a stockholder (or a group of up to 20 stockholders) 
+owning at least 3% of the voting power of NVIDIA’s outstanding capital stock, continuously for at least three years, to 
+include information in our proxy statement regarding director nominees for the greater of two candidates or 20% of the 
+Board.  
+3

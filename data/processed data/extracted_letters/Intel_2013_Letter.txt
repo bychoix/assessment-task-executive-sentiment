@@ -1,0 +1,686 @@
+
+--- Page 2 ---
+Letter From Your CEO
+I am very excited to be Intel’s sixth CEO. In my first letter to you, I would like to share how we are building on 
+Intel’s strengths to accelerate innovation and drive growth. But first, let’s look at the results for fiscal year 2013.  
+Intel delivered revenue of $52.7 billion, net income of $9.6 billion, and earnings per share of $1.89. Client 
+computing products generated $33 billion in revenue and approximately $12 billion in operating profits. Our 
+datacenter business revenue grew to more than $11 billion, driven by rising demand for cloud services, high-
+performance computing, storage, and networking. We generated almost $21 billion in cash from operations  
+and returned $6.6 billion to our stockholders in the form of dividends and share repurchases. 
+These are solid results in a time of rapid industry transformation, but we must do better. We are refocusing our efforts to reignite 
+growth by driving Intel innovation to market faster. 
+Leading in the pursuit of Moore’s Law
+The relentless pursuit of Moore’s Law is Intel’s foundation and continues to be our driving force. We lead the industry as the only 
+semiconductor manufacturer in the world offering Tri-gate transistors and 22-nanometer (nm) technology-based products. The benefits 
+of Moore’s Law can be seen across our product lines in the form of higher performance, lower energy requirements, and lower cost per 
+transistor. In 2013, we introduced our 4th generation Intel® Core™ processors, which deliver the largest generation-over-generation 
+gain in battery life in Intel’s history, and a new family of low-power Intel® Atom™ processor-based System-on-Chips (SoCs) designed 
+for high-performance mobile devices. We will continue this manufacturing leadership as we begin production of our 5th generation 
+Intel Core processors (code-named “Broadwell”) on our next-generation 14nm process technology this year.
+Accelerating mobility
+The world of mobile client computing is expanding to include not only notebook computers and tablets, but also 2 in 1 devices that 
+combine the best features of notebooks and tablets. We are taking aggressive steps to move swiftly in all of these market segments 
+and to grow with them. Last year, we established a footprint in the tablet market with the shipment of more than 10 million micro-
+processors, and for 2014 we have set an aggressive goal to increase that number to 40 million. We also made significant advances 
+in our 3G and 4G (LTE) communications capabilities in 2013. This year we are driving faster integration of these communications 
+technologies into our SoCs.
+Reinvigorating innovation
+We are reinvigorating innovation at Intel and bringing it to market faster. For example, in September 2013 we introduced Intel® Quark™ 
+technology. This technology is designed for applications in fast-growing markets such as wearables and the “Internet of Things,” 
+where the priorities are extremely small size and very low power consumption. We also announced innovative products such as  
+the Intel® Galileo development board, the first Intel architecture-based Arduino*-compatible board to support the maker and  
+education communities; and the Intel® Edison development platform, a general-purpose computer housed in a tiny form factor designed 
+to enable rapid innovation by inventors, entrepreneurs, and product designers. Neither of these products was on our roadmaps 
+before mid-2013. You will continue to see a faster pace of innovation moving forward. 
+Our commitment to corporate responsibility
+Corporate responsibility is an enduring Intel value that delivers returns for our company, stockholders, and society. In 2013, we  
+continued to expand education opportunities for millions of students around the world, we were again the largest voluntary purchaser 
+of green power in the U.S., and our employees donated more than 1 million volunteer hours to their communities. I am especially 
+proud of our leadership in the area of “conflict minerals.” We have worked for five years to ensure that our products do not contain 
+tantalum, tin, tungsten, or gold that finances or benefits armed groups in the Democratic Republic of the Congo (DRC) and adjoining 
+countries. In 2013, we accomplished our goal to manufacture microprocessors that are DRC conflict-free.
+Prepared for the opportunities ahead
+I believe we have great opportunities ahead of us. Intel has leading products and technologies for growing markets, a strong work-
+force, and a heritage of leadership in driving Moore’s Law. We have sharpened our product focus and are accelerating the pace of  
+our innovation. I look forward to growing stockholder return by delivering industry-leading products for a dynamic and changing 
+marketplace and ensuring that “If it computes, it does it best with Intel.” 
+Brian M. Krzanich, Chief Executive Officer
+Past performance does not guarantee future results. This Annual Report to Stockholders contains forward-looking statements, and actual results could differ materially. Risk factors 
+that could cause actual results to differ are set forth in the “Risk Factors” section and throughout our 2013 Form 10-K, which is included in this Annual Report. These risk factors are 
+subject to update by our future SEC filings and earnings releases. 
+
+--- Page 3 ---
+Letter From Your Chairman
+Financial Results
+When I joined Intel in the early 1980’s, the company was respected 
+as an innovator whose founders had developed a strong and ethical 
+culture. As the decade progressed, Intel faced life-threatening 
+challenges, including a shortage of capital, operating losses and 
+fierce competition. With tough-minded strategies and a determi-
+nation to lead, the company adapted and built a vibrant future 
+with its core values intact. In technology, those who continue to  
+innovate create new opportunities. In the years since, I have seen this pattern of 
+regeneration often repeated. Today is another defining time for Intel, with big issues, 
+big possibilities, and a resilient culture.
+Net Revenue
+ Dollars in billions
+ Diluted Earnings Per Share
+ Dollars
+Dividends Per Share Paid
+Dollars
+54.0 53.3 52.7
+43.6
+38.8
+34.2
+35.4
+38.3
+37.6
+35.1
+60
+50
+40
+30
+20
+10
+2.50
+2.00
+1.50
+1.00
+0.50
+0.77
+2.39
+2.01
+2.13
+1.89
+0.87
+0.90
+0.78
+0.63
+0.56
+Intel enters 2014 with leadership positions in important business segments, includ-
+ing client computing, the data center, software, embedded systems, and NAND flash 
+memory. These businesses generated significant financial results in 2013, indicated 
+by high levels of profits, strong cash generation, and a healthy balance sheet. This 
+performance enabled Intel to deliver tangible value for stockholders, with $4.5 billion 
+paid in dividends and $2.1 billion spent to repurchase shares, bringing the cumulative 
+return to stockholders from dividends and repurchases to $125 billion. 
+  While these accomplishments are notable, we need to do more.
+Net Revenue
+ Dollars in billions
+60
+54.0 53.3 52.7
+It is imperative that we move swiftly to be more competitive in the market for 
+tablets. We must also protect and grow Intel’s core businesses while at the same time 
+pursuing new opportunities for growth. And we need to do more to provide the  
+30
+integrated solutions customers increasingly seek.
+38.8
+38.3
+35.4
+34.2
+43.6
+35.1
+37.6
+50
+40
+Just as important, we must never forget what Moore’s Law tells us about the future: 
+computing devices will continually get smaller, lower cost, and higher performing, and 
+can also be more mobile. The tablet is an extension of our history, and we should have  
+recognized its potential sooner.
+20
+10
+04
+05
+06
+07
+08
+09
+10
+11 12 13
+2.13
+21.0
+37.6
+35.1
+43.6
+35.4
+34.2
+38.8
+38.3
+2.39
+2.01
+20
+1.50
+25
+2.00
+54.0 53.3 52.7
+These considerations were top of mind in 2013 as the Board of Directors searched 
+for a new CEO. We wanted someone who would look at markets from a fresh perspec-
+tive. We needed to be a leaner, more agile company attuned and reacting to the world 
+around it. And we needed a renewed focus on accountability and results—and to see 
+Net Revenue
+ Dollars in billions
+things as they are, not as we hope they would be. As always, we insisted on a person 
+who would put Intel’s success and stockholder return first.
+60
+ Diluted Earnings Per Share
+ Dollars
+ Cash from Operations
+  Dollars in billions
+2.50
+The challenges Intel faces are not new. Every year, nay-sayers predict that technology 
+50
+has reached its limits and opportunities have diminished. Yet innovation never stops, 
+and technology continues to transform the way people go about their lives. I believe 
+40
+the opportunities are as big and interesting as at any time in Intel’s history. 
+30
+     Before the microprocessor was invented, Intel founder Gordon Moore predicted that 
+20
+integrated electronics would one day be available throughout all of society. Even  
+today Gordon is surprised to see this technology extend beyond anything he and his  
+10
+colleagues imagined. You see technology everywhere, and silicon is the foundation. 
+As technology has become more pervasive, the responsibility for how it is made 
+04
+and deployed has become more important. The people who work at Intel share the 
+public’s concerns about safety, security, privacy and sustainability. They are highly 
+motivated by the prospect that the products they make can be used to improve the  
+way people live. The question, “What is good for our business?” is answered with an eye 
+to what is good for the people who own our shares, the people who use our products, 
+and the people who work with us around the world. 
+  Our clarity on this front has allowed the five Intel CEOs with whom I’ve worked 
+25
+to make more confident strategic decisions, because they know what matters to the 
+20.8
+20
+company. Nothing gives me greater confidence in our future.
+Capital Additions to Property, 
+Plant and Equipment
+Dollars in billions
+ Cash from Operations
+  Dollars in billions
+11 12 13
+10
+0.50
+15
+1.00
+1.89
+20.8
+2009
+2009
+2010
+2010
+2013
+2013
+2012
+2012
+2011
+2011
+11.2
+0.77
+18.9
+18.9
+10.8
+16.7
+21.0
+10.7
+11.0
+08
+07
+05
+06
+09
+10
+12
+5
+9
+16.7
+11.2
+15
+10
+5
+6
+3
+5.2
+4.5
+04
+05
+06
+07
+08
+09
+10
+11 12 13
+2009
+2010
+2011
+2012
+2013
+2009
+2010
+2011
+2012
+2013
+ Diluted Earnings Per Share
+ Dollars
+ Cash from Operations
+  Dollars in billions
+2.50
+2.39
+Dividends Per Share Paid
+Capital Additions to Property, 
+Dollars
+Plant and Equipment
+Dollars in billions
+1.00
+21.0
+2.13
+18.9
+1.89
+20.8
+2.01
+16.7
+25
+2.00
+20
+1.50
+15
+1.00
+10
+0.50
+5
+11.2
+0.77
+0.87
+11.0
+0.90
+10.7
+0.78
+10.8
+12
+0.80
+9
+0.60
+0.40
+6
+0.20
+3
+0.63
+0.56
+5.2
+4.5
+2009
+2010
+2011
+2012
+2013
+2009
+2010
+2011
+2012
+2013
+2009
+2010
+2011
+2012
+2013
+2009
+2010
+2011
+2012
+2013
+2009
+2010
+2011
+2012
+2013
+Net Revenue
+ Dollars in billions
+Dividends Per Share Paid
+Capital Additions to Property, 
+Dollars
+Plant and Equipment
+60
+Dollars in billions
+54.0 53.3 52.7
+0.87
+43.6
+11.0
+0.90
+10.7
+0.78
+10.8
+37.6
+35.1
+1.00
+50
+12
+40
+0.80
+30
+9
+0.60
+20
+0.40
+6
+10
+0.20
+3
+38.8
+38.3
+35.4
+34.2
+0.63
+0.56
+5.2
+4.5
+ Diluted Earnings Per Share
+ Dollars
+ Research and Development   
+2.50
+ Dollars in billions
+2.39
+2.01
+2.13
+10.1
+1.89
+10.6
+8.4
+0.77
+5.7
+6.6
+2.00
+12
+1.50
+9
+1.00
+6
+0.50
+3
+04
+05
+06
+07
+08
+09
+10
+11 12 13
+2009
+2010
+2011
+2012
+2013
+2009
+2010
+2011
+2012
+2013
+2009
+2010
+2011
+2012
+2013
+2009
+2010
+2011
+2012
+2013
+2009
+2010
+2011
+2012
+2013
+ Cash from Operations
+  Dollars in billions
+ Research and Development   
+ Dollars in billions
+25
+20.8
+10.6
+18.9
+10.1
+21.0
+8.4
+16.7
+6.6
+11.2
+5.7
+12
+20
+9
+15
+10
+6
+5
+3
+Capital Additions to Property, 
+Plant and Equipment
+Dollars in billions
+ Research and Development   
+ Dollars in billions
+10.8
+11.0
+10.7
+12
+9
+6
+3
+5.2
+4.5
+10.6
+10.1
+8.4
+6.6
+5.7
+ Research and Development   
+ Dollars in billions
+10.6
+10.1
+8.4
+6.6
+5.7
+Dividends Per Share Paid
+Dollars
+0.87
+0.90
+0.78
+0.63
+0.56
+1.00
+0.80
+0.60
+0.40
+0.20
+12
+9
+6
+3
+1.00
+0.80
+0.60
+0.40
+0.20
+12
+9
+6
+3
+Andy D. Bryant, Chairman of the Board
+2009
+2010
+2011
+2012
+2013
+2009
+2010
+2011
+2012
+2013
+2009
+2010
+2011
+2012
+2013
+2009
+2010
+2011
+2012
+2013
+2009
+2010
+2011
+2012
+2013
+2009
+2010
+2011
+2012
+2013
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- Page 4 ---
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+(Mark One)
+FORM 10-K
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ACT OF 1934
+For the fiscal year ended December 28, 2013.
+or
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+For the transition period from                      to                    .
+Commission File Number 000-06217
+INTEL CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+State or other jurisdiction of
+incorporation or organization
+2200 Mission College Boulevard, Santa Clara, California
+(Address of principal executive offices)
+94-1672743
+(I.R.S. Employer
+Identification No.)
+95054-1549
+(Zip Code)
+Registrant’s telephone number, including area code (408) 765-8080
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Common stock, $0.001 par value
+Name of each exchange on which registered
+The NASDAQ Global Select Market*
+Securities registered pursuant to Section 12(g) of the Act:
+None
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.    Yes 
+  No 
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.    Yes 
+  No 
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 
+1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to 
+such filing requirements for the past 90 days.    Yes 
+  No 
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File 
+required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such 
+shorter period that the registrant was required to submit and post such files).    Yes 
+  No 
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (§229.405 of this chapter) is not contained herein, 
+and will not be contained, to the best of registrant’s knowledge, in definitive proxy or information statements incorporated by reference in Part III of 
+this Form 10-K or any amendment to this Form 10-K.    
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting 
+company. See the definitions of “large accelerated filer,” “accelerated filer” and “smaller reporting company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer  
+Accelerated filer  
+Non-accelerated filer  
+Smaller reporting company  
+(Do not check if a smaller reporting company)
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).    Yes 
+  No 
+Aggregate market value of voting and non-voting common equity held by non-affiliates of the registrant as of June 28, 2013, based upon the closing 
+price of the common stock as reported by The NASDAQ Global Select Market* on such date, was 
+$120.6 billion 
+4,972 million shares of common stock outstanding as of February 7, 2014 
+DOCUMENTS INCORPORATED BY REFERENCE
+Portions of the registrant’s Proxy Statement related to its 2014 Annual Stockholders’ Meeting to be filed subsequently are incorporated by reference 
+into Part III of this Annual Report on Form 10-K. Except as expressly incorporated by reference, the registrant’s Proxy Statement shall not be 
+deemed to be part of this report. 
+
+--- Page 5 ---
+INTEL CORPORATION
+FORM 10-K
+FOR THE FISCAL YEAR ENDED DECEMBER 28, 2013 
+INDEX
+PART I
+Item 1.
+Business
+Item 1A.
+Risk Factors
+Item 1B.
+Unresolved Staff Comments
+Item 2.
+Properties
+Item 3.
+Item 4.
+Legal Proceedings
+Mine Safety Disclosures
+PART II
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of 
+Item 5.
+Equity Securities
+Item 6.
+Selected Financial Data
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Item 7A.
+Quantitative and Qualitative Disclosures About Market Risk
+Item 8.
+Financial Statements and Supplementary Data
+Item 9.
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure
+Item 9A.
+Controls and Procedures
+Item 9B.
+Other Information
+Item 10.
+Directors, Executive Officers and Corporate Governance
+Item 11.
+Executive Compensation
+PART III
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder 
+Matters
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence
+Item 14.
+Principal Accounting Fees and Services
+Item 15.
+Exhibits, Financial Statement Schedules
+PART IV
+Page
+1
+17
+24
+24
+24
+24
+25
+27
+28
+47
+49
+110
+110
+110
+111
+111
+112
+113
+113
+114
+ 
+ 
+  

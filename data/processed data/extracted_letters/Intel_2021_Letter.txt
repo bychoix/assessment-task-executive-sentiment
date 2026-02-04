@@ -1,0 +1,487 @@
+
+--- Page 2 ---
+Letter from your ceo
+To our stockholders, customers, partners, and employees:
+As I reflect on one year as CEO of this iconic company, I 
+am more inspired than ever to lead more than 121,000 of 
+the best and brightest minds here at Intel. 
+We have been laser-focused on rebuilding our execution 
+engine–moving at a torrid pace and rekindling our 
+renowned Groveian culture. Throughout 2021, we hired 
+more than 17,000 technical employees, including new 
+leaders to accelerate our growth and competitive position in 
+key areas. And as of 2022, every Intel employee has 
+specific goals linked to our corporate strategy and tied 
+directly to compensation.
+We re-architected the company into six distinct businesses 
+that uniquely position us to provide more value to our 
+customers and partners and capitalize on unprecedented 
+industry demand for semiconductors. Beginning in 2022, we 
+will report results under this new structure to drive even 
+greater transparency for our many stakeholders. Our 
+strategy will allow us to grow our traditional markets – client, 
+data center, network, and edge – with increasingly 
+competitive roadmaps that let us win share. And we will be 
+able to thrive in exciting, emerging markets with focused 
+investments in graphics, foundry, and Mobileye. 
+As I laid out at our recent Investor Meeting, four 
+fundamental beliefs underpin the core of Intel’s strategy, as 
+well the future of the semiconductor industry. 
+We are in an era of sustained long-term demand. 
+Technology is increasingly central to every aspect of human 
+existence. Driven by the digitization of industry 
+transformation, the market for semiconductor technology 
+reached $500 billion for the first time in 2021 and is 
+forecasted to reach $1 trillion by the end of this decade. We 
+believe that revenue at the leading edge, for the most 
+advanced silicon process nodes, will grow twice as fast as 
+the rest of the market over that time. We are determined to 
+deliver leadership products and services that satisfy this 
+demand.
+Insatiable requirements for compute continue to drive 
+the value of Moore’s Law. Since its founding, Intel has 
+thrived on the relentless pursuit of semiconductor invention 
+and innovation as described by Moore’s Law. 
+Semiconductors provided the technological backbone 
+behind the greatest period of human innovation and wealth 
+creation in history—and we remain right in the thick of it. As 
+stewards of Moore’s Law, we continue investing to solve the 
+problems of tomorrow. 
+"We are currently executing the largest capacity 
+expansion in our history, with more than 20 
+concurrent construction projects worldwide..."
+As I highlighted in our Investor Meeting, we continue to be 
+on or ahead of schedule to deliver five nodes in four years – 
+per the roadmap we laid out last July, which also recognizes 
+the need for lower latency, higher density, and more power-
+efficient solutions. This will require significant R&D 
+investment in new transistor designs, extreme ultraviolet 
+(EUV) lithography tools, advanced packaging, and precision 
+manufacturing for the Angstrom Era of semiconductors. In 
+2021, we outlined some of our long-term research – items 
+such as a greater than 10x density improvement in 
+packaging, and a 30% to 50% area improvement in 
+transistor scaling. Combined with other advances like 
+RibbonFet, PowerVia, High NA Lithography and 
+developments with 2.5D and 3D packaging), we see a path 
+to move from 100B transistors on a package today to 1 
+trillion by 2030.
+Pat Gelsinger, Chief Executive Officer
+Open ecosystems unleash innovation and democratize 
+compute. In the tech industry, open ecosystems unleash 
+innovation and democratize compute, and Intel is doubling 
+down on a deep legacy of open platforms. We are 
+prioritizing our developer-first approach to deliver open and 
+secure software and hardware platforms that drive industry-
+shaping standards and innovation in key workloads. We are 
+supporting and empowering developer choice through 
+collaboration with the broad ecosystem. As open, 
+standards-based, software toolkits like oneAPI unleash the 
+capability of thousands of developers, we expect to see a 
+proliferation of solutions across CPUs, GPUs, and other 
+accelerators.
+Cloud computing will continue to grow, but edge computing 
+will grow faster as workload and processing requirements 
+are increasingly satisfied by general purpose compute 
+supported by open software frameworks. In AI, we already 
+see inferencing workloads on primarily open platforms. 
+We are also revitalizing our PC and x86 ecosystem, which 
+has always been a tremendous force for growth–and 
+proven to be even more essential to everyday life, driven by 
+the “new normal” of hybrid work and education models. 
+Along with key partners, we are leaning in to make the PC 
+the best experience of the digital world and the clear 
+platform for next-generation immersive experiences.
+And we opened our fabs to the world with Intel Foundry 
+Services, a fully vertical, stand-alone foundry business built 
+to help meet the growing global demand for 
+semiconductors. We will open our intellectual properties 
+(IP), standards, and our x86 architectures to external 
+foundry customers. We recently drove the creation of UCIe 
+(check) for chiplet standard across multi-tile packages. Our 
+foundry ambitions are bolstered by our acquisition of Tower 
+Semiconductor, which will accelerate our entry into the 
+business and allow us to engage with some of the fastest 
+growing areas of the market.
+The world needs more balanced and resilient supply 
+chains. As the past few years have shown, the world needs 
+more semiconductor manufacturing capacity and a more 
+diversified, secure, and geographically balanced supply 
+chain. Intel is uniquely positioned to help address this need 
+and deliver leading-edge process technology at scale. 
+Our investments in leading-edge capacity in the U.S. and 
+Europe are aimed squarely at the next wave of innovations 
+enabled by the technology superpowers and we continue to 
+expand our manufacturing footprint around the world. We 
+are currently executing the largest capacity expansion in 
+our history, with more than 20 concurrent construction 
+projects worldwide all of which are on, or ahead of, 
+schedule. 
+This expansion includes the January 2022 announcement 
+of the first new U.S. Intel manufacturing site in 40 years, a 
+mega-site in Ohio. The creation of a “Silicon Heartland” 
+opens an entire region to help boost production to meet the 
+surging demand for advanced semiconductors, powering a 
+new generation of innovative products from Intel. In March 
+2022, we announced landmark investments spanning 
+Germany, France, Ireland, Italy, Poland and Spain – a 
+holistic investment strategy to drive innovation and create a 
+world-class chip ecosystem across all of Europe. 
+Furthermore, through sustainable manufacturing practices 
+and aggressive environmental targets, we are deeply 
+committed to being good neighbors in the communities 
+where we operate. We have set aggressive environmental 
+targets in areas such as renewable energy use, water 
+reclamation and waste to landfill. We also collaborate with 
+our ecosystem to reduce climate impact in semiconductor 
+manufacturing and advancing sustainable chemistry use to 
+minimize the use and creation of hazardous materials. 
+This Annual Report contains forward-looking statements, and actuals results could differ materially. Risk factors that could cause results 
+to differ are set forth in the "Risk Factors" section and throughout our 2021 Form 10-K, which is included in this Annual Report. These 
+risk factors are subject to update by our future filings and submissions with the U.S. SEC. Forward-looking statements included in our 
+2021 Form 10-K are based on management's expectations as of January 26, 2022, and forward-looking statements in the CEO letter 
+are based on expectations as of February 17, 2022 with the exception of the March 15, 2022 Europe investment announcement. Intel 
+disclaims any obligation to update these statements, except as required by law
+
+--- Page 3 ---
+As I highlighted in our Investor Meeting, we continue to be 
+on or ahead of schedule to deliver five nodes in four years – 
+per the roadmap we laid out last July, which also recognizes 
+the need for lower latency, higher density, and more power-
+efficient solutions. This will require significant R&D 
+investment in new transistor designs, extreme ultraviolet 
+(EUV) lithography tools, advanced packaging, and precision 
+manufacturing for the Angstrom Era of semiconductors. In 
+2021, we outlined some of our long-term research – items 
+such as a greater than 10x density improvement in 
+packaging, and a 30% to 50% area improvement in 
+transistor scaling. Combined with other advances like 
+developments with 2.5D and 3D packaging), we see a path 
+to move from 100B transistors on a package today to 1 
+Open ecosystems unleash innovation and democratize 
+In the tech industry, open ecosystems unleash 
+innovation and democratize compute, and Intel is doubling 
+down on a deep legacy of open platforms. We are 
+prioritizing our developer-first approach to deliver open and 
+secure software and hardware platforms that drive industry-
+shaping standards and innovation in key workloads. We are 
+supporting and empowering developer choice through 
+standards-based, software toolkits like oneAPI unleash the 
+capability of thousands of developers, we expect to see a 
+proliferation of solutions across CPUs, GPUs, and other 
+open, 
+Cloud computing will continue to grow, but edge computing 
+will grow faster as workload and processing requirements 
+are increasingly satisfied by general purpose compute 
+supported by open software frameworks. In AI, we already 
+see inferencing workloads on primarily open platforms. 
+We are also revitalizing our PC and x86 ecosystem, which 
+has always been a tremendous force for growth–and 
+proven to be even more essential to everyday life, driven by 
+the “new normal” of hybrid work and education models. 
+Along with key partners, we are leaning in to make the PC 
+the best experience of the digital world and the clear 
+platform for next-generation immersive experiences.
+And we opened our fabs to the world with Intel Foundry 
+Services, a fully vertical, stand-alone foundry business built 
+to help meet the growing global demand for 
+semiconductors. We will open our intellectual properties 
+(IP), standards, and our x86 architectures to external 
+foundry customers. We recently drove the creation of UCIe 
+(check) for chiplet standard across multi-tile packages. Our 
+foundry ambitions are bolstered by our acquisition of Tower 
+Semiconductor, which will accelerate our entry into the 
+business and allow us to engage with some of the fastest 
+growing areas of the market.
+The world needs more balanced and resilient supply 
+chains. As the past few years have shown, the world needs 
+more semiconductor manufacturing capacity and a more 
+diversified, secure, and geographically balanced supply 
+chain. Intel is uniquely positioned to help address this need 
+and deliver leading-edge process technology at scale. 
+Our investments in leading-edge capacity in the U.S. and 
+Europe are aimed squarely at the next wave of innovations 
+enabled by the technology superpowers and we continue to 
+expand our manufacturing footprint around the world. We 
+are currently executing the largest capacity expansion in 
+our history, with more than 20 concurrent construction 
+projects worldwide all of which are on, or ahead of, 
+schedule. 
+This expansion includes the January 2022 announcement 
+of the first new U.S. Intel manufacturing site in 40 years, a 
+mega-site in Ohio. The creation of a “Silicon Heartland” 
+opens an entire region to help boost production to meet the 
+surging demand for advanced semiconductors, powering a 
+new generation of innovative products from Intel. In March 
+2022, we announced landmark investments spanning 
+Germany, France, Ireland, Italy, Poland and Spain – a 
+holistic investment strategy to drive innovation and create a 
+world-class chip ecosystem across all of Europe. 
+Furthermore, through sustainable manufacturing practices 
+and aggressive environmental targets, we are deeply 
+committed to being good neighbors in the communities 
+where we operate. We have set aggressive environmental 
+targets in areas such as renewable energy use, water 
+reclamation and waste to landfill. We also collaborate with 
+our ecosystem to reduce climate impact in semiconductor 
+manufacturing and advancing sustainable chemistry use to 
+minimize the use and creation of hazardous materials. 
+Pat Gelsinger announces Intel factory investment in Ohio
+"We’ve embarked on an ambitious, five-year plan 
+to create significant revenue growth and 
+stockholder value. With the right strategy, the 
+right team, and a supercharged culture of 
+execution and innovation, we are putting Intel on a 
+path for growth."
+I am pleased with what we accomplished this past year, but 
+there is still much to do, and we are not stopping. We’ve 
+embarked on an ambitious, five-year plan to create 
+significant revenue growth and stockholder value. With the 
+right strategy, the right team, and a supercharged culture of 
+execution and innovation, we are putting Intel on a path for 
+growth.
+Thank you for your ongoing support and belief in our 
+purpose, which is at the heart of everything we do—to 
+create world-changing technology that improves the life of 
+every person on the planet.
+Pat Gelsinger, CEO
+Intel Corporation
+This Annual Report contains forward-looking statements, and actuals results could differ materially. Risk factors that could cause results 
+to differ are set forth in the "Risk Factors" section and throughout our 2021 Form 10-K, which is included in this Annual Report. These 
+risk factors are subject to update by our future filings and submissions with the U.S. SEC. Forward-looking statements included in our 
+2021 Form 10-K are based on management's expectations as of January 26, 2022, and forward-looking statements in the CEO letter 
+are based on expectations as of February 17, 2022 with the exception of the March 15, 2022 Europe investment announcement. Intel 
+disclaims any obligation to update these statements, except as required by law.
+
+--- Page 4 ---
+ents 
+Corporate Directory
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+BOARD OF DIRECTORS
+Patrick P. Gelsinger
+(Mark One)
+Chief Executive Officer
+EXECUTIVE OFFICERS
+FORM 10-K 
+Patrick P. Gelsinger
+☑ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+Chief Executive Officer
+For the fiscal year ended December 25, 2021.
+James J. Goetz
+or
+David A. Zinsner
+Partner
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+Executive Vice President 
+Chief Financial Officer and
+Sequoia Capital
+For the transition period from                      to                    .
+Andrea J. Goldsmith
+Dean of Engineering and Applied Science and 
+Commission File Number 000-06217 
+Principal Accounting Officer
+Professor of Engineering
+Princeton University
+Alyssa Henry
+Square Lead and 
+Block Infrastructure and Information Security Lead
+INTEL CORPORATION 
+(Exact name of registrant as specified in its charter)
+Block, Inc.
+Delaware
+(State or other jurisdiction of incorporation or organization)
+94-1672743
+(I.R.S. Employer Identification No.)
+Dr. Omar Ishrak†
+2200 Mission College Boulevard,  Santa Clara, California
+(Address of principal executive offices)
+Former Executive Chairman and Chief Executive 
+Officer
+Registrant’s telephone number, including area code (408) 765-8080 
+Securities registered pursuant to Section 12(b) of the Act:
+95054-1549
+(Zip Code)
+For additional listing of Intel senior management, 
+visit:
+www.intel.com/newsroom/bios
+Name of each exchange on which registered
+Nasdaq Global Select Market
+Trading symbol
+INTC
+Medtronic plc
+Title of each class
+Common stock, $0.001 par value
+Dr. Risa Lavizzo-Mourey
+Robert Wood Johnson Foundation PIK
+Securities registered pursuant to Section 12(g) of the Act:
+None
+Professor Emerita
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.    Yes ☑  No ☐
+University of Pennsylvania
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.    Yes ☐  No ☑
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 
+Dr. Tsu-Jae King Liu
+during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing 
+requirements for the past 90 days.    Yes ☑  No ☐
+Dean and Roy W. Carlson Professor of Engineering
+Indicate by check mark whether the registrant has submitted electronically every interactive data file required to be submitted pursuant to Rule 405 of 
+College of Engineering
+Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such 
+University of California, Berkeley
+files).    Yes ☑  No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an 
+Gregory D. Smith
+emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company," and "emerging growth company" 
+in Rule 12b-2 of the Exchange Act.
+Former Chief Financial Officer and 
+Large Accelerated Filer
+Executive Vice President, Enterprise Operations 
+Accelerated Filer  
+Non-Accelerated Filer  
+Smaller Reporting Company  
+Emerging Growth Company  
+☑
+☐
+☐
+The Boeing Company
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or 
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   ☐
+Dion J. Weisler
+Indicate by check mark whether the registrant has filed a report on and attestation to its management's assessment of the effectiveness of its internal 
+Former President and Chief Executive Officer
+control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or 
+issued its audit report.  ☑
+HP Inc.
+☐
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).    Yes ☐  No ☑
+Frank D. Yeary
+Aggregate market value of voting and non-voting common equity held by non-affiliates of the registrant as of June 25, 2021, based upon the closing price 
+of the common stock as reported by the Nasdaq Global Select Market on such date, was $226.8 billion. 4,072 million shares of common stock were 
+Principal
+outstanding as of January 21, 2022. 
+Darwin Capital Advisors, LLC
+DOCUMENTS INCORPORATED BY REFERENCE 
+Portions of the registrant’s proxy statement related to its 2022 Annual Stockholders' Meeting to be filed subsequently are incorporated by reference into 
+Part III of this Form 10-K. Except as expressly incorporated by reference, the registrant's proxy statement shall not be deemed to be part of this report. 
+3
+1 Independent Chairman of the Board
+** As of March 1, 2022
+
+--- Page 5 ---
+Table of Contents
+Investor Information
+Organization of Our Form 10-K 
+Intel on NASDAQ
+The order and presentation of content in our Form 10-K differs from the traditional SEC Form 10-K format. Our format is designed to 
+Intel's common stock trades on the Nasdaq Global Select Market* under the symbol INTC.
+improve readability and better present how we organize and manage our business. See "Form 10-K Cross-Reference Index" within the 
+Financial Statements and Supplemental Details for a cross-reference index to the traditional SEC Form 10-K format. 
+Investor materials
+We have defined certain terms and abbreviations used throughout our Form 10-K in "Key Terms" within the Financial Statements and 
+Intel's Investor Relations website contains background on our company and our products, financial information, investor presentations, 
+Supplemental Details.
+frequently asked questions, and our online annual report, as well as other useful information such as news releases and information on 
+corporate governance practices and corporate responsibility. For investor information, including additional copies of our annual report/10-
+The preparation of our Consolidated Financial Statements is in conformity with US GAAP. Our Form 10-K includes key metrics that we 
+K, 10-Qs, or other financial literature, visit our website at www.intc.com or call Intel at (408) 765-1480 (US); (44) 1793 403 000 (Europe); 
+use to measure our business, some of which are non-GAAP measures. See "Non-GAAP Financial Measures" within MD&A for an 
+(852) 2844 4555 (Hong Kong); (81) 3 5223 9100 (Japan).
+explanation of these measures and why management uses them and believes they provide investors with useful supplemental 
+information. 
+Direct stock purchase plan
+Forward-Looking Statements
+Fundamentals of Our Business
+Intel's Direct Stock Purchase and Dividend Reinvestment Plan allows stockholders to reinvest dividends and purchase Intel common 
+stock on a weekly basis. For more information, contact Intel's transfer agent, Computershare Trust Company, N.A., by phone at (800) 
+Introduction to Our Business
+298-0146 (US and Canada) or (312) 360-5123 (worldwide), or by e-mail though Computershare's website at www.computershare.com/
+A Year in Review
+contactus.
+Our Strategy
+Transfer agent and registrar
+Our Capital
+Page
+2
+8
+6
+4
+Computershare Trust Company, N.A., 462 South 4th Street Suite 1600, Louisville, KY 40202
+Management's Discussion and Analysis
+Our Products
+US Stockholders may call (800) 298-0146 (US and Canada) or (312) 360-5123 (worldwide), or send e-mail through Computershare's 
+website at www.computershare.com/contactus with any questions regarding the transfer of ownership of Intel stock.
+How We Organize Our Business
+19
+18
+Segment Trends and Results
+Independent registered public accounting firm
+Consolidated Results of Operations
+Ernst & Young LLP, San Jose, California, US.
+Liquidity and Capital Resources
+20
+37
+42
+Critical Accounting Estimates
+About Intel
+Non-GAAP Financial Measures
+Intel (NASDAQ: INTC) is an industry leader, creating world-changing technology that improves the life of every person on the planet. 
+Other Key Information
+Inspired by Moore’s Law, we continuously work to advance the design and manufacturing of semiconductors to help address our 
+customers’ greatest challenges. By embedding intelligence in the cloud, network, edge and every kind of computing device, we unleash 
+Sales and Marketing
+four extraordinary technological capabilities that will fundamentally alter how people experience technology and interact with devices: AI, 
+Quantitative and Qualitative Disclosures About Market Risk
+pervasive connectivity, cloud to edge, and ubiquitous computing. To learn more about Intel’s innovations, go to 
+newsroom.intel.com and intel.com.
+Risk Factors
+49
+45
+48
+44
+50
+Properties
+Corporate governance and corporate responsibility
+Market for Our Common Stock
+As a global technology and business leader, we are committed to doing the right things, the right way. The Intel Code of Conduct guides 
+Information About Our Executive Officers
+the actions of our employees, officers, non-employee directors, wholly owned subsidiaries, and suppliers, ensuring consistent and 
+Availability of Company Information
+uncompromising integrity as we build trusted relationships around the world. For more information about our corporate governance 
+Disclosure Pursuant to Section 13(r) of the Securities Exchange Act of 1934
+practices, read our latest Proxy Statement or visit www.intel.com/governance.
+67
+64
+64
+66
+66
+Financial Statements and Supplemental Details
+Our integrated approach to corporate responsibility and sustainability-built on a strong foundation of transparency, governance, and 
+ethics-creates value for Intel and our stockholders by helping us mitigate risks, reduce costs, build brand value, and identify new market 
+Auditor's Reports
+opportunities. We set ambitious goals and make strategic investments to drive improvements in environmental sustainability, supply chain 
+Consolidated Financial Statements
+responsibility, diversity and inclusion, and social impact that benefit the environment and society. Intel's annual Corporate Responsibility 
+Notes to Consolidated Financial Statements
+Report outlines our strategic priorities and performance on a range of environmental, social, and governance factors. The report and 
+supporting materials are available at www.intel.com/responsibility.
+Key Terms
+111
+69
+77
+72
+Controls and Procedures
+Exhibits
+114
+115
+Form 10-K Cross-Reference Index
+The papers utilized in the production of this Annual Report are all certified for Forest Stewardship 
+Council (FSC®) standards, which promote environmentally appropriate, socially beneficial and 
+economically viable management of the world’s forests. This annual report was printed by DG3 North 
+America. DG3’s facility uses exclusively vegetable based inks, 100% renewable wind energy and 
+releases zero VOCs into the environment.
+120
+Intel, the Intel logo, Intel Inside, and the Intel Inside logo are trademarks of Intel Corporation in the US and/or other countries. © 2019 Intel 
+Corporation. All rights reserved. 
+*Other names and brands may be claimed as the property of others.  ♻ Printed on recycled paper using soy-based inks.

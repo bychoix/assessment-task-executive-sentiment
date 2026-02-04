@@ -1,0 +1,497 @@
+
+--- Page 2 ---
+LETTER FROM YOUR CEO
+To our stockholders, customers, partners,
+and employees:
+Legendary Intel CEO Andy Grove talked about “strategic
+inflection points,” periods of fundamental change in a
+business, an industry, or even the world. At such times, he
+said, clarity about what you uniquely do and why you do it is
+essential to defining your path forward.
+The emergence of data as a transformational force is such a
+moment—for the world and for Intel. We already create
+technology that enriches lives, serving every industry, every
+sector of society, and nearly every person on earth, every day.
+But now nearly everything looks more like a computer and
+therefore what it means to have “Intel Inside” is changing.
+A computer is no longer simply a PC or a server in a data
+center, or even a phone. Computing is permeating all of our
+interactions: the global communications network, every retail
+experience, vehicle, hospital, farm, and factory floor. This is
+helping unleash the potential of data in every part of our lives
+and create societal and economic value on a global scale.
+Intel Inside now goes well beyond the familiar CPU in your PC
+to include processors that orchestrate a network, visual
+processing units that help give a car awareness of its
+environment, and ASICs specially tuned to machine learning
+algorithms. Also, new, highly flexible packaging technologies
+enable platform solutions that solve our customers’ biggest
+challenges.
+This profound evolution in computing opens a much larger
+opportunity with implications for every aspect of our
+business. As Intel’s leadership team, we must reimagine the
+world through this change, and move forward boldly, not
+constrained by history. This includes the iconic Intel culture
+that helped define not just our company, but Silicon Valley
+itself. In some regards, that culture is more differentiating
+than ever, particularly the value we place on brilliant
+engineering, integrity, truth, and transparency. But we also
+know that we must continue to evolve our culture. We must
+approach every day with a growth mindset.
+We took important steps in that direction in 2019. Our focus
+on data drove record financial performance, informed
+strategic investments, and gave us the conviction to make
+tough decisions about what not to do. The result is an Intel
+that is more relevant in a world where AI is pervasive,
+networks are transforming for unprecedented amounts of
+data, and more intelligence is moving to the network edge.
+These emerging opportunities all benefit from Intel’s unique
+ability to reimagine the boundaries of innovation, achieve
+economies of scale, and build global ecosystems.
+“Our ambition is to play a much larger
+role in our customers’ success.”
+Bob Swan, Chief Executive Officer
+Our progress on this journey and our record results are
+gratifying, but they’re not a reason for complacency. Our
+ambition is to play a much larger role in our customers’
+success. Therefore, we need to ensure that we exceed their
+expectations and deliver what they need when they need it.
+Sometimes we failed to do that last year, and that was
+unacceptable. Customers look to Intel for a predictable
+cadence of high-performance products and technologies that
+are integral to their success. They also look for products that
+are designed for privacy and security, and manufactured in a
+sustainable, ethically sourced way. Accountability comes with
+the territory. We will improve our execution.
+We are positioned for another strong year in 2020. We will
+continue to make significant investments in R&D and capital
+expenditures to deliver an unmatched portfolio of leadership
+products, increase capacity for our customers, and accelerate
+our Moore’s Law transitions. We expect to return in excess of
+100% of free cash flow in 2020 through our dividend and
+share repurchases. And finally, we will leverage our leadership
+position in the global tech ecosystem to help Intel and the
+industry make more progress in corporate responsibility,
+environmental sustainability, diversity, and inclusion. No one
+company, no matter how significant, can solve these
+problems alone. We will soon outline long-term goals to
+extend our positive global impact through 2030 and beyond.
+To explain why I am so confident in our future, let me briefly
+address three key elements of our journey going forward:
+investing in strategic technology inflections to accelerate
+growth; executing and innovating inspired by Moore’s Law;
+and, critically, taking our culture forward.
+Embracing strategic inflections
+Intel at its best creates technologies that have true global
+impact. The PC, the Internet, and the cloud were fully realized
+in part because of the power of our technology and the
+richness of our ecosystem. The technology inflections now
+driving the data revolution—AI, 5G, and the intelligent edge—
+will similarly rise on a foundation of great technology, shared
+standards, and scale economics that unlock the creativity of
+innovators around the world.
+
+--- Page 3 ---
+“Intel at its best creates technologies
+that have true global impact. The PC,
+the Internet, and the cloud were fully
+realized in part because of the power
+of our technology and the richness of
+our ecosystem.”
+As a result, our opportunity and our ambitions have never
+been greater. Our strategy to help customers unleash the
+potential of data has increased our addressable market by
+about five times, to nearly $300 billion1. And we made
+significant progress in 2019, repositioning Intel for these new
+inflections.
+According to IDC, 75% of enterprise applications will use AI
+by 20212. That’s why we’re infusing AI into everything we
+build. One reason Cascade Lake is our fastest ramping Intel®
+Xeon® processor ever is its unrivaled AI performance,
+including built-in Intel® Deep Learning Boost technology. Our
+Intel® Movidius™ Vision Processing Unit is a performance
+leader for AI at the edge, and we recently acquired Habana
+Labs, further strengthening our broad AI portfolio.
+With products spanning from the cloud to the intelligent
+edge, we generated billions in AI-driven revenue in 2019,
+growing in strong double digits.
+We also have a very significant networking business helping
+our customers transform their networks with a cloud-style
+infrastructure that’s more flexible and efficient, virtualizing
+workloads on Intel® architecture-based servers.
+The 5G era will significantly increase demand for computing
+throughout the network. Many services delivered from a
+distant cloud today will be processed nearby to improve the
+experience—at what we call the intelligent edge—whether the
+context is AI-assisted retail or a super-efficient factory.
+Perhaps the most transformational segment at the intelligent
+edge will be transportation or “mobility,” where Intel is a
+leader thanks to our acquisition of Mobileye two years ago. We
+couldn’t be more excited about our progress toward winning
+the $70 billion-plus3 opportunity for advanced driver-
+assistance systems, autonomous vehicles, and crowd-sourced
+maps generating valuable data. We aim to play an even larger
+role in the $160 billion3 opportunity for mobility-as-a-service.
+We recently demonstrated our capability in a very public way
+when analysts and media from around the world test drove
+our technology on the demanding roads of Jerusalem, where
+the industry’s leading autonomous vehicle solution navigated
+a wide variety of driving complexities and delivered
+unmatched agility and safety.
+Executing, inspired by Moore’s Law
+Our co-founder Gordon Moore articulated a law of
+exponential improvement for semiconductors in 1965 that
+led us from tens, to tens of billions of transistors per chip. His
+simple thought experiment still inspires our team every day to
+continue reinventing not only transistors, but everything we
+do.
+To keep his vision alive, we are innovating and investing across
+six pillars of technology that will fuel our product leadership:
+process and packaging, architectures, memory, interconnects,
+security technologies, and software. At the same time, Intel
+Labs is researching completely new approaches to
+computing—such as neuromorphic, probabilistic, and
+quantum—that could unlock completely new opportunities.
+Our process technology and design engineering teams are
+working closely to simplify design and balance schedule,
+performance, power, and cost, leveraging each of our six
+pillars. In 2020, we will continue to make progress with
+important new products, platform initiatives, and software
+optimizations.
+• Data center performance will advance when our 3rd
+generation Intel® Xeon® Scalable processor debuts in the
+second quarter of 2020 with “Cooper Lake,” followed by
+initial production shipments of 10-nanometer “Ice Lake” in
+the latter part of the year. We will also continue to deliver
+platform solutions in the data center, combining
+advancements in CPU with technologies like Intel® Optane™
+DC persistent memory.
+• Client performance in mobile has excellent momentum to
+date on the strength of 10-nanometer Ice Lake system
+designs, and will advance with our newest Intel® Core™
+mobile processors, code-named “Tiger Lake,” later this
+year. Our Project Athena program also helps the industry
+create laptops with truly exciting innovations that
+consumers and businesses really care about, including
+longer battery life and instant wake features. Together with
+our partners we expect to have verified more than 70
+Project Athena designs across Windows and Chrome by the
+end of this year.
+10th Gen Intel Core Processor, code-named “Ice Lake”
+• Software optimization is critical for any workload on an
+individual silicon architecture, but it isn’t enough to
+approach each in isolation when customers’ problems
+increasingly demand diverse computing architectures.
+That’s why we launched the oneAPI industry initiative to
+deliver a unified and simplified programming model for
+application development across a global ecosystem on
+diverse architectures.
+1 Source: Intel calculated 2024 total addressable market derived from industry analyst reports.
+2 Source: International Data Corp. (IDC), “Artificial Intelligence Requires Tailored Solutions from Technology Providers” (2019).
+3 Source: Intel calculated 2030 total addressable market derived from industry analyst reports.
+
+--- Page 4 ---
+“Our cultural evolution will be a significant
+focus for me and the Intel leadership team in
+2020.”
+Our cultural evolution will be a significant focus for me and
+the Intel leadership team in 2020. Our success evolving our
+culture will determine how we perform over the next decade
+and how we fulfill our purpose to create world-changing
+technology that enriches lives.
+The opportunities and profound strategic inflections that this
+data revolution represent are evident. Intel is both positioned
+and driven to seize them. I could not be more proud to lead
+this group of people. I want to thank our many stakeholders
+for their belief and partnership with Intel.
+Bob Swan, CEO
+Intel Corporation
+Our pipeline of innovative 10-nanometer products is strong.
+We are accelerating the pace of process node introductions,
+moving back to a two- to two-and-a-half-year cadence with
+7-nanometer-based products, and we are well down the
+engineering path on 5-nanometer.
+Evolving our culture
+Intel has a wonderful culture, and we want to keep all the
+elements that have made our company special. But we also
+know that healthy and successful organizations evolve and
+adapt as circumstances change.
+When you are the clear leader in any field—as Intel has been
+in semiconductors for PCs and servers—there is a danger that
+your listening skills and your curiosity about the world will
+erode. This is a big part of what Andy Grove meant when he
+said, “Only the paranoid survive.” And that comes into sharp
+focus when you aggressively reposition your company to
+address a major new market opportunity, as we are today. In
+an estimated $300 billion market opportunity, we have under
+25 percent share, with a more diverse universe of customers
+and increased competition.
+This has several important cultural implications:
+1. We must be customer obsessed. When you want to play
+a bigger role in your customers’ success, and when the
+sources of that success are shifting, you must understand
+their ambitions and their challenges so you can anticipate
+their needs.
+2. We must show up as “One Intel.” When you expand your
+horizons, you have a lot of new competitors. You must
+bring everything you have—your collective talents—in
+order to win.
+3. We must be fearless. When you become a challenger,
+you’re highly motivated to reinvent yourself and your
+portfolio, and not simply protect what you built.
+Fortunately, we have the best team of problem-solving
+engineers on the planet. It’s the job of our leadership
+team to foster the risk taking and learning mindset of a
+challenger.
+4. We need truth and transparency. Success over decades
+and fear of failure can inhibit the free flow of information
+between teams. It can make the constructive
+confrontation for which Intel is famous too
+uncomfortable. Or you may fail to truly confront what
+data is telling you. You can’t do that in a fast-emerging
+opportunity.
+5. We must create a diverse and inclusive workplace. It’s
+essential to a growth strategy. We’ve made good
+progress and have set an example as a company that is
+open about our diversity and inclusion journey, but we
+have much to learn and to do.
+This Annual Report contains forward-looking statements, and actual results could differ materially. Risk factors that could cause actual results to
+differ are set forth in the “Risk Factors” section and throughout our 2019 Form 10-K, which is included in this Annual Report. These risk factors are
+subject to update by our future filings and submissions with the U.S. SEC. Forward-looking statements included in our 2019 Form 10-K are based
+on management’s expectations as of January 23, 2020, and forward-looking statements in the CEO and Chairmen letters are based on
+expectations as of March 2, 2020. Intel disclaims any obligation to update these statements, except as required by law.
+
+--- Page 5 ---
+LETTER FROM YOUR CHAIRMEN
+Change and continuity are defining themes in Intel’s productive
+history. Innovation demands change, and the pace of innovation
+in technology is relentless. Those who thrive must adapt and
+move forward, yet also maintain enduring values of excellence,
+integrity, and purpose. As stewards of Intel’s future, the Board of
+Directors works to ensure that Intel continues to thrive.
+The Board actively works with management to ensure that the
+company has a clear and compelling strategy to deliver long-term
+value to the stockholders. We continually monitor opportunities
+to deploy capital to areas that offer high returns or critical
+capabilities. As part of this effort, we regularly evaluate the
+business to identify investments with lower returns or less
+strategic relevance.
+With a sense of urgency, Intel is aggressively taking the necessary
+actions to address the changes in the current global market.
+When we have technology and manufacturing leadership, we
+deliver products that succeed in the marketplace—this is a
+fundamental of our industry. Intel is committed to achieving and
+preserving leadership in design and process technology and to
+expanding capabilities in high-growth areas such as 5G network
+infrastructure, artificial intelligence, and autonomous driving.
+“Intel is committed to achieving and
+preserving leadership in design and
+process technology and to expanding
+capabilities in high-growth areas such
+as 5G network infrastructure, artificial
+intelligence, and autonomous driving.”
+To advance Intel’s artificial intelligence strategy and strengthen
+the company’s portfolio of artificial intelligence accelerators for
+the data center, the Board approved the acquisition of Habana
+Labs for approximately $1.7 billion in 2019. We also approved
+the sale of most of Intel’s smartphone modem business, a
+divestment that will enable the company to sharpen its focus on
+developing technologies for the rapidly expanding 5G network.
+The largest portion of Intel’s $16.2 billion in capital spending in
+2019 was used to build and equip factories with advanced
+technologies to enable us to meet customer demand for products
+with a range of capabilities. We expect to add approximately 25%
+more wafer capacity to support PC unit volume growth in 2020.
+Oversight of capital allocation and cash policy are among the
+Board’s most important responsibilities. The investments of
+recent years were evident in the results of 2019, as the business
+generated a robust $33.1 billion in cash from operations. Return
+on average equity was a healthy 27.7%. For the past five years,
+Intel’s return on equity averaged approximately 21.4% and the
+operations generated a cumulative total of $125.5 billion in cash.
+Intel has long been committed to returning capital to
+stockholders, first authorizing stock repurchases in 1990 and first
+paying dividends in 1992. In 2019, the company paid dividends
+of $5.6 billion, and it spent $13.6 billion to repurchase
+271.7 million shares.
+In the 10 years ending in December 2019, we reduced diluted
+shares by 21.5%. Since 1990, the company has returned a
+cumulative $199.4 billion in cash to stockholders and in October
+2019, we approved the repurchase of $20 billion in shares.
+Intel relies on its directors for a mix of professional knowledge
+and personal perspectives and routinely evaluates its board
+composition, focusing on tenure, diversity, and relevant
+experience. We are committed to maintaining a diverse Board
+with fresh perspectives to provide independent oversight. The
+Board offers a strong skill set across manufacturing, technology,
+finance, and marketing, including international experience.
+The Board recently added two more independent directors, who
+bring deep experience in innovation, emerging technologies,
+cloud computing, and corporate governance. Since the beginning
+of 2016, the Board has elected seven new independent directors,
+three of whom are women, and an independent chair. The Audit,
+Compensation, Corporate Governance and Nominating, and
+Finance Committees are fully independent.
+From its beginning, Intel has believed that employees and culture
+are the foundation of success. The company’s first official
+corporate objective about people was introduced in 1987 and
+recognized in the annual report to stockholders. Innovation and
+creativity flourish in an environment where people feel free to
+speak the truth and to share different perspectives. Execution is
+better when the business is run with discipline and integrity, and
+people share a commitment to create value. The dedication of
+Intel employees to stay focused in a dynamic industry is
+testimony to the strength of their values and vital importance of
+their contributions.
+As your outgoing and newly elected chairmen, we share high
+hopes for the future of Intel and deep respect for Intel
+employees. Leadership transitions at Intel are not about products
+or technologies or markets. They are about fostering the culture
+that has made success possible, while allowing the company to
+seize new opportunities and flourish in new environments. The
+Board is committed to doing the work necessary to help make
+Intel’s future as vibrant as its past.
+Andy D. Bryant
+Director, Former Chairman of the Board
+Omar Ishrak
+Chairman of the Board
+
+--- Page 6 ---
+[THIS PAGE INTENTIONALLY LEFT BLANK]
+
+--- Page 7 ---
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K
+(Mark One)
+Í ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended December 28, 2019.
+or
+‘ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from
+to
+.
+Commission File Number 000-06217
+INTEL CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+(State or other jurisdiction of
+incorporation or organization)
+2200 Mission College Boulevard, Santa Clara, California
+(Address of principal executive offices)
+94-1672743
+(I.R.S. Employer
+Identification No.)
+95054-1549
+(Zip Code)
+Registrant’s telephone number, including area code (408) 765-8080
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Common stock, $0.001 par value
+Trading symbol
+INTC
+Name of each exchange on which registered
+Nasdaq Global Select Market
+Securities registered pursuant to Section 12(g) of the Act:
+None
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes Í No ‘
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ‘ No Í
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days. Yes Í No ‘
+Indicate by check mark whether the registrant has submitted electronically every interactive data file required to be submitted pursuant to Rule
+405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to
+submit such files). Yes Í No ‘
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company,
+or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging
+growth company” in Rule 12b-2 of the Exchange Act.
+Large Accelerated Filer Í Accelerated Filer ‘ Non-Accelerated Filer ‘ Smaller Reporting Company ‘ Emerging Growth Company ‘
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with
+any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ‘
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes ‘ No Í
+Aggregate market value of voting and non-voting common equity held by non-affiliates of the registrant as of June 28, 2019, based upon the
+closing price of the common stock as reported by the Nasdaq Global Select Market on such date, was $212.0 billion. 4,277 million shares of
+common stock were outstanding as of January 17, 2020.
+Portions of the registrant’s proxy statement related to its 2020 Annual Stockholders’ Meeting to be filed subsequently are incorporated by
+reference into Part III of this Annual Report on Form 10-K. Except as expressly incorporated by reference, the registrant’s proxy statement shall
+not be deemed to be part of this report.
+DOCUMENTS INCORPORATED BY REFERENCE
+
+--- Page 8 ---
+TABLE OF CONTENTS
+ORGANIZATION OF OUR ANNUAL REPORT ON FORM 10-K
+The order and presentation of content in our Form 10-K differs from the traditional SEC Form 10-K format. Our format is
+designed to improve readability and better presents how we organize and manage our business. See “Form 10-K Cross-Reference
+Index” within the Financial Statements and Supplemental Details for a cross-reference index to the traditional SEC Form 10-K
+format. To reflect our focus on transforming from a PC-centric1 company to a data-centric company, we have presented our data-
+centric businesses1 first in the “Segment Trends and Results” within MD&A.
+We have defined certain terms and abbreviations used throughout our Form 10-K in “Key Terms” within the Financial Statements
+and Supplemental Details.
+The preparation of our Consolidated Financial Statements is in conformity with U.S. GAAP. We have included key metrics that we
+use to measure our business, some of which are non-GAAP measures. See these “Non-GAAP Financial Measures” within MD&A.
+FUNDAMENTALS OF OUR BUSINESS
+Introduction to Our Business
+A Year in Review
+Our Strategy
+Our Capital
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+How We Organize Our Business
+Our Products
+Segment Trends and Results
+Consolidated Results of Operations
+Liquidity and Capital Resources
+Contractual Obligations
+Quantitative and Qualitative Disclosures about Market Risk
+Non-GAAP Financial Measures
+OTHER KEY INFORMATION
+Selected Financial Data
+Sales and Marketing
+Competition
+Intellectual Property Rights and Licensing
+Critical Accounting Estimates
+Risk Factors
+Properties
+Market for Our Common Stock
+Information about Our Executive Officers
+Availability of Company Information
+FINANCIAL STATEMENTS AND SUPPLEMENTAL DETAILS
+Auditor’s Reports
+Consolidated Financial Statements
+Notes to the Consolidated Financial Statements
+Key Terms
+Financial Information by Quarter
+Controls and Procedures
+Exhibits
+Form 10-K Cross-Reference Index
+1 Intel’s definition is included in “Key Terms” within the Financial Statements and Supplemental Details.
+PAGE
+3
+4
+6
+8
+16
+17
+18
+35
+40
+43
+43
+45
+47
+48
+49
+49
+50
+50
+61
+61
+63
+64
+66
+69
+74
+109
+111
+112
+113
+118
